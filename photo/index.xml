@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photos | Benjamin Hills</title>
+    <link>https://example.com/photo/</link>
+      <atom:link href="https://example.com/photo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Photos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Photos</title>
+      <link>https://example.com/photo/</link>
+    </image>
+    
+    <item>
+      <title>Alpine Glaciers</title>
+      <link>https://example.com/photo/alpine/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/photo/alpine/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/baker.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/alpine/baker_hu284d939a3cc125d20c5fd77c3e290803_430612_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;baker.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/DSC_0337.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/alpine/DSC_0337_hu284d939a3cc125d20c5fd77c3e290803_422634_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0337.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/DSC_0474.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/alpine/DSC_0474_hu284d939a3cc125d20c5fd77c3e290803_480378_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0474.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/Ice%20Cave4.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/alpine/Ice%20Cave4_hu284d939a3cc125d20c5fd77c3e290803_375833_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Ice Cave4.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/icefall.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/alpine/icefall_hu284d939a3cc125d20c5fd77c3e290803_522987_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;icefall.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/kaskawulsch.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/alpine/kaskawulsch_hu284d939a3cc125d20c5fd77c3e290803_688142_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;kaskawulsch.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/mendenhall.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/alpine/mendenhall_hu284d939a3cc125d20c5fd77c3e290803_592890_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;mendenhall.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/ogives-2.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/alpine/ogives-2_hu284d939a3cc125d20c5fd77c3e290803_788553_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;ogives-2.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/ogives.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/alpine/ogives_hu284d939a3cc125d20c5fd77c3e290803_476285_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;ogives.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hercules Dome</title>
+      <link>https://example.com/photo/herc-dome/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/photo/herc-dome/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/beardmore.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/herc-dome/beardmore_hu284d939a3cc125d20c5fd77c3e290803_320147_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;beardmore.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/delta.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/herc-dome/delta_hu284d939a3cc125d20c5fd77c3e290803_407054_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;delta.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/DSC_0079.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/herc-dome/DSC_0079_hu284d939a3cc125d20c5fd77c3e290803_314480_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0079.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/DSC_0564.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/herc-dome/DSC_0564_hu284d939a3cc125d20c5fd77c3e290803_156514_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0564.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/erebus-2.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/herc-dome/erebus-2_hu284d939a3cc125d20c5fd77c3e290803_416354_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;erebus-2.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/erebus.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/herc-dome/erebus_hu284d939a3cc125d20c5fd77c3e290803_395611_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;erebus.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/radar-shelter.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/herc-dome/radar-shelter_hu284d939a3cc125d20c5fd77c3e290803_434786_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;radar-shelter.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/royal-society.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/herc-dome/royal-society_hu284d939a3cc125d20c5fd77c3e290803_538251_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;royal-society.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/tiny-driver.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/herc-dome/tiny-driver_hu7af45c05e7eaab656aeab8d5fe153c59_136084_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tiny-driver.jpeg&#34; width=&#34;127&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/twin-otter.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/herc-dome/twin-otter_hu03f47bc9f86bef1066a4dfc67dbd65d0_20442_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;twin-otter.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Western Greenland</title>
+      <link>https://example.com/photo/greenland/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/photo/greenland/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/camp.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/greenland/camp_hu284d939a3cc125d20c5fd77c3e290803_190819_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;camp.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/cliff.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/greenland/cliff_hu284d939a3cc125d20c5fd77c3e290803_629829_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;cliff.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/helo.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/greenland/helo_hu7af45c05e7eaab656aeab8d5fe153c59_99958_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;helo.jpeg&#34; width=&#34;127&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/hot-tub.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/greenland/hot-tub_hu284d939a3cc125d20c5fd77c3e290803_252089_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;hot-tub.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/margin.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/greenland/margin_hu284d939a3cc125d20c5fd77c3e290803_582966_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;margin.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/polar-bear.jpeg&#34; data-caption=&#34;The Polar Bear, Kanger&amp;amp;rsquo;s one and only restaurant outside the airport.&#34;&gt;
+      &lt;img src=&#34;https://example.com/media/albums/greenland/polar-bear_hu284d939a3cc125d20c5fd77c3e290803_426551_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;The Polar Bear, Kanger&amp;#39;s one and only restaurant outside the airport.&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/shuttle.jpeg&#34; data-caption=&#34;Shuttling our gear out to the ice-sheet margin.&#34;&gt;
+      &lt;img src=&#34;https://example.com/media/albums/greenland/shuttle_hu284d939a3cc125d20c5fd77c3e290803_302117_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Shuttling our gear out to the ice-sheet margin.&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/spiral-moulin.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/greenland/spiral-moulin_hu7af45c05e7eaab656aeab8d5fe153c59_105125_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;spiral-moulin.jpeg&#34; width=&#34;127&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/surface-hoar.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/greenland/surface-hoar_hu284d939a3cc125d20c5fd77c3e290803_702703_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;surface-hoar.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/surface-stream.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/greenland/surface-stream_hu284d939a3cc125d20c5fd77c3e290803_263510_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;surface-stream.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/tent.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/greenland/tent_hu284d939a3cc125d20c5fd77c3e290803_418605_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tent.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
