@@ -246,7 +246,14 @@
 
 &lt;figure  id=&#34;figure-a-schematic-of-glacier-mass-balance-usgs&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;schematic&#34; alt=&#34;A schematic of glacier mass balance. USGS.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A schematic of glacier mass balance. USGS.&#34; srcset=&#34;
+               /post/mass-balance/schematic_hu055126dfc99cfe5a0e61e19c9cac8081_138294_e5a1e29aff839d99510b33bf3be19737.webp 400w,
+               /post/mass-balance/schematic_hu055126dfc99cfe5a0e61e19c9cac8081_138294_bb235608989cfa893ad34cc9a9882fcb.webp 760w,
+               /post/mass-balance/schematic_hu055126dfc99cfe5a0e61e19c9cac8081_138294_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/mass-balance/schematic_hu055126dfc99cfe5a0e61e19c9cac8081_138294_e5a1e29aff839d99510b33bf3be19737.webp&#34;
+               width=&#34;460&#34;
+               height=&#34;322&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       A schematic of glacier mass balance. USGS.
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -296,9 +303,9 @@
 
 
 
-&lt;figure  id=&#34;figure-top-glaciers-around-the-globe-bottom-ice-mass-loss-and-mass-loss-rates-for-alpine-glaciers-around-the-world-these-figures-are-taken-from-the-ipcc-fifth-assessment-report&#34;&gt;
+&lt;figure  id=&#34;figure-top-glaciers-around-the-globe-bottom-ice-mass-loss-and-mass-loss-rates-for-alpine-glaciers-around-the-world-these-figures-are-taken-from-the-ipcc-fifth-assessment-reporthttpswwwipccchreportar5wg1&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Top) Glaciers around the globe. Bottom) Ice mass loss and mass loss rates for alpine glaciers around the world. These figures are taken from the IPCC fifth assessment report.&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Top) Glaciers around the globe. Bottom) Ice mass loss and mass loss rates for alpine glaciers around the world. These figures are taken from the [IPCC fifth assessment report](https://www.ipcc.ch/report/ar5/wg1/).&#34; srcset=&#34;
                /post/mass-balance/global_map_hub96782b94b601335ab68c556cc3b8482_737040_8b9c82d42c4679ee2463cfacf85692b7.webp 400w,
                /post/mass-balance/global_map_hub96782b94b601335ab68c556cc3b8482_737040_86781388dcc5604d0c832c5890ad333b.webp 760w,
                /post/mass-balance/global_map_hub96782b94b601335ab68c556cc3b8482_737040_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
@@ -307,7 +314,7 @@
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
-      Top) Glaciers around the globe. Bottom) Ice mass loss and mass loss rates for alpine glaciers around the world. These figures are taken from the IPCC fifth assessment report.
+      Top) Glaciers around the globe. Bottom) Ice mass loss and mass loss rates for alpine glaciers around the world. These figures are taken from the &lt;a href=&#34;https://www.ipcc.ch/report/ar5/wg1/&#34;&gt;IPCC fifth assessment report&lt;/a&gt;.
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;The mass balance survey at South Cascade has been ongoing at the USGS since around 1960, and our collaboration with them will continue into future seasons. Stay tuned! Hopefully we will have more interesting (if somewhat sad) insights into this glacier&amp;rsquo;s health.&lt;/p&gt;
 </description>
@@ -337,12 +344,12 @@
 &lt;figure  id=&#34;figure-a-cartoon-illustration-of-ice-penetrating-radar-and-some-example-data-from-the-northeast-greenland-ice-stream&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A cartoon illustration of ice-penetrating radar and some example data from the Northeast Greenland Ice Stream.&#34; srcset=&#34;
-               /post/ice-penetrating-radar/ipr_cartoon_hu26710fb72b7010d8a82a8f926c631bf5_418817_35116f05cb973963c9917efb049fd162.webp 400w,
-               /post/ice-penetrating-radar/ipr_cartoon_hu26710fb72b7010d8a82a8f926c631bf5_418817_635f03dba39bc443fb78b7837ba626d4.webp 760w,
-               /post/ice-penetrating-radar/ipr_cartoon_hu26710fb72b7010d8a82a8f926c631bf5_418817_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/ice-penetrating-radar/ipr_cartoon_hu26710fb72b7010d8a82a8f926c631bf5_418817_35116f05cb973963c9917efb049fd162.webp&#34;
+               /post/ice-penetrating-radar/ipr_cartoon_hu2dddb388711da89393e7649c08552bc5_475851_6956e7285cc7e35b22f10952a9cdc528.webp 400w,
+               /post/ice-penetrating-radar/ipr_cartoon_hu2dddb388711da89393e7649c08552bc5_475851_7e0a5ab9ef5cdff4c9610c5315a3014b.webp 760w,
+               /post/ice-penetrating-radar/ipr_cartoon_hu2dddb388711da89393e7649c08552bc5_475851_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/ice-penetrating-radar/ipr_cartoon_hu2dddb388711da89393e7649c08552bc5_475851_6956e7285cc7e35b22f10952a9cdc528.webp&#34;
                width=&#34;760&#34;
-               height=&#34;707&#34;
+               height=&#34;749&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       A cartoon illustration of ice-penetrating radar and some example data from the Northeast Greenland Ice Stream.
@@ -557,9 +564,9 @@
 
 
 
-&lt;figure  id=&#34;figure-a-map-of-ice-core-drilling-sites-in-antarctica-with-herc-dome-shown-in-red-borrowed-from-tj-fudge&#34;&gt;
+&lt;figure  id=&#34;figure-a-map-of-ice-core-drilling-sites-in-antarctica-with-herc-dome-shown-in-red-borrowed-from-tj-fudgehttpsantarcticfudgesicleswordpresscom20181117hercules-dome-antarctica&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A map of ice core drilling sites in Antarctica with Herc Dome shown in red (borrowed from T.J. Fudge).&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A map of ice core drilling sites in Antarctica with Herc Dome shown in red (borrowed from [T.J. Fudge](https://antarcticfudgesicles.wordpress.com/2018/11/17/hercules-dome-antarctica/)).&#34; srcset=&#34;
                /post/going-south/hd-map_hue72b89f81990392c5429058996f26f48_43647_71f23b853006c34e2591dfde485d40f1.webp 400w,
                /post/going-south/hd-map_hue72b89f81990392c5429058996f26f48_43647_a4546e1554ad45056d28353bcf19bed3.webp 760w,
                /post/going-south/hd-map_hue72b89f81990392c5429058996f26f48_43647_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
@@ -568,7 +575,7 @@
                height=&#34;417&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
-      A map of ice core drilling sites in Antarctica with Herc Dome shown in red (borrowed from T.J. Fudge).
+      A map of ice core drilling sites in Antarctica with Herc Dome shown in red (borrowed from &lt;a href=&#34;https://antarcticfudgesicles.wordpress.com/2018/11/17/hercules-dome-antarctica/&#34;&gt;T.J. Fudge&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;Our project at Herc Dome is tangent to my primary dissertation topic. I first learned about it when I started my PhD approximately 18 months ago because T.J. Fudge gave a talk at the 2017 West Antarctic Ice Sheet Workshop. T.J. and Eric Steig, another faculty in our department at the University of Washington, are interested in Herc Dome as the next drilling site for the US Ice Drilling Program. At the time of T.J.’s talk, this project had no secured funding line, but their ideas were maturing. I have since learned that ice core locations are intensely debated and that Herc Dome has been a highly endorsed candidate for over a decade.&lt;/p&gt;
 &lt;p&gt;Ice cores are useful for learning about past climate. Many have been drilled throughout both the Greenland and Antarctic ice sheets, but each serves a separate purpose. The first few cores to be drilled, like those at Dome C and Lake Vostock, gave us a baseline for atmospheric isotopes up to 800 thousand years ago. Consistent oscillations in those data confirm the existence of past climate cycles and are strongly linked to oscillations in the Earth&amp;rsquo;s orbit called Milankovitch cycles. Some of the more recent ice cores, like the West Antarctic Ice Sheet (WAIS) Divide ice core, were drilled with the intention of obtaining high resolution information about the atmosphere in the most recent glacial/interglacial cycle (since the Eemian warm period ~120 thousand years ago). Learning how the ice sheets changed, and particularly the extent of  collapse, during the Eemian would give us valuable information about what the future’s warming climate will have in store for polar ice. Unfortunately, no Eemian ice was found at WAIS Divide because that location is melting at its bed, something that wasn&amp;rsquo;t known for certain before drilling started. While the WAIS Divide core was a valuable contribution in that it produced the highest resolution isotope data to date, the record only extends to 68 thousand years ago and therefore provides no information about possible collapse of West Antarctica during the Eemian.&lt;/p&gt;
@@ -586,9 +593,9 @@
 
 
 
-&lt;figure  id=&#34;figure-paleoclimate-data-from-three-ice-cores-and-an-oceanic-record-used-as-a-proxy-for-sea-level-change-taken-from-a-climate-review-paper&#34;&gt;
+&lt;figure  id=&#34;figure-paleoclimate-data-from-three-ice-cores-and-an-oceanic-record-used-as-a-proxy-for-sea-level-change-taken-from-a-climate-review-paperhttpswwwclim-pastnet925252013&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Paleoclimate data from three ice cores and an oceanic record used as a proxy for sea-level change (taken from a climate review paper)&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Paleoclimate data from three ice cores and an oceanic record used as a proxy for sea-level change (taken from a [climate review paper](https://www.clim-past.net/9/2525/2013/))&#34; srcset=&#34;
                /post/going-south/IceCoreData_hu0803a4af1784c1df74d0ceb908763193_79889_9b44b828102dfe0850a6ae58535edf58.webp 400w,
                /post/going-south/IceCoreData_hu0803a4af1784c1df74d0ceb908763193_79889_93ee3c3f2fab8bcbd1cf4e8dca55f99f.webp 760w,
                /post/going-south/IceCoreData_hu0803a4af1784c1df74d0ceb908763193_79889_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
@@ -597,7 +604,7 @@
                height=&#34;450&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
-      Paleoclimate data from three ice cores and an oceanic record used as a proxy for sea-level change (taken from a climate review paper)
+      Paleoclimate data from three ice cores and an oceanic record used as a proxy for sea-level change (taken from a &lt;a href=&#34;https://www.clim-past.net/9/2525/2013/&#34;&gt;climate review paper&lt;/a&gt;)
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;Our ultimate objective for Herc Dome is to drill a new ice core which will hopefully extend through the Eemian and more rigorously address the nature of the West Antarctic Ice Sheet at that time. This site is at a critical location on an ice divide but between East and West Antarctica, which means that it will likely hold valuable information about flow between the two ice sheets especially in times of WAIS collapse. In preparation, this upcoming season is a pre-drilling geophysics campaign led by my advisor, Knut Christianson. We will use ice-penetrating radar to learn about the bed topography (among other things) and use that information to choose the exact location for the core, whether that be at the top of the dome or not. But how do we know what a ‘good’ ice-core location looks like from the radar data? We are looking for a place where the bottom of the ice sheet is cold (i.e. that it is not melting) because we want the old ice to be preserved. We also want a location where the internal reflectors are consistently flat so that we know the ice flow is relatively simple and has been consistent through time.&lt;/p&gt;
 &lt;p&gt;Only a handful of people have ever been to Herc Dome. As far as I know, none of the original explorers came through this way. Scott, Shackleton, and Amundsen all came from the Ross Sea sector but moved through the Transantarctic Mountains further north and ended up significantly east of Herc Dome. One previous science mission did come over the dome as a part of the ITASE traverse from Byrd Station to the South Pole. It was during this traverse that the scientific importance of Herc Dome was established. Bob Jacobel and his team (including Eric Steig) recognized what they thought might be a &amp;lsquo;Raymond Arch&amp;rsquo; within their radar data which would indicate that it is a good location for drilling. However, having only a few isolated transects, their evidence is not strong enough to say for certain what this feature is. That is a big part of the reason why we need to go back.&lt;/p&gt;
@@ -660,10 +667,10 @@
 &lt;figure  id=&#34;figure-in-the-accumulation-zone-more-ice-accumulates-from-snowfall-than-melts-alternatively-in-the-ablation-zone-the-entire-winter-snowpack-as-well-as-some-amount-of-ice-all-melts-during-the-summer&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;In the accumulation zone, more ice accumulates from snowfall than melts. Alternatively, in the ablation zone, the entire winter snowpack as well as some amount of ice all melts during the summer.&#34; srcset=&#34;
-               /post/ablation-zone/accabl_huc3f591e5f5d00c9cee6360995465515b_50568_058fc7d0ec53632053677af4f1b7bc94.webp 400w,
-               /post/ablation-zone/accabl_huc3f591e5f5d00c9cee6360995465515b_50568_a1e1ba634d5880182e45afafe7b349dd.webp 760w,
-               /post/ablation-zone/accabl_huc3f591e5f5d00c9cee6360995465515b_50568_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/ablation-zone/accabl_huc3f591e5f5d00c9cee6360995465515b_50568_058fc7d0ec53632053677af4f1b7bc94.webp&#34;
+               /post/ablation-zone/accabl_hua021b37d7b32ea2a52939f9d359e088c_26655654_38277dd4e9fae0d15b54a8b4d033e791.webp 400w,
+               /post/ablation-zone/accabl_hua021b37d7b32ea2a52939f9d359e088c_26655654_a6a06fe01ee718d50ea14dc27d65dff7.webp 760w,
+               /post/ablation-zone/accabl_hua021b37d7b32ea2a52939f9d359e088c_26655654_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/ablation-zone/accabl_hua021b37d7b32ea2a52939f9d359e088c_26655654_38277dd4e9fae0d15b54a8b4d033e791.webp&#34;
                width=&#34;760&#34;
                height=&#34;253&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

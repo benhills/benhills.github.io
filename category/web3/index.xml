@@ -5,7 +5,7 @@
     <link>https://example.com/category/web3/</link>
       <atom:link href="https://example.com/category/web3/index.xml" rel="self" type="application/rss+xml" />
     <description>Web3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Web3</title>
@@ -13,19 +13,12 @@
     </image>
     
     <item>
-      <title>ETH Denver</title>
-      <link>https://example.com/post/eth-denver/</link>
-      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/eth-denver/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tokenized Thought</title>
       <link>https://example.com/post/open-science/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/open-science/</guid>
-      <description>&lt;p&gt;Utility of the NFT expands far beyond fine art and collectibles. Today’s mania does not reflect the more holistic vision and ubiquitous tokenization that is about to take hold. This includes physical assets like the deed to a house and the title to a car, capital assets like stocks and bonds, and as I will argue here, intellectual assets like patents and publications. Intellectual property as a digital object written to the blockchain will change the way we think about publishing science, opening the process to be more transparent and realigning incentives within academic communities.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Thank you to Jocelynn Pearl for reviewing a preliminary version of this article and to Dani Bergey for figure design.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Utility of the NFT expands far beyond fine art and collectibles. Today’s mania does not reflect the more holistic vision and ubiquitous tokenization that is about to take hold. This includes physical assets like the deed to a house and the title to a car, capital assets like stocks and bonds, and as I will argue here, intellectual assets like patents and publications. Intellectual property as a digital object written to the blockchain will change the way we think about publishing science, opening the process to be more transparent and realigning incentives within academic communities.&lt;/p&gt;
 &lt;h2 id=&#34;the-past-and-future-of-scientific-publication&#34;&gt;The Past and Future of Scientific Publication&lt;/h2&gt;
 &lt;p&gt;What we think of today as ‘science’ formed around a culture of natural philosophy, where a small group of thinkers shared ideas through both spoken and written word. As time progressed and groups of thinkers got bigger, individuals wanted to benchmark ideas as their own. The first official patents were developed through the Venetian Patent Statute in 1474. Eventually, patenting inventions alone was not enough, thinkers wanted to document their understanding of the universe, and the first scientific journal was published in 1665 by the Royal Society. This exclusive group initially consisted of only 40 members. Finally, in the late 19th Century, many more subscription and/or for-profit journals began publishing scientific articles. Notably, Science and Nature magazines were both started at this time. While much of the science during this era was published as somewhat informal letters between authors, it is also when the peer-review process was formalized and publishing became what it is today.&lt;/p&gt;
 &lt;p&gt;Many academics likely get the feeling of decentralization even now, especially with the myriad open science tools like Python, Github, etc.; unfortunately, the reality is that a few publishers control the space and that a few critical data centers hold most of the publicly accessible data. The majority of prominent journals still institute a paywall, publishing can be prohibitively expensive, and data products are often concealed well after the associated manuscript is published. Throughout history, unexpected events where the state seized control of information flow, like book burnings, have shown us that centralized powers can quickly and unilaterally manipulate free thought.&lt;/p&gt;
