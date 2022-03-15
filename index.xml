@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Geophysics and Thermodynamics at South Pole Lake Indicate Stability and a Regionally Thawed Bed</title>
+      <link>https://example.com/publication/hills2022/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hills2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Alpine Glaciers</title>
       <link>https://example.com/photo/alpine/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
@@ -935,14 +943,6 @@
     </item>
     
     <item>
-      <title>Geophysics and thermodynamics at South Pole Lake indicate stability and a regionally thawed bed</title>
-      <link>https://example.com/publication/hills2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hills2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tokenized Thought</title>
       <link>https://example.com/post/open-science/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
@@ -1031,7 +1031,7 @@
     <item>
       <title>Avoiding slush for hot-point drilling of glacier boreholes</title>
       <link>https://example.com/publication/hills2021/</link>
-      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/hills2021/</guid>
       <description></description>
     </item>
