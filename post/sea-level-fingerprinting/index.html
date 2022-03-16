@@ -72,10 +72,13 @@
   
   
   
-    <meta name="theme-color" content="#bbdefb" />
+    <meta name="theme-color" content="#1565c0" />
   
 
   
+  
+    
+    <script src="/js/mathjax-config.js"></script>
   
 
   
@@ -87,6 +90,8 @@
   
     
     
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
 
     
     
@@ -94,11 +99,6 @@
     
       
       
-    
-    
-    
-
-    
     
     
     
@@ -106,115 +106,130 @@
     
     
     
-
-    
-
-    
-    
-      
-      
-
-      
-      
-
       
     
-      
-      
-
-      
-      
-
-      
     
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
       
       
         
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
       
 
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -240,7 +255,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.1b0e116046af73d16142214bba82f8a5.css" />
+  <link rel="stylesheet" href="/css/wowchemy.d3fbabf3e02f0a40f84592dd992c35ca.css" />
 
   
 
@@ -290,6 +305,9 @@
     
   
   <meta property="twitter:card" content="summary_large_image" />
+  
+    <meta property="twitter:site" content="@wowchemy" />
+    <meta property="twitter:creator" content="@wowchemy" />
   
   <meta property="og:site_name" content="Benjamin Hills" />
   <meta property="og:url" content="https://example.com/post/sea-level-fingerprinting/" />
@@ -371,7 +389,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="133289d2a5b64f46cf537ce67bedb2f2" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="133289d2a5b64f46cf537ce67bedb2f2" >
 
   
   
@@ -382,10 +400,47 @@
   
   
   
-  <script src="/js/wowchemy-init.min.d333d96014f7bcfa311294a92ace0d60.js"></script>
+  <script src="/js/wowchemy-init.min.7e5427316d1b14a30f257ae3467b3e21.js"></script>
 
   
 
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
 
 
 
@@ -619,6 +674,43 @@
           
           
 
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+          </li>
+
+          
+          
+
         
 
           
@@ -634,9 +726,30 @@
 
         
         
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
 
         
         
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
         
 
         
@@ -773,9 +886,9 @@
                height="556"
                loading="lazy" data-zoomable /></div>
   </div><figcaption>
-      Historic and projected sea-level change from pre-industrial (1700). Future projections are for shown for the very high emission scenario (red) and the very low emission scenario (blue). <a href="http://www.ipcc.ch/report/ar5/wg1/#.UlvpNH_Ix8E">IPCC AR5</a>
+      Historic and projected sea-level change from pre-industrial (1700). Future projections are for shown for the very high emission scenario (red) and the very low emission scenario (blue). <a href="http://www.ipcc.ch/report/ar5/wg1/#.UlvpNH_Ix8E" target="_blank" rel="noopener">IPCC AR5</a>
     </figcaption></figure>
-<p>The most simple way to think about the sea level in a non-steady condition is in the analogy with a large pool of water. When extra water is added to the pool, or if the water expands due to an increase in temperature, its average level will come up. This model of the mean, or &lsquo;eustatic,&rsquo; sea level is often termed the &lsquo;bathtub model&rsquo; because it is like thinking of the global oceans as a bathtub and the added water as a turn of the faucet.</p>
+<p>The most simple way to think about the sea level in a non-steady condition is in the analogy with a large pool of water. When extra water is added to the pool, or if the water expands due to an increase in temperature, its average level will come up. This model of the mean, or &rsquo;eustatic,&rsquo; sea level is often termed the &lsquo;bathtub model&rsquo; because it is like thinking of the global oceans as a bathtub and the added water as a turn of the faucet.</p>
 <p>While it is useful to conceptualize the bathtub model for preliminary calculations, in reality, sea-level rise does not come in this globally-averaged sense. A visualization from NASA shows that the sea-level change that we have recorded with satellites over the last 23 years is variable throughout the Earth&rsquo;s oceans. The most obvious sources for the regional variations in this visualization include shifts in ocean currents or natural oscillations in climate. There are even localized human influences on regional sea level such as the rapid subsidence of a coastal city like New Orleans.</p>
 <p>The above examples of regional sea-level rise are relatively complicated to fully understand or to project into the future. However, a more systematic sea-level adjustment comes with any change in mass of an ice sheet. Not only does a decrease in ice-sheet mass mean more water into the ocean, and thus a change in the eustatic sea level, but the mass of an ice sheet has a regional control on sea level as well. Each ice sheet having its own unique signature, these regional controls are termed sea-level &lsquo;fingerprints.&rsquo; Sea-level fingerprints are the result of several physical processes acting together, and only recently they were directly measured for the first time using satellites. I briefly explain the physical processes of fingerprinting below.</p>
 <p>First, the Earth&rsquo;s ice sheets are massive enough to attract the ocean toward them, much like the moon attracts the ocean to create tides. Therefore, if an ice sheet loses mass, the force with which it attracts the ocean toward it decreases and the local sea level falls nearby the ice sheet. If the ocean is to conserve water though (which it must), a local drop in sea level around the ice sheet means additional rise in sea level far away from the ice sheet. This idea of self-gravitation by the ice sheet mass is drawn out in the figure below.</p>
@@ -804,7 +917,7 @@
                height="451"
                loading="lazy" data-zoomable /></div>
   </div><figcaption>
-      Self-gravitation of an ice sheet. <a href="https://www.nap.edu/read/18373/chapter/4">National Academies Press</a>
+      Self-gravitation of an ice sheet. <a href="https://www.nap.edu/read/18373/chapter/4" target="_blank" rel="noopener">National Academies Press</a>
     </figcaption></figure>
 <p>Second, the earth under an ice sheet is not completely &lsquo;solid&rsquo; in the sense that it would be unable to deform; on the contrary, the upper mantle flows viscously over long timescales, which permits the motion of tectonic plates. When a mass load (e.g. an ice sheet) is created on the surface of the Earth, the mantle viscously readjusts itself to that new state over the timescales of thousands of years. Likewise, when an ice sheet melts and disappears, the mantle fills in and the overlying crust subsequently rises up to its original elevation from before the presence of that mass load. This concept is called isostasy, and it is also important for relative sea-level rise. Today, previously glaciated regions such as the land around the Hudson Bay in Canada are still rising in elevation, or isostatically rebounding, by up to ~1 cm/yr as we come out of the last ice age.</p>
 <p>Most recently developed in the scientific literature is a third physical process, where alterations in ice masses near the poles can change the manner in which the Earth rotates. We know that the rotation of the earth creates a centrifugal force that pushes more water out at the equator than at the poles. In a similar manner, the rock mass of the Earth itself has an equatorial bulge. However, the axis of rotation and the corresponding equator are not necessarily fixed. If one of the ice sheets melts, the planet will slightly adjust on its axis of rotation in a way that conserves angular momentum. This adjustment would redistribute some amount of water toward the new equator. Even if only adjusted slightly, this shift in rotation would dramatically effect the extent of sea-level rise at low latitudes.</p>
@@ -834,7 +947,7 @@
                height="256"
                loading="lazy" data-zoomable /></div>
   </div><figcaption>
-      Relative sea-level fingerprints for Greenland (left) and West Antarctica (right). The scale is dimensionless, with 1 being equal to the eustatic (global mean) sea level rise and negative being a regional drop in sea level  <a href="https://www.nature.com/articles/nature14093">(Hay et al., 2015)</a>.
+      Relative sea-level fingerprints for Greenland (left) and West Antarctica (right). The scale is dimensionless, with 1 being equal to the eustatic (global mean) sea level rise and negative being a regional drop in sea level  <a href="https://www.nature.com/articles/nature14093" target="_blank" rel="noopener">(Hay et al., 2015)</a>.
     </figcaption></figure>
 <p>The overall effect of sea-level fingerprinting is sadly not in our favor. The figure above shows that the WAIS, which is the most likely to rapidly collapse in the near-future, could contribute to sea-level rise of greater than the global mean in the most densely populated regions of the world such as North America, Europe, and Eastern Asia. The take home point here is that we should be preparing for sea-level rise in a well educated manner. While city planners are beginning to incorporate a rising ocean into their assessments, they often use the misinformed global mean, whereas local estimates could be quite variable from that eustatic value.</p>
 
@@ -852,12 +965,6 @@
 </div>
 
 
-
-<div class="share-box">
-  <ul class="share">
-    
-  </ul>
-</div>
 
 
 
@@ -1008,7 +1115,77 @@
     
     
     <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2022 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
       
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
     </div>
     
   </div>
@@ -1016,20 +1193,32 @@
       
 
     
-    <script src="/js/vendor-bundle.min.b73dfaac3b6499dc997741748a7c3fe2.js"></script>
+    <script src="/js/vendor-bundle.min.3d946de2e8784a477845261d87025092.js"></script>
 
     
     
     
       
       
-
-      
-      
-
+        <script src="https://cdn.jsdelivr.net/gh/desandro/imagesloaded@v4.1.4/imagesloaded.pkgd.min.js" integrity="sha512-S5PZ9GxJZO16tT9r3WJp/Safn31eu8uWrzglMahDT4dsmgqWonRY9grk3j+3tfuPr9WJNsfooOR7Gi7HL5W2jw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/metafizzy/isotope@v3.0.6/dist/isotope.pkgd.min.js" integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin="anonymous"></script>
       
 
       
+      
+
+      
+
+      
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/r.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/latex.min.js" crossorigin="anonymous"></script>
+        
+      
 
     
 
@@ -1043,6 +1232,23 @@
     
     
     
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
 
     
     
@@ -1053,6 +1259,14 @@
     
 
     
+    
+      
+      
+      
+      
+      
+      
+      
     
 
     
@@ -1064,7 +1278,7 @@
 
     
     
-      <script src="/js/wowchemy-headroom.0f6c8d031cf75ceb9fe18f4ae0f88a65.js" type="module"></script>
+      <script src="/js/wowchemy-headroom.e8fd2d733eef6a8bbbe0539398fc0547.js" type="module"></script>
     
     
     
@@ -1072,8 +1286,11 @@
     
     
     
+      
+      
     
-    <script src="/en/js/wowchemy.min.8342f4936d296f9f684e00c7943ee35b.js"></script>
+    
+    <script src="/en/js/wowchemy.min.a2ed145159dd33ad55ff402163350b5d.js"></script>
 
     
     
@@ -1107,7 +1324,7 @@
   </div>
 </div>
 
-      <script src="/js/wowchemy-publication.ee00aa4e09ee62617fe2dc15bfcb3f7b.js" type="module"></script>
+      <script src="/js/wowchemy-publication.b0d291ed6d27eacec233e6cf5204f99a.js" type="module"></script>
 
 
 

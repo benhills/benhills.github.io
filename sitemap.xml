@@ -10,11 +10,21 @@
   <url>
     <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
   <url>
-    <loc></loc><lastmod>2022-01-12T00:00:00+00:00</lastmod></url>
+    <loc></loc><lastmod>2022-05-02T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://example.com/publication-type/2/</loc><lastmod>2022-01-12T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/publication-type/2/</loc><lastmod>2022-05-02T00:00:00+00:00</lastmod></url>
   <url>
-    <loc></loc><lastmod>2022-01-12T00:00:00+00:00</lastmod></url>
+    <loc></loc><lastmod>2022-05-02T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-05-02T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://example.com/publication_types/</loc><lastmod>2022-05-02T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://example.com/publication/</loc><lastmod>2022-05-02T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://example.com/publication/hills2022b/</loc><lastmod>2022-05-02T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-05-02T00:00:00+00:00</lastmod></url>
   <url>
     <loc></loc><lastmod>2022-01-12T00:00:00+00:00</lastmod></url>
   <url>
@@ -36,13 +46,11 @@
   <url>
     <loc></loc><lastmod>2022-01-12T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2022-01-12T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://example.com/publication/</loc><lastmod>2022-01-12T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc></loc><lastmod>2022-01-12T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://example.com/photo/alpine/</loc><lastmod>2022-01-10T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://example.com/teaching/coding-boot-camp/</loc><lastmod>2022-01-10T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://example.com/teaching/ess-431/</loc><lastmod>2022-01-10T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://example.com/photo/herc-dome/</loc><lastmod>2022-01-10T00:00:00+00:00</lastmod></url>
   <url>
@@ -51,6 +59,8 @@
     <loc>https://example.com/photo/</loc><lastmod>2022-01-10T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://example.com/project/</loc><lastmod>2022-01-10T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://example.com/teaching/</loc><lastmod>2022-01-10T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://example.com/photo/antarctica/</loc><lastmod>2022-01-10T00:00:00+00:00</lastmod></url>
   <url>
@@ -77,10 +87,6 @@
     <loc>https://example.com/post/</loc><lastmod>2022-01-04T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://example.com/tags/</loc><lastmod>2022-01-04T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://example.com/publication/hills2022b/</loc><lastmod>2022-01-02T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc></loc><lastmod>2022-01-02T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://example.com/post/open-science/</loc><lastmod>2021-11-06T00:00:00+00:00</lastmod></url>
   <url>

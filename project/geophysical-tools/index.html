@@ -72,10 +72,13 @@
   
   
   
-    <meta name="theme-color" content="#bbdefb" />
+    <meta name="theme-color" content="#1565c0" />
   
 
   
+  
+    
+    <script src="/js/mathjax-config.js"></script>
   
 
   
@@ -87,6 +90,8 @@
   
     
     
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
 
     
     
@@ -94,11 +99,6 @@
     
       
       
-    
-    
-    
-
-    
     
     
     
@@ -106,115 +106,130 @@
     
     
     
-
-    
-
-    
-    
-      
-      
-
-      
-      
-
       
     
-      
-      
-
-      
-      
-
-      
     
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
       
       
         
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
       
 
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -240,7 +255,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.1b0e116046af73d16142214bba82f8a5.css" />
+  <link rel="stylesheet" href="/css/wowchemy.d3fbabf3e02f0a40f84592dd992c35ca.css" />
 
   
 
@@ -291,6 +306,9 @@
     
   
   <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@wowchemy" />
+    <meta property="twitter:creator" content="@wowchemy" />
   
   <meta property="og:site_name" content="Benjamin Hills" />
   <meta property="og:url" content="https://example.com/project/geophysical-tools/" />
@@ -366,7 +384,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="f963b8208468c180e95b79c322f45fd0" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="f963b8208468c180e95b79c322f45fd0" >
 
   
   
@@ -377,10 +395,47 @@
   
   
   
-  <script src="/js/wowchemy-init.min.d333d96014f7bcfa311294a92ace0d60.js"></script>
+  <script src="/js/wowchemy-init.min.7e5427316d1b14a30f257ae3467b3e21.js"></script>
 
   
 
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
 
 
 
@@ -614,6 +669,43 @@
           
           
 
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+          </li>
+
+          
+          
+
         
 
           
@@ -629,9 +721,30 @@
 
         
         
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
 
         
         
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
         
 
         
@@ -725,9 +838,104 @@
     <div class="article-style">
       <h2 id="impdar">IMPDAR</h2>
 <p>ImpDAR (Impulse raDAR) is a suite of processing and interpretation tools for impulse radar sounding. The software (hosted on github) is targeted for ice-penetrating radar applications but usable for ground-penetrating radar as well. The core processing steps and general terminology come from a set of Matlab processing scripts used at St. Olaf College. Here, everything has been re-written in python and significant improvements to speed, readability, documentation, and interface have been made across the board. Additionally, ImpDAR is intended to be more flexible than other available options. Support is gradually being added for a variety of file formats. Currently, GSSI, PulseEKKO, GPRMax, Gecko, and SEGY files are supported. Available processing steps include various filtering operations, trivial modifications such as restacking, cropping, or reversing data, geolocation-related operations like interpolating to constant trace spacing, and various migration routines.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /project/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_35481a88845e3d15a3f736c9c58b3a8c.webp 400w,
+               /project/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_d10d4dc68ef138846c8f52375b9f1a97.webp 760w,
+               /project/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/project/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_35481a88845e3d15a3f736c9c58b3a8c.webp"
+               width="750"
+               height="750"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
 <p>In addition to processing, ImpDAR can also be used for interpreting radargrams (i.e. picking layers). Picking is generally an interactive process, so there is a GUI for carrying out the semi-automated picking procedure. Each picked layer is saved with variables for both the depth and picked power (i.e. the root-mean-square amplitude). The GUI also allows for basic processing steps, with the updates happening to the plot in real time to aid the picking process. We are also developing an automated picking algorithm that will ideally pick both internal layers and the bed reflector.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_5ca1cae0709d5aa41c41dbaf70d33a25.webp 400w,
+               /project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_a9789dea67f75c3931103264078511bd.webp 760w,
+               /project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_5ca1cae0709d5aa41c41dbaf70d33a25.webp"
+               width="640"
+               height="480"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_0fb2735174228d3741b93be029d99bc7.webp 400w,
+               /project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_21845feb0c7c74ae8364d4b510c9add4.webp 760w,
+               /project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_0fb2735174228d3741b93be029d99bc7.webp"
+               width="760"
+               height="380"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
 <h2 id="seidart">SEIDART</h2>
 <p>SeiDarT (Seismic-Radar Toolbox) is a full-waveform geophysical modeling package meant for both seismic and radar applications. Again, the majority of the development is with ice in mind as the primary media, but the tool could be used for other materials as well. This package was primarily developed by Steven Bernsen and Christopher Gerbi at the University of Maine.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt=""
+           src="/project/geophysical-tools/Ex.gif"
+           loading="lazy" data-zoomable width="50%" /></div>
+  </div></figure>
 
     </div>
 
@@ -737,12 +945,6 @@
 
 
 
-
-<div class="share-box">
-  <ul class="share">
-    
-  </ul>
-</div>
 
 
 
@@ -1162,7 +1364,77 @@
     
     
     <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2022 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
       
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
     </div>
     
   </div>
@@ -1170,20 +1442,32 @@
       
 
     
-    <script src="/js/vendor-bundle.min.b73dfaac3b6499dc997741748a7c3fe2.js"></script>
+    <script src="/js/vendor-bundle.min.3d946de2e8784a477845261d87025092.js"></script>
 
     
     
     
       
       
-
-      
-      
-
+        <script src="https://cdn.jsdelivr.net/gh/desandro/imagesloaded@v4.1.4/imagesloaded.pkgd.min.js" integrity="sha512-S5PZ9GxJZO16tT9r3WJp/Safn31eu8uWrzglMahDT4dsmgqWonRY9grk3j+3tfuPr9WJNsfooOR7Gi7HL5W2jw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/metafizzy/isotope@v3.0.6/dist/isotope.pkgd.min.js" integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin="anonymous"></script>
       
 
       
+      
+
+      
+
+      
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/r.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/latex.min.js" crossorigin="anonymous"></script>
+        
+      
 
     
 
@@ -1197,6 +1481,23 @@
     
     
     
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
 
     
     
@@ -1207,6 +1508,14 @@
     
 
     
+    
+      
+      
+      
+      
+      
+      
+      
     
 
     
@@ -1218,7 +1527,7 @@
 
     
     
-      <script src="/js/wowchemy-headroom.0f6c8d031cf75ceb9fe18f4ae0f88a65.js" type="module"></script>
+      <script src="/js/wowchemy-headroom.e8fd2d733eef6a8bbbe0539398fc0547.js" type="module"></script>
     
     
     
@@ -1226,8 +1535,11 @@
     
     
     
+      
+      
     
-    <script src="/en/js/wowchemy.min.8342f4936d296f9f684e00c7943ee35b.js"></script>
+    
+    <script src="/en/js/wowchemy.min.a2ed145159dd33ad55ff402163350b5d.js"></script>
 
     
     
@@ -1261,7 +1573,7 @@
   </div>
 </div>
 
-      <script src="/js/wowchemy-publication.ee00aa4e09ee62617fe2dc15bfcb3f7b.js" type="module"></script>
+      <script src="/js/wowchemy-publication.b0d291ed6d27eacec233e6cf5204f99a.js" type="module"></script>
 
 
 
