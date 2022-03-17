@@ -64,7 +64,7 @@
   
     
   
-  <meta name="description" content="Heat transfer and viscosity dependence." />
+  <meta name="description" content="Heat transfer, ice viscosity, and radar attenuation." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://example.com/project/ice-temperature/" />
@@ -313,7 +313,7 @@
   <meta property="og:site_name" content="Benjamin Hills" />
   <meta property="og:url" content="https://example.com/project/ice-temperature/" />
   <meta property="og:title" content="Ice Temperature | Benjamin Hills" />
-  <meta property="og:description" content="Heat transfer and viscosity dependence." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:description" content="Heat transfer, ice viscosity, and radar attenuation." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -364,7 +364,7 @@
       "url": "https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Heat transfer and viscosity dependence."
+  "description": "Heat transfer, ice viscosity, and radar attenuation."
 }
 </script>
 
@@ -836,7 +836,7 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>Temperatures of glacier ice range from temperate to ~-60°C, which corresponds to a viscosity range over three orders of magnitude. Ice is generally warmest at the glacier bed, being heated from below by energy from the Earth&rsquo;s interior, and coldest near the surface where ice is in equilibrium with the mean air temperature. Heat moves between those two boundaries through the jprocesses of diffusion (spreading out) and advection (being transported through flow of the ice itself). Because the length scale for thermal diffusion in ice is long, deviations in ice temperature can be preserved for thousands of years.</p>
+      <p>Temperatures of glacier ice range from ~ -60-0°C, which corresponds to a viscosity range over three orders of magnitude. Ice is generally warmest at the glacier bed, being heated by the energy flux from the Earth&rsquo;s interior, and coldest near the surface where ice is in equilibrium with the mean air temperature. Heat moves between those two boundaries through the processes of diffusion (spreading out) and advection (transport through flow of the ice itself). Because the length scale for thermal diffusion in ice is long, deviations in ice temperature can be preserved for thousands of years.</p>
 
 
 
@@ -854,17 +854,17 @@
 <figure  id="figure-characteristic-length-scale-of-thermal-diffusion-in-ice-temperature-variations-can-be-persistent-for-hundreds-of-years-in-alpine-glaciers-and-for-thousands-to-even-tens-of-thousands-of-years-in-the-greenland-and-antarctic-ice-sheets">
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="Characteristic length scale of thermal diffusion in ice. Temperature variations can be persistent for hundreds of years in alpine glaciers and for thousands to even tens of thousands of years in the Greenland and Antarctic Ice Sheets." srcset="
-               /project/ice-temperature/length-scale_hu5d6580895b3969a571028497a755b4b9_560090_4bdae533253fe44610ebe2e5280cf78d.webp 400w,
-               /project/ice-temperature/length-scale_hu5d6580895b3969a571028497a755b4b9_560090_d8d10f7d15f3e63f84341c748e109e5e.webp 760w,
-               /project/ice-temperature/length-scale_hu5d6580895b3969a571028497a755b4b9_560090_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-               src="/project/ice-temperature/length-scale_hu5d6580895b3969a571028497a755b4b9_560090_4bdae533253fe44610ebe2e5280cf78d.webp"
+               /project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_beac3cb7e04314905bfd229bb30c6295.webp 400w,
+               /project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_c204d6e1207e3840b8d602147ce60bdd.webp 760w,
+               /project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_beac3cb7e04314905bfd229bb30c6295.webp"
                width="50%"
-               height="734"
+               height="760"
                loading="lazy" data-zoomable /></div>
   </div><figcaption>
       Characteristic length scale of thermal diffusion in ice. Temperature variations can be persistent for hundreds of years in alpine glaciers and for thousands to even tens of thousands of years in the Greenland and Antarctic Ice Sheets.
     </figcaption></figure>
-<p>We measure ice temperature directly by drilling into it, installing in-situ instrumentation, and letting the hole freeze in on the intstruments. The heat from drilling dissipates on the order of ~months and instruments measure the representative ice temperature.</p>
+<p>We measure ice temperature directly by drilling into it, installing in-situ instrumentation, and letting the hole freeze in on the instruments. The heat from drilling dissipates on the order of ~months and thereafter instruments measure the representative ice temperature. Ice-temperature measurements made at slow-moving, accumulation-dominated, ice divide locations (e.g. Greenland Ice Core Project, WAIS Divide) are used to infer past air temperatures. The past climate is preserved within the ice because the frequency of those climate changes is within the time scale for thermal diffusion. We also measure temperature deviations within the faster moving ice-stream shear margins (more below) and the melt-dominated ablation zone. In the ablation zone, surface meltwater is plentifully available and transports latent heat when it penetrates into a crevasse or through a moulin to the ice-sheet bed.</p>
 
 
 
@@ -892,9 +892,7 @@
   </div><figcaption>
       Ice temperature deviations measured in a cube of Greenland ice.
     </figcaption></figure>
-<p>In highly dynamic areas, heat is generated within the ice column through friction as the ice defoms. in
-We model ice temperature
-is modeled as an advection-diffusion problem with heat generation by strain (Clarke et al., 1977) and in some cases liquid water infiltration (Phillips et al., 2010).</p>
+<p>In highly dynamic areas, heat is generated within the ice column through friction as the ice defoms. Warmer ice means a lower viscosity, more deformation, and thus more heat production, creating a positive feedback loop. We argue that this feedback is suppressed by cold ice moving through the system that was source from higher and colder regions.</p>
 <p>
 
 
@@ -909,9 +907,9 @@ is modeled as an advection-diffusion problem with heat generation by strain (Cla
 
 
 
-<figure  >
+<figure  id="figure-whillans-ice-stream-drainage-area-downstream-gradients-in-the-parameters-that-effect-ice-temperature">
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img alt="" srcset="
+    <div class="w-100" ><img alt="Whillans Ice Stream drainage area. Downstream gradients in the parameters that effect ice temperature." srcset="
                /project/ice-temperature/whillans_drainage_hua8dc20b890ff2f615bb1c18fe14df870_622511_9e7ae9609866266886f5208c084a9a4d.webp 400w,
                /project/ice-temperature/whillans_drainage_hua8dc20b890ff2f615bb1c18fe14df870_622511_d220273cc1edbf6dd93cd342d3a79218.webp 760w,
                /project/ice-temperature/whillans_drainage_hua8dc20b890ff2f615bb1c18fe14df870_622511_1200x1200_fit_q75_h2_lanczos.webp 1200w"
@@ -919,7 +917,9 @@ is modeled as an advection-diffusion problem with heat generation by strain (Cla
                width="760"
                height="228"
                loading="lazy" data-zoomable /></div>
-  </div></figure>
+  </div><figcaption>
+      Whillans Ice Stream drainage area. Downstream gradients in the parameters that effect ice temperature.
+    </figcaption></figure>
 
 
 
@@ -934,9 +934,9 @@ is modeled as an advection-diffusion problem with heat generation by strain (Cla
 
 
 
-<figure  >
+<figure  id="figure-modeled-ice-temperatures-using-gradients-like-those-above">
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img alt="" srcset="
+    <div class="w-100" ><img alt="Modeled ice temperatures using gradients like those above." srcset="
                /project/ice-temperature/siple_temps_hua68e7b601e0299631277fe4d2dc30e9c_1093406_51d1816fe9622e8d9c581891fa077259.webp 400w,
                /project/ice-temperature/siple_temps_hua68e7b601e0299631277fe4d2dc30e9c_1093406_85e8989a64d8f53787a28501724d583b.webp 760w,
                /project/ice-temperature/siple_temps_hua68e7b601e0299631277fe4d2dc30e9c_1093406_1200x1200_fit_q75_h2_lanczos.webp 1200w"
@@ -944,8 +944,17 @@ is modeled as an advection-diffusion problem with heat generation by strain (Cla
                width="760"
                height="230"
                loading="lazy" data-zoomable /></div>
-  </div></figure></p>
+  </div><figcaption>
+      Modeled ice temperatures using gradients like those above.
+    </figcaption></figure></p>
 <h2 id="radar-attenuation">Radar Attenuation</h2>
+<p>Ice temperature can theoretically be measured remotely using radar attenuation. The attenuation rate is dependent on temperature because energy is absorbed through electrical conduction. The function is in the form of an Arrhenius relation,</p>
+
+$$ 
+N \propto \sigma \propto e^{\frac{-Q}{RT}}
+$$
+
+<p>where the attenuation rate,  $ N $ , is proportional to the electrical conductivity,  $ \sigma $ </p>
 
 
 
@@ -963,14 +972,15 @@ is modeled as an advection-diffusion problem with heat generation by strain (Cla
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="" srcset="
-               /project/ice-temperature/proton-conduction_hu44ab8244d0da6cf6428a48863c925f0e_240665_4ea11ade2afbace2d6531505b6670661.webp 400w,
-               /project/ice-temperature/proton-conduction_hu44ab8244d0da6cf6428a48863c925f0e_240665_5adc0794b155ab29dea2807103e32c04.webp 760w,
-               /project/ice-temperature/proton-conduction_hu44ab8244d0da6cf6428a48863c925f0e_240665_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-               src="/project/ice-temperature/proton-conduction_hu44ab8244d0da6cf6428a48863c925f0e_240665_4ea11ade2afbace2d6531505b6670661.webp"
+               /project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_b816286980811cb7f00d3d12057bf08e.webp 400w,
+               /project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_71be4f756686cf692167855bcadead6e.webp 760w,
+               /project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_b816286980811cb7f00d3d12057bf08e.webp"
                width="50%"
                height="760"
                loading="lazy" data-zoomable /></div>
   </div></figure>
+<p>Empirical results for radar attenuation are generally dependent on the system and the empirical method used. Here, I show a result that we found in a single ground-based radar transect that traverses 200 km down the Kamb Ice Stream and up onto Siple Dome. We interpret the reflected power of the wave reflected off the ice-bed interface and calculate attenuation rate as the change in measured bed power with ice thickness. Essentially, if the wave travels through more ice we should measure a weaker return and the rate at which that measured power attenuates is temperature dependent.</p>
 
 
 
@@ -985,9 +995,9 @@ is modeled as an advection-diffusion problem with heat generation by strain (Cla
 
 
 
-<figure  >
+<figure  id="figure-a-strong-contrast-in-measured-radar-attenuation-across-the-shear-margin-between-kamb-ice-stream-and-siple-dome">
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img alt="" srcset="
+    <div class="w-100" ><img alt="A strong contrast in measured radar attenuation across the shear margin between Kamb Ice Stream and Siple Dome." srcset="
                /project/ice-temperature/attenuation_hue4b441f4765c2b0c6aadae6c765e4653_1502821_1c147f913736a778377a1dbb4eac633a.webp 400w,
                /project/ice-temperature/attenuation_hue4b441f4765c2b0c6aadae6c765e4653_1502821_84e6f1c5b497d2925b0dda47431e3513.webp 760w,
                /project/ice-temperature/attenuation_hue4b441f4765c2b0c6aadae6c765e4653_1502821_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
@@ -995,7 +1005,9 @@ is modeled as an advection-diffusion problem with heat generation by strain (Cla
                width="100%"
                height="284"
                loading="lazy" data-zoomable /></div>
-  </div></figure>
+  </div><figcaption>
+      A strong contrast in measured radar attenuation across the shear margin between Kamb Ice Stream and Siple Dome.
+    </figcaption></figure>
 
     </div>
 
@@ -1674,76 +1686,9 @@ is modeled as an advection-diffusion problem with heat generation by strain (Cla
     
     
     <div class="container">
-      <footer class="site-footer">
-
-  
-
-
-
-  
-
-  
-
-  
-
-  
-  
-
-
-
-
-
-
-  
-  
-  
-
-  
-  
-    
-  
-  
-    
-  
-
-  
-
-  
-  <p class="powered-by copyright-license-text">
-    © 2022 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
-  </p>
-  
-
-  <p class="powered-by footer-license-icons">
-    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
-      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
-      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
-      
-        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
-      
-      
-        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
-      
-    </a>
-  </p>
-
-
-
-
-  <p class="powered-by">
-    
-    
-    
-      
-      
-      
-      
-      
-      
-      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
-    
-  </p>
-</footer>
+      <center>
+Designed and published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank">Wowchemy</a>
+</center>
 
     </div>
     

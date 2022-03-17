@@ -837,21 +837,27 @@
 
     <div class="article-style">
       <h2 id="nondimensional-numbers">Nondimensional Numbers</h2>
+<p>Physics problems are commonly &rsquo;nondimensionalized&rsquo; in order to compare the scale of two processes. As an example, take the <em>Peclet number</em> which compares thermal advection (convection) to thermal diffusion (conduction) in a moving fluid,</p>
 
 $$ 
 Pe = \frac{vL}{\alpha}
 $$
 
+<p>where  $ v $  is the fluid velocity,  $ L $  is the characteristic length scale, and  $ \alpha $  is the thermal diffusivity (a material constant). In a diffusion-dominated system, the thermal diffusivity is larger than the velocity times length scale, so  $ Pe < 1 $ , as is the case in microfluidics with a slow-moving non-turbulent fluid moving through a small channel. Fluid systems are more commonly advection dominated, especially in Earth science applications, think river, ocean current, or even ice stream, with  $ Pe >> 1 $ .</p>
+<p>Ice sheets are generally advection dominated, but the scale varies depending on the setting. Take an ice divide, where flow is downward at ~0.1 m/yr and ice is ~2 km thick, then in the vertical  $ Pe $  ~ 1-10, only slightly favoring advection. Thinking instead in the horizontal, across the spatial scales of an ice sheet, diffusion is entirely ineffective. Ice streams flow at ~100-1000 m/yr across effective length scales of many ice thicknesses, say 10-50 km, then in the horizontal  $ Pe $  ~ 10<sup>4</sup>-10<sup>6</sup>. In cases like this, processes can be ignored entirely often simplifying modeling or engineering applications.</p>
+<p>In an ice-stream shear margin, there are four critical processes which control ice temperature, diffusion, vertical advection accosicated with new snow deposited at the surface, heat generation from the friction in plane shear, and downstream or cross-margin advection sourcing cold ice from outside the shear margin. The first two processes are compared using the standard  $ Pe $  number which in this case (as above) is larger than 1 but only slightly. With the third process we introduce a new dimensionless number, the <em>Brinkmann Number</em> which compares heat generation to diffusion,</p>
 
 $$ 
 Br = \frac{QH^2}{k\Delta T}
 $$
 
+<p>These are generally large in an ice-stream shear margin, so much that without considering any other processes the shear margin would be mostly temperate ice. However, we know that cold ice is constantly moving through the system. We nondimensionalize this through what I am calling <em>Meyer&rsquo;s Lambda</em></p>
 
 $$ 
 \Lambda = \frac{H}{\alpha \Delta T} \int_0^H u \frac{\partial T}{\partial x} dz
 $$
 
+<p>We found that in a shear margin at Antarctica&rsquo;s Siple Coast  $ Br $  is only slightly larger than  $ \Lambda $ , so ice temperatures should be warmer than the surrounding ice but not necessarily temperate.</p>
 
 
 
@@ -878,13 +884,14 @@ $$
                loading="lazy" data-zoomable /></div>
   </div></figure>
 <h2 id="phase-boundary-problems">Phase-Boundary Problems</h2>
-<p>Stefan Number</p>
+<p>One of the reasons the water molecule is so interesting is that both the melting point and the boiling point are within our range of experienced temperatures. Studying the transition between phases, in particular the ice-water transition, leads us to track how the boundary moves in time. Mathematical models which simulate these conditions solve the so-called <em>Stefan Problem</em> which has another nondimensional number, the <em>Stefan number</em>,</p>
 
 $$ 
 St = \frac{c\Delta T}{L}
 $$
 
-<p>Lewis Number</p>
+<p>where sensible heat (heat capacity,  $ c $ , times the temperature gradient,  $ \Delta T $ ), is compared to latent heat ( $ L $ ). When  $ St>>1 $  heat is rapidly supplied to the phase boundary so it moves quickly. When  $ St<<1 $  the phase boundary is not supplied with sufficient energy to transition so it moves slowly.</p>
+<p>In a slightly more complicated scenario solute is introduced to the liquid, suppressing the melting point at the phase boundary. We call this an <em>extended Stefan Problem</em>. Here, not only does heat need to be evacuated from the phase boundary for the freezing front to step forward, but solute also needs to be rejected from the fluid. Generally, rates of solute diffusion are <em>much</em> slower than thermal diffusion, so it becomes a dominant process. The two diffusion rates are compared with the <em>Lewis number</em>,</p>
 
 $$ 
 Le = \frac{\alpha}{D}
@@ -915,7 +922,9 @@ $$
                height="290"
                loading="lazy" data-zoomable /></div>
   </div></figure>
-<h2 id="mpas">MPAS</h2>
+<p>An example where both thermal and solute diffusion are at play is in sea-ice formation where ice freezes at the boundary between a cold atmosphere and a salty ocean. We applied this theory in cylindrical coordinates for refreezing of glacier boreholes when filled with an antifreeze solution.</p>
+<h2 id="ice-sheet-modeling">Ice-Sheet Modeling</h2>
+<p>Most of my modeling work has been to isolate and explain physical processes, as above. However, a large component of the modeling community works to directly simulate the real-world behavior at the scale of an ice sheet.</p>
 
 
 
@@ -941,6 +950,7 @@ $$
                height="760"
                loading="lazy" data-zoomable /></div>
   </div></figure>
+<p>In collaboration with Dr. Matthew Hoffman of Los Alamos National Laboratory, we are using the Model for Precision Across Scales to couple fluid flow beneath an ice sheet to the dynamics of the ice sheet itself. In essense, high pressure within the subglacial hydrologic system lifts the ice sheet off its substrate, allowing it to move faster.</p>
 
 
 
@@ -966,7 +976,7 @@ $$
                height="573"
                loading="lazy" data-zoomable /></div>
   </div></figure>
-<h2 id="icepack">icepack</h2>
+<p>In collaboration with Dr. Daniel Shapero of the Applied Physics Laboratory, we are simulating how ice dynamics effect the development of ice temperature and crystal orientation fabric.</p>
 
     </div>
 
@@ -1140,76 +1150,9 @@ $$
     
     
     <div class="container">
-      <footer class="site-footer">
-
-  
-
-
-
-  
-
-  
-
-  
-
-  
-  
-
-
-
-
-
-
-  
-  
-  
-
-  
-  
-    
-  
-  
-    
-  
-
-  
-
-  
-  <p class="powered-by copyright-license-text">
-    © 2022 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
-  </p>
-  
-
-  <p class="powered-by footer-license-icons">
-    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
-      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
-      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
-      
-        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
-      
-      
-        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
-      
-    </a>
-  </p>
-
-
-
-
-  <p class="powered-by">
-    
-    
-    
-      
-      
-      
-      
-      
-      
-      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
-    
-  </p>
-</footer>
+      <center>
+Designed and published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank">Wowchemy</a>
+</center>
 
     </div>
     

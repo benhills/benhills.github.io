@@ -17,7 +17,7 @@
       <link>https://example.com/project/ice-temperature/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/ice-temperature/</guid>
-      <description>&lt;p&gt;Temperatures of glacier ice range from temperate to ~-60°C, which corresponds to a viscosity range over three orders of magnitude. Ice is generally warmest at the glacier bed, being heated from below by energy from the Earth&amp;rsquo;s interior, and coldest near the surface where ice is in equilibrium with the mean air temperature. Heat moves between those two boundaries through the jprocesses of diffusion (spreading out) and advection (being transported through flow of the ice itself). Because the length scale for thermal diffusion in ice is long, deviations in ice temperature can be preserved for thousands of years.&lt;/p&gt;
+      <description>&lt;p&gt;Temperatures of glacier ice range from ~ -60-0°C, which corresponds to a viscosity range over three orders of magnitude. Ice is generally warmest at the glacier bed, being heated by the energy flux from the Earth&amp;rsquo;s interior, and coldest near the surface where ice is in equilibrium with the mean air temperature. Heat moves between those two boundaries through the processes of diffusion (spreading out) and advection (transport through flow of the ice itself). Because the length scale for thermal diffusion in ice is long, deviations in ice temperature can be preserved for thousands of years.&lt;/p&gt;
 
 
 
@@ -35,17 +35,17 @@
 &lt;figure  id=&#34;figure-characteristic-length-scale-of-thermal-diffusion-in-ice-temperature-variations-can-be-persistent-for-hundreds-of-years-in-alpine-glaciers-and-for-thousands-to-even-tens-of-thousands-of-years-in-the-greenland-and-antarctic-ice-sheets&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Characteristic length scale of thermal diffusion in ice. Temperature variations can be persistent for hundreds of years in alpine glaciers and for thousands to even tens of thousands of years in the Greenland and Antarctic Ice Sheets.&#34; srcset=&#34;
-               /project/ice-temperature/length-scale_hu5d6580895b3969a571028497a755b4b9_560090_4bdae533253fe44610ebe2e5280cf78d.webp 400w,
-               /project/ice-temperature/length-scale_hu5d6580895b3969a571028497a755b4b9_560090_d8d10f7d15f3e63f84341c748e109e5e.webp 760w,
-               /project/ice-temperature/length-scale_hu5d6580895b3969a571028497a755b4b9_560090_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/ice-temperature/length-scale_hu5d6580895b3969a571028497a755b4b9_560090_4bdae533253fe44610ebe2e5280cf78d.webp&#34;
+               /project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_beac3cb7e04314905bfd229bb30c6295.webp 400w,
+               /project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_c204d6e1207e3840b8d602147ce60bdd.webp 760w,
+               /project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_beac3cb7e04314905bfd229bb30c6295.webp&#34;
                width=&#34;50%&#34;
-               height=&#34;734&#34;
+               height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Characteristic length scale of thermal diffusion in ice. Temperature variations can be persistent for hundreds of years in alpine glaciers and for thousands to even tens of thousands of years in the Greenland and Antarctic Ice Sheets.
     &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;p&gt;We measure ice temperature directly by drilling into it, installing in-situ instrumentation, and letting the hole freeze in on the intstruments. The heat from drilling dissipates on the order of ~months and instruments measure the representative ice temperature.&lt;/p&gt;
+&lt;p&gt;We measure ice temperature directly by drilling into it, installing in-situ instrumentation, and letting the hole freeze in on the instruments. The heat from drilling dissipates on the order of ~months and thereafter instruments measure the representative ice temperature. Ice-temperature measurements made at slow-moving, accumulation-dominated, ice divide locations (e.g. Greenland Ice Core Project, WAIS Divide) are used to infer past air temperatures. The past climate is preserved within the ice because the frequency of those climate changes is within the time scale for thermal diffusion. We also measure temperature deviations within the faster moving ice-stream shear margins (more below) and the melt-dominated ablation zone. In the ablation zone, surface meltwater is plentifully available and transports latent heat when it penetrates into a crevasse or through a moulin to the ice-sheet bed.&lt;/p&gt;
 
 
 
@@ -73,9 +73,7 @@
   &lt;/div&gt;&lt;figcaption&gt;
       Ice temperature deviations measured in a cube of Greenland ice.
     &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;p&gt;In highly dynamic areas, heat is generated within the ice column through friction as the ice defoms. in
-We model ice temperature
-is modeled as an advection-diffusion problem with heat generation by strain (Clarke et al., 1977) and in some cases liquid water infiltration (Phillips et al., 2010).&lt;/p&gt;
+&lt;p&gt;In highly dynamic areas, heat is generated within the ice column through friction as the ice defoms. Warmer ice means a lower viscosity, more deformation, and thus more heat production, creating a positive feedback loop. We argue that this feedback is suppressed by cold ice moving through the system that was source from higher and colder regions.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -90,9 +88,9 @@ is modeled as an advection-diffusion problem with heat generation by strain (Cla
 
 
 
-&lt;figure  &gt;
+&lt;figure  id=&#34;figure-whillans-ice-stream-drainage-area-downstream-gradients-in-the-parameters-that-effect-ice-temperature&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Whillans Ice Stream drainage area. Downstream gradients in the parameters that effect ice temperature.&#34; srcset=&#34;
                /project/ice-temperature/whillans_drainage_hua8dc20b890ff2f615bb1c18fe14df870_622511_9e7ae9609866266886f5208c084a9a4d.webp 400w,
                /project/ice-temperature/whillans_drainage_hua8dc20b890ff2f615bb1c18fe14df870_622511_d220273cc1edbf6dd93cd342d3a79218.webp 760w,
                /project/ice-temperature/whillans_drainage_hua8dc20b890ff2f615bb1c18fe14df870_622511_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
@@ -100,7 +98,9 @@ is modeled as an advection-diffusion problem with heat generation by strain (Cla
                width=&#34;760&#34;
                height=&#34;228&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Whillans Ice Stream drainage area. Downstream gradients in the parameters that effect ice temperature.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 
 
@@ -115,9 +115,9 @@ is modeled as an advection-diffusion problem with heat generation by strain (Cla
 
 
 
-&lt;figure  &gt;
+&lt;figure  id=&#34;figure-modeled-ice-temperatures-using-gradients-like-those-above&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Modeled ice temperatures using gradients like those above.&#34; srcset=&#34;
                /project/ice-temperature/siple_temps_hua68e7b601e0299631277fe4d2dc30e9c_1093406_51d1816fe9622e8d9c581891fa077259.webp 400w,
                /project/ice-temperature/siple_temps_hua68e7b601e0299631277fe4d2dc30e9c_1093406_85e8989a64d8f53787a28501724d583b.webp 760w,
                /project/ice-temperature/siple_temps_hua68e7b601e0299631277fe4d2dc30e9c_1093406_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
@@ -125,8 +125,17 @@ is modeled as an advection-diffusion problem with heat generation by strain (Cla
                width=&#34;760&#34;
                height=&#34;230&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Modeled ice temperatures using gradients like those above.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h2 id=&#34;radar-attenuation&#34;&gt;Radar Attenuation&lt;/h2&gt;
+&lt;p&gt;Ice temperature can theoretically be measured remotely using radar attenuation. The attenuation rate is dependent on temperature because energy is absorbed through electrical conduction. The function is in the form of an Arrhenius relation,&lt;/p&gt;
+
+$$ 
+N \propto \sigma \propto e^{\frac{-Q}{RT}}
+$$
+
+&lt;p&gt;where the attenuation rate,  $ N $ , is proportional to the electrical conductivity,  $ \sigma $ &lt;/p&gt;
 
 
 
@@ -144,14 +153,15 @@ is modeled as an advection-diffusion problem with heat generation by strain (Cla
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/ice-temperature/proton-conduction_hu44ab8244d0da6cf6428a48863c925f0e_240665_4ea11ade2afbace2d6531505b6670661.webp 400w,
-               /project/ice-temperature/proton-conduction_hu44ab8244d0da6cf6428a48863c925f0e_240665_5adc0794b155ab29dea2807103e32c04.webp 760w,
-               /project/ice-temperature/proton-conduction_hu44ab8244d0da6cf6428a48863c925f0e_240665_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/ice-temperature/proton-conduction_hu44ab8244d0da6cf6428a48863c925f0e_240665_4ea11ade2afbace2d6531505b6670661.webp&#34;
+               /project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_b816286980811cb7f00d3d12057bf08e.webp 400w,
+               /project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_71be4f756686cf692167855bcadead6e.webp 760w,
+               /project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_b816286980811cb7f00d3d12057bf08e.webp&#34;
                width=&#34;50%&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;Empirical results for radar attenuation are generally dependent on the system and the empirical method used. Here, I show a result that we found in a single ground-based radar transect that traverses 200 km down the Kamb Ice Stream and up onto Siple Dome. We interpret the reflected power of the wave reflected off the ice-bed interface and calculate attenuation rate as the change in measured bed power with ice thickness. Essentially, if the wave travels through more ice we should measure a weaker return and the rate at which that measured power attenuates is temperature dependent.&lt;/p&gt;
 
 
 
@@ -166,9 +176,9 @@ is modeled as an advection-diffusion problem with heat generation by strain (Cla
 
 
 
-&lt;figure  &gt;
+&lt;figure  id=&#34;figure-a-strong-contrast-in-measured-radar-attenuation-across-the-shear-margin-between-kamb-ice-stream-and-siple-dome&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A strong contrast in measured radar attenuation across the shear margin between Kamb Ice Stream and Siple Dome.&#34; srcset=&#34;
                /project/ice-temperature/attenuation_hue4b441f4765c2b0c6aadae6c765e4653_1502821_1c147f913736a778377a1dbb4eac633a.webp 400w,
                /project/ice-temperature/attenuation_hue4b441f4765c2b0c6aadae6c765e4653_1502821_84e6f1c5b497d2925b0dda47431e3513.webp 760w,
                /project/ice-temperature/attenuation_hue4b441f4765c2b0c6aadae6c765e4653_1502821_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
@@ -176,7 +186,9 @@ is modeled as an advection-diffusion problem with heat generation by strain (Cla
                width=&#34;100%&#34;
                height=&#34;284&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      A strong contrast in measured radar attenuation across the shear margin between Kamb Ice Stream and Siple Dome.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 </description>
     </item>
     
@@ -185,7 +197,7 @@ is modeled as an advection-diffusion problem with heat generation by strain (Cla
       <link>https://example.com/project/cof/</link>
       <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/cof/</guid>
-      <description>&lt;p&gt;Past ice flow can be preserved in the ice crystal orientation fabric, especially in the case an ice divide which persists in a steady location (within an ice thickness) for 10’s of thousands of years.&lt;/p&gt;
+      <description>&lt;p&gt;Snow crystals are deposited at random orientation on the glacier surface. In other words, the &amp;lsquo;crystal orientation fabric&amp;rsquo; is initially isotropic (non-directional). As ice flows, crystal c-axes rotate away from the primary extensional axis and toward compression. In places where ice flow is consistent for thousands of years, the bulk fabric becomes anisotropic. Single-pole fabrics with upward-pointing c-axes develop at an ice divide where flow is longitudinal extension. In this case, the ice hardens in the vertical and preserves old ice near the bed. Girdle fabrics develop in an ice-stream shear margin where transverse shear dominates.&lt;/p&gt;
 
 
 
@@ -203,16 +215,17 @@ is modeled as an advection-diffusion problem with heat generation by strain (Cla
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/cof/cof-time-scales_hufb99bc3cc75fe78d71a9c4c92a3cfe8d_1199643_ea44e9f263536ab31170b32764508922.webp 400w,
-               /project/cof/cof-time-scales_hufb99bc3cc75fe78d71a9c4c92a3cfe8d_1199643_52f0f4a5bdec0fe88c43b82e59a40268.webp 760w,
-               /project/cof/cof-time-scales_hufb99bc3cc75fe78d71a9c4c92a3cfe8d_1199643_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/cof/cof-time-scales_hufb99bc3cc75fe78d71a9c4c92a3cfe8d_1199643_ea44e9f263536ab31170b32764508922.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;579&#34;
+               /project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_0c3363e589866221ac1a378345a36e65.webp 400w,
+               /project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_1a2689c21f8e690fb2f7c86850a2710a.webp 760w,
+               /project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_0c3363e589866221ac1a378345a36e65.webp&#34;
+               width=&#34;75%&#34;
+               height=&#34;617&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;p&gt;Snow crystals are deposited at random orientation on the glacier surface, meaning the COF is initially isotropic. As ice flows, crystal c-axes rotate away from the primary extensional axis and toward compression (Alley, 1992). In places where ice flow is consistent for thousands of years, the bulk COF becomes anisotropic and can strongly influence any subsequent flow. Single-pole fabrics with upward-pointing c-axes develop at an ice divide where flow is longitudinal extension. In this case, the ice hardens in the vertical and preserves old ice near the bed (Raymond, 1983). Girdle fabrics develop in an ice-stream shear margin where transverse shear dominates. This fabric softens the ice and promotes faster flow (Jackson and Kamb, 1997).&lt;/p&gt;
+&lt;p&gt;Deformation of ice is a result of primarily defect propagation along the crystal&amp;rsquo;s basal plane. This process is directional, defects do not propagate as easily in the direction of the crystal c-axis; therefore, ice viscosity is orientation dependent with the softest ice aligned with the basal plane. When a strong crystal fabric develops, the bulk ice viscosity can change by ~2 orders of magnitude.&lt;/p&gt;
 &lt;h2 id=&#34;radar-polarimetry&#34;&gt;Radar Polarimetry&lt;/h2&gt;
+&lt;p&gt;The electrical properties of ice are also orientation dependent. Radio waves move faster when propagating perpendicular to the c-axis than parallel. This makes ice what we call a &amp;lsquo;birefringent&amp;rsquo; material.&lt;/p&gt;
 
 
 
@@ -230,14 +243,15 @@ is modeled as an advection-diffusion problem with heat generation by strain (Cla
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/cof/birefringence_hu6ef6991581d1f856cb9592c6441e7a5d_262771_2b0057377508a1dc68053b276a13a635.webp 400w,
-               /project/cof/birefringence_hu6ef6991581d1f856cb9592c6441e7a5d_262771_b5dd3c4ffa9e3ec6698441f61437ebad.webp 760w,
-               /project/cof/birefringence_hu6ef6991581d1f856cb9592c6441e7a5d_262771_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/cof/birefringence_hu6ef6991581d1f856cb9592c6441e7a5d_262771_2b0057377508a1dc68053b276a13a635.webp&#34;
+               /project/cof/birefringence_hu273f152f4fdc7fccf1d796eab7f54a1a_210533_2c317a9317980bd09a01948fc5b5b694.webp 400w,
+               /project/cof/birefringence_hu273f152f4fdc7fccf1d796eab7f54a1a_210533_b468b73b38336aca49bcb0e858c6a2ba.webp 760w,
+               /project/cof/birefringence_hu273f152f4fdc7fccf1d796eab7f54a1a_210533_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/cof/birefringence_hu273f152f4fdc7fccf1d796eab7f54a1a_210533_2c317a9317980bd09a01948fc5b5b694.webp&#34;
                width=&#34;50%&#34;
-               height=&#34;695&#34;
+               height=&#34;677&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;We can take this material property and use it in a strategy to measure the ice fabric remotely (without sampling the ice directly) using radar polarimetry.&lt;/p&gt;
 
 
 
@@ -256,8 +270,9 @@ is modeled as an advection-diffusion problem with heat generation by strain (Cla
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
            src=&#34;https://example.com/project/cof/PhaseImage.gif&#34;
-           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;75%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;We carried out a radar polarimetry experiment at Hercules Dome in order to constrain past and present ice flow there.&lt;/p&gt;
 
 
 
@@ -292,21 +307,27 @@ is modeled as an advection-diffusion problem with heat generation by strain (Cla
       <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/modeling/</guid>
       <description>&lt;h2 id=&#34;nondimensional-numbers&#34;&gt;Nondimensional Numbers&lt;/h2&gt;
+&lt;p&gt;Physics problems are commonly &amp;rsquo;nondimensionalized&amp;rsquo; in order to compare the scale of two processes. As an example, take the &lt;em&gt;Peclet number&lt;/em&gt; which compares thermal advection (convection) to thermal diffusion (conduction) in a moving fluid,&lt;/p&gt;
 
 $$ 
 Pe = \frac{vL}{\alpha}
 $$
 
+&lt;p&gt;where  $ v $  is the fluid velocity,  $ L $  is the characteristic length scale, and  $ \alpha $  is the thermal diffusivity (a material constant). In a diffusion-dominated system, the thermal diffusivity is larger than the velocity times length scale, so  $ Pe &lt; 1 $ , as is the case in microfluidics with a slow-moving non-turbulent fluid moving through a small channel. Fluid systems are more commonly advection dominated, especially in Earth science applications, think river, ocean current, or even ice stream, with  $ Pe &gt;&gt; 1 $ .&lt;/p&gt;
+&lt;p&gt;Ice sheets are generally advection dominated, but the scale varies depending on the setting. Take an ice divide, where flow is downward at ~0.1 m/yr and ice is ~2 km thick, then in the vertical  $ Pe $  ~ 1-10, only slightly favoring advection. Thinking instead in the horizontal, across the spatial scales of an ice sheet, diffusion is entirely ineffective. Ice streams flow at ~100-1000 m/yr across effective length scales of many ice thicknesses, say 10-50 km, then in the horizontal  $ Pe $  ~ 10&lt;sup&gt;4&lt;/sup&gt;-10&lt;sup&gt;6&lt;/sup&gt;. In cases like this, processes can be ignored entirely often simplifying modeling or engineering applications.&lt;/p&gt;
+&lt;p&gt;In an ice-stream shear margin, there are four critical processes which control ice temperature, diffusion, vertical advection accosicated with new snow deposited at the surface, heat generation from the friction in plane shear, and downstream or cross-margin advection sourcing cold ice from outside the shear margin. The first two processes are compared using the standard  $ Pe $  number which in this case (as above) is larger than 1 but only slightly. With the third process we introduce a new dimensionless number, the &lt;em&gt;Brinkmann Number&lt;/em&gt; which compares heat generation to diffusion,&lt;/p&gt;
 
 $$ 
 Br = \frac{QH^2}{k\Delta T}
 $$
 
+&lt;p&gt;These are generally large in an ice-stream shear margin, so much that without considering any other processes the shear margin would be mostly temperate ice. However, we know that cold ice is constantly moving through the system. We nondimensionalize this through what I am calling &lt;em&gt;Meyer&amp;rsquo;s Lambda&lt;/em&gt;&lt;/p&gt;
 
 $$ 
 \Lambda = \frac{H}{\alpha \Delta T} \int_0^H u \frac{\partial T}{\partial x} dz
 $$
 
+&lt;p&gt;We found that in a shear margin at Antarctica&amp;rsquo;s Siple Coast  $ Br $  is only slightly larger than  $ \Lambda $ , so ice temperatures should be warmer than the surrounding ice but not necessarily temperate.&lt;/p&gt;
 
 
 
@@ -333,13 +354,14 @@ $$
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;h2 id=&#34;phase-boundary-problems&#34;&gt;Phase-Boundary Problems&lt;/h2&gt;
-&lt;p&gt;Stefan Number&lt;/p&gt;
+&lt;p&gt;One of the reasons the water molecule is so interesting is that both the melting point and the boiling point are within our range of experienced temperatures. Studying the transition between phases, in particular the ice-water transition, leads us to track how the boundary moves in time. Mathematical models which simulate these conditions solve the so-called &lt;em&gt;Stefan Problem&lt;/em&gt; which has another nondimensional number, the &lt;em&gt;Stefan number&lt;/em&gt;,&lt;/p&gt;
 
 $$ 
 St = \frac{c\Delta T}{L}
 $$
 
-&lt;p&gt;Lewis Number&lt;/p&gt;
+&lt;p&gt;where sensible heat (heat capacity,  $ c $ , times the temperature gradient,  $ \Delta T $ ), is compared to latent heat ( $ L $ ). When  $ St&gt;&gt;1 $  heat is rapidly supplied to the phase boundary so it moves quickly. When  $ St&lt;&lt;1 $  the phase boundary is not supplied with sufficient energy to transition so it moves slowly.&lt;/p&gt;
+&lt;p&gt;In a slightly more complicated scenario solute is introduced to the liquid, suppressing the melting point at the phase boundary. We call this an &lt;em&gt;extended Stefan Problem&lt;/em&gt;. Here, not only does heat need to be evacuated from the phase boundary for the freezing front to step forward, but solute also needs to be rejected from the fluid. Generally, rates of solute diffusion are &lt;em&gt;much&lt;/em&gt; slower than thermal diffusion, so it becomes a dominant process. The two diffusion rates are compared with the &lt;em&gt;Lewis number&lt;/em&gt;,&lt;/p&gt;
 
 $$ 
 Le = \frac{\alpha}{D}
@@ -370,7 +392,9 @@ $$
                height=&#34;290&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;mpas&#34;&gt;MPAS&lt;/h2&gt;
+&lt;p&gt;An example where both thermal and solute diffusion are at play is in sea-ice formation where ice freezes at the boundary between a cold atmosphere and a salty ocean. We applied this theory in cylindrical coordinates for refreezing of glacier boreholes when filled with an antifreeze solution.&lt;/p&gt;
+&lt;h2 id=&#34;ice-sheet-modeling&#34;&gt;Ice-Sheet Modeling&lt;/h2&gt;
+&lt;p&gt;Most of my modeling work has been to isolate and explain physical processes, as above. However, a large component of the modeling community works to directly simulate the real-world behavior at the scale of an ice sheet.&lt;/p&gt;
 
 
 
@@ -396,6 +420,7 @@ $$
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;In collaboration with Dr. Matthew Hoffman of Los Alamos National Laboratory, we are using the Model for Precision Across Scales to couple fluid flow beneath an ice sheet to the dynamics of the ice sheet itself. In essense, high pressure within the subglacial hydrologic system lifts the ice sheet off its substrate, allowing it to move faster.&lt;/p&gt;
 
 
 
@@ -421,7 +446,7 @@ $$
                height=&#34;573&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;icepack&#34;&gt;icepack&lt;/h2&gt;
+&lt;p&gt;In collaboration with Dr. Daniel Shapero of the Applied Physics Laboratory, we are simulating how ice dynamics effect the development of ice temperature and crystal orientation fabric.&lt;/p&gt;
 </description>
     </item>
     
@@ -430,8 +455,9 @@ $$
       <link>https://example.com/project/geophysical-tools/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/geophysical-tools/</guid>
-      <description>&lt;h2 id=&#34;impdar&#34;&gt;IMPDAR&lt;/h2&gt;
-&lt;p&gt;ImpDAR (Impulse raDAR) is a suite of processing and interpretation tools for impulse radar sounding. The software (hosted on github) is targeted for ice-penetrating radar applications but usable for ground-penetrating radar as well. The core processing steps and general terminology come from a set of Matlab processing scripts used at St. Olaf College. Here, everything has been re-written in python and significant improvements to speed, readability, documentation, and interface have been made across the board. Additionally, ImpDAR is intended to be more flexible than other available options. Support is gradually being added for a variety of file formats. Currently, GSSI, PulseEKKO, GPRMax, Gecko, and SEGY files are supported. Available processing steps include various filtering operations, trivial modifications such as restacking, cropping, or reversing data, geolocation-related operations like interpolating to constant trace spacing, and various migration routines.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;impdar&#34;&gt;ImpDAR&lt;/h2&gt;
+&lt;p&gt;Led by Dr. David Lilien, ImpDAR (Impulse raDAR) is a suite of processing and interpretation tools for impulse radar sounding. The software (&lt;a href=&#34;https://github.com/dlilien/ImpDAR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hosted on github&lt;/a&gt;) is targeted for ice-penetrating radar applications but usable for ground-penetrating radar and associated surveying applications as well. The core processing steps and general terminology come from a set of Matlab scripts developed at St. Olaf College under Dr. Robert Jacobel. Here, everything has been re-written in python and significant improvements to speed, readability, documentation, and interface have been made across the board. Additionally, ImpDAR is intended to be more flexible than other available options. Support is gradually being added for a variety of file formats. Currently, GSSI, PulseEKKO, GPRMax, SEGY, and several custom file formats are supported. Available processing steps include various filtering operations, trivial modifications such as restacking, cropping, or reversing data, geolocation-related operations like interpolating to constant trace spacing, and various migration routines.&lt;/p&gt;
+&lt;p&gt;In addition to processing, ImpDAR can also be used for interpreting radargrams (i.e. picking layers). Picking is generally an interactive process, so there is a GUI for carrying out the semi-automated picking procedure. Each picked layer is saved with variables for both the depth and picked power (i.e. the root-mean-square amplitude). The GUI also allows for basic processing steps, with the updates happening to the plot in real time to aid the picking process. We are also developing an automated picking algorithm that will ideally pick both internal layers and the bed reflector.&lt;/p&gt;
 
 
 
@@ -457,7 +483,7 @@ $$
                height=&#34;750&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;p&gt;In addition to processing, ImpDAR can also be used for interpreting radargrams (i.e. picking layers). Picking is generally an interactive process, so there is a GUI for carrying out the semi-automated picking procedure. Each picked layer is saved with variables for both the depth and picked power (i.e. the root-mean-square amplitude). The GUI also allows for basic processing steps, with the updates happening to the plot in real time to aid the picking process. We are also developing an automated picking algorithm that will ideally pick both internal layers and the bed reflector.&lt;/p&gt;
+&lt;p&gt;The ApRES (Autonomous phase-sensitive Radio Echo Sounder) is a new and popular tool within the glaciology community. It transmits a phase-coherent waveform, so repeat acquisitions can be used for interference in order to measure small changes in returned phase. Phase changes are associated either with a difference in the total distance that the wave travels or differences in the wave speed through the medium. We are actively developing a processing flow for ApRES data within ImpDAR. We preserve a similar data structure to the impulse data, so users will have some familiarity across the two.&lt;/p&gt;
 
 
 
@@ -472,9 +498,9 @@ $$
 
 
 
-&lt;figure  &gt;
+&lt;figure  id=&#34;figure-repeat-apres-acquisition-showing-motion-phase-offset-of-measured-reflectors&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Repeat ApRES acquisition, showing motion (phase offset) of measured reflectors.&#34; srcset=&#34;
                /project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_5ca1cae0709d5aa41c41dbaf70d33a25.webp 400w,
                /project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_a9789dea67f75c3931103264078511bd.webp 760w,
                /project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
@@ -482,7 +508,10 @@ $$
                width=&#34;640&#34;
                height=&#34;480&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Repeat ApRES acquisition, showing motion (phase offset) of measured reflectors.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Radar polarimetry is an experimental design where we intentionally polarize the antennas in one direction or another to pick out differences in the material properties of the ice, namely the ice-crystal orientation fabric. As with the standard ApRES processing flow, we are building a polarimetry unit into ImpDAR specifically for ApRES data.&lt;/p&gt;
 
 
 
@@ -497,9 +526,9 @@ $$
 
 
 
-&lt;figure  &gt;
+&lt;figure  id=&#34;figure-impdar-prosessing-flow-for-apres-polarimetry&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;ImpDAR prosessing flow for ApRES polarimetry.&#34; srcset=&#34;
                /project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_0fb2735174228d3741b93be029d99bc7.webp 400w,
                /project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_21845feb0c7c74ae8364d4b510c9add4.webp 760w,
                /project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
@@ -507,9 +536,11 @@ $$
                width=&#34;760&#34;
                height=&#34;380&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;seidart&#34;&gt;SEIDART&lt;/h2&gt;
-&lt;p&gt;SeiDarT (Seismic-Radar Toolbox) is a full-waveform geophysical modeling package meant for both seismic and radar applications. Again, the majority of the development is with ice in mind as the primary media, but the tool could be used for other materials as well. This package was primarily developed by Steven Bernsen and Christopher Gerbi at the University of Maine.&lt;/p&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      ImpDAR prosessing flow for ApRES polarimetry.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;seidart&#34;&gt;SeiDarT&lt;/h2&gt;
+&lt;p&gt;SeiDarT (Seismic-Radar Toolbox) is a full-waveform geophysical modeling package meant for both seismic and radar applications (available on &lt;a href=&#34;https://github.com/UMainedynamics/SeidarT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;). Again, the majority of the development is with ice in mind as the primary media, but the tool could be used for other materials as well. This package was primarily developed by Steven Bernsen and Christopher Gerbi at the University of Maine.&lt;/p&gt;
 
 
 
@@ -538,9 +569,8 @@ $$
       <link>https://example.com/project/alpine-glaciology/</link>
       <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/alpine-glaciology/</guid>
-      <description>&lt;h2 id=&#34;south-cascade-glacier&#34;&gt;SOUTH CASCADE GLACIER&lt;/h2&gt;
-&lt;p&gt;South Cascade Glacier is an alpine glacier in the North Cascades, WA. Over the past century, the glacier terminus has retreated by ~3 km, creating its own proglacial lake, and most recently pulling up out of the lake around 1980. The United States Geological Survey (USGS) has a surveying outpost at this glacier and has been tracking the mass balance, the amount of ice added by snow and removed by melting, for over 60 years. Understanding how this glacier and the other USGS ‘benchmark’ glaciers are changing over decadal timescales is helping us understand the regional influence of climate change. Our contributions to this project started in 2017 and are only a supplement to the larger USGS benchmark glacier project.&lt;/p&gt;
-&lt;h2 id=&#34;conventional-mass-balance&#34;&gt;CONVENTIONAL MASS BALANCE&lt;/h2&gt;
+      <description>&lt;p&gt;The United States Geological Survey (USGS) has a surveying outpost at this glacier and has been tracking the mass balance, the amount of ice added by snow and removed by melting, for over 60 years. Understanding how this glacier and the other USGS ‘benchmark’ glaciers are changing over decadal timescales is helping us understand the regional influence of climate change.&lt;/p&gt;
+&lt;h2 id=&#34;conventional-mass-balance&#34;&gt;Conventional Mass Balance&lt;/h2&gt;
 &lt;p&gt;Measuring glacier mass balance is relatively simple. For inputs, we drill a snow core or dig a snow pit at the end of the winter season and measure the total depth as well as density through the column. Together, depth and density give us an input balance in units of snow water equivalent (SWE). For outputs, we drill a metal stake into the ice at the beginning of summer and observe how much it has melted out by the end. Again, this measurement will be in SWE. Then the balance inputs (accumulation) and outputs (ablation) are summed to quantify glacier change. At South Cascade, the average mass balance over the past 50 years has been about -0.5 m/yr over the extent of the glacier’s area (Rasmussen and Conway, 2001; fig. 10).&lt;/p&gt;
 
 
@@ -567,7 +597,7 @@ $$
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;geophysical-mass-balance-methods&#34;&gt;GEOPHYSICAL MASS BALANCE METHODS&lt;/h2&gt;
+&lt;h2 id=&#34;geophysical-mass-balance-methods&#34;&gt;Geophysical Mass Balance Methods&lt;/h2&gt;
 &lt;p&gt;The conventional mass balance methods described above are still in use for many glaciers today, including a continuing record for South Cascade Glacier. Being glacier geophysicists though, we are interested in developing more innovative ways to measure the inputs and outputs for the system. In particular, we are using ice-penetrating radar to get a distributed snow depth measurement at the end of the winter season. The hope is not to abandon the snow coring completely, but to use the two in parallel to build a more robust, and glacier wide, observation for snow inputs to the glacier system. With radar, we can easily see a reflection of the previous summer’s surface (giving the total snow depth accumulated over the winter season), but in some areas we can also see deeper reflections from multi-year snow (firn) layers. Firn observations could provide insight into the mechanisms for accumulation in this alpine setting including avalanching and wind-blown snow.&lt;/p&gt;
 
 
@@ -594,6 +624,7 @@ $$
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;glacier-dynamics&#34;&gt;Glacier Dynamics&lt;/h2&gt;
 </description>
     </item>
     
@@ -602,8 +633,9 @@ $$
       <link>https://example.com/project/drilling/</link>
       <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/drilling/</guid>
-      <description>&lt;h2 id=&#34;hot-water-drilling&#34;&gt;Hot-Water Drilling&lt;/h2&gt;
-&lt;h2 id=&#34;ice-core-drilling&#34;&gt;
+      <description>&lt;h2 id=&#34;ice-core-drilling&#34;&gt;Ice-Core Drilling&lt;/h2&gt;
+&lt;p&gt;Much of our work aids in site selection for ice cores. We use geophysical tools to survey the ice geometry and stratigraphy. We can estimate ice age, ice temperature, past flow patterns, etc. With this information, paleoclimatologists are able to make an informed desicion on specifically where to drill an ice core in order to retrieve ice that will answer their pending quesitons about the ancient atmosphere and climate. Hercules Dome is currently our primary project. The site is close enough to West Antarctica that it should record a climate signal in the case of West Antarctic Ice Sheet collapse, but far enough that ice would not have melted.&lt;/p&gt;
+
 
 
 
@@ -619,35 +651,73 @@ $$
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;surface-cables.jpeg#floatleft&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100&#34; /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure class=&#34;alignright&#34; &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_640226aebd920645c55f1aeb9346228e.webp 400w,
+               /project/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_b728b0248b0ee1e1314e0f64d79e302e.webp 760w,
+               /project/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_640226aebd920645c55f1aeb9346228e.webp&#34;
+               width=&#34;100%&#34;
+               height=&#34;649&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;hot-water-drilling&#34;&gt;Hot-Water Drilling&lt;/h2&gt;
+&lt;p&gt;Unlike ice-core drilling, thermal drilling methods such as with hot water are destructive, so the goal is not to retrieve any ice. Instead, hot-water holes are used to install instruments which measure in-situ properties like ice temeprature, stress/strain, subglacial water pressure, etc.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-organizing-instrumentation-and-cabling-in-preparation-to-deploy-it-down-the-hole&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Organizing instrumentation and cabling in preparation to deploy it down the hole.&#34; srcset=&#34;
+               /project/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_9b14a2a2e64cbbf4be7df05c0acd9c0c.webp 400w,
+               /project/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_332b82a3bf72958c7c347e5851af4ec9.webp 760w,
+               /project/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_9b14a2a2e64cbbf4be7df05c0acd9c0c.webp&#34;
+               width=&#34;100%&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Organizing instrumentation and cabling in preparation to deploy it down the hole.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-looking-down-an-instrumented-hole&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Looking down an instrumented hole.&#34; srcset=&#34;
                /project/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_ab400531032e7ad3e223443745b5255b.webp 400w,
                /project/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_c08be67297c1126089ec8cdef45a4920.webp 760w,
                /project/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
                src=&#34;https://example.com/project/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_ab400531032e7ad3e223443745b5255b.webp&#34;
-               width=&#34;100&#34;
+               width=&#34;100%&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-Ice-Core Drilling&lt;/h2&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Looking down an instrumented hole.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h2 id=&#34;hot-point-drilling&#34;&gt;Hot-Point Drilling&lt;/h2&gt;
+&lt;p&gt;This is another thermal drilling method which uses conduction at the tip of a melt probe rather than hot water. These drills are simpler in design, so were used earlier, and lighter weight so can be deployed more quickly than hot-water drills.&lt;/p&gt;
 
 
 
@@ -665,11 +735,11 @@ Ice-Core Drilling&lt;/h2&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/drilling/drill-series_hu3c99050af4697eed7b21a99df6b0907b_213037_2678a4ac22aebaa0420e9f47e902711a.webp 400w,
-               /project/drilling/drill-series_hu3c99050af4697eed7b21a99df6b0907b_213037_a4fe50bc5061e61b854db5648201ac19.webp 760w,
-               /project/drilling/drill-series_hu3c99050af4697eed7b21a99df6b0907b_213037_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/drilling/drill-series_hu3c99050af4697eed7b21a99df6b0907b_213037_2678a4ac22aebaa0420e9f47e902711a.webp&#34;
-               width=&#34;278&#34;
+               /project/drilling/drill-series_hu3b9ce5aafcaf1805da0b4bede4370fb9_168071_cfc203463fe443e9874f7612a3b1f617.webp 400w,
+               /project/drilling/drill-series_hu3b9ce5aafcaf1805da0b4bede4370fb9_168071_d8cfa681d99c8a04d8688451fb2c89bf.webp 760w,
+               /project/drilling/drill-series_hu3b9ce5aafcaf1805da0b4bede4370fb9_168071_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/drilling/drill-series_hu3b9ce5aafcaf1805da0b4bede4370fb9_168071_cfc203463fe443e9874f7612a3b1f617.webp&#34;
+               width=&#34;285&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
