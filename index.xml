@@ -445,10 +445,10 @@ $$
 &lt;figure  id=&#34;figure-a-strong-contrast-in-measured-radar-attenuation-across-the-shear-margin-between-kamb-ice-stream-and-siple-dome&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A strong contrast in measured radar attenuation across the shear margin between Kamb Ice Stream and Siple Dome.&#34; srcset=&#34;
-               /project/ice-temperature/attenuation_hue6dbb0982badb3f9618a83093160af99_1059875_b4bd9df2c492921744325b7468292c91.webp 400w,
-               /project/ice-temperature/attenuation_hue6dbb0982badb3f9618a83093160af99_1059875_d92928dbce429d0b7c721ee5f19991ba.webp 760w,
-               /project/ice-temperature/attenuation_hue6dbb0982badb3f9618a83093160af99_1059875_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/ice-temperature/attenuation_hue6dbb0982badb3f9618a83093160af99_1059875_b4bd9df2c492921744325b7468292c91.webp&#34;
+               /project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_80b464ced654bea879d8aa4538ceeba5.webp 400w,
+               /project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_49df8d0cae8791edbc7c138941f2bb6b.webp 760w,
+               /project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_80b464ced654bea879d8aa4538ceeba5.webp&#34;
                width=&#34;100%&#34;
                height=&#34;380&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -998,12 +998,12 @@ $$
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/modeling/constitutional-supercooling_hu3cd6c88f48dc93d1fb1ca42745790178_77163_eb8b418f33c45c2da77fb7cc4af575f3.webp 400w,
-               /project/modeling/constitutional-supercooling_hu3cd6c88f48dc93d1fb1ca42745790178_77163_5ce5e175abdc2ae146ede42b0cccf726.webp 760w,
-               /project/modeling/constitutional-supercooling_hu3cd6c88f48dc93d1fb1ca42745790178_77163_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/modeling/constitutional-supercooling_hu3cd6c88f48dc93d1fb1ca42745790178_77163_eb8b418f33c45c2da77fb7cc4af575f3.webp&#34;
-               width=&#34;278&#34;
-               height=&#34;290&#34;
+               /project/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_27ccbea9029f20bcb25906fe0561e879.webp 400w,
+               /project/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_11c4dc78b44ff12257c6eb868fefc44c.webp 760w,
+               /project/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_27ccbea9029f20bcb25906fe0561e879.webp&#34;
+               width=&#34;50%&#34;
+               height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;An example where both thermal and solute diffusion are at play is in sea-ice formation where ice freezes at the boundary between a cold atmosphere and a salty ocean. We applied this theory in cylindrical coordinates for refreezing of glacier boreholes when filled with an antifreeze solution.&lt;/p&gt;
@@ -1186,7 +1186,7 @@ $$
       <description>&lt;p&gt;The United States Geological Survey (USGS) has a surveying outpost at this glacier and has been tracking the mass balance, the amount of ice added by snow and removed by melting, for over 60 years. Understanding how this glacier and the other USGS ‘benchmark’ glaciers are changing over decadal timescales is helping us understand the regional influence of climate change.&lt;/p&gt;
 &lt;h2 id=&#34;conventional-mass-balance&#34;&gt;Conventional Mass Balance&lt;/h2&gt;
 &lt;p&gt;Measuring glacier mass balance is relatively simple. For inputs, we drill a snow core or dig a snow pit at the end of the winter season and measure the total depth as well as density through the column. Together, depth and density give us an input balance in units of snow water equivalent (SWE). For outputs, we drill a metal stake into the ice at the beginning of summer and observe how much it has melted out by the end. Again, this measurement will be in SWE. Then the balance inputs (accumulation) and outputs (ablation) are summed to quantify glacier change. At South Cascade, the average mass balance over the past 50 years has been about -0.5 m/yr over the extent of the glacier’s area (Rasmussen and Conway, 2001; fig. 10).&lt;/p&gt;
-
+&lt;p&gt;
 
 
 
@@ -1211,6 +1211,31 @@ $$
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/alpine-glaciology/density_huf05030a58e8aff8d360968ae77f02beb_210548_0624e3e934181d19c7d9abc6bad4275f.webp 400w,
+               /project/alpine-glaciology/density_huf05030a58e8aff8d360968ae77f02beb_210548_d6fb44375a3cdd08988d89594723f9d5.webp 760w,
+               /project/alpine-glaciology/density_huf05030a58e8aff8d360968ae77f02beb_210548_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/alpine-glaciology/density_huf05030a58e8aff8d360968ae77f02beb_210548_0624e3e934181d19c7d9abc6bad4275f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;567&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h2 id=&#34;geophysical-mass-balance-methods&#34;&gt;Geophysical Mass Balance Methods&lt;/h2&gt;
 &lt;p&gt;The conventional mass balance methods described above are still in use for many glaciers today, including a continuing record for South Cascade Glacier. Being glacier geophysicists though, we are interested in developing more innovative ways to measure the inputs and outputs for the system. In particular, we are using ice-penetrating radar to get a distributed snow depth measurement at the end of the winter season. The hope is not to abandon the snow coring completely, but to use the two in parallel to build a more robust, and glacier wide, observation for snow inputs to the glacier system. With radar, we can easily see a reflection of the previous summer’s surface (giving the total snow depth accumulated over the winter season), but in some areas we can also see deeper reflections from multi-year snow (firn) layers. Firn observations could provide insight into the mechanisms for accumulation in this alpine setting including avalanching and wind-blown snow.&lt;/p&gt;
 
@@ -1349,11 +1374,11 @@ $$
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/drilling/drill-series_hu3b9ce5aafcaf1805da0b4bede4370fb9_168071_cfc203463fe443e9874f7612a3b1f617.webp 400w,
-               /project/drilling/drill-series_hu3b9ce5aafcaf1805da0b4bede4370fb9_168071_d8cfa681d99c8a04d8688451fb2c89bf.webp 760w,
-               /project/drilling/drill-series_hu3b9ce5aafcaf1805da0b4bede4370fb9_168071_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/drilling/drill-series_hu3b9ce5aafcaf1805da0b4bede4370fb9_168071_cfc203463fe443e9874f7612a3b1f617.webp&#34;
-               width=&#34;285&#34;
+               /project/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_267847a81154252d6e58c84876bf99e8.webp 400w,
+               /project/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_652b6a1d09add1d3f13b12dfa4f9a24b.webp 760w,
+               /project/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_267847a81154252d6e58c84876bf99e8.webp&#34;
+               width=&#34;428&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
