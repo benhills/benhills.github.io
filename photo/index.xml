@@ -47,8 +47,35 @@
     
     
     
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/DSC_0032.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/alpine/DSC_0032_hu284d939a3cc125d20c5fd77c3e290803_930204_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0032.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/DSC_0243.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/alpine/DSC_0243_hu284d939a3cc125d20c5fd77c3e290803_431588_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0243.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
     &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/DSC_0337.jpeg&#34; &gt;
       &lt;img src=&#34;https://example.com/media/albums/alpine/DSC_0337_hu284d939a3cc125d20c5fd77c3e290803_422634_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0337.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/DSC_0339.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/alpine/DSC_0339_hu284d939a3cc125d20c5fd77c3e290803_567757_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0339.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -145,6 +172,15 @@
     
     
     
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/19700103_042818.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/herc-dome/19700103_042818_hu3c9b56034fbbcaba96b73160f93e17d8_436340_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;19700103_042818.jpeg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
     &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/90296730_10158365520016180_3877880986070941696_n.jpeg&#34; &gt;
       &lt;img src=&#34;https://example.com/media/albums/herc-dome/90296730_10158365520016180_3877880986070941696_n_hue776a334b902d7828bf5c7a8aa11ccb3_478774_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;90296730_10158365520016180_3877880986070941696_n.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
@@ -201,6 +237,24 @@
     
     &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/DSC_0309.jpeg&#34; &gt;
       &lt;img src=&#34;https://example.com/media/albums/herc-dome/DSC_0309_hu284d939a3cc125d20c5fd77c3e290803_288494_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0309.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/DSC_0489.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/herc-dome/DSC_0489_hu284d939a3cc125d20c5fd77c3e290803_225033_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0489.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/DSC_0498.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/herc-dome/DSC_0498_hu284d939a3cc125d20c5fd77c3e290803_232141_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0498.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -325,7 +379,25 @@
     
     
     &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/DSC_0108.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/antarctica/DSC_0108_hu284d939a3cc125d20c5fd77c3e290803_270740_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0108.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+      &lt;img src=&#34;https://example.com/media/albums/antarctica/DSC_0108_hu284d939a3cc125d20c5fd77c3e290803_272922_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0108.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/DSC_0191.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/antarctica/DSC_0191_hu284d939a3cc125d20c5fd77c3e290803_323360_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0191.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/DSC_0215.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/antarctica/DSC_0215_hu284d939a3cc125d20c5fd77c3e290803_579305_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0215.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -335,6 +407,15 @@
     
     &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/DSC_0274.jpeg&#34; &gt;
       &lt;img src=&#34;https://example.com/media/albums/antarctica/DSC_0274_hu284d939a3cc125d20c5fd77c3e290803_299003_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0274.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/DSC_0297.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/antarctica/DSC_0297_hu284d939a3cc125d20c5fd77c3e290803_351573_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0297.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -405,15 +486,6 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/twin-otter.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/antarctica/twin-otter_hu03f47bc9f86bef1066a4dfc67dbd65d0_20442_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;twin-otter.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-    &lt;/a&gt;
-  
-    
-    
-    
-    
-    
     &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/Xmas_pole.jpeg&#34; &gt;
       &lt;img src=&#34;https://example.com/media/albums/antarctica/Xmas_pole_hu284d939a3cc125d20c5fd77c3e290803_753548_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Xmas_pole.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
@@ -464,6 +536,61 @@
     
     &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/cliff.jpeg&#34; &gt;
       &lt;img src=&#34;https://example.com/media/albums/greenland/cliff_hu284d939a3cc125d20c5fd77c3e290803_629829_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;cliff.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/DSC_0019.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/greenland/DSC_0019_hu284d939a3cc125d20c5fd77c3e290803_533166_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0019.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/DSC_0365.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/greenland/DSC_0365_hu284d939a3cc125d20c5fd77c3e290803_323814_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0365.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/DSC_0376.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/greenland/DSC_0376_hu284d939a3cc125d20c5fd77c3e290803_609880_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0376.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/DSC_0438.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/greenland/DSC_0438_hu284d939a3cc125d20c5fd77c3e290803_1008152_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0438.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/DSC_0457.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/greenland/DSC_0457_hu284d939a3cc125d20c5fd77c3e290803_590969_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0457.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     

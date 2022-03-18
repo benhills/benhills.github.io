@@ -118,12 +118,12 @@
 &lt;figure  id=&#34;figure-modeled-ice-temperatures-using-gradients-like-those-above&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Modeled ice temperatures using gradients like those above.&#34; srcset=&#34;
-               /project/ice-temperature/siple_temps_hua68e7b601e0299631277fe4d2dc30e9c_1093406_51d1816fe9622e8d9c581891fa077259.webp 400w,
-               /project/ice-temperature/siple_temps_hua68e7b601e0299631277fe4d2dc30e9c_1093406_85e8989a64d8f53787a28501724d583b.webp 760w,
-               /project/ice-temperature/siple_temps_hua68e7b601e0299631277fe4d2dc30e9c_1093406_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/ice-temperature/siple_temps_hua68e7b601e0299631277fe4d2dc30e9c_1093406_51d1816fe9622e8d9c581891fa077259.webp&#34;
+               /project/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_6b9e0b305d76b6655608848ad5185d75.webp 400w,
+               /project/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_1cd70c154c5ac692a548edfe5199b10a.webp 760w,
+               /project/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_6b9e0b305d76b6655608848ad5185d75.webp&#34;
                width=&#34;760&#34;
-               height=&#34;230&#34;
+               height=&#34;338&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Modeled ice temperatures using gradients like those above.
@@ -179,10 +179,10 @@ $$
 &lt;figure  id=&#34;figure-a-strong-contrast-in-measured-radar-attenuation-across-the-shear-margin-between-kamb-ice-stream-and-siple-dome&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A strong contrast in measured radar attenuation across the shear margin between Kamb Ice Stream and Siple Dome.&#34; srcset=&#34;
-               /project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_80b464ced654bea879d8aa4538ceeba5.webp 400w,
+               /project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_ad4c817c170e470f0fc2217f8a3cb659.webp 400w,
                /project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_49df8d0cae8791edbc7c138941f2bb6b.webp 760w,
                /project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_80b464ced654bea879d8aa4538ceeba5.webp&#34;
+               src=&#34;https://example.com/project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_ad4c817c170e470f0fc2217f8a3cb659.webp&#34;
                width=&#34;100%&#34;
                height=&#34;380&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -313,7 +313,32 @@ $$
 Pe = \frac{vL}{\alpha}
 $$
 
-&lt;p&gt;where  $ v $  is the fluid velocity,  $ L $  is the characteristic length scale, and  $ \alpha $  is the thermal diffusivity (a material constant). In a diffusion-dominated system, the thermal diffusivity is larger than the velocity times length scale, so  $ Pe &lt; 1 $ , as is the case in microfluidics with a slow-moving non-turbulent fluid moving through a small channel. Fluid systems are more commonly advection dominated, especially in Earth science applications, think river, ocean current, or even ice stream, with  $ Pe &gt;&gt; 1 $ .&lt;/p&gt;
+&lt;p&gt;where  $ v $  is the fluid velocity,  $ L $  is the characteristic length scale, and  $ \alpha $  is the thermal diffusivity (a material constant). In a diffusion-dominated system, the thermal diffusivity is larger than the velocity times length scale, so  $ Pe &lt; 1 $ , as is the case in microfluidics with a slow-moving non-turbulent fluid moving through a small channel. Fluid systems are more commonly advection dominated, especially in Earth science applications, think river, ocean current, or even ice stream, with  $ Pe \ll 1 $ .&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_9b11f4ad80ca5f50f1b3f764d2856009.webp 400w,
+               /project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_b795a6cf6c9752c39a6b3e9588234a63.webp 760w,
+               /project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_9b11f4ad80ca5f50f1b3f764d2856009.webp&#34;
+               width=&#34;75%&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;Ice sheets are generally advection dominated, but the scale varies depending on the setting. Take an ice divide, where flow is downward at ~0.1 m/yr and ice is ~2 km thick, then in the vertical  $ Pe $  ~ 1-10, only slightly favoring advection. Thinking instead in the horizontal, across the spatial scales of an ice sheet, diffusion is entirely ineffective. Ice streams flow at ~100-1000 m/yr across effective length scales of many ice thicknesses, say 10-50 km, then in the horizontal  $ Pe $  ~ 10&lt;sup&gt;4&lt;/sup&gt;-10&lt;sup&gt;6&lt;/sup&gt;. In cases like this, processes can be ignored entirely often simplifying modeling or engineering applications.&lt;/p&gt;
 &lt;p&gt;In an ice-stream shear margin, there are four critical processes which control ice temperature, diffusion, vertical advection accosicated with new snow deposited at the surface, heat generation from the friction in plane shear, and downstream or cross-margin advection sourcing cold ice from outside the shear margin. The first two processes are compared using the standard  $ Pe $  number which in this case (as above) is larger than 1 but only slightly. With the third process we introduce a new dimensionless number, the &lt;em&gt;Brinkmann Number&lt;/em&gt; which compares heat generation to diffusion,&lt;/p&gt;
 
@@ -360,7 +385,7 @@ $$
 St = \frac{c\Delta T}{L}
 $$
 
-&lt;p&gt;where sensible heat (heat capacity,  $ c $ , times the temperature gradient,  $ \Delta T $ ), is compared to latent heat ( $ L $ ). When  $ St&gt;&gt;1 $  heat is rapidly supplied to the phase boundary so it moves quickly. When  $ St&lt;&lt;1 $  the phase boundary is not supplied with sufficient energy to transition so it moves slowly.&lt;/p&gt;
+&lt;p&gt;where sensible heat (heat capacity,  $ c $ , times the temperature gradient,  $ \Delta T $ ), is compared to latent heat ( $ L $ ). When  $ St\gg1 $  heat is rapidly supplied to the phase boundary so it moves quickly. When  $ St\ll 1 $  the phase boundary is not supplied with sufficient energy to transition so it moves slowly.&lt;/p&gt;
 &lt;p&gt;In a slightly more complicated scenario solute is introduced to the liquid, suppressing the melting point at the phase boundary. We call this an &lt;em&gt;extended Stefan Problem&lt;/em&gt;. Here, not only does heat need to be evacuated from the phase boundary for the freezing front to step forward, but solute also needs to be rejected from the fluid. Generally, rates of solute diffusion are &lt;em&gt;much&lt;/em&gt; slower than thermal diffusion, so it becomes a dominant process. The two diffusion rates are compared with the &lt;em&gt;Lewis number&lt;/em&gt;,&lt;/p&gt;
 
 $$ 
@@ -614,12 +639,12 @@ $$
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/alpine-glaciology/density_huf05030a58e8aff8d360968ae77f02beb_210548_0624e3e934181d19c7d9abc6bad4275f.webp 400w,
-               /project/alpine-glaciology/density_huf05030a58e8aff8d360968ae77f02beb_210548_d6fb44375a3cdd08988d89594723f9d5.webp 760w,
-               /project/alpine-glaciology/density_huf05030a58e8aff8d360968ae77f02beb_210548_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/alpine-glaciology/density_huf05030a58e8aff8d360968ae77f02beb_210548_0624e3e934181d19c7d9abc6bad4275f.webp&#34;
+               /project/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_ca42cb50c7145ad115977f5be3c47949.webp 400w,
+               /project/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_2e41a6b6315ece17bfac126de900ce03.webp 760w,
+               /project/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_ca42cb50c7145ad115977f5be3c47949.webp&#34;
                width=&#34;760&#34;
-               height=&#34;567&#34;
+               height=&#34;574&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h2 id=&#34;geophysical-mass-balance-methods&#34;&gt;Geophysical Mass Balance Methods&lt;/h2&gt;

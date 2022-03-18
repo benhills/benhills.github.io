@@ -826,7 +826,32 @@ $$
 Pe = \frac{vL}{\alpha}
 $$
 
-<p>where  $ v $  is the fluid velocity,  $ L $  is the characteristic length scale, and  $ \alpha $  is the thermal diffusivity (a material constant). In a diffusion-dominated system, the thermal diffusivity is larger than the velocity times length scale, so  $ Pe < 1 $ , as is the case in microfluidics with a slow-moving non-turbulent fluid moving through a small channel. Fluid systems are more commonly advection dominated, especially in Earth science applications, think river, ocean current, or even ice stream, with  $ Pe >> 1 $ .</p>
+<p>where  $ v $  is the fluid velocity,  $ L $  is the characteristic length scale, and  $ \alpha $  is the thermal diffusivity (a material constant). In a diffusion-dominated system, the thermal diffusivity is larger than the velocity times length scale, so  $ Pe < 1 $ , as is the case in microfluidics with a slow-moving non-turbulent fluid moving through a small channel. Fluid systems are more commonly advection dominated, especially in Earth science applications, think river, ocean current, or even ice stream, with  $ Pe \ll 1 $ .</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_9b11f4ad80ca5f50f1b3f764d2856009.webp 400w,
+               /project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_b795a6cf6c9752c39a6b3e9588234a63.webp 760w,
+               /project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_9b11f4ad80ca5f50f1b3f764d2856009.webp"
+               width="75%"
+               height="760"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
 <p>Ice sheets are generally advection dominated, but the scale varies depending on the setting. Take an ice divide, where flow is downward at ~0.1 m/yr and ice is ~2 km thick, then in the vertical  $ Pe $  ~ 1-10, only slightly favoring advection. Thinking instead in the horizontal, across the spatial scales of an ice sheet, diffusion is entirely ineffective. Ice streams flow at ~100-1000 m/yr across effective length scales of many ice thicknesses, say 10-50 km, then in the horizontal  $ Pe $  ~ 10<sup>4</sup>-10<sup>6</sup>. In cases like this, processes can be ignored entirely often simplifying modeling or engineering applications.</p>
 <p>In an ice-stream shear margin, there are four critical processes which control ice temperature, diffusion, vertical advection accosicated with new snow deposited at the surface, heat generation from the friction in plane shear, and downstream or cross-margin advection sourcing cold ice from outside the shear margin. The first two processes are compared using the standard  $ Pe $  number which in this case (as above) is larger than 1 but only slightly. With the third process we introduce a new dimensionless number, the <em>Brinkmann Number</em> which compares heat generation to diffusion,</p>
 
@@ -873,7 +898,7 @@ $$
 St = \frac{c\Delta T}{L}
 $$
 
-<p>where sensible heat (heat capacity,  $ c $ , times the temperature gradient,  $ \Delta T $ ), is compared to latent heat ( $ L $ ). When  $ St>>1 $  heat is rapidly supplied to the phase boundary so it moves quickly. When  $ St<<1 $  the phase boundary is not supplied with sufficient energy to transition so it moves slowly.</p>
+<p>where sensible heat (heat capacity,  $ c $ , times the temperature gradient,  $ \Delta T $ ), is compared to latent heat ( $ L $ ). When  $ St\gg1 $  heat is rapidly supplied to the phase boundary so it moves quickly. When  $ St\ll 1 $  the phase boundary is not supplied with sufficient energy to transition so it moves slowly.</p>
 <p>In a slightly more complicated scenario solute is introduced to the liquid, suppressing the melting point at the phase boundary. We call this an <em>extended Stefan Problem</em>. Here, not only does heat need to be evacuated from the phase boundary for the freezing front to step forward, but solute also needs to be rejected from the fluid. Generally, rates of solute diffusion are <em>much</em> slower than thermal diffusion, so it becomes a dominant process. The two diffusion rates are compared with the <em>Lewis number</em>,</p>
 
 $$ 
