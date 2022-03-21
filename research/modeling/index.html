@@ -1,0 +1,1266 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.4.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Benjamin Hills" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Physics-based models of fluid flow, heat transfer, etc." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://example.com/research/modeling/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.d3fbabf3e02f0a40f84592dd992c35ca.css" />
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://example.com/research/modeling/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@wowchemy" />
+    <meta property="twitter:creator" content="@wowchemy" />
+  
+  <meta property="og:site_name" content="Benjamin Hills" />
+  <meta property="og:url" content="https://example.com/research/modeling/" />
+  <meta property="og:title" content="Modeling | Benjamin Hills" />
+  <meta property="og:description" content="Physics-based models of fluid flow, heat transfer, etc." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2022-01-08T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2022-01-08T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Modeling | Benjamin Hills</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="b5bcca70d23d26aee103b54231add29f" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.d5094052a6270c81ab9495f4173f87a9.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Benjamin Hills</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Benjamin Hills</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#research"><span>Research</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#blog"><span>Blog</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#photos"><span>Photos</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#publications"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Modeling</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 8, 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h2 id="nondimensional-numbers">Nondimensional Numbers</h2>
+<p>Physics problems are commonly &rsquo;nondimensionalized&rsquo; in order to compare the scale of two processes. As an example, take the <em>Peclet number</em> which compares thermal advection (convection) to thermal diffusion (conduction) in a moving fluid,</p>
+
+$$ 
+Pe = \frac{vL}{\alpha}
+$$
+
+<p>where  $ v $  is the fluid velocity,  $ L $  is the characteristic length scale, and  $ \alpha $  is the thermal diffusivity (a material constant). In a diffusion-dominated system, the thermal diffusivity is larger than the velocity time length scale, so  $ Pe < 1 $ , as is the case in microfluidics with a slow-moving non-turbulent fluid moving through a small channel. Fluid systems are more commonly advection dominated, especially in Earth science applications, think river, ocean current, or even ice stream, with  $ Pe \gg 1 $ .</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /research/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_9b11f4ad80ca5f50f1b3f764d2856009.webp 400w,
+               /research/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_b795a6cf6c9752c39a6b3e9588234a63.webp 760w,
+               /research/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/research/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_9b11f4ad80ca5f50f1b3f764d2856009.webp"
+               width="75%"
+               height="760"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<p>Ice sheets are generally advection dominated, but the scale varies depending on the setting. Take an ice divide, where flow is downward at ~0.1 m/yr and ice is ~2 km thick, then in the vertical  $ Pe $  ~ 1-10, only slightly favoring advection. Thinking instead in the horizontal, across the spatial scales of an ice sheet, diffusion is entirely ineffective. Ice streams flow at ~100-1000 m/yr across effective length scales of many ice thicknesses, say 10-50 km, then in the horizontal  $ Pe $  ~ 10<sup>4</sup>-10<sup>6</sup>. In cases like this, where the nondimensional number is very far from 1, processes can be ignored entirely often simplifying modeling or engineering applications.</p>
+<p>In an ice-stream shear margin, there are four critical processes which control ice temperature: diffusion, vertical advection associated with new snow deposited at the surface, heat generation from the friction in plane shear, and downstream or cross-margin advection sourcing cold ice from outside the shear margin. The first two processes are compared using the standard  $ Pe $  number which in this case (as above) is larger than 1 but only slightly. With the third process we introduce a new dimensionless number, the <em>Brinkmann Number</em> which compares heat generation to diffusion,</p>
+
+$$ 
+Br = \frac{QH^2}{k\Delta T}
+$$
+
+<p>These are generally large in an ice-stream shear margin, so much that without considering any other processes the shear margin would be mostly temperate ice. However, we know that cold ice is constantly moving through the system. We nondimensionalize this through what I am calling <em>Meyer&rsquo;s Lambda</em></p>
+
+$$ 
+\Lambda = \frac{H}{\alpha \Delta T} \int_0^H u \frac{\partial T}{\partial x} dz
+$$
+
+<p>We found that in a shear margin at Antarctica&rsquo;s Siple Coast  $ Br $  is only slightly larger than  $ \Lambda $ , so ice temperatures should be warmer than the surrounding ice but not necessarily temperate.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /research/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_d83ae8434dd6b869f8487e28e1451f7a.webp 400w,
+               /research/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_790f7400d3c9615a1dd277f877ca5041.webp 760w,
+               /research/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/research/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_d83ae8434dd6b869f8487e28e1451f7a.webp"
+               width="760"
+               height="543"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<h2 id="phase-boundary-problems">Phase-Boundary Problems</h2>
+<p>One of the reasons the water molecule is so interesting is that both the melting point and the boiling point are within our range of experienced temperatures. Studying the transition between phases, in particular the ice-water transition, leads us to track how the boundary moves in time. Mathematical models which simulate these conditions solve the so-called <em>Stefan Problem</em> which has another nondimensional number, the <em>Stefan number</em>,</p>
+
+$$ 
+St = \frac{c\Delta T}{L}
+$$
+
+<p>where sensible heat (heat capacity, $c$, times the temperature gradient, $\Delta T$), is compared to latent heat ($L$). When  $St\gg1$  heat is rapidly supplied to the phase boundary, so it moves quickly. When $ St\ll1$ the phase boundary is not supplied with sufficient energy to transition, so it moves slowly.</p>
+<p>In a slightly more complicated scenario solute is introduced to the liquid, suppressing the melting point at the phase boundary. We call this an <em>extended Stefan Problem</em>. Here, not only does heat need to be evacuated from the phase boundary for the freezing front to step forward, but solute also needs to be rejected from the fluid. Generally, rates of solute diffusion are <em>much</em> slower than thermal diffusion, so it becomes a dominant process. The two diffusion rates are compared with the <em>Lewis number</em>,</p>
+
+$$ 
+Le = \frac{\alpha}{D}
+$$
+
+<p>where representative length scales for diffusion are $\sqrt{\alpha t}$ for thermal and $\sqrt{D t}$ for molecular diffusion of the solute.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /research/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_27ccbea9029f20bcb25906fe0561e879.webp 400w,
+               /research/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_11c4dc78b44ff12257c6eb868fefc44c.webp 760w,
+               /research/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/research/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_27ccbea9029f20bcb25906fe0561e879.webp"
+               width="50%"
+               height="760"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+<p>An example where both thermal and solute diffusion are at play is in sea-ice formation where ice freezes at the boundary between a cold atmosphere and a salty ocean. We applied this theory in cylindrical coordinates for refreezing of glacier boreholes when filled with an antifreeze solution.</p>
+<h2 id="ice-sheet-modeling">Ice-Sheet Modeling</h2>
+<p>Most of my modeling work has been to isolate and explain physical processes, as above. However, a large component of the modeling community works to directly simulate the real-world behavior at the scale of an ice sheet.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-example-finite-element-mesh-of-greenaland-from-mpashttpmpas-devgithubio">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Example finite-element mesh of Greenaland from [MPAS](http://mpas-dev.github.io/)." srcset="
+               /research/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_2810eb026ca58d30c937634047eb80cb.webp 400w,
+               /research/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_a1a255fe7efab1723ef8f44b8735cb0a.webp 760w,
+               /research/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/research/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_2810eb026ca58d30c937634047eb80cb.webp"
+               width="30%"
+               height="760"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Example finite-element mesh of Greenaland from <a href="http://mpas-dev.github.io/" target="_blank" rel="noopener">MPAS</a>.
+    </figcaption></figure>
+<p>As a collaboration with Dr. Matthew Hoffman of Los Alamos National Laboratory, I used the Model for Precision Across Scales (MPAS) to couple fluid flow beneath an ice sheet to the dynamics of the ice sheet itself. In essense, high pressure within the subglacial hydrologic system lifts the ice sheet off its substrate, allowing it to move faster. I have also done some work with Dr. Daniel Shapero on his finite-element ice-sheet model icepack. We are interested in simulating how ice dynamics effect the development of ice temperature and crystal orientation fabric.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-example-results-from-idealized-experiments-using-mpas">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Example results from idealized experiments using MPAS." srcset="
+               /research/modeling/mpas-results_huf7dc2de23686106c1182ca27dd753964_501905_c60b4740e4290229f0f7a2e6790933bd.webp 400w,
+               /research/modeling/mpas-results_huf7dc2de23686106c1182ca27dd753964_501905_37cf35d7018e5da1dfff008255ae9c09.webp 760w,
+               /research/modeling/mpas-results_huf7dc2de23686106c1182ca27dd753964_501905_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/research/modeling/mpas-results_huf7dc2de23686106c1182ca27dd753964_501905_c60b4740e4290229f0f7a2e6790933bd.webp"
+               width="760"
+               height="285"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Example results from idealized experiments using MPAS.
+    </figcaption></figure>
+
+    </div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://example.com/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu27f7dc34c9db8fd2b063f3fba6be9864_1139943_270x270_fill_q75_lanczos_center.jpg" alt="Benjamin Hills"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://example.com/">Benjamin Hills</a></h5>
+      <h6 class="card-subtitle">PhD Student</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:bhills@uw.edu" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=VjPBuycAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/0xboodle" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/benhills" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0003-4490-7416" target="_blank" rel="noopener">
+        <i class="fab fa-orcid"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <font size="-1">
+<center>
+
+©<script>document.write(/\d{4}/.exec(Date())[0])</script>
+licensed under
+<a href="https://creativecommons.org/licenses/by-nc-nd/4.0" target="_blank">CC BY NC ND 4.0</a>
+
+<br>
+
+Designed and published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank">Wowchemy</a>
+
+</center>
+</font>
+
+    </div>
+    
+  </div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.3d946de2e8784a477845261d87025092.js"></script>
+
+    
+    
+    
+      
+      
+        <script src="https://cdn.jsdelivr.net/gh/desandro/imagesloaded@v4.1.4/imagesloaded.pkgd.min.js" integrity="sha512-S5PZ9GxJZO16tT9r3WJp/Safn31eu8uWrzglMahDT4dsmgqWonRY9grk3j+3tfuPr9WJNsfooOR7Gi7HL5W2jw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/metafizzy/isotope@v3.0.6/dist/isotope.pkgd.min.js" integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/r.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/latex.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+
+    
+    
+    
+    <script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+    
+    
+      <script src="/js/wowchemy-headroom.e8fd2d733eef6a8bbbe0539398fc0547.js" type="module"></script>
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.a2ed145159dd33ad55ff402163350b5d.js"></script>
+
+    
+    
+    
+    
+    
+    
+      
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      <script src="/js/wowchemy-publication.b0d291ed6d27eacec233e6cf5204f99a.js" type="module"></script>
+
+
+
+
+
+
+</body>
+</html>

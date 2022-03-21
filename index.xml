@@ -334,10 +334,10 @@
     
     <item>
       <title>Ice Temperature</title>
-      <link>https://example.com/project/ice-temperature/</link>
+      <link>https://example.com/research/ice-temperature/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/ice-temperature/</guid>
-      <description>&lt;p&gt;Temperatures of glacier ice range from ~ -60-0°C, which corresponds to a viscosity range over three orders of magnitude. Ice is generally warmest at the glacier bed, being heated by the energy flux from the Earth&amp;rsquo;s interior, and coldest near the surface where ice is in equilibrium with the mean air temperature. Heat moves between those two boundaries through the processes of diffusion (spreading out) and advection (transport through flow of the ice itself). Because the length scale for thermal diffusion in ice is long, deviations in ice temperature can be preserved for thousands of years.&lt;/p&gt;
+      <guid>https://example.com/research/ice-temperature/</guid>
+      <description>&lt;p&gt;Temperatures of glacier ice range from ~ -60-0°C, which corresponds to a viscosity range over three orders of magnitude. Ice is generally warmest at the glacier bed, being heated by the energy flux from Earth&amp;rsquo;s interior, and coldest near the glacier surface where ice is in equilibrium with the mean air temperature. Heat moves between those two boundaries through the processes of diffusion (spreading out) and advection (transport by flow of the ice itself). Because the length scale for thermal diffusion in ice is long, deviations in ice temperature can be preserved for thousands of years.&lt;/p&gt;
 
 
 
@@ -355,17 +355,17 @@
 &lt;figure  id=&#34;figure-characteristic-length-scale-of-thermal-diffusion-in-ice-temperature-variations-can-be-persistent-for-hundreds-of-years-in-alpine-glaciers-and-for-thousands-to-even-tens-of-thousands-of-years-in-the-greenland-and-antarctic-ice-sheets&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Characteristic length scale of thermal diffusion in ice. Temperature variations can be persistent for hundreds of years in alpine glaciers and for thousands to even tens of thousands of years in the Greenland and Antarctic Ice Sheets.&#34; srcset=&#34;
-               /project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_beac3cb7e04314905bfd229bb30c6295.webp 400w,
-               /project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_c204d6e1207e3840b8d602147ce60bdd.webp 760w,
-               /project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_beac3cb7e04314905bfd229bb30c6295.webp&#34;
+               /research/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_beac3cb7e04314905bfd229bb30c6295.webp 400w,
+               /research/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_c204d6e1207e3840b8d602147ce60bdd.webp 760w,
+               /research/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/research/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_beac3cb7e04314905bfd229bb30c6295.webp&#34;
                width=&#34;50%&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Characteristic length scale of thermal diffusion in ice. Temperature variations can be persistent for hundreds of years in alpine glaciers and for thousands to even tens of thousands of years in the Greenland and Antarctic Ice Sheets.
     &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;p&gt;We measure ice temperature directly by drilling into it, installing in-situ instrumentation, and letting the hole freeze in on the instruments. The heat from drilling dissipates on the order of ~months and thereafter instruments measure the representative ice temperature. Ice-temperature measurements made at slow-moving, accumulation-dominated, ice divide locations (e.g. Greenland Ice Core Project, WAIS Divide) are used to infer past air temperatures. The past climate is preserved within the ice because the frequency of those climate changes is within the time scale for thermal diffusion. We also measure temperature deviations within the faster moving ice-stream shear margins (more below) and the melt-dominated ablation zone. In the ablation zone, surface meltwater is plentifully available and transports latent heat when it penetrates into a crevasse or through a moulin to the ice-sheet bed.&lt;/p&gt;
+&lt;p&gt;We measure ice temperature directly by drilling into it, installing in-situ instrumentation, and letting the hole freeze in on the instruments. The heat from drilling dissipates on the order of ~months and thereafter instruments measure the representative temperature. Ice-temperature measurements made at slow-moving, accumulation-dominated, ice divide locations (e.g. Greenland Ice Core Project, WAIS Divide) can be used to infer past air temperatures. The past climate is preserved within the ice because the frequency of those climate changes is within the time scale for thermal diffusion. We also measure temperature deviations within the faster moving ice-stream shear margins (more below) and the melt-dominated ablation zone. In the ablation zone, surface meltwater is plentifully available and transports latent heat when it penetrates into a crevasse or through a moulin to the ice-sheet bed.&lt;/p&gt;
 
 
 
@@ -383,17 +383,17 @@
 &lt;figure  id=&#34;figure-ice-temperature-deviations-measured-in-a-cube-of-greenland-ice&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Ice temperature deviations measured in a cube of Greenland ice.&#34; srcset=&#34;
-               /project/ice-temperature/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_26b6469ab0c4684537525001fa150720.webp 400w,
-               /project/ice-temperature/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_7750f8614013696d646369f2266b5f8e.webp 760w,
-               /project/ice-temperature/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/ice-temperature/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_26b6469ab0c4684537525001fa150720.webp&#34;
+               /research/ice-temperature/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_26b6469ab0c4684537525001fa150720.webp 400w,
+               /research/ice-temperature/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_7750f8614013696d646369f2266b5f8e.webp 760w,
+               /research/ice-temperature/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/research/ice-temperature/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_26b6469ab0c4684537525001fa150720.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Ice temperature deviations measured in a cube of Greenland ice.
     &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;p&gt;In highly dynamic areas, heat is generated within the ice column through friction as the ice defoms. Warmer ice means a lower viscosity, more deformation, and thus more heat production, creating a positive feedback loop. We argue that this feedback is suppressed by cold ice moving through the system that was source from higher and colder regions.&lt;/p&gt;
+&lt;p&gt;In highly dynamic areas, heat is generated within the ice column through friction as the ice defoms. Warmer ice means a lower viscosity, more deformation, and thus more heat production, creating a positive feedback loop. Some studies even argue that much of the ice in an ice-stream shear margin is at the pressure-melting point. We found that this feedback is suppressed by cold ice moving through the system, ice that was source from higher and colder regions.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -411,10 +411,10 @@
 &lt;figure  id=&#34;figure-whillans-ice-stream-drainage-area-downstream-gradients-in-the-parameters-that-effect-ice-temperature&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Whillans Ice Stream drainage area. Downstream gradients in the parameters that effect ice temperature.&#34; srcset=&#34;
-               /project/ice-temperature/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_6aa2b60f4c45dd69d3eca84dc021aa2b.webp 400w,
-               /project/ice-temperature/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_864c74954cf23094136a41a43a2534b8.webp 760w,
-               /project/ice-temperature/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/ice-temperature/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_6aa2b60f4c45dd69d3eca84dc021aa2b.webp&#34;
+               /research/ice-temperature/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_6aa2b60f4c45dd69d3eca84dc021aa2b.webp 400w,
+               /research/ice-temperature/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_864c74954cf23094136a41a43a2534b8.webp 760w,
+               /research/ice-temperature/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/research/ice-temperature/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_6aa2b60f4c45dd69d3eca84dc021aa2b.webp&#34;
                width=&#34;760&#34;
                height=&#34;228&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -438,10 +438,10 @@
 &lt;figure  id=&#34;figure-modeled-ice-temperatures-using-gradients-like-those-above&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Modeled ice temperatures using gradients like those above.&#34; srcset=&#34;
-               /project/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_6b9e0b305d76b6655608848ad5185d75.webp 400w,
-               /project/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_1cd70c154c5ac692a548edfe5199b10a.webp 760w,
-               /project/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_6b9e0b305d76b6655608848ad5185d75.webp&#34;
+               /research/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_6b9e0b305d76b6655608848ad5185d75.webp 400w,
+               /research/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_1cd70c154c5ac692a548edfe5199b10a.webp 760w,
+               /research/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/research/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_6b9e0b305d76b6655608848ad5185d75.webp&#34;
                width=&#34;760&#34;
                height=&#34;338&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -449,13 +449,13 @@
       Modeled ice temperatures using gradients like those above.
     &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h2 id=&#34;radar-attenuation&#34;&gt;Radar Attenuation&lt;/h2&gt;
-&lt;p&gt;Ice temperature can theoretically be measured remotely using radar attenuation. The attenuation rate is dependent on temperature because energy is absorbed through electrical conduction. The function is in the form of an Arrhenius relation,&lt;/p&gt;
+&lt;p&gt;Ice temperature can theoretically be measured remotely using radar attenuation. Attenuation is the result of energy absorption through electrical conduction which is temperature dependent. The function is in the form of an Arrhenius relation,&lt;/p&gt;
 
 $$ 
 N \propto \sigma \propto e^{\frac{-Q}{RT}}
 $$
 
-&lt;p&gt;where the attenuation rate,  $ N $ , is proportional to the electrical conductivity,  $ \sigma $ &lt;/p&gt;
+&lt;p&gt;where the attenuation rate, $N$, is proportional to the electrical conductivity, $\sigma$.&lt;/p&gt;
 
 
 
@@ -473,15 +473,15 @@ $$
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_b816286980811cb7f00d3d12057bf08e.webp 400w,
-               /project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_71be4f756686cf692167855bcadead6e.webp 760w,
-               /project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_b816286980811cb7f00d3d12057bf08e.webp&#34;
+               /research/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_b816286980811cb7f00d3d12057bf08e.webp 400w,
+               /research/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_71be4f756686cf692167855bcadead6e.webp 760w,
+               /research/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/research/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_b816286980811cb7f00d3d12057bf08e.webp&#34;
                width=&#34;50%&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;p&gt;Empirical results for radar attenuation are generally dependent on the system and the empirical method used. Here, I show a result that we found in a single ground-based radar transect that traverses 200 km down the Kamb Ice Stream and up onto Siple Dome. We interpret the reflected power of the wave reflected off the ice-bed interface and calculate attenuation rate as the change in measured bed power with ice thickness. Essentially, if the wave travels through more ice we should measure a weaker return and the rate at which that measured power attenuates is temperature dependent.&lt;/p&gt;
+&lt;p&gt;Empirical results for radar attenuation are generally dependent on the radar system and the empirical method used. Here, I show a result that we found in a single ground-based radar transect that traverses 200 km down the Kamb Ice Stream and up onto Siple Dome. We interpret the reflected power of the wave reflected off the ice-bed interface and calculate attenuation rate as the change in measured bed power with ice thickness. Essentially, if the wave travels through more ice we should measure a weaker return and the rate at which that measured power attenuates is temperature dependent.&lt;/p&gt;
 
 
 
@@ -499,10 +499,10 @@ $$
 &lt;figure  id=&#34;figure-a-strong-contrast-in-measured-radar-attenuation-across-the-shear-margin-between-kamb-ice-stream-and-siple-dome&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A strong contrast in measured radar attenuation across the shear margin between Kamb Ice Stream and Siple Dome.&#34; srcset=&#34;
-               /project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_ad4c817c170e470f0fc2217f8a3cb659.webp 400w,
-               /project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_49df8d0cae8791edbc7c138941f2bb6b.webp 760w,
-               /project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_ad4c817c170e470f0fc2217f8a3cb659.webp&#34;
+               /research/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_ad4c817c170e470f0fc2217f8a3cb659.webp 400w,
+               /research/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_49df8d0cae8791edbc7c138941f2bb6b.webp 760w,
+               /research/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/research/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_ad4c817c170e470f0fc2217f8a3cb659.webp&#34;
                width=&#34;100%&#34;
                height=&#34;380&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -935,10 +935,10 @@ $$
     
     <item>
       <title>Crystal Orientation Fabric</title>
-      <link>https://example.com/project/cof/</link>
+      <link>https://example.com/research/cof/</link>
       <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/cof/</guid>
-      <description>&lt;p&gt;Snow crystals are deposited at random orientation on the glacier surface. In other words, the &amp;lsquo;crystal orientation fabric&amp;rsquo; is initially isotropic (non-directional). As ice flows, crystal c-axes rotate away from the primary extensional axis and toward compression. In places where ice flow is consistent for thousands of years, the bulk fabric becomes anisotropic. Single-pole fabrics with upward-pointing c-axes develop at an ice divide where flow is longitudinal extension. In this case, the ice hardens in the vertical and preserves old ice near the bed. Girdle fabrics develop in an ice-stream shear margin where transverse shear dominates.&lt;/p&gt;
+      <guid>https://example.com/research/cof/</guid>
+      <description>&lt;p&gt;Snow crystals are deposited at random orientation on the glacier surface. In other words, the &amp;lsquo;crystal orientation fabric&amp;rsquo; is initially isotropic (non-directional). As ice flows, crystal c-axes rotate away from the primary extensional axis and toward compression. In places where ice flow is consistent for hundreds or thousands of years, the bulk fabric becomes anisotropic. Single-pole fabrics with upward-pointing c-axes develop at an ice divide where flow is uniform vertical compression and outward extension (new snow continually added at the surface). In this case, the ice hardens in the vertical and preserves old ice near the bed. Horizontal girdle fabrics develop in an ice-stream shear margin where transverse shear dominates.&lt;/p&gt;
 
 
 
@@ -956,17 +956,17 @@ $$
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_0c3363e589866221ac1a378345a36e65.webp 400w,
-               /project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_1a2689c21f8e690fb2f7c86850a2710a.webp 760w,
-               /project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_0c3363e589866221ac1a378345a36e65.webp&#34;
+               /research/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_0c3363e589866221ac1a378345a36e65.webp 400w,
+               /research/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_1a2689c21f8e690fb2f7c86850a2710a.webp 760w,
+               /research/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/research/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_0c3363e589866221ac1a378345a36e65.webp&#34;
                width=&#34;75%&#34;
                height=&#34;617&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;p&gt;Deformation of ice is a result of primarily defect propagation along the crystal&amp;rsquo;s basal plane. This process is directional, defects do not propagate as easily in the direction of the crystal c-axis; therefore, ice viscosity is orientation dependent with the softest ice aligned with the basal plane. When a strong crystal fabric develops, the bulk ice viscosity can change by ~2 orders of magnitude.&lt;/p&gt;
+&lt;p&gt;Deformation of ice is a result of primarily defect propagation along the crystal&amp;rsquo;s basal plane. This process is directional, defects do not propagate as easily in the direction of the crystal c-axis; therefore, ice viscosity is orientation dependent with the softest ice aligned with the basal plane. When a strong crystal fabric develops, the bulk ice viscosity can change by ~2 orders of magnitude. This can lead to a feedback where a consistent strain pattern leads to development of a crystal fabric which softens the ice and leads to additional strain.&lt;/p&gt;
 &lt;h2 id=&#34;radar-polarimetry&#34;&gt;Radar Polarimetry&lt;/h2&gt;
-&lt;p&gt;The electrical properties of ice are also orientation dependent. Radio waves move faster when propagating perpendicular to the c-axis than parallel. This makes ice what we call a &amp;lsquo;birefringent&amp;rsquo; material.&lt;/p&gt;
+&lt;p&gt;The electrical properties of ice are also orientation dependent. Radio waves move faster (smaller permittivity, $\epsilon$) when polarized parallel to the c-axis than perpendicular. This makes ice what we call a &amp;lsquo;birefringent&amp;rsquo; material.&lt;/p&gt;
 
 
 
@@ -984,15 +984,15 @@ $$
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/cof/birefringence_hu273f152f4fdc7fccf1d796eab7f54a1a_210533_2c317a9317980bd09a01948fc5b5b694.webp 400w,
-               /project/cof/birefringence_hu273f152f4fdc7fccf1d796eab7f54a1a_210533_b468b73b38336aca49bcb0e858c6a2ba.webp 760w,
-               /project/cof/birefringence_hu273f152f4fdc7fccf1d796eab7f54a1a_210533_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/cof/birefringence_hu273f152f4fdc7fccf1d796eab7f54a1a_210533_2c317a9317980bd09a01948fc5b5b694.webp&#34;
+               /research/cof/birefringence_hu6e33e20b3b03aa3d48feedb4a0dcce8d_193920_9241644c06a616b83aae48fd51e1bbe4.webp 400w,
+               /research/cof/birefringence_hu6e33e20b3b03aa3d48feedb4a0dcce8d_193920_3d234796d5cc70d8c60c5430d68ef384.webp 760w,
+               /research/cof/birefringence_hu6e33e20b3b03aa3d48feedb4a0dcce8d_193920_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/research/cof/birefringence_hu6e33e20b3b03aa3d48feedb4a0dcce8d_193920_9241644c06a616b83aae48fd51e1bbe4.webp&#34;
                width=&#34;50%&#34;
-               height=&#34;677&#34;
+               height=&#34;653&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;p&gt;We can take this material property and use it in a strategy to measure the ice fabric remotely (without sampling the ice directly) using radar polarimetry.&lt;/p&gt;
+&lt;p&gt;We can take this material property and use it in a strategy to measure the ice fabric remotely (without sampling the ice directly) using radar polarimetry. Repeating radar acquisitions in the same location but with a rotated polarization leads to a measured phase shift associated with the varying wave speed. The fabric strength is directly related to the gradient in measured phase difference between the two polarizations.&lt;/p&gt;
 
 
 
@@ -1007,13 +1007,15 @@ $$
 
 
 
-&lt;figure  &gt;
+&lt;figure  id=&#34;figure-four-different-polarizations-from-one-location-plotted-as-radargrams-over-a-range-of-azimuthal-orientations&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;https://example.com/project/cof/Rotational_Offset.gif&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Four different polarizations from one location plotted as radargrams over a range of azimuthal orientations.&#34;
+           src=&#34;https://example.com/research/cof/Rotational_Offset.gif&#34;
            loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;p&gt;We carried out a radar polarimetry experiment at Hercules Dome in order to constrain past and present ice flow there.&lt;/p&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Four different polarizations from one location plotted as radargrams over a range of azimuthal orientations.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;We carried out a radar polarimetry experiment at Hercules Dome in order to constrain past and present ice flow there. The strength and orientation of inferred crystal orientation fabric tells us about the flow paterns in the recent past (~10-20 ka) which we compare to the present day ice dynamics that we can measure directly.&lt;/p&gt;
 
 
 
@@ -1031,10 +1033,10 @@ $$
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/cof/hd-polarimetry_hu9b54af14dbdf0167da5f6a8bdcc332f4_301166_aa0c4c18d0213f6cb3d5b4bdd85b57e4.webp 400w,
-               /project/cof/hd-polarimetry_hu9b54af14dbdf0167da5f6a8bdcc332f4_301166_a58119a63d34a86b15bca136386ca4b2.webp 760w,
-               /project/cof/hd-polarimetry_hu9b54af14dbdf0167da5f6a8bdcc332f4_301166_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/cof/hd-polarimetry_hu9b54af14dbdf0167da5f6a8bdcc332f4_301166_aa0c4c18d0213f6cb3d5b4bdd85b57e4.webp&#34;
+               /research/cof/hd-polarimetry_hu9b54af14dbdf0167da5f6a8bdcc332f4_301166_aa0c4c18d0213f6cb3d5b4bdd85b57e4.webp 400w,
+               /research/cof/hd-polarimetry_hu9b54af14dbdf0167da5f6a8bdcc332f4_301166_a58119a63d34a86b15bca136386ca4b2.webp 760w,
+               /research/cof/hd-polarimetry_hu9b54af14dbdf0167da5f6a8bdcc332f4_301166_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/research/cof/hd-polarimetry_hu9b54af14dbdf0167da5f6a8bdcc332f4_301166_aa0c4c18d0213f6cb3d5b4bdd85b57e4.webp&#34;
                width=&#34;760&#34;
                height=&#34;594&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1044,9 +1046,9 @@ $$
     
     <item>
       <title>Modeling</title>
-      <link>https://example.com/project/modeling/</link>
+      <link>https://example.com/research/modeling/</link>
       <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/modeling/</guid>
+      <guid>https://example.com/research/modeling/</guid>
       <description>&lt;h2 id=&#34;nondimensional-numbers&#34;&gt;Nondimensional Numbers&lt;/h2&gt;
 &lt;p&gt;Physics problems are commonly &amp;rsquo;nondimensionalized&amp;rsquo; in order to compare the scale of two processes. As an example, take the &lt;em&gt;Peclet number&lt;/em&gt; which compares thermal advection (convection) to thermal diffusion (conduction) in a moving fluid,&lt;/p&gt;
 
@@ -1054,7 +1056,7 @@ $$
 Pe = \frac{vL}{\alpha}
 $$
 
-&lt;p&gt;where  $ v $  is the fluid velocity,  $ L $  is the characteristic length scale, and  $ \alpha $  is the thermal diffusivity (a material constant). In a diffusion-dominated system, the thermal diffusivity is larger than the velocity times length scale, so  $ Pe &lt; 1 $ , as is the case in microfluidics with a slow-moving non-turbulent fluid moving through a small channel. Fluid systems are more commonly advection dominated, especially in Earth science applications, think river, ocean current, or even ice stream, with  $ Pe \ll 1 $ .&lt;/p&gt;
+&lt;p&gt;where  $ v $  is the fluid velocity,  $ L $  is the characteristic length scale, and  $ \alpha $  is the thermal diffusivity (a material constant). In a diffusion-dominated system, the thermal diffusivity is larger than the velocity time length scale, so  $ Pe &lt; 1 $ , as is the case in microfluidics with a slow-moving non-turbulent fluid moving through a small channel. Fluid systems are more commonly advection dominated, especially in Earth science applications, think river, ocean current, or even ice stream, with  $ Pe \gg 1 $ .&lt;/p&gt;
 
 
 
@@ -1072,16 +1074,16 @@ $$
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_9b11f4ad80ca5f50f1b3f764d2856009.webp 400w,
-               /project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_b795a6cf6c9752c39a6b3e9588234a63.webp 760w,
-               /project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_9b11f4ad80ca5f50f1b3f764d2856009.webp&#34;
+               /research/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_9b11f4ad80ca5f50f1b3f764d2856009.webp 400w,
+               /research/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_b795a6cf6c9752c39a6b3e9588234a63.webp 760w,
+               /research/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/research/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_9b11f4ad80ca5f50f1b3f764d2856009.webp&#34;
                width=&#34;75%&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;p&gt;Ice sheets are generally advection dominated, but the scale varies depending on the setting. Take an ice divide, where flow is downward at ~0.1 m/yr and ice is ~2 km thick, then in the vertical  $ Pe $  ~ 1-10, only slightly favoring advection. Thinking instead in the horizontal, across the spatial scales of an ice sheet, diffusion is entirely ineffective. Ice streams flow at ~100-1000 m/yr across effective length scales of many ice thicknesses, say 10-50 km, then in the horizontal  $ Pe $  ~ 10&lt;sup&gt;4&lt;/sup&gt;-10&lt;sup&gt;6&lt;/sup&gt;. In cases like this, processes can be ignored entirely often simplifying modeling or engineering applications.&lt;/p&gt;
-&lt;p&gt;In an ice-stream shear margin, there are four critical processes which control ice temperature, diffusion, vertical advection accosicated with new snow deposited at the surface, heat generation from the friction in plane shear, and downstream or cross-margin advection sourcing cold ice from outside the shear margin. The first two processes are compared using the standard  $ Pe $  number which in this case (as above) is larger than 1 but only slightly. With the third process we introduce a new dimensionless number, the &lt;em&gt;Brinkmann Number&lt;/em&gt; which compares heat generation to diffusion,&lt;/p&gt;
+&lt;p&gt;Ice sheets are generally advection dominated, but the scale varies depending on the setting. Take an ice divide, where flow is downward at ~0.1 m/yr and ice is ~2 km thick, then in the vertical  $ Pe $  ~ 1-10, only slightly favoring advection. Thinking instead in the horizontal, across the spatial scales of an ice sheet, diffusion is entirely ineffective. Ice streams flow at ~100-1000 m/yr across effective length scales of many ice thicknesses, say 10-50 km, then in the horizontal  $ Pe $  ~ 10&lt;sup&gt;4&lt;/sup&gt;-10&lt;sup&gt;6&lt;/sup&gt;. In cases like this, where the nondimensional number is very far from 1, processes can be ignored entirely often simplifying modeling or engineering applications.&lt;/p&gt;
+&lt;p&gt;In an ice-stream shear margin, there are four critical processes which control ice temperature: diffusion, vertical advection associated with new snow deposited at the surface, heat generation from the friction in plane shear, and downstream or cross-margin advection sourcing cold ice from outside the shear margin. The first two processes are compared using the standard  $ Pe $  number which in this case (as above) is larger than 1 but only slightly. With the third process we introduce a new dimensionless number, the &lt;em&gt;Brinkmann Number&lt;/em&gt; which compares heat generation to diffusion,&lt;/p&gt;
 
 $$ 
 Br = \frac{QH^2}{k\Delta T}
@@ -1111,10 +1113,10 @@ $$
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_d83ae8434dd6b869f8487e28e1451f7a.webp 400w,
-               /project/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_790f7400d3c9615a1dd277f877ca5041.webp 760w,
-               /project/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_d83ae8434dd6b869f8487e28e1451f7a.webp&#34;
+               /research/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_d83ae8434dd6b869f8487e28e1451f7a.webp 400w,
+               /research/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_790f7400d3c9615a1dd277f877ca5041.webp 760w,
+               /research/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/research/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_d83ae8434dd6b869f8487e28e1451f7a.webp&#34;
                width=&#34;760&#34;
                height=&#34;543&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1126,13 +1128,14 @@ $$
 St = \frac{c\Delta T}{L}
 $$
 
-&lt;p&gt;where sensible heat (heat capacity,  $ c $ , times the temperature gradient,  $ \Delta T $ ), is compared to latent heat ( $ L $ ). When  $ St\gg1 $  heat is rapidly supplied to the phase boundary so it moves quickly. When  $ St\ll 1 $  the phase boundary is not supplied with sufficient energy to transition so it moves slowly.&lt;/p&gt;
+&lt;p&gt;where sensible heat (heat capacity, $c$, times the temperature gradient, $\Delta T$), is compared to latent heat ($L$). When  $St\gg1$  heat is rapidly supplied to the phase boundary, so it moves quickly. When $ St\ll1$ the phase boundary is not supplied with sufficient energy to transition, so it moves slowly.&lt;/p&gt;
 &lt;p&gt;In a slightly more complicated scenario solute is introduced to the liquid, suppressing the melting point at the phase boundary. We call this an &lt;em&gt;extended Stefan Problem&lt;/em&gt;. Here, not only does heat need to be evacuated from the phase boundary for the freezing front to step forward, but solute also needs to be rejected from the fluid. Generally, rates of solute diffusion are &lt;em&gt;much&lt;/em&gt; slower than thermal diffusion, so it becomes a dominant process. The two diffusion rates are compared with the &lt;em&gt;Lewis number&lt;/em&gt;,&lt;/p&gt;
 
 $$ 
 Le = \frac{\alpha}{D}
 $$
 
+&lt;p&gt;where representative length scales for diffusion are $\sqrt{\alpha t}$ for thermal and $\sqrt{D t}$ for molecular diffusion of the solute.&lt;/p&gt;
 
 
 
@@ -1150,10 +1153,10 @@ $$
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_27ccbea9029f20bcb25906fe0561e879.webp 400w,
-               /project/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_11c4dc78b44ff12257c6eb868fefc44c.webp 760w,
-               /project/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_27ccbea9029f20bcb25906fe0561e879.webp&#34;
+               /research/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_27ccbea9029f20bcb25906fe0561e879.webp 400w,
+               /research/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_11c4dc78b44ff12257c6eb868fefc44c.webp 760w,
+               /research/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/research/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_27ccbea9029f20bcb25906fe0561e879.webp&#34;
                width=&#34;50%&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1175,18 +1178,20 @@ $$
 
 
 
-&lt;figure  &gt;
+&lt;figure  id=&#34;figure-example-finite-element-mesh-of-greenaland-from-mpashttpmpas-devgithubio&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_2810eb026ca58d30c937634047eb80cb.webp 400w,
-               /project/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_a1a255fe7efab1723ef8f44b8735cb0a.webp 760w,
-               /project/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_2810eb026ca58d30c937634047eb80cb.webp&#34;
-               width=&#34;50%&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example finite-element mesh of Greenaland from [MPAS](http://mpas-dev.github.io/).&#34; srcset=&#34;
+               /research/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_2810eb026ca58d30c937634047eb80cb.webp 400w,
+               /research/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_a1a255fe7efab1723ef8f44b8735cb0a.webp 760w,
+               /research/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/research/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_2810eb026ca58d30c937634047eb80cb.webp&#34;
+               width=&#34;30%&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;p&gt;In collaboration with Dr. Matthew Hoffman of Los Alamos National Laboratory, we are using the Model for Precision Across Scales to couple fluid flow beneath an ice sheet to the dynamics of the ice sheet itself. In essense, high pressure within the subglacial hydrologic system lifts the ice sheet off its substrate, allowing it to move faster.&lt;/p&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Example finite-element mesh of Greenaland from &lt;a href=&#34;http://mpas-dev.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MPAS&lt;/a&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;As a collaboration with Dr. Matthew Hoffman of Los Alamos National Laboratory, I used the Model for Precision Across Scales (MPAS) to couple fluid flow beneath an ice sheet to the dynamics of the ice sheet itself. In essense, high pressure within the subglacial hydrologic system lifts the ice sheet off its substrate, allowing it to move faster. I have also done some work with Dr. Daniel Shapero on his finite-element ice-sheet model icepack. We are interested in simulating how ice dynamics effect the development of ice temperature and crystal orientation fabric.&lt;/p&gt;
 
 
 
@@ -1201,28 +1206,29 @@ $$
 
 
 
-&lt;figure  &gt;
+&lt;figure  id=&#34;figure-example-results-from-idealized-experiments-using-mpas&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/modeling/mpas-results_hu68fa19472f804772a4be4f220d1b5236_444227_793b7b935185617cb2e17a23055c8d17.webp 400w,
-               /project/modeling/mpas-results_hu68fa19472f804772a4be4f220d1b5236_444227_0ed3b1913935e94e53b9fad9ed6baeff.webp 760w,
-               /project/modeling/mpas-results_hu68fa19472f804772a4be4f220d1b5236_444227_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/modeling/mpas-results_hu68fa19472f804772a4be4f220d1b5236_444227_793b7b935185617cb2e17a23055c8d17.webp&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example results from idealized experiments using MPAS.&#34; srcset=&#34;
+               /research/modeling/mpas-results_huf7dc2de23686106c1182ca27dd753964_501905_c60b4740e4290229f0f7a2e6790933bd.webp 400w,
+               /research/modeling/mpas-results_huf7dc2de23686106c1182ca27dd753964_501905_37cf35d7018e5da1dfff008255ae9c09.webp 760w,
+               /research/modeling/mpas-results_huf7dc2de23686106c1182ca27dd753964_501905_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/research/modeling/mpas-results_huf7dc2de23686106c1182ca27dd753964_501905_c60b4740e4290229f0f7a2e6790933bd.webp&#34;
                width=&#34;760&#34;
-               height=&#34;573&#34;
+               height=&#34;285&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;p&gt;In collaboration with Dr. Daniel Shapero of the Applied Physics Laboratory, we are simulating how ice dynamics effect the development of ice temperature and crystal orientation fabric.&lt;/p&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Example results from idealized experiments using MPAS.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 </description>
     </item>
     
     <item>
       <title>Geophysical Tool Development</title>
-      <link>https://example.com/project/geophysical-tools/</link>
+      <link>https://example.com/research/geophysical-tools/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/geophysical-tools/</guid>
+      <guid>https://example.com/research/geophysical-tools/</guid>
       <description>&lt;h2 id=&#34;impdar&#34;&gt;ImpDAR&lt;/h2&gt;
-&lt;p&gt;Led by Dr. David Lilien, ImpDAR (Impulse raDAR) is a suite of processing and interpretation tools for impulse radar sounding. The software (&lt;a href=&#34;https://github.com/dlilien/ImpDAR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hosted on github&lt;/a&gt;) is targeted for ice-penetrating radar applications but usable for ground-penetrating radar and associated surveying applications as well. The core processing steps and general terminology come from a set of Matlab scripts developed at St. Olaf College under Dr. Robert Jacobel. Here, everything has been re-written in python and significant improvements to speed, readability, documentation, and interface have been made across the board. Additionally, ImpDAR is intended to be more flexible than other available options. Support is gradually being added for a variety of file formats. Currently, GSSI, PulseEKKO, GPRMax, SEGY, and several custom file formats are supported. Available processing steps include various filtering operations, trivial modifications such as restacking, cropping, or reversing data, geolocation-related operations like interpolating to constant trace spacing, and various migration routines.&lt;/p&gt;
+&lt;p&gt;Led by Dr. David Lilien, ImpDAR (Impulse raDAR) is a suite of processing and interpretation tools for impulse radar sounding. The software (hosted on &lt;a href=&#34;https://github.com/dlilien/ImpDAR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;) is targeted for ice-penetrating radar applications but usable for ground-penetrating radar and associated surveying applications as well. The core processing steps and general terminology come from a set of Matlab scripts developed at St. Olaf College under Dr. Robert Jacobel. Here, everything has been re-written in python and significant improvements to speed, readability, documentation, and interface have been made across the board. Additionally, ImpDAR is intended to be more flexible than other available options. Support is gradually being added for a variety of file formats. Currently, GSSI, PulseEKKO, GPRMax, SEGY, and several custom file formats are supported. Available processing steps include various filtering operations, trivial modifications such as restacking, cropping, or reversing data, geolocation-related operations like interpolating to constant trace spacing, and various migration routines.&lt;/p&gt;
 &lt;p&gt;In addition to processing, ImpDAR can also be used for interpreting radargrams (i.e. picking layers). Picking is generally an interactive process, so there is a GUI for carrying out the semi-automated picking procedure. Each picked layer is saved with variables for both the depth and picked power (i.e. the root-mean-square amplitude). The GUI also allows for basic processing steps, with the updates happening to the plot in real time to aid the picking process. We are also developing an automated picking algorithm that will ideally pick both internal layers and the bed reflector.&lt;/p&gt;
 
 
@@ -1241,10 +1247,10 @@ $$
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_35481a88845e3d15a3f736c9c58b3a8c.webp 400w,
-               /project/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_d10d4dc68ef138846c8f52375b9f1a97.webp 760w,
-               /project/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_35481a88845e3d15a3f736c9c58b3a8c.webp&#34;
+               /research/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_35481a88845e3d15a3f736c9c58b3a8c.webp 400w,
+               /research/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_d10d4dc68ef138846c8f52375b9f1a97.webp 760w,
+               /research/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/research/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_35481a88845e3d15a3f736c9c58b3a8c.webp&#34;
                width=&#34;750&#34;
                height=&#34;750&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1267,10 +1273,10 @@ $$
 &lt;figure  id=&#34;figure-repeat-apres-acquisition-showing-motion-phase-offset-of-measured-reflectors&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Repeat ApRES acquisition, showing motion (phase offset) of measured reflectors.&#34; srcset=&#34;
-               /project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_5ca1cae0709d5aa41c41dbaf70d33a25.webp 400w,
-               /project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_a9789dea67f75c3931103264078511bd.webp 760w,
-               /project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_5ca1cae0709d5aa41c41dbaf70d33a25.webp&#34;
+               /research/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_5ca1cae0709d5aa41c41dbaf70d33a25.webp 400w,
+               /research/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_a9789dea67f75c3931103264078511bd.webp 760w,
+               /research/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/research/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_5ca1cae0709d5aa41c41dbaf70d33a25.webp&#34;
                width=&#34;640&#34;
                height=&#34;480&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1295,10 +1301,10 @@ $$
 &lt;figure  id=&#34;figure-impdar-prosessing-flow-for-apres-polarimetry&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;ImpDAR prosessing flow for ApRES polarimetry.&#34; srcset=&#34;
-               /project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_0fb2735174228d3741b93be029d99bc7.webp 400w,
-               /project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_21845feb0c7c74ae8364d4b510c9add4.webp 760w,
-               /project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_0fb2735174228d3741b93be029d99bc7.webp&#34;
+               /research/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_0fb2735174228d3741b93be029d99bc7.webp 400w,
+               /research/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_21845feb0c7c74ae8364d4b510c9add4.webp 760w,
+               /research/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/research/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_0fb2735174228d3741b93be029d99bc7.webp&#34;
                width=&#34;760&#34;
                height=&#34;380&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1324,7 +1330,7 @@ $$
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;https://example.com/project/geophysical-tools/Ex.gif&#34;
+           src=&#34;https://example.com/research/geophysical-tools/Ex.gif&#34;
            loading=&#34;lazy&#34; data-zoomable width=&#34;50%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 </description>
@@ -1332,10 +1338,10 @@ $$
     
     <item>
       <title>Alpine Glaciology</title>
-      <link>https://example.com/project/alpine-glaciology/</link>
+      <link>https://example.com/research/alpine-glaciology/</link>
       <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/alpine-glaciology/</guid>
-      <description>&lt;p&gt;The United States Geological Survey (USGS) has a surveying outpost at this glacier and has been tracking the mass balance, the amount of ice added by snow and removed by melting, for over 60 years. Understanding how this glacier and the other USGS ‘benchmark’ glaciers are changing over decadal timescales is helping us understand the regional influence of climate change.&lt;/p&gt;
+      <guid>https://example.com/research/alpine-glaciology/</guid>
+      <description>&lt;p&gt;Much of the original theory in glaciology came from work on alpine glaciers, mostly in Europe. This is partially because of their relative proximity to human civilizations, but also becuase until recently we thought that the polar ice sheets operated on millenial timescales, too long to be of immenent concern. It was only around the turn of the century that the glaciological community started to recognize key instabilities within the ice sheets that can be triggered much faster, on the order of decades to centuries. While alpine glaciers have since gotten less attention in terms of sea-level focused research publications and grant funding, they are still critical for water supply, temperature, and chemistry, especially in alpine environments. The United States Geological Survey (USGS) has a surveying outpost at four alpine glaciers, Sperry Glacier in Montana, Wolverine and Gulkana Glaciers in Alaska, and South Cascade Glacier in Washington. For decades, they have been tracking the mass balance, the amount of ice added by snow and removed by melting. Understanding how these USGS ‘benchmark’ glaciers are changing over decadal timescales is helping us understand the regional influence of climate change. Our research group at UW works in collaboration with scientists at USGS, including Dr. Caitlyn Florentine and others, doing field campaigns to collect data for surveying these glaciers, especially at our local South Cascade Glacier.&lt;/p&gt;
 &lt;h2 id=&#34;conventional-mass-balance&#34;&gt;Conventional Mass Balance&lt;/h2&gt;
 &lt;p&gt;Measuring glacier mass balance is relatively simple. For inputs, we drill a snow core or dig a snow pit at the end of the winter season and measure the total depth as well as density through the column. Together, depth and density give us an input balance in units of snow water equivalent (SWE). For outputs, we drill a metal stake into the ice at the beginning of summer and observe how much it has melted out by the end. Again, this measurement will be in SWE. Then the balance inputs (accumulation) and outputs (ablation) are summed to quantify glacier change. At South Cascade, the average mass balance over the past 50 years has been about -0.5 m/yr over the extent of the glacier’s area (Rasmussen and Conway, 2001; fig. 10).&lt;/p&gt;
 &lt;p&gt;
@@ -1355,10 +1361,10 @@ $$
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/alpine-glaciology/snow-pit_hufbb8dc8af21203b24f648026c9457cdf_108650_6b0ea882f61214c227913e302f30bdbd.webp 400w,
-               /project/alpine-glaciology/snow-pit_hufbb8dc8af21203b24f648026c9457cdf_108650_5c47e78f58e87dac9c35ebe8f03508e7.webp 760w,
-               /project/alpine-glaciology/snow-pit_hufbb8dc8af21203b24f648026c9457cdf_108650_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/alpine-glaciology/snow-pit_hufbb8dc8af21203b24f648026c9457cdf_108650_6b0ea882f61214c227913e302f30bdbd.webp&#34;
+               /research/alpine-glaciology/snow-pit_hufbb8dc8af21203b24f648026c9457cdf_108650_6b0ea882f61214c227913e302f30bdbd.webp 400w,
+               /research/alpine-glaciology/snow-pit_hufbb8dc8af21203b24f648026c9457cdf_108650_5c47e78f58e87dac9c35ebe8f03508e7.webp 760w,
+               /research/alpine-glaciology/snow-pit_hufbb8dc8af21203b24f648026c9457cdf_108650_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/research/alpine-glaciology/snow-pit_hufbb8dc8af21203b24f648026c9457cdf_108650_6b0ea882f61214c227913e302f30bdbd.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1380,10 +1386,10 @@ $$
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_ca42cb50c7145ad115977f5be3c47949.webp 400w,
-               /project/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_2e41a6b6315ece17bfac126de900ce03.webp 760w,
-               /project/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_ca42cb50c7145ad115977f5be3c47949.webp&#34;
+               /research/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_ca42cb50c7145ad115977f5be3c47949.webp 400w,
+               /research/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_2e41a6b6315ece17bfac126de900ce03.webp 760w,
+               /research/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/research/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_ca42cb50c7145ad115977f5be3c47949.webp&#34;
                width=&#34;760&#34;
                height=&#34;574&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1407,25 +1413,24 @@ $$
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/alpine-glaciology/SCG_Panel_Map_hu1c16bbbe2e5dc55abb81abf305f056cd_1802779_0042bc5172d2e3a3539b00c912b00ade.webp 400w,
-               /project/alpine-glaciology/SCG_Panel_Map_hu1c16bbbe2e5dc55abb81abf305f056cd_1802779_64d5a90e73a7ea91598fea08aedb8a53.webp 760w,
-               /project/alpine-glaciology/SCG_Panel_Map_hu1c16bbbe2e5dc55abb81abf305f056cd_1802779_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/alpine-glaciology/SCG_Panel_Map_hu1c16bbbe2e5dc55abb81abf305f056cd_1802779_0042bc5172d2e3a3539b00c912b00ade.webp&#34;
+               /research/alpine-glaciology/SCG_Panel_Map_hu1c16bbbe2e5dc55abb81abf305f056cd_1802779_0042bc5172d2e3a3539b00c912b00ade.webp 400w,
+               /research/alpine-glaciology/SCG_Panel_Map_hu1c16bbbe2e5dc55abb81abf305f056cd_1802779_64d5a90e73a7ea91598fea08aedb8a53.webp 760w,
+               /research/alpine-glaciology/SCG_Panel_Map_hu1c16bbbe2e5dc55abb81abf305f056cd_1802779_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/research/alpine-glaciology/SCG_Panel_Map_hu1c16bbbe2e5dc55abb81abf305f056cd_1802779_0042bc5172d2e3a3539b00c912b00ade.webp&#34;
                width=&#34;730&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;glacier-dynamics&#34;&gt;Glacier Dynamics&lt;/h2&gt;
 </description>
     </item>
     
     <item>
       <title>Drilling in Ice</title>
-      <link>https://example.com/project/drilling/</link>
+      <link>https://example.com/research/drilling/</link>
       <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/drilling/</guid>
+      <guid>https://example.com/research/drilling/</guid>
       <description>&lt;h2 id=&#34;ice-core-drilling&#34;&gt;Ice-Core Drilling&lt;/h2&gt;
-&lt;p&gt;Much of our work aids in site selection for ice cores. We use geophysical tools to survey the ice geometry and stratigraphy. We can estimate ice age, ice temperature, past flow patterns, etc. With this information, paleoclimatologists are able to make an informed desicion on specifically where to drill an ice core in order to retrieve ice that will answer their pending quesitons about the ancient atmosphere and climate. Hercules Dome is currently our primary project. The site is close enough to West Antarctica that it should record a climate signal in the case of West Antarctic Ice Sheet collapse, but far enough that ice would not have melted.&lt;/p&gt;
+&lt;p&gt;Much of our work aids in site selection for ice cores. We use geophysical tools to survey the ice geometry and stratigraphy. We can estimate ice age, ice temperature, past flow patterns, etc. With this information, paleoclimatologists are able to make an informed desicion on specifically where to drill an ice core in order to retrieve ice that will answer their pending quesitons about the ancient atmosphere and climate. Hercules Dome is currently our primary project. The site is close enough to West Antarctica that it should record a climate signal in the case of West Antarctic Ice Sheet collapse, but far enough that ice would not have melted during that time.&lt;/p&gt;
 
 
 
@@ -1443,10 +1448,10 @@ $$
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_640226aebd920645c55f1aeb9346228e.webp 400w,
-               /project/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_b728b0248b0ee1e1314e0f64d79e302e.webp 760w,
-               /project/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_640226aebd920645c55f1aeb9346228e.webp&#34;
+               /research/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_640226aebd920645c55f1aeb9346228e.webp 400w,
+               /research/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_b728b0248b0ee1e1314e0f64d79e302e.webp 760w,
+               /research/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/research/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_640226aebd920645c55f1aeb9346228e.webp&#34;
                width=&#34;100%&#34;
                height=&#34;649&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1470,10 +1475,10 @@ $$
 &lt;figure  id=&#34;figure-organizing-instrumentation-and-cabling-in-preparation-to-deploy-it-down-the-hole&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Organizing instrumentation and cabling in preparation to deploy it down the hole.&#34; srcset=&#34;
-               /project/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_9b14a2a2e64cbbf4be7df05c0acd9c0c.webp 400w,
-               /project/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_332b82a3bf72958c7c347e5851af4ec9.webp 760w,
-               /project/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_9b14a2a2e64cbbf4be7df05c0acd9c0c.webp&#34;
+               /research/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_9b14a2a2e64cbbf4be7df05c0acd9c0c.webp 400w,
+               /research/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_332b82a3bf72958c7c347e5851af4ec9.webp 760w,
+               /research/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/research/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_9b14a2a2e64cbbf4be7df05c0acd9c0c.webp&#34;
                width=&#34;100%&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1497,10 +1502,10 @@ $$
 &lt;figure  id=&#34;figure-looking-down-an-instrumented-hole&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Looking down an instrumented hole.&#34; srcset=&#34;
-               /project/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_ab400531032e7ad3e223443745b5255b.webp 400w,
-               /project/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_c08be67297c1126089ec8cdef45a4920.webp 760w,
-               /project/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_ab400531032e7ad3e223443745b5255b.webp&#34;
+               /research/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_ab400531032e7ad3e223443745b5255b.webp 400w,
+               /research/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_c08be67297c1126089ec8cdef45a4920.webp 760w,
+               /research/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/research/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_ab400531032e7ad3e223443745b5255b.webp&#34;
                width=&#34;100%&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1508,7 +1513,7 @@ $$
       Looking down an instrumented hole.
     &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h2 id=&#34;hot-point-drilling&#34;&gt;Hot-Point Drilling&lt;/h2&gt;
-&lt;p&gt;This is another thermal drilling method which uses conduction at the tip of a melt probe rather than hot water. These drills are simpler in design, so were used earlier, and lighter weight so can be deployed more quickly than hot-water drills.&lt;/p&gt;
+&lt;p&gt;This is another thermal drilling method which uses conduction at the tip of a melt probe rather than hot water. These drills are simpler in design, so were used earlier, and lighter weight so can be deployed more quickly than hot-water drills. In collaboration with Dr. Dale Winebrenner and Dr. Tim Elam at the Applied Physics Laboratory, I wrote a thermal model and ran an ensemble of model experiments to aid in the engineering design of their hot-point drill, &lt;a href=&#34;https://apl.uw.edu/project/project.php?id=ice_diver&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ice Diver&lt;/a&gt;.&lt;/p&gt;
 
 
 
@@ -1526,10 +1531,10 @@ $$
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_267847a81154252d6e58c84876bf99e8.webp 400w,
-               /project/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_652b6a1d09add1d3f13b12dfa4f9a24b.webp 760w,
-               /project/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_267847a81154252d6e58c84876bf99e8.webp&#34;
+               /research/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_267847a81154252d6e58c84876bf99e8.webp 400w,
+               /research/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_652b6a1d09add1d3f13b12dfa4f9a24b.webp 760w,
+               /research/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/research/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_267847a81154252d6e58c84876bf99e8.webp&#34;
                width=&#34;428&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1539,9 +1544,9 @@ $$
     
     <item>
       <title>&#39;Working remotely&#39; as a polar field scientist</title>
-      <link>https://example.com/post/remote-fieldwork/</link>
+      <link>https://example.com/blog/remote-fieldwork/</link>
       <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/remote-fieldwork/</guid>
+      <guid>https://example.com/blog/remote-fieldwork/</guid>
       <description>&lt;p&gt;We are wrapping up our fourth* season at Hercules Dome, Antarctica. I use an asterisk because it hasn’t really been the fourth at all. For the first season, in ‘18-’19, we had a 4-person team who was meant to deploy a full field camp for a full month of work on the ground; instead, we spent ~6 weeks at South Pole Station for a handful of day trips commuting back and forth to Hercules Dome. The second season was as expected, ‘19-’20 brought a 7-person team to the field where we did most of the surveying seen in the figure below. The third “season” was not a season at all, Covid halted nearly 100% of Antarctic field work in ‘20-’21. Finally, this current season that is wrapping up now was a small and lightweight team, with only a single scientist on the ground, meant to get in for only a few repeat acquisitions and nothing else. Hercules Dome was originally proposed as a 2-year surveying project and has now been extended to a total of 5 seasons, such is the nature of Antarctic fieldwork during a global pandemic.&lt;/p&gt;
 
 
@@ -1560,10 +1565,10 @@ $$
 &lt;figure  id=&#34;figure-a-map-of-our-ongoing-survey-at-hercules-dome-overlaid-on-the-rema-surface-elevation-solid-lines-show-positions-of-the-profiling-radar-transects-where-we-map-ice-stratigraphy-and-structure-of-the-underlying-bedrock-dots-show-locations-where-we-measure-vertical-ice-motion-with-a-specialized-radar-system-red-circles-show-the-priority-for-repeat-measurements-that-happened-this-season&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A map of our ongoing survey at Hercules Dome overlaid on the REMA surface elevation. Solid lines show positions of the profiling radar transects where we map ice stratigraphy and structure of the underlying bedrock. Dots show locations where we measure vertical ice motion with a specialized radar system. Red circles show the priority for repeat measurements that happened this season.&#34; srcset=&#34;
-               /post/remote-fieldwork/HD_map_2122_hu1d4487603f979735dcc191e2140be7c6_1788984_ac925f73060b24f9a63e46b7cb24c29d.webp 400w,
-               /post/remote-fieldwork/HD_map_2122_hu1d4487603f979735dcc191e2140be7c6_1788984_e7a18f8e9ffdb530d5a88f3d1626180f.webp 760w,
-               /post/remote-fieldwork/HD_map_2122_hu1d4487603f979735dcc191e2140be7c6_1788984_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/remote-fieldwork/HD_map_2122_hu1d4487603f979735dcc191e2140be7c6_1788984_ac925f73060b24f9a63e46b7cb24c29d.webp&#34;
+               /blog/remote-fieldwork/HD_map_2122_hu1d4487603f979735dcc191e2140be7c6_1788984_ac925f73060b24f9a63e46b7cb24c29d.webp 400w,
+               /blog/remote-fieldwork/HD_map_2122_hu1d4487603f979735dcc191e2140be7c6_1788984_e7a18f8e9ffdb530d5a88f3d1626180f.webp 760w,
+               /blog/remote-fieldwork/HD_map_2122_hu1d4487603f979735dcc191e2140be7c6_1788984_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/blog/remote-fieldwork/HD_map_2122_hu1d4487603f979735dcc191e2140be7c6_1788984_ac925f73060b24f9a63e46b7cb24c29d.webp&#34;
                width=&#34;760&#34;
                height=&#34;571&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1588,10 +1593,10 @@ $$
 &lt;figure  id=&#34;figure-my-fiancée-dani-decorating-the-first-christmas-tree-we-have-had-as-our-own-after-being-together-for-9-years&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;My fiancée, Dani, decorating the first Christmas tree we have had as our own after being together for ~9 years.&#34; srcset=&#34;
-               /post/remote-fieldwork/tree_hue89a0aa046b09da89068440f8a9c75be_126460_28266a1c1bc72b1dfd2ef3c930812567.webp 400w,
-               /post/remote-fieldwork/tree_hue89a0aa046b09da89068440f8a9c75be_126460_ebf917d9d79ecfc110fb209b8ca701dd.webp 760w,
-               /post/remote-fieldwork/tree_hue89a0aa046b09da89068440f8a9c75be_126460_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/remote-fieldwork/tree_hue89a0aa046b09da89068440f8a9c75be_126460_28266a1c1bc72b1dfd2ef3c930812567.webp&#34;
+               /blog/remote-fieldwork/tree_hue89a0aa046b09da89068440f8a9c75be_126460_28266a1c1bc72b1dfd2ef3c930812567.webp 400w,
+               /blog/remote-fieldwork/tree_hue89a0aa046b09da89068440f8a9c75be_126460_ebf917d9d79ecfc110fb209b8ca701dd.webp 760w,
+               /blog/remote-fieldwork/tree_hue89a0aa046b09da89068440f8a9c75be_126460_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/blog/remote-fieldwork/tree_hue89a0aa046b09da89068440f8a9c75be_126460_28266a1c1bc72b1dfd2ef3c930812567.webp&#34;
                width=&#34;472&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1620,10 +1625,10 @@ $$
 &lt;figure  id=&#34;figure-top-panel-coherence-represents-how-similar-the-measured-waveforms-are-between-two-acquisitions-middle-panel-the-phase-offset-tells-us-how-far-a-feature-has-moved-updown-within-the-ice-bottom-panel-the-vertical-velocity-is-simply-the-phase-offset-converted-to-units-of-distance-over-time&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Top panel: Coherence represents how similar the measured waveforms are between two acquisitions. Middle panel: The phase offset tells us how far a feature has moved up/down within the ice. Bottom panel: The vertical velocity is simply the phase offset converted to units of distance over time.&#34; srcset=&#34;
-               /post/remote-fieldwork/blog_pres_hu29b6964728c3af8ef7372565a95e8991_300189_0f82244d7eea5f05bc65cad67b9a2eb4.webp 400w,
-               /post/remote-fieldwork/blog_pres_hu29b6964728c3af8ef7372565a95e8991_300189_be6231dd76636685ef311e9e3b9c53c0.webp 760w,
-               /post/remote-fieldwork/blog_pres_hu29b6964728c3af8ef7372565a95e8991_300189_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/remote-fieldwork/blog_pres_hu29b6964728c3af8ef7372565a95e8991_300189_0f82244d7eea5f05bc65cad67b9a2eb4.webp&#34;
+               /blog/remote-fieldwork/blog_pres_hu29b6964728c3af8ef7372565a95e8991_300189_0f82244d7eea5f05bc65cad67b9a2eb4.webp 400w,
+               /blog/remote-fieldwork/blog_pres_hu29b6964728c3af8ef7372565a95e8991_300189_be6231dd76636685ef311e9e3b9c53c0.webp 760w,
+               /blog/remote-fieldwork/blog_pres_hu29b6964728c3af8ef7372565a95e8991_300189_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/blog/remote-fieldwork/blog_pres_hu29b6964728c3af8ef7372565a95e8991_300189_0f82244d7eea5f05bc65cad67b9a2eb4.webp&#34;
                width=&#34;633&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1637,9 +1642,9 @@ $$
     
     <item>
       <title>Tokenized Thought</title>
-      <link>https://example.com/post/open-science/</link>
+      <link>https://example.com/blog/open-science/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/open-science/</guid>
+      <guid>https://example.com/blog/open-science/</guid>
       <description>&lt;p&gt;&lt;em&gt;Thank you to Jocelynn Pearl for reviewing a preliminary version of this article and to Dani Bergey for figure design.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Utility of the NFT expands far beyond fine art and collectibles. Today’s mania does not reflect the more holistic vision and ubiquitous tokenization that is about to take hold. This includes physical assets like the deed to a house and the title to a car, capital assets like stocks and bonds, and as I will argue here, intellectual assets like patents and publications. Intellectual property as a digital object written to the blockchain will change the way we think about publishing science, opening the process to be more transparent and realigning incentives within academic communities.&lt;/p&gt;
 &lt;h2 id=&#34;the-past-and-future-of-scientific-publication&#34;&gt;The Past and Future of Scientific Publication&lt;/h2&gt;
@@ -1747,9 +1752,9 @@ $$
     
     <item>
       <title>Why Go Back?</title>
-      <link>https://example.com/post/why-go-back/</link>
+      <link>https://example.com/blog/why-go-back/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/why-go-back/</guid>
+      <guid>https://example.com/blog/why-go-back/</guid>
       <description>&lt;p&gt;They say that the first time you go to Antarctica is for the adventure, the second for the science, and the third because you no longer belong anywhere else. I would hope that it is always for the science, but I do understand how people get attached to the community down here. Life on the ice is mission oriented; whether for science or support, the team knows what needs to get done and works together to accomplish the task at hand.&lt;/p&gt;
 &lt;p&gt;If you read my writing last year, you will know that we had some logistical issues with our project at Hercules Dome. In a way, we had to come back to even get a real start. Having said that, it is common for field projects to be spread across multiple seasons, and some of our team will be coming down next year as well. I want to give somewhat of an explanation for why any field-based project would need more than one season on the ice.&lt;/p&gt;
 &lt;h2 id=&#34;logistical-reasons-to-return&#34;&gt;Logistical Reasons to Return&lt;/h2&gt;
@@ -1772,10 +1777,10 @@ $$
 &lt;figure  id=&#34;figure-our-groomed-skiway-at-hercules-dome-with-the-field-camp-on-the-right-hand-side-note-the-scale-of-the-surface-roughness-these-sastrugi-are-what-prevented-us-from-landing-the-herc-last-year-photo-credit-rodney-fishbrook-our-twin-otter-pilot-for-the-first-half-of-the-season&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Our groomed skiway at Hercules Dome with the field camp on the right-hand side. Note the scale of the surface roughness, these sastrugi are what prevented us from landing the Herc last year. Photo credit: Rodney Fishbrook, our Twin Otter pilot for the first half of the season.&#34; srcset=&#34;
-               /post/why-go-back/skiway_hu7d1472b035cfc73c709fc3246cf2351f_610022_0612fcde909166421a5771350a72117b.webp 400w,
-               /post/why-go-back/skiway_hu7d1472b035cfc73c709fc3246cf2351f_610022_ed8b1e68355778645b321d9727586813.webp 760w,
-               /post/why-go-back/skiway_hu7d1472b035cfc73c709fc3246cf2351f_610022_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/why-go-back/skiway_hu7d1472b035cfc73c709fc3246cf2351f_610022_0612fcde909166421a5771350a72117b.webp&#34;
+               /blog/why-go-back/skiway_hu7d1472b035cfc73c709fc3246cf2351f_610022_0612fcde909166421a5771350a72117b.webp 400w,
+               /blog/why-go-back/skiway_hu7d1472b035cfc73c709fc3246cf2351f_610022_ed8b1e68355778645b321d9727586813.webp 760w,
+               /blog/why-go-back/skiway_hu7d1472b035cfc73c709fc3246cf2351f_610022_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/blog/why-go-back/skiway_hu7d1472b035cfc73c709fc3246cf2351f_610022_0612fcde909166421a5771350a72117b.webp&#34;
                width=&#34;760&#34;
                height=&#34;577&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1802,7 +1807,7 @@ $$
 &lt;figure  id=&#34;figure-a-waveform-represented-in-the-complex-plane&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A waveform represented in the complex plane.&#34;
-           src=&#34;https://example.com/post/why-go-back/phase.gif&#34;
+           src=&#34;https://example.com/blog/why-go-back/phase.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       A waveform represented in the complex plane.
@@ -1825,10 +1830,10 @@ $$
 &lt;figure  id=&#34;figure-annika-fixing-one-of-our-radar-systems-while-we-wait-for-the-apres-to-run-being-a-particularly-distant-site-we-had-to-fly-here-in-the-twin-otter-which-can-be-seen-on-the-horizon&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Annika fixing one of our radar systems while we wait for the ApRES to run. Being a particularly distant site, we had to fly here in the Twin Otter which can be seen on the horizon.&#34; srcset=&#34;
-               /post/why-go-back/annika-pres_hu13302735ebbf5f45f6b9c1477bda07d6_2075478_4a82c58bd458a6293fd239a127972109.webp 400w,
-               /post/why-go-back/annika-pres_hu13302735ebbf5f45f6b9c1477bda07d6_2075478_5978deff64dbac51f6427972fb3aaf24.webp 760w,
-               /post/why-go-back/annika-pres_hu13302735ebbf5f45f6b9c1477bda07d6_2075478_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/why-go-back/annika-pres_hu13302735ebbf5f45f6b9c1477bda07d6_2075478_4a82c58bd458a6293fd239a127972109.webp&#34;
+               /blog/why-go-back/annika-pres_hu13302735ebbf5f45f6b9c1477bda07d6_2075478_4a82c58bd458a6293fd239a127972109.webp 400w,
+               /blog/why-go-back/annika-pres_hu13302735ebbf5f45f6b9c1477bda07d6_2075478_5978deff64dbac51f6427972fb3aaf24.webp 760w,
+               /blog/why-go-back/annika-pres_hu13302735ebbf5f45f6b9c1477bda07d6_2075478_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/blog/why-go-back/annika-pres_hu13302735ebbf5f45f6b9c1477bda07d6_2075478_4a82c58bd458a6293fd239a127972109.webp&#34;
                width=&#34;760&#34;
                height=&#34;457&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1853,7 +1858,7 @@ $$
 &lt;figure  id=&#34;figure-a-repeated-apres-measurement-used-to-infer-vertical-ice-motion-the-top-panel-is-the-measured-phase-over-a-sample-window-represented-by-the-moving-line-in-the-bottom-three-panels-the-second-panel-is-the-radar-profile-with-the-strength-of-the-returning-signal-being-diminished-with-depth-until-the-ice-bed-interface-at-2800-m-the-third-panel-is-the-correlation-between-the-year-1-and-year-2-measurements-as-expected-correlation-drops-off-below-1500-m-because-the-signal-is-noisy-for-deep-returns-the-fourth-panel-is-the-inferred-displacement-between-measurements-the-result-is-well-behaved-above-1500-m-where-the-correlation-is-high&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A repeated ApRES measurement used to infer vertical ice motion. The top panel is the measured phase over a sample window represented by the moving line in the bottom three panels. The second panel is the radar profile with the strength of the returning signal being diminished with depth until the ice-bed interface at ~2800 m. The third panel is the correlation between the year 1 and year 2 measurements. As expected, correlation drops off below ~1500 m because the signal is noisy for deep returns. The fourth panel is the inferred displacement between measurements, the result is well behaved above ~1500 m where the correlation is high.&#34;
-           src=&#34;https://example.com/post/why-go-back/pres.gif&#34;
+           src=&#34;https://example.com/blog/why-go-back/pres.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       A repeated ApRES measurement used to infer vertical ice motion. The top panel is the measured phase over a sample window represented by the moving line in the bottom three panels. The second panel is the radar profile with the strength of the returning signal being diminished with depth until the ice-bed interface at ~2800 m. The third panel is the correlation between the year 1 and year 2 measurements. As expected, correlation drops off below ~1500 m because the signal is noisy for deep returns. The fourth panel is the inferred displacement between measurements, the result is well behaved above ~1500 m where the correlation is high.
@@ -1877,10 +1882,10 @@ $$
 &lt;figure  id=&#34;figure-new-friends-to-greet-me-along-the-returning-journey-the-first-in-mcmurdo-and-the-second-still-waiting-for-me-back-home&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;New friends to greet me along the returning journey, the first in McMurdo and the second still waiting for me back home.&#34; srcset=&#34;
-               /post/why-go-back/critters_hu5173823e27f62e392edd7495b108e579_247288_af83d9718be9723d6ee1872fbc9dee20.webp 400w,
-               /post/why-go-back/critters_hu5173823e27f62e392edd7495b108e579_247288_bc3f6ff56f8f6494826428e969d67056.webp 760w,
-               /post/why-go-back/critters_hu5173823e27f62e392edd7495b108e579_247288_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/why-go-back/critters_hu5173823e27f62e392edd7495b108e579_247288_af83d9718be9723d6ee1872fbc9dee20.webp&#34;
+               /blog/why-go-back/critters_hu5173823e27f62e392edd7495b108e579_247288_af83d9718be9723d6ee1872fbc9dee20.webp 400w,
+               /blog/why-go-back/critters_hu5173823e27f62e392edd7495b108e579_247288_bc3f6ff56f8f6494826428e969d67056.webp 760w,
+               /blog/why-go-back/critters_hu5173823e27f62e392edd7495b108e579_247288_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/blog/why-go-back/critters_hu5173823e27f62e392edd7495b108e579_247288_af83d9718be9723d6ee1872fbc9dee20.webp&#34;
                width=&#34;598&#34;
                height=&#34;255&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1892,9 +1897,9 @@ $$
     
     <item>
       <title>Glacier Mass Balance at South Cascade</title>
-      <link>https://example.com/post/mass-balance/</link>
+      <link>https://example.com/blog/mass-balance/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/mass-balance/</guid>
+      <guid>https://example.com/blog/mass-balance/</guid>
       <description>&lt;p&gt;Yesterday, I came home from a week-long field trip to South Cascade Glacier in Washington. South Cascade is one of the United States Geological Survey (USGS) benchmark glaciers, along with Gulkana and Wolverine in Alaska as well as Sperry in Glacier National Park, Montana. The benchmark glacier program was set up by the USGS to intensively monitor climate, glacier motion, glacier mass balance, glacier geometry, and stream runoff for these select glaciers which are thought to be representative of their respective region.&lt;/p&gt;
 &lt;p&gt;Why monitor glaciers? Aside from the fact that they are a fascinating aspect of the earth system, one reason is because they act as a low-pass filter on changes in climate. While climatic variables such as the air temperature and precipitation change on time scales as short as hours to days to years, ice flows slowly enough that it absorbs all the high-frequency information and responds at more like decadal (alpine glacier) or centennial (polar ice sheet) time scales. Therefore, glacier growth and decay are typically (c.f. tidewater glacier cycle) expressive of the longer term climate trend whether that be a change in temperature, precipitation, or both.&lt;/p&gt;
 &lt;p&gt;As a community, we have been measuring glacier change for at least several decades now. The easiest and most obvious way to do so is also the most illustrative for the public, a simple photo. Projects like the Extreme Ice Survey use photo time series to display glacier retreat in a way that needs no explanation. Some studies even use anecdotal evidence and drawings to extend the record further back in time (to 1602 for the Rhone Glacier). In our case at South Cascade, photos display that the terminus has retreated by ~3 kilometers over the past century. In the 1950&amp;rsquo;s and 60&amp;rsquo;s, this glacier terminated in a proglacial lake, but around 1970 the glacier pulled up out of the lake and now the terminus rests a full kilometer further uphill.&lt;/p&gt;
@@ -1915,10 +1920,10 @@ $$
 &lt;figure  id=&#34;figure-a-photo-time-series-of-south-cascade-glacier-usgs&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A photo time series of South Cascade Glacier. USGS.&#34; srcset=&#34;
-               /post/mass-balance/history_hu6021e390eb012c2a28d2828b2a80ad68_497490_c7a04911d514d956333c96613858b503.webp 400w,
-               /post/mass-balance/history_hu6021e390eb012c2a28d2828b2a80ad68_497490_3f9441f5f04c3aa2d7a035f05f65abc0.webp 760w,
-               /post/mass-balance/history_hu6021e390eb012c2a28d2828b2a80ad68_497490_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/mass-balance/history_hu6021e390eb012c2a28d2828b2a80ad68_497490_c7a04911d514d956333c96613858b503.webp&#34;
+               /blog/mass-balance/history_hu6021e390eb012c2a28d2828b2a80ad68_497490_c7a04911d514d956333c96613858b503.webp 400w,
+               /blog/mass-balance/history_hu6021e390eb012c2a28d2828b2a80ad68_497490_3f9441f5f04c3aa2d7a035f05f65abc0.webp 760w,
+               /blog/mass-balance/history_hu6021e390eb012c2a28d2828b2a80ad68_497490_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/blog/mass-balance/history_hu6021e390eb012c2a28d2828b2a80ad68_497490_c7a04911d514d956333c96613858b503.webp&#34;
                width=&#34;690&#34;
                height=&#34;550&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1942,10 +1947,10 @@ $$
 &lt;figure  id=&#34;figure-south-cascade-glacier-today-note-that-this-photo-was-taken-in-the-spring-so-there-is-considerably-more-snow-but-less-glacier-ice-than-above-photo-credit-gemma-oconnor&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;South Cascade Glacier today. Note that this photo was taken in the spring, so there is considerably more snow (but less glacier ice) than above. Photo credit: Gemma O&amp;#39;Connor.&#34; srcset=&#34;
-               /post/mass-balance/scg_hu8d171eafad3e5ec247601b00697c4980_4525133_85e6157b1b402b00aa22c1881da13c88.webp 400w,
-               /post/mass-balance/scg_hu8d171eafad3e5ec247601b00697c4980_4525133_52d7938e7319d4ba27b99bd7077066fb.webp 760w,
-               /post/mass-balance/scg_hu8d171eafad3e5ec247601b00697c4980_4525133_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/mass-balance/scg_hu8d171eafad3e5ec247601b00697c4980_4525133_85e6157b1b402b00aa22c1881da13c88.webp&#34;
+               /blog/mass-balance/scg_hu8d171eafad3e5ec247601b00697c4980_4525133_85e6157b1b402b00aa22c1881da13c88.webp 400w,
+               /blog/mass-balance/scg_hu8d171eafad3e5ec247601b00697c4980_4525133_52d7938e7319d4ba27b99bd7077066fb.webp 760w,
+               /blog/mass-balance/scg_hu8d171eafad3e5ec247601b00697c4980_4525133_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/blog/mass-balance/scg_hu8d171eafad3e5ec247601b00697c4980_4525133_85e6157b1b402b00aa22c1881da13c88.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1972,10 +1977,10 @@ $$
 &lt;figure  id=&#34;figure-a-schematic-of-glacier-mass-balance-usgs&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A schematic of glacier mass balance. USGS.&#34; srcset=&#34;
-               /post/mass-balance/schematic_hu055126dfc99cfe5a0e61e19c9cac8081_138294_e5a1e29aff839d99510b33bf3be19737.webp 400w,
-               /post/mass-balance/schematic_hu055126dfc99cfe5a0e61e19c9cac8081_138294_bb235608989cfa893ad34cc9a9882fcb.webp 760w,
-               /post/mass-balance/schematic_hu055126dfc99cfe5a0e61e19c9cac8081_138294_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/mass-balance/schematic_hu055126dfc99cfe5a0e61e19c9cac8081_138294_e5a1e29aff839d99510b33bf3be19737.webp&#34;
+               /blog/mass-balance/schematic_hu055126dfc99cfe5a0e61e19c9cac8081_138294_e5a1e29aff839d99510b33bf3be19737.webp 400w,
+               /blog/mass-balance/schematic_hu055126dfc99cfe5a0e61e19c9cac8081_138294_bb235608989cfa893ad34cc9a9882fcb.webp 760w,
+               /blog/mass-balance/schematic_hu055126dfc99cfe5a0e61e19c9cac8081_138294_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/blog/mass-balance/schematic_hu055126dfc99cfe5a0e61e19c9cac8081_138294_e5a1e29aff839d99510b33bf3be19737.webp&#34;
                width=&#34;460&#34;
                height=&#34;322&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2000,10 +2005,10 @@ $$
 &lt;figure  id=&#34;figure-gemma-oconnor-measuring-snow-densities-and-erin-whorton-taking-notes&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Gemma O&amp;#39;Connor measuring snow densities and Erin Whorton taking notes.&#34; srcset=&#34;
-               /post/mass-balance/pit_hufbb8dc8af21203b24f648026c9457cdf_108650_c1e50f56893692b0708f8b6d8fe88c7f.webp 400w,
-               /post/mass-balance/pit_hufbb8dc8af21203b24f648026c9457cdf_108650_950b77fe2f3a2c75513adfb62b78124a.webp 760w,
-               /post/mass-balance/pit_hufbb8dc8af21203b24f648026c9457cdf_108650_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/mass-balance/pit_hufbb8dc8af21203b24f648026c9457cdf_108650_c1e50f56893692b0708f8b6d8fe88c7f.webp&#34;
+               /blog/mass-balance/pit_hufbb8dc8af21203b24f648026c9457cdf_108650_c1e50f56893692b0708f8b6d8fe88c7f.webp 400w,
+               /blog/mass-balance/pit_hufbb8dc8af21203b24f648026c9457cdf_108650_950b77fe2f3a2c75513adfb62b78124a.webp 760w,
+               /blog/mass-balance/pit_hufbb8dc8af21203b24f648026c9457cdf_108650_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/blog/mass-balance/pit_hufbb8dc8af21203b24f648026c9457cdf_108650_c1e50f56893692b0708f8b6d8fe88c7f.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2031,10 +2036,10 @@ $$
 &lt;figure  id=&#34;figure-top-glaciers-around-the-globe-bottom-ice-mass-loss-and-mass-loss-rates-for-alpine-glaciers-around-the-world-these-figures-are-taken-from-the-ipcc-fifth-assessment-reporthttpswwwipccchreportar5wg1&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Top) Glaciers around the globe. Bottom) Ice mass loss and mass loss rates for alpine glaciers around the world. These figures are taken from the [IPCC fifth assessment report](https://www.ipcc.ch/report/ar5/wg1/).&#34; srcset=&#34;
-               /post/mass-balance/global_map_hub96782b94b601335ab68c556cc3b8482_737040_8b9c82d42c4679ee2463cfacf85692b7.webp 400w,
-               /post/mass-balance/global_map_hub96782b94b601335ab68c556cc3b8482_737040_86781388dcc5604d0c832c5890ad333b.webp 760w,
-               /post/mass-balance/global_map_hub96782b94b601335ab68c556cc3b8482_737040_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/mass-balance/global_map_hub96782b94b601335ab68c556cc3b8482_737040_8b9c82d42c4679ee2463cfacf85692b7.webp&#34;
+               /blog/mass-balance/global_map_hub96782b94b601335ab68c556cc3b8482_737040_8b9c82d42c4679ee2463cfacf85692b7.webp 400w,
+               /blog/mass-balance/global_map_hub96782b94b601335ab68c556cc3b8482_737040_86781388dcc5604d0c832c5890ad333b.webp 760w,
+               /blog/mass-balance/global_map_hub96782b94b601335ab68c556cc3b8482_737040_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/blog/mass-balance/global_map_hub96782b94b601335ab68c556cc3b8482_737040_8b9c82d42c4679ee2463cfacf85692b7.webp&#34;
                width=&#34;526&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2176,9 +2181,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Ice-Penetrating Radar</title>
-      <link>https://example.com/post/ice-penetrating-radar/</link>
+      <link>https://example.com/blog/ice-penetrating-radar/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/ice-penetrating-radar/</guid>
+      <guid>https://example.com/blog/ice-penetrating-radar/</guid>
       <description>&lt;p&gt;We study ice dynamics; namely, how the Greenland and Antarctic ice sheets are moving, how they may have been moving in the past, and how they will move into the future. Ice flows downhill under the force of gravity. As it moves to lower elevation, it eventually either melts or calves and floats away, both contributing mass to the oceans. Thus, the principal importance of our research is to put constraints on future projections of sea-level rise.&lt;/p&gt;
 &lt;p&gt;Being a geophysics team, the research tools that we use are a suite of geophysical methods including GPS, remote sensing (satellites), ice-penetrating radar, seismics, and physics-based computer models. With GPS and remote sensing methods we measure the elevation and velocity of the ice surface. We get at least cm precision with our GPS (down to mm when using real-time kinematics from a stationary base station). With radar and seismics, on the other hand, we survey the internal structure and intrinsic properties of the ice sheets. The basics of radar (seismic) methods are to transmit a radio (seismic) wave at the ice surface and to look (listen) for the reflections. The radio waves that we transmit are in the high to very-high frequency range (close to the same frequencies that you would use in your car or on a handheld radio). Seismics in glaciological applications are typically active source, using an explosion triggered at the surface. By measuring the time and amplitude of the returning waves (both radar and seismic), we learn what we need to build intuition about the dynamic nature of the ice-sheet system. Finally, we test our intuition using computer models.&lt;/p&gt;
 
@@ -2198,10 +2203,10 @@ $$&lt;/p&gt;
 &lt;figure  id=&#34;figure-a-cartoon-illustration-of-ice-penetrating-radar-and-some-example-data-from-the-northeast-greenland-ice-stream&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A cartoon illustration of ice-penetrating radar and some example data from the Northeast Greenland Ice Stream.&#34; srcset=&#34;
-               /post/ice-penetrating-radar/ipr_cartoon_hu2dddb388711da89393e7649c08552bc5_475851_6956e7285cc7e35b22f10952a9cdc528.webp 400w,
-               /post/ice-penetrating-radar/ipr_cartoon_hu2dddb388711da89393e7649c08552bc5_475851_7e0a5ab9ef5cdff4c9610c5315a3014b.webp 760w,
-               /post/ice-penetrating-radar/ipr_cartoon_hu2dddb388711da89393e7649c08552bc5_475851_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/ice-penetrating-radar/ipr_cartoon_hu2dddb388711da89393e7649c08552bc5_475851_6956e7285cc7e35b22f10952a9cdc528.webp&#34;
+               /blog/ice-penetrating-radar/ipr_cartoon_hu2dddb388711da89393e7649c08552bc5_475851_6956e7285cc7e35b22f10952a9cdc528.webp 400w,
+               /blog/ice-penetrating-radar/ipr_cartoon_hu2dddb388711da89393e7649c08552bc5_475851_7e0a5ab9ef5cdff4c9610c5315a3014b.webp 760w,
+               /blog/ice-penetrating-radar/ipr_cartoon_hu2dddb388711da89393e7649c08552bc5_475851_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/blog/ice-penetrating-radar/ipr_cartoon_hu2dddb388711da89393e7649c08552bc5_475851_6956e7285cc7e35b22f10952a9cdc528.webp&#34;
                width=&#34;760&#34;
                height=&#34;749&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2230,10 +2235,10 @@ $$&lt;/p&gt;
 &lt;figure  id=&#34;figure-theradar-shelter-containing-the-computer-a-gps-on-top-and-the-leading-red-as-well-as-trailing-black-antennae-the-shelter-is-a-nice-break-from-the-wind-but-it-is-still-not-warm-in-here&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The radar shelter containing the computer, a GPS on top, and the leading (red) as well as trailing (black) antennae. The shelter is a nice break from the wind, but it is still not warm in here.&#34; srcset=&#34;
-               /post/ice-penetrating-radar/radar-shelter_hud91ee38fd9ecc041d795446f233bb91a_266073_66676853e8ea18f6769d7024b64192a6.webp 400w,
-               /post/ice-penetrating-radar/radar-shelter_hud91ee38fd9ecc041d795446f233bb91a_266073_3367372f29d6aeb218d763d531d7712d.webp 760w,
-               /post/ice-penetrating-radar/radar-shelter_hud91ee38fd9ecc041d795446f233bb91a_266073_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/ice-penetrating-radar/radar-shelter_hud91ee38fd9ecc041d795446f233bb91a_266073_66676853e8ea18f6769d7024b64192a6.webp&#34;
+               /blog/ice-penetrating-radar/radar-shelter_hud91ee38fd9ecc041d795446f233bb91a_266073_66676853e8ea18f6769d7024b64192a6.webp 400w,
+               /blog/ice-penetrating-radar/radar-shelter_hud91ee38fd9ecc041d795446f233bb91a_266073_3367372f29d6aeb218d763d531d7712d.webp 760w,
+               /blog/ice-penetrating-radar/radar-shelter_hud91ee38fd9ecc041d795446f233bb91a_266073_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/blog/ice-penetrating-radar/radar-shelter_hud91ee38fd9ecc041d795446f233bb91a_266073_66676853e8ea18f6769d7024b64192a6.webp&#34;
                width=&#34;760&#34;
                height=&#34;571&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2257,10 +2262,10 @@ $$&lt;/p&gt;
 &lt;figure  id=&#34;figure-the-apres-radar-with-the-data-logger-in-the-center-next-to-the-gps-and-the-two-antennae-stretched-out-on-either-side&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The ApRES radar with the data logger in the center next to the GPS and the two antennae stretched out on either side.&#34; srcset=&#34;
-               /post/ice-penetrating-radar/apres_hubb6e1558ebe2ad9a2005af4a458250be_1936637_53b5f59b7fc7b2a226742ec8ac294236.webp 400w,
-               /post/ice-penetrating-radar/apres_hubb6e1558ebe2ad9a2005af4a458250be_1936637_0b1b7098f02f6eff063a1f79d1f0f7dd.webp 760w,
-               /post/ice-penetrating-radar/apres_hubb6e1558ebe2ad9a2005af4a458250be_1936637_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/ice-penetrating-radar/apres_hubb6e1558ebe2ad9a2005af4a458250be_1936637_53b5f59b7fc7b2a226742ec8ac294236.webp&#34;
+               /blog/ice-penetrating-radar/apres_hubb6e1558ebe2ad9a2005af4a458250be_1936637_53b5f59b7fc7b2a226742ec8ac294236.webp 400w,
+               /blog/ice-penetrating-radar/apres_hubb6e1558ebe2ad9a2005af4a458250be_1936637_0b1b7098f02f6eff063a1f79d1f0f7dd.webp 760w,
+               /blog/ice-penetrating-radar/apres_hubb6e1558ebe2ad9a2005af4a458250be_1936637_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/blog/ice-penetrating-radar/apres_hubb6e1558ebe2ad9a2005af4a458250be_1936637_53b5f59b7fc7b2a226742ec8ac294236.webp&#34;
                width=&#34;760&#34;
                height=&#34;306&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2287,10 +2292,10 @@ $$&lt;/p&gt;
 &lt;figure  id=&#34;figure-me-climbing-into-the-radar-shelter-the-twin-otter-that-we-use-for-our-15-hour-commute-from-the-south-pole-is-in-the-background&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Me climbing into the radar shelter. The Twin Otter that we use for our 1.5 hour commute from the South Pole is in the background.&#34; srcset=&#34;
-               /post/ice-penetrating-radar/ben_at_hd_hue4873627a0a19c356457209492e55d2d_1040915_203c068a2b3f02e34ddf4262f35e6bdc.webp 400w,
-               /post/ice-penetrating-radar/ben_at_hd_hue4873627a0a19c356457209492e55d2d_1040915_ab435430a56bfe16bac5525997c6dcd5.webp 760w,
-               /post/ice-penetrating-radar/ben_at_hd_hue4873627a0a19c356457209492e55d2d_1040915_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/ice-penetrating-radar/ben_at_hd_hue4873627a0a19c356457209492e55d2d_1040915_203c068a2b3f02e34ddf4262f35e6bdc.webp&#34;
+               /blog/ice-penetrating-radar/ben_at_hd_hue4873627a0a19c356457209492e55d2d_1040915_203c068a2b3f02e34ddf4262f35e6bdc.webp 400w,
+               /blog/ice-penetrating-radar/ben_at_hd_hue4873627a0a19c356457209492e55d2d_1040915_ab435430a56bfe16bac5525997c6dcd5.webp 760w,
+               /blog/ice-penetrating-radar/ben_at_hd_hue4873627a0a19c356457209492e55d2d_1040915_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/blog/ice-penetrating-radar/ben_at_hd_hue4873627a0a19c356457209492e55d2d_1040915_203c068a2b3f02e34ddf4262f35e6bdc.webp&#34;
                width=&#34;497&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2302,9 +2307,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>The Pole</title>
-      <link>https://example.com/post/the-pole/</link>
+      <link>https://example.com/blog/the-pole/</link>
       <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/the-pole/</guid>
+      <guid>https://example.com/blog/the-pole/</guid>
       <description>&lt;p&gt;We made it to South Pole Station. It turns out that getting around this continent necessitates a bit of patience. We spent nearly a week in Christchurch, NZ, waiting for the weather to clear so that we could fly to McMurdo (the primary American station). During that week, we had two boomerang flights in which we took off and flew for ~5 hours down over the Southern Ocean only to get turned around back to New Zealand because the pilots did not feel comfortable landing on the McMurdo Ice Shelf. When the weather finally cleared, we landed in McMurdo and I was greeted by the rest of my science team who had been waiting there for three weeks.&lt;/p&gt;
 &lt;p&gt;McMurdo is an interesting place. In many ways it reminds me of Kangerlussuaq, the center for US science operations in Greenland. The town sits on the McMurdo Sound, across which are the Royal Society Range which tower to 13000&amp;rsquo; from sea level. Being on the coast also means that there is marine wildlife. In the short time that I was there, we saw seals and emperor penguins, but when the icebreaker comes in and breaks the sea ice later in the summer whales, penguins, and seals will surely have a stronger presence. The culture in town in somewhat divided between the contractors and the scientists. They call us &amp;lsquo;beakers&amp;rsquo;, which, although somewhat condescending, is more endearing than the myriad nicknames I was given in high school.&lt;/p&gt;
 
@@ -2324,10 +2329,10 @@ $$&lt;/p&gt;
 &lt;figure  id=&#34;figure-shuttle-to-our-plane-on-the-mcmurdo-ice-shelf-with-mt-erebus-in-the-background&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Shuttle to our plane on the McMurdo Ice Shelf with Mt. Erebus in the background.&#34; srcset=&#34;
-               /post/the-pole/Delta_hu722106d66d2a50f4000fa5df1234233d_3358740_56b4657c64a4dc423fcd04896ebe8b89.webp 400w,
-               /post/the-pole/Delta_hu722106d66d2a50f4000fa5df1234233d_3358740_d595c8ecf2c5a823ac3cddc20a14d5d5.webp 760w,
-               /post/the-pole/Delta_hu722106d66d2a50f4000fa5df1234233d_3358740_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/the-pole/Delta_hu722106d66d2a50f4000fa5df1234233d_3358740_56b4657c64a4dc423fcd04896ebe8b89.webp&#34;
+               /blog/the-pole/Delta_hu722106d66d2a50f4000fa5df1234233d_3358740_56b4657c64a4dc423fcd04896ebe8b89.webp 400w,
+               /blog/the-pole/Delta_hu722106d66d2a50f4000fa5df1234233d_3358740_d595c8ecf2c5a823ac3cddc20a14d5d5.webp 760w,
+               /blog/the-pole/Delta_hu722106d66d2a50f4000fa5df1234233d_3358740_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/blog/the-pole/Delta_hu722106d66d2a50f4000fa5df1234233d_3358740_56b4657c64a4dc423fcd04896ebe8b89.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2354,10 +2359,10 @@ $$&lt;/p&gt;
 &lt;figure  id=&#34;figure-flying-over-the-transantarctic-mountains&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Flying over the Transantarctic Mountains.&#34; srcset=&#34;
-               /post/the-pole/transantarctics_hu722106d66d2a50f4000fa5df1234233d_2874254_9c67154b36ff9b5806a16ec8010cdac6.webp 400w,
-               /post/the-pole/transantarctics_hu722106d66d2a50f4000fa5df1234233d_2874254_b9ec316632265894b32182f1ce864afd.webp 760w,
-               /post/the-pole/transantarctics_hu722106d66d2a50f4000fa5df1234233d_2874254_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/the-pole/transantarctics_hu722106d66d2a50f4000fa5df1234233d_2874254_9c67154b36ff9b5806a16ec8010cdac6.webp&#34;
+               /blog/the-pole/transantarctics_hu722106d66d2a50f4000fa5df1234233d_2874254_9c67154b36ff9b5806a16ec8010cdac6.webp 400w,
+               /blog/the-pole/transantarctics_hu722106d66d2a50f4000fa5df1234233d_2874254_b9ec316632265894b32182f1ce864afd.webp 760w,
+               /blog/the-pole/transantarctics_hu722106d66d2a50f4000fa5df1234233d_2874254_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/blog/the-pole/transantarctics_hu722106d66d2a50f4000fa5df1234233d_2874254_9c67154b36ff9b5806a16ec8010cdac6.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2382,10 +2387,10 @@ $$&lt;/p&gt;
 &lt;figure  id=&#34;figure-maintenance-work-on-the-south-pole-telescope&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Maintenance work on the South Pole Telescope.&#34; srcset=&#34;
-               /post/the-pole/SPT_hu0a4ff54ba61226b25c17514fab2365d0_348343_dcb2375f70b7c15199dd92cc5d3b0c91.webp 400w,
-               /post/the-pole/SPT_hu0a4ff54ba61226b25c17514fab2365d0_348343_e6dbc22fb3297710d65ec4ee09685cb3.webp 760w,
-               /post/the-pole/SPT_hu0a4ff54ba61226b25c17514fab2365d0_348343_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/the-pole/SPT_hu0a4ff54ba61226b25c17514fab2365d0_348343_dcb2375f70b7c15199dd92cc5d3b0c91.webp&#34;
+               /blog/the-pole/SPT_hu0a4ff54ba61226b25c17514fab2365d0_348343_dcb2375f70b7c15199dd92cc5d3b0c91.webp 400w,
+               /blog/the-pole/SPT_hu0a4ff54ba61226b25c17514fab2365d0_348343_e6dbc22fb3297710d65ec4ee09685cb3.webp 760w,
+               /blog/the-pole/SPT_hu0a4ff54ba61226b25c17514fab2365d0_348343_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/blog/the-pole/SPT_hu0a4ff54ba61226b25c17514fab2365d0_348343_dcb2375f70b7c15199dd92cc5d3b0c91.webp&#34;
                width=&#34;760&#34;
                height=&#34;506&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2399,9 +2404,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Going South</title>
-      <link>https://example.com/post/going-south/</link>
+      <link>https://example.com/blog/going-south/</link>
       <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/going-south/</guid>
+      <guid>https://example.com/blog/going-south/</guid>
       <description>&lt;p&gt;I am in the process of deploying to Hercules Dome, Antarctica (‘Herc Dome’, named after the airplane above) and will be in the field for at least a month, likely longer. This research trip came as a surprise to me because, in an emergency, an extra field personnel was needed. Two weeks ago, I was putting together a poster for the American Geophysical Union Fall Meeting in Washington D.C. and making Christmas plans with my girlfriend’s family. In the time since I was informed that I would be needed in Antarctica on Tuesday, November 27, I had to renew my passport, pass a rigorous physical examination (including full blood work, a tuberculosis test, a dental examination, etc.), purchase and pack gear for my first trip to the southern continent, write and print my science poster for a friend to hang up at the conference I would be missing, and finish my schoolwork for the quarter.&lt;/p&gt;
 &lt;p&gt;Mental preparation thrust me into a vortex of emotions. Obviously, I am both excited and nervous about the trip itself, but I also sporadically feel sad, isolated, exhausted, proud, hopeful, and even nostalgic as we pass through Christchurch, New Zealand, where I lived as a 20-year-old student. In the days and weeks to come I will have more trainings and preparations to do at both the McMurdo and South Pole stations. Although being dragged through this emotional landscape is somewhat inevitable, I am hoping for a mental shift toward sharpening my focus on our scientific objectives. After all, that is my reason for being here.&lt;/p&gt;
 
@@ -2421,10 +2426,10 @@ $$&lt;/p&gt;
 &lt;figure  id=&#34;figure-a-map-of-ice-core-drilling-sites-in-antarctica-with-herc-dome-shown-in-red-borrowed-from-tj-fudgehttpsantarcticfudgesicleswordpresscom20181117hercules-dome-antarctica&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A map of ice core drilling sites in Antarctica with Herc Dome shown in red (borrowed from [T.J. Fudge](https://antarcticfudgesicles.wordpress.com/2018/11/17/hercules-dome-antarctica/)).&#34; srcset=&#34;
-               /post/going-south/hd-map_hue72b89f81990392c5429058996f26f48_43647_71f23b853006c34e2591dfde485d40f1.webp 400w,
-               /post/going-south/hd-map_hue72b89f81990392c5429058996f26f48_43647_a4546e1554ad45056d28353bcf19bed3.webp 760w,
-               /post/going-south/hd-map_hue72b89f81990392c5429058996f26f48_43647_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/going-south/hd-map_hue72b89f81990392c5429058996f26f48_43647_71f23b853006c34e2591dfde485d40f1.webp&#34;
+               /blog/going-south/hd-map_hue72b89f81990392c5429058996f26f48_43647_71f23b853006c34e2591dfde485d40f1.webp 400w,
+               /blog/going-south/hd-map_hue72b89f81990392c5429058996f26f48_43647_a4546e1554ad45056d28353bcf19bed3.webp 760w,
+               /blog/going-south/hd-map_hue72b89f81990392c5429058996f26f48_43647_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/blog/going-south/hd-map_hue72b89f81990392c5429058996f26f48_43647_71f23b853006c34e2591dfde485d40f1.webp&#34;
                width=&#34;484&#34;
                height=&#34;417&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2450,10 +2455,10 @@ $$&lt;/p&gt;
 &lt;figure  id=&#34;figure-paleoclimate-data-from-three-ice-cores-and-an-oceanic-record-used-as-a-proxy-for-sea-level-change-taken-from-a-climate-review-paperhttpswwwclim-pastnet925252013&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Paleoclimate data from three ice cores and an oceanic record used as a proxy for sea-level change (taken from a [climate review paper](https://www.clim-past.net/9/2525/2013/))&#34; srcset=&#34;
-               /post/going-south/IceCoreData_hu0803a4af1784c1df74d0ceb908763193_79889_9b44b828102dfe0850a6ae58535edf58.webp 400w,
-               /post/going-south/IceCoreData_hu0803a4af1784c1df74d0ceb908763193_79889_93ee3c3f2fab8bcbd1cf4e8dca55f99f.webp 760w,
-               /post/going-south/IceCoreData_hu0803a4af1784c1df74d0ceb908763193_79889_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/going-south/IceCoreData_hu0803a4af1784c1df74d0ceb908763193_79889_9b44b828102dfe0850a6ae58535edf58.webp&#34;
+               /blog/going-south/IceCoreData_hu0803a4af1784c1df74d0ceb908763193_79889_9b44b828102dfe0850a6ae58535edf58.webp 400w,
+               /blog/going-south/IceCoreData_hu0803a4af1784c1df74d0ceb908763193_79889_93ee3c3f2fab8bcbd1cf4e8dca55f99f.webp 760w,
+               /blog/going-south/IceCoreData_hu0803a4af1784c1df74d0ceb908763193_79889_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/blog/going-south/IceCoreData_hu0803a4af1784c1df74d0ceb908763193_79889_9b44b828102dfe0850a6ae58535edf58.webp&#34;
                width=&#34;640&#34;
                height=&#34;450&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2479,10 +2484,10 @@ $$&lt;/p&gt;
 &lt;figure  id=&#34;figure-getting-my-gear-ready-at-the-clothing-distribution-center-in-christchurch-new-zealand&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Getting my gear ready at the clothing distribution center in Christchurch, New Zealand.&#34; srcset=&#34;
-               /post/going-south/clothes_hu8ece794870e2fd8521c3b43a5cefa654_498152_1b186ac16a8b48d494d904b147185bde.webp 400w,
-               /post/going-south/clothes_hu8ece794870e2fd8521c3b43a5cefa654_498152_f3fe9be054356959a3f8db76b709758e.webp 760w,
-               /post/going-south/clothes_hu8ece794870e2fd8521c3b43a5cefa654_498152_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/going-south/clothes_hu8ece794870e2fd8521c3b43a5cefa654_498152_1b186ac16a8b48d494d904b147185bde.webp&#34;
+               /blog/going-south/clothes_hu8ece794870e2fd8521c3b43a5cefa654_498152_1b186ac16a8b48d494d904b147185bde.webp 400w,
+               /blog/going-south/clothes_hu8ece794870e2fd8521c3b43a5cefa654_498152_f3fe9be054356959a3f8db76b709758e.webp 760w,
+               /blog/going-south/clothes_hu8ece794870e2fd8521c3b43a5cefa654_498152_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/blog/going-south/clothes_hu8ece794870e2fd8521c3b43a5cefa654_498152_1b186ac16a8b48d494d904b147185bde.webp&#34;
                width=&#34;697&#34;
                height=&#34;695&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2504,9 +2509,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Sea-Level Fingerprinting</title>
-      <link>https://example.com/post/sea-level-fingerprinting/</link>
+      <link>https://example.com/blog/sea-level-fingerprinting/</link>
       <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/sea-level-fingerprinting/</guid>
+      <guid>https://example.com/blog/sea-level-fingerprinting/</guid>
       <description>&lt;p&gt;Projections of sea-level rise from the International Panel on Climate Change (IPCC) 5th Assessment Report are daunting to say the least. Policy makers are most concerned about the changes coming in the next century, over which we could see up to a full meter of sea-level rise. Even under the best-case scenario, dramatically curbing emissions today, the oceans will rise considerably by year 2100 (see the figure below). Looking beyond that 100-year mark though, the rates of sea-level rise become much more uncertain. The largest uncertainty in future sea-level projections is that associated with dynamic losses from the West Antarctic Ice Sheet (WAIS). Dynamic losses are those from speedup of the ice sheet, resulting in drawdown of interior ice and more calving into the ocean. Unlike ice melting, which pretty much scales linearly with the global air temperature, these dynamic losses could entirely eliminate an unstable ice sheet on the timescale of decades to centuries rather than millennia.&lt;/p&gt;
 
 
@@ -2525,10 +2530,10 @@ $$&lt;/p&gt;
 &lt;figure  id=&#34;figure-historic-and-projected-sea-level-change-from-pre-industrial-1700-future-projections-are-for-shown-for-the-very-high-emission-scenario-red-and-the-very-low-emission-scenario-blueipcc-ar5httpwwwipccchreportar5wg1ulvpnh_ix8e&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Historic and projected sea-level change from pre-industrial (1700). Future projections are for shown for the very high emission scenario (red) and the very low emission scenario (blue). [IPCC AR5](http://www.ipcc.ch/report/ar5/wg1/#.UlvpNH_Ix8E)&#34; srcset=&#34;
-               /post/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_5856d5a353079dbfde643b99970a308e.webp 400w,
-               /post/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_55bdff5ffb534d7a431336680ec5769d.webp 760w,
-               /post/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_5856d5a353079dbfde643b99970a308e.webp&#34;
+               /blog/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_5856d5a353079dbfde643b99970a308e.webp 400w,
+               /blog/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_55bdff5ffb534d7a431336680ec5769d.webp 760w,
+               /blog/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/blog/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_5856d5a353079dbfde643b99970a308e.webp&#34;
                width=&#34;589&#34;
                height=&#34;556&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2556,10 +2561,10 @@ $$&lt;/p&gt;
 &lt;figure  id=&#34;figure-self-gravitation-of-an-ice-sheet-national-academies-presshttpswwwnapeduread18373chapter4&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Self-gravitation of an ice sheet. [National Academies Press](https://www.nap.edu/read/18373/chapter/4)&#34; srcset=&#34;
-               /post/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_8b3d2f6100097ef6614a53c3ba5ac1ed.webp 400w,
-               /post/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_42dbaa00d3d92449c7d082e358921ceb.webp 760w,
-               /post/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_8b3d2f6100097ef6614a53c3ba5ac1ed.webp&#34;
+               /blog/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_8b3d2f6100097ef6614a53c3ba5ac1ed.webp 400w,
+               /blog/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_42dbaa00d3d92449c7d082e358921ceb.webp 760w,
+               /blog/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/blog/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_8b3d2f6100097ef6614a53c3ba5ac1ed.webp&#34;
                width=&#34;592&#34;
                height=&#34;451&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2586,10 +2591,10 @@ $$&lt;/p&gt;
 &lt;figure  id=&#34;figure-relative-sea-level-fingerprints-for-greenland-left-and-west-antarctica-right-the-scale-is-dimensionless-with-1-being-equal-to-the-eustatic-global-mean-sea-level-rise-and-negative-being-a-regional-drop-in-sea-level-hay-et-al-2015httpswwwnaturecomarticlesnature14093&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Relative sea-level fingerprints for Greenland (left) and West Antarctica (right). The scale is dimensionless, with 1 being equal to the eustatic (global mean) sea level rise and negative being a regional drop in sea level  [(Hay et al., 2015)](https://www.nature.com/articles/nature14093).&#34; srcset=&#34;
-               /post/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_1eaebf29742993e6bb4fc2da22936160.webp 400w,
-               /post/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_f9d1c6596df1b83ec3d23aee16d10312.webp 760w,
-               /post/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_1eaebf29742993e6bb4fc2da22936160.webp&#34;
+               /blog/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_1eaebf29742993e6bb4fc2da22936160.webp 400w,
+               /blog/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_f9d1c6596df1b83ec3d23aee16d10312.webp 760w,
+               /blog/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/blog/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_1eaebf29742993e6bb4fc2da22936160.webp&#34;
                width=&#34;760&#34;
                height=&#34;256&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2602,9 +2607,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Crystalline Ice</title>
-      <link>https://example.com/post/crystalline-ice/</link>
+      <link>https://example.com/blog/crystalline-ice/</link>
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/crystalline-ice/</guid>
+      <guid>https://example.com/blog/crystalline-ice/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&amp;lsquo;Now suppose,&amp;rsquo; chortled Dr. Breed, enjoying himself, &amp;rsquo;that there were many possible ways in which water could crystallize, could freeze. Suppose that the sort of ice we skate upon and put into highballs&amp;ndash;what we might call ice-one&amp;ndash; is only one of several types of ice. Suppose water always froze as ice-one on Earth because it had never had a seed to teach it how to form ice-two, ice-three, ice-four&amp;hellip;? And suppose,&amp;rsquo; he rapped on his desk with his old hand again, &amp;rsquo;that there were one form, which we will call ice-nine&amp;ndash;a crystal as hard as this desk&amp;ndash;with a melting point of, let us say, one-hundred degrees Fahrenheit, or, better still, a melting point of one-hundred-and-thirty degrees.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2631,10 +2636,10 @@ $$&lt;/p&gt;
 &lt;figure  id=&#34;figure-the-water-molecule-has-two-hydrogen-and-one-oxygen-atom-the-angle-between-covalent-bonds-is-about-1045º-and-the-distance-from-the-oxygen-nucleus-to-hydrogen-is-about-1-angstrom&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The water molecule has two hydrogen and one oxygen atom. The angle between covalent bonds is about 104.5º and the distance from the oxygen nucleus to hydrogen is about 1 angstrom.&#34; srcset=&#34;
-               /post/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_93af586cc6f61a2bba9e330a413eacb2.webp 400w,
-               /post/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_cc4a37d413d576881933731fd587d3b8.webp 760w,
-               /post/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_93af586cc6f61a2bba9e330a413eacb2.webp&#34;
+               /blog/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_93af586cc6f61a2bba9e330a413eacb2.webp 400w,
+               /blog/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_cc4a37d413d576881933731fd587d3b8.webp 760w,
+               /blog/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/blog/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_93af586cc6f61a2bba9e330a413eacb2.webp&#34;
                width=&#34;760&#34;
                height=&#34;578&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2664,10 +2669,10 @@ $$&lt;/p&gt;
 &lt;figure  id=&#34;figure-phase-diagram-of-water-over-a-large-range-of-temperatures-and-pressures-sourcehttpswebhomephydukeeduhsg363table-imageswater-phase-diagramhtml&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Phase diagram of water over a large range of temperatures and pressures. [Source](https://webhome.phy.duke.edu/~hsg/363/table-images/water-phase-diagram.html)&#34; srcset=&#34;
-               /post/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_c56671314f618958244f0c7ca94ba0c6.webp 400w,
-               /post/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_354d8e3074dafe7b6f00ddc555ca4445.webp 760w,
-               /post/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_c56671314f618958244f0c7ca94ba0c6.webp&#34;
+               /blog/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_c56671314f618958244f0c7ca94ba0c6.webp 400w,
+               /blog/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_354d8e3074dafe7b6f00ddc555ca4445.webp 760w,
+               /blog/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/blog/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_c56671314f618958244f0c7ca94ba0c6.webp&#34;
                width=&#34;760&#34;
                height=&#34;510&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2681,9 +2686,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Greenland Ice Sheet Ablation Zone</title>
-      <link>https://example.com/post/ablation-zone/</link>
+      <link>https://example.com/blog/ablation-zone/</link>
       <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/ablation-zone/</guid>
+      <guid>https://example.com/blog/ablation-zone/</guid>
       <description>&lt;p&gt;From 2015 to 2017 I was a graduate student at the University of Montana. While there, my research focused on heat transfer in Greenland&amp;rsquo;s ablation zone. I was fortunate in getting to experience this place, which up to now has been the most awe inspiring and the most intellectually fascinating place I have ever been. Spending approximately a month of time on the ice (over two separate summers) I learned how to work in such an environment, and specifically how to extract information from one of the most influential natural systems on our planet.&lt;/p&gt;
 &lt;h2 id=&#34;ice-sheet-basics&#34;&gt;Ice Sheet Basics&lt;/h2&gt;
 &lt;p&gt;Ice forms on the Earth&amp;rsquo;s surface in places where more snow falls in the winter than melts in the summer. Typically, this means at either high elevation or high latitude, both of which are landscapes generally void of dense human populations. While it is easy for most of us to think of these as abstract places having no impact on our daily lives, as early as the 1960s scientists were warning of the potential for global influence by the Earth&amp;rsquo;s ice sheets.&lt;/p&gt;
@@ -2706,10 +2711,10 @@ $$&lt;/p&gt;
 &lt;figure  id=&#34;figure-in-the-accumulation-zone-more-ice-accumulates-from-snowfall-than-melts-alternatively-in-the-ablation-zone-the-entire-winter-snowpack-as-well-as-some-amount-of-ice-all-melts-during-the-summer&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;In the accumulation zone, more ice accumulates from snowfall than melts. Alternatively, in the ablation zone, the entire winter snowpack as well as some amount of ice all melts during the summer.&#34; srcset=&#34;
-               /post/ablation-zone/accabl_hua021b37d7b32ea2a52939f9d359e088c_26655654_38277dd4e9fae0d15b54a8b4d033e791.webp 400w,
-               /post/ablation-zone/accabl_hua021b37d7b32ea2a52939f9d359e088c_26655654_a6a06fe01ee718d50ea14dc27d65dff7.webp 760w,
-               /post/ablation-zone/accabl_hua021b37d7b32ea2a52939f9d359e088c_26655654_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/ablation-zone/accabl_hua021b37d7b32ea2a52939f9d359e088c_26655654_38277dd4e9fae0d15b54a8b4d033e791.webp&#34;
+               /blog/ablation-zone/accabl_hua021b37d7b32ea2a52939f9d359e088c_26655654_38277dd4e9fae0d15b54a8b4d033e791.webp 400w,
+               /blog/ablation-zone/accabl_hua021b37d7b32ea2a52939f9d359e088c_26655654_a6a06fe01ee718d50ea14dc27d65dff7.webp 760w,
+               /blog/ablation-zone/accabl_hua021b37d7b32ea2a52939f9d359e088c_26655654_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/blog/ablation-zone/accabl_hua021b37d7b32ea2a52939f9d359e088c_26655654_38277dd4e9fae0d15b54a8b4d033e791.webp&#34;
                width=&#34;760&#34;
                height=&#34;253&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2735,10 +2740,10 @@ $$&lt;/p&gt;
 &lt;figure  id=&#34;figure-the-location-of-our-field-area-in-southwest-greenland&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The location of our field area in southwest Greenland.&#34; srcset=&#34;
-               /post/ablation-zone/isunninset_hu7494ad9600d4a9895c52f1b8717378bc_752443_afa3cb44f4c4f908cbb825e90c092a06.webp 400w,
-               /post/ablation-zone/isunninset_hu7494ad9600d4a9895c52f1b8717378bc_752443_5c1008b66f404d21b9edf919b4b5bdd5.webp 760w,
-               /post/ablation-zone/isunninset_hu7494ad9600d4a9895c52f1b8717378bc_752443_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/ablation-zone/isunninset_hu7494ad9600d4a9895c52f1b8717378bc_752443_afa3cb44f4c4f908cbb825e90c092a06.webp&#34;
+               /blog/ablation-zone/isunninset_hu7494ad9600d4a9895c52f1b8717378bc_752443_afa3cb44f4c4f908cbb825e90c092a06.webp 400w,
+               /blog/ablation-zone/isunninset_hu7494ad9600d4a9895c52f1b8717378bc_752443_5c1008b66f404d21b9edf919b4b5bdd5.webp 760w,
+               /blog/ablation-zone/isunninset_hu7494ad9600d4a9895c52f1b8717378bc_752443_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/blog/ablation-zone/isunninset_hu7494ad9600d4a9895c52f1b8717378bc_752443_afa3cb44f4c4f908cbb825e90c092a06.webp&#34;
                width=&#34;537&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2765,10 +2770,10 @@ $$&lt;/p&gt;
 &lt;figure  id=&#34;figure-our-research-team-getting-the-hot-water-drill-started-on-the-morning-of-a-drilling-day&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Our research team getting the hot-water drill started on the morning of a drilling day.&#34; srcset=&#34;
-               /post/ablation-zone/hot-water_hud56757ca3a027ba70972e9f698a2c263_207670_c997d1f069c56f21f27885347a87d914.webp 400w,
-               /post/ablation-zone/hot-water_hud56757ca3a027ba70972e9f698a2c263_207670_c0f26f802120b22e054689e4d069d56a.webp 760w,
-               /post/ablation-zone/hot-water_hud56757ca3a027ba70972e9f698a2c263_207670_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/ablation-zone/hot-water_hud56757ca3a027ba70972e9f698a2c263_207670_c997d1f069c56f21f27885347a87d914.webp&#34;
+               /blog/ablation-zone/hot-water_hud56757ca3a027ba70972e9f698a2c263_207670_c997d1f069c56f21f27885347a87d914.webp 400w,
+               /blog/ablation-zone/hot-water_hud56757ca3a027ba70972e9f698a2c263_207670_c0f26f802120b22e054689e4d069d56a.webp 760w,
+               /blog/ablation-zone/hot-water_hud56757ca3a027ba70972e9f698a2c263_207670_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/blog/ablation-zone/hot-water_hud56757ca3a027ba70972e9f698a2c263_207670_c997d1f069c56f21f27885347a87d914.webp&#34;
                width=&#34;712&#34;
                height=&#34;474&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2793,10 +2798,10 @@ $$&lt;/p&gt;
 &lt;figure  id=&#34;figure-the-open-borehole-with-cables-for-our-electronics-descending-into-the-ice-sheet&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The open borehole with cables for our electronics descending into the ice sheet.&#34; srcset=&#34;
-               /post/ablation-zone/hole_hu5ca122fbc12e048477b3e4e646571db0_126123_785a87c751b34a323d9b826a7587b75a.webp 400w,
-               /post/ablation-zone/hole_hu5ca122fbc12e048477b3e4e646571db0_126123_f161110c9794a3eb44143a32d56b43e3.webp 760w,
-               /post/ablation-zone/hole_hu5ca122fbc12e048477b3e4e646571db0_126123_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/ablation-zone/hole_hu5ca122fbc12e048477b3e4e646571db0_126123_785a87c751b34a323d9b826a7587b75a.webp&#34;
+               /blog/ablation-zone/hole_hu5ca122fbc12e048477b3e4e646571db0_126123_785a87c751b34a323d9b826a7587b75a.webp 400w,
+               /blog/ablation-zone/hole_hu5ca122fbc12e048477b3e4e646571db0_126123_f161110c9794a3eb44143a32d56b43e3.webp 760w,
+               /blog/ablation-zone/hole_hu5ca122fbc12e048477b3e4e646571db0_126123_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/blog/ablation-zone/hole_hu5ca122fbc12e048477b3e4e646571db0_126123_785a87c751b34a323d9b826a7587b75a.webp&#34;
                width=&#34;708&#34;
                height=&#34;471&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

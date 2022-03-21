@@ -14,9 +14,9 @@
     
     <item>
       <title>Sea-Level Fingerprinting</title>
-      <link>https://example.com/post/sea-level-fingerprinting/</link>
+      <link>https://example.com/blog/sea-level-fingerprinting/</link>
       <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/sea-level-fingerprinting/</guid>
+      <guid>https://example.com/blog/sea-level-fingerprinting/</guid>
       <description>&lt;p&gt;Projections of sea-level rise from the International Panel on Climate Change (IPCC) 5th Assessment Report are daunting to say the least. Policy makers are most concerned about the changes coming in the next century, over which we could see up to a full meter of sea-level rise. Even under the best-case scenario, dramatically curbing emissions today, the oceans will rise considerably by year 2100 (see the figure below). Looking beyond that 100-year mark though, the rates of sea-level rise become much more uncertain. The largest uncertainty in future sea-level projections is that associated with dynamic losses from the West Antarctic Ice Sheet (WAIS). Dynamic losses are those from speedup of the ice sheet, resulting in drawdown of interior ice and more calving into the ocean. Unlike ice melting, which pretty much scales linearly with the global air temperature, these dynamic losses could entirely eliminate an unstable ice sheet on the timescale of decades to centuries rather than millennia.&lt;/p&gt;
 
 
@@ -35,10 +35,10 @@
 &lt;figure  id=&#34;figure-historic-and-projected-sea-level-change-from-pre-industrial-1700-future-projections-are-for-shown-for-the-very-high-emission-scenario-red-and-the-very-low-emission-scenario-blueipcc-ar5httpwwwipccchreportar5wg1ulvpnh_ix8e&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Historic and projected sea-level change from pre-industrial (1700). Future projections are for shown for the very high emission scenario (red) and the very low emission scenario (blue). [IPCC AR5](http://www.ipcc.ch/report/ar5/wg1/#.UlvpNH_Ix8E)&#34; srcset=&#34;
-               /post/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_5856d5a353079dbfde643b99970a308e.webp 400w,
-               /post/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_55bdff5ffb534d7a431336680ec5769d.webp 760w,
-               /post/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_5856d5a353079dbfde643b99970a308e.webp&#34;
+               /blog/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_5856d5a353079dbfde643b99970a308e.webp 400w,
+               /blog/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_55bdff5ffb534d7a431336680ec5769d.webp 760w,
+               /blog/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/blog/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_5856d5a353079dbfde643b99970a308e.webp&#34;
                width=&#34;589&#34;
                height=&#34;556&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -66,10 +66,10 @@
 &lt;figure  id=&#34;figure-self-gravitation-of-an-ice-sheet-national-academies-presshttpswwwnapeduread18373chapter4&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Self-gravitation of an ice sheet. [National Academies Press](https://www.nap.edu/read/18373/chapter/4)&#34; srcset=&#34;
-               /post/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_8b3d2f6100097ef6614a53c3ba5ac1ed.webp 400w,
-               /post/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_42dbaa00d3d92449c7d082e358921ceb.webp 760w,
-               /post/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_8b3d2f6100097ef6614a53c3ba5ac1ed.webp&#34;
+               /blog/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_8b3d2f6100097ef6614a53c3ba5ac1ed.webp 400w,
+               /blog/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_42dbaa00d3d92449c7d082e358921ceb.webp 760w,
+               /blog/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/blog/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_8b3d2f6100097ef6614a53c3ba5ac1ed.webp&#34;
                width=&#34;592&#34;
                height=&#34;451&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -96,10 +96,10 @@
 &lt;figure  id=&#34;figure-relative-sea-level-fingerprints-for-greenland-left-and-west-antarctica-right-the-scale-is-dimensionless-with-1-being-equal-to-the-eustatic-global-mean-sea-level-rise-and-negative-being-a-regional-drop-in-sea-level-hay-et-al-2015httpswwwnaturecomarticlesnature14093&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Relative sea-level fingerprints for Greenland (left) and West Antarctica (right). The scale is dimensionless, with 1 being equal to the eustatic (global mean) sea level rise and negative being a regional drop in sea level  [(Hay et al., 2015)](https://www.nature.com/articles/nature14093).&#34; srcset=&#34;
-               /post/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_1eaebf29742993e6bb4fc2da22936160.webp 400w,
-               /post/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_f9d1c6596df1b83ec3d23aee16d10312.webp 760w,
-               /post/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_1eaebf29742993e6bb4fc2da22936160.webp&#34;
+               /blog/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_1eaebf29742993e6bb4fc2da22936160.webp 400w,
+               /blog/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_f9d1c6596df1b83ec3d23aee16d10312.webp 760w,
+               /blog/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/blog/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_1eaebf29742993e6bb4fc2da22936160.webp&#34;
                width=&#34;760&#34;
                height=&#34;256&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -112,9 +112,9 @@
     
     <item>
       <title>Crystalline Ice</title>
-      <link>https://example.com/post/crystalline-ice/</link>
+      <link>https://example.com/blog/crystalline-ice/</link>
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/crystalline-ice/</guid>
+      <guid>https://example.com/blog/crystalline-ice/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&amp;lsquo;Now suppose,&amp;rsquo; chortled Dr. Breed, enjoying himself, &amp;rsquo;that there were many possible ways in which water could crystallize, could freeze. Suppose that the sort of ice we skate upon and put into highballs&amp;ndash;what we might call ice-one&amp;ndash; is only one of several types of ice. Suppose water always froze as ice-one on Earth because it had never had a seed to teach it how to form ice-two, ice-three, ice-four&amp;hellip;? And suppose,&amp;rsquo; he rapped on his desk with his old hand again, &amp;rsquo;that there were one form, which we will call ice-nine&amp;ndash;a crystal as hard as this desk&amp;ndash;with a melting point of, let us say, one-hundred degrees Fahrenheit, or, better still, a melting point of one-hundred-and-thirty degrees.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -141,10 +141,10 @@
 &lt;figure  id=&#34;figure-the-water-molecule-has-two-hydrogen-and-one-oxygen-atom-the-angle-between-covalent-bonds-is-about-1045º-and-the-distance-from-the-oxygen-nucleus-to-hydrogen-is-about-1-angstrom&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The water molecule has two hydrogen and one oxygen atom. The angle between covalent bonds is about 104.5º and the distance from the oxygen nucleus to hydrogen is about 1 angstrom.&#34; srcset=&#34;
-               /post/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_93af586cc6f61a2bba9e330a413eacb2.webp 400w,
-               /post/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_cc4a37d413d576881933731fd587d3b8.webp 760w,
-               /post/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_93af586cc6f61a2bba9e330a413eacb2.webp&#34;
+               /blog/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_93af586cc6f61a2bba9e330a413eacb2.webp 400w,
+               /blog/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_cc4a37d413d576881933731fd587d3b8.webp 760w,
+               /blog/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/blog/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_93af586cc6f61a2bba9e330a413eacb2.webp&#34;
                width=&#34;760&#34;
                height=&#34;578&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -174,10 +174,10 @@
 &lt;figure  id=&#34;figure-phase-diagram-of-water-over-a-large-range-of-temperatures-and-pressures-sourcehttpswebhomephydukeeduhsg363table-imageswater-phase-diagramhtml&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Phase diagram of water over a large range of temperatures and pressures. [Source](https://webhome.phy.duke.edu/~hsg/363/table-images/water-phase-diagram.html)&#34; srcset=&#34;
-               /post/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_c56671314f618958244f0c7ca94ba0c6.webp 400w,
-               /post/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_354d8e3074dafe7b6f00ddc555ca4445.webp 760w,
-               /post/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_c56671314f618958244f0c7ca94ba0c6.webp&#34;
+               /blog/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_c56671314f618958244f0c7ca94ba0c6.webp 400w,
+               /blog/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_354d8e3074dafe7b6f00ddc555ca4445.webp 760w,
+               /blog/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/blog/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_c56671314f618958244f0c7ca94ba0c6.webp&#34;
                width=&#34;760&#34;
                height=&#34;510&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

@@ -1,0 +1,1207 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.4.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Benjamin Hills" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Projections of sea-level rise from the International Panel on Climate Change (IPCC) 5th Assessment Report are daunting to say the least. Policy makers are most concerned about the changes coming in the next century, over which we could see up to a full meter of sea-level rise." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://example.com/blog/sea-level-fingerprinting/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.d3fbabf3e02f0a40f84592dd992c35ca.css" />
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://example.com/blog/sea-level-fingerprinting/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+    <meta property="twitter:site" content="@wowchemy" />
+    <meta property="twitter:creator" content="@wowchemy" />
+  
+  <meta property="og:site_name" content="Benjamin Hills" />
+  <meta property="og:url" content="https://example.com/blog/sea-level-fingerprinting/" />
+  <meta property="og:title" content="Sea-Level Fingerprinting | Benjamin Hills" />
+  <meta property="og:description" content="Projections of sea-level rise from the International Panel on Climate Change (IPCC) 5th Assessment Report are daunting to say the least. Policy makers are most concerned about the changes coming in the next century, over which we could see up to a full meter of sea-level rise." /><meta property="og:image" content="https://example.com/blog/sea-level-fingerprinting/featured.png" />
+    <meta property="twitter:image" content="https://example.com/blog/sea-level-fingerprinting/featured.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2018-03-20T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2018-03-20T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Sea-Level Fingerprinting | Benjamin Hills</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="c43b13b27913b551a71ef3349d7cc2e5" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.d5094052a6270c81ab9495f4173f87a9.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Benjamin Hills</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Benjamin Hills</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#research"><span>Research</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#blog"><span>Blog</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#photos"><span>Photos</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#publications"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Sea-Level Fingerprinting</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      Benjamin Hills</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Mar 20, 2018
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/educational/">Educational</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>Projections of sea-level rise from the International Panel on Climate Change (IPCC) 5th Assessment Report are daunting to say the least. Policy makers are most concerned about the changes coming in the next century, over which we could see up to a full meter of sea-level rise. Even under the best-case scenario, dramatically curbing emissions today, the oceans will rise considerably by year 2100 (see the figure below). Looking beyond that 100-year mark though, the rates of sea-level rise become much more uncertain. The largest uncertainty in future sea-level projections is that associated with dynamic losses from the West Antarctic Ice Sheet (WAIS). Dynamic losses are those from speedup of the ice sheet, resulting in drawdown of interior ice and more calving into the ocean. Unlike ice melting, which pretty much scales linearly with the global air temperature, these dynamic losses could entirely eliminate an unstable ice sheet on the timescale of decades to centuries rather than millennia.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-historic-and-projected-sea-level-change-from-pre-industrial-1700-future-projections-are-for-shown-for-the-very-high-emission-scenario-red-and-the-very-low-emission-scenario-blueipcc-ar5httpwwwipccchreportar5wg1ulvpnh_ix8e">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Historic and projected sea-level change from pre-industrial (1700). Future projections are for shown for the very high emission scenario (red) and the very low emission scenario (blue). [IPCC AR5](http://www.ipcc.ch/report/ar5/wg1/#.UlvpNH_Ix8E)" srcset="
+               /blog/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_5856d5a353079dbfde643b99970a308e.webp 400w,
+               /blog/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_55bdff5ffb534d7a431336680ec5769d.webp 760w,
+               /blog/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/blog/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_5856d5a353079dbfde643b99970a308e.webp"
+               width="589"
+               height="556"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Historic and projected sea-level change from pre-industrial (1700). Future projections are for shown for the very high emission scenario (red) and the very low emission scenario (blue). <a href="http://www.ipcc.ch/report/ar5/wg1/#.UlvpNH_Ix8E" target="_blank" rel="noopener">IPCC AR5</a>
+    </figcaption></figure>
+<p>The most simple way to think about the sea level in a non-steady condition is in the analogy with a large pool of water. When extra water is added to the pool, or if the water expands due to an increase in temperature, its average level will come up. This model of the mean, or &rsquo;eustatic,&rsquo; sea level is often termed the &lsquo;bathtub model&rsquo; because it is like thinking of the global oceans as a bathtub and the added water as a turn of the faucet.</p>
+<p>While it is useful to conceptualize the bathtub model for preliminary calculations, in reality, sea-level rise does not come in this globally-averaged sense. A visualization from NASA shows that the sea-level change that we have recorded with satellites over the last 23 years is variable throughout the Earth&rsquo;s oceans. The most obvious sources for the regional variations in this visualization include shifts in ocean currents or natural oscillations in climate. There are even localized human influences on regional sea level such as the rapid subsidence of a coastal city like New Orleans.</p>
+<p>The above examples of regional sea-level rise are relatively complicated to fully understand or to project into the future. However, a more systematic sea-level adjustment comes with any change in mass of an ice sheet. Not only does a decrease in ice-sheet mass mean more water into the ocean, and thus a change in the eustatic sea level, but the mass of an ice sheet has a regional control on sea level as well. Each ice sheet having its own unique signature, these regional controls are termed sea-level &lsquo;fingerprints.&rsquo; Sea-level fingerprints are the result of several physical processes acting together, and only recently they were directly measured for the first time using satellites. I briefly explain the physical processes of fingerprinting below.</p>
+<p>First, the Earth&rsquo;s ice sheets are massive enough to attract the ocean toward them, much like the moon attracts the ocean to create tides. Therefore, if an ice sheet loses mass, the force with which it attracts the ocean toward it decreases and the local sea level falls nearby the ice sheet. If the ocean is to conserve water though (which it must), a local drop in sea level around the ice sheet means additional rise in sea level far away from the ice sheet. This idea of self-gravitation by the ice sheet mass is drawn out in the figure below.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-self-gravitation-of-an-ice-sheet-national-academies-presshttpswwwnapeduread18373chapter4">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Self-gravitation of an ice sheet. [National Academies Press](https://www.nap.edu/read/18373/chapter/4)" srcset="
+               /blog/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_8b3d2f6100097ef6614a53c3ba5ac1ed.webp 400w,
+               /blog/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_42dbaa00d3d92449c7d082e358921ceb.webp 760w,
+               /blog/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/blog/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_8b3d2f6100097ef6614a53c3ba5ac1ed.webp"
+               width="592"
+               height="451"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Self-gravitation of an ice sheet. <a href="https://www.nap.edu/read/18373/chapter/4" target="_blank" rel="noopener">National Academies Press</a>
+    </figcaption></figure>
+<p>Second, the earth under an ice sheet is not completely &lsquo;solid&rsquo; in the sense that it would be unable to deform; on the contrary, the upper mantle flows viscously over long timescales, which permits the motion of tectonic plates. When a mass load (e.g. an ice sheet) is created on the surface of the Earth, the mantle viscously readjusts itself to that new state over the timescales of thousands of years. Likewise, when an ice sheet melts and disappears, the mantle fills in and the overlying crust subsequently rises up to its original elevation from before the presence of that mass load. This concept is called isostasy, and it is also important for relative sea-level rise. Today, previously glaciated regions such as the land around the Hudson Bay in Canada are still rising in elevation, or isostatically rebounding, by up to ~1 cm/yr as we come out of the last ice age.</p>
+<p>Most recently developed in the scientific literature is a third physical process, where alterations in ice masses near the poles can change the manner in which the Earth rotates. We know that the rotation of the earth creates a centrifugal force that pushes more water out at the equator than at the poles. In a similar manner, the rock mass of the Earth itself has an equatorial bulge. However, the axis of rotation and the corresponding equator are not necessarily fixed. If one of the ice sheets melts, the planet will slightly adjust on its axis of rotation in a way that conserves angular momentum. This adjustment would redistribute some amount of water toward the new equator. Even if only adjusted slightly, this shift in rotation would dramatically effect the extent of sea-level rise at low latitudes.</p>
+<p>All of the above factors add up to describe a different story for future (and past) sea-level rise depending on what the melt source is for water added to the ocean. The characteristics of a global ocean under collapse of the WAIS would look dramatically different from that under collapse of the Greenland Ice Sheet. Research today is using the sea-level fingerprints of each of the ice sheets to make inferences about the nature of ice sheet collapse in geologic history. Namely, that the WAIS most likely collapsed during the last interglacial period based on present-day high stands of corals around the world. Unfortunately, this evidence for historic WAIS collapse is particularly supportive of the potential for rapid dynamic losses in the near-future as mentioned above.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-relative-sea-level-fingerprints-for-greenland-left-and-west-antarctica-right-the-scale-is-dimensionless-with-1-being-equal-to-the-eustatic-global-mean-sea-level-rise-and-negative-being-a-regional-drop-in-sea-level-hay-et-al-2015httpswwwnaturecomarticlesnature14093">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Relative sea-level fingerprints for Greenland (left) and West Antarctica (right). The scale is dimensionless, with 1 being equal to the eustatic (global mean) sea level rise and negative being a regional drop in sea level  [(Hay et al., 2015)](https://www.nature.com/articles/nature14093)." srcset="
+               /blog/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_1eaebf29742993e6bb4fc2da22936160.webp 400w,
+               /blog/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_f9d1c6596df1b83ec3d23aee16d10312.webp 760w,
+               /blog/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/blog/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_1eaebf29742993e6bb4fc2da22936160.webp"
+               width="760"
+               height="256"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Relative sea-level fingerprints for Greenland (left) and West Antarctica (right). The scale is dimensionless, with 1 being equal to the eustatic (global mean) sea level rise and negative being a regional drop in sea level  <a href="https://www.nature.com/articles/nature14093" target="_blank" rel="noopener">(Hay et al., 2015)</a>.
+    </figcaption></figure>
+<p>The overall effect of sea-level fingerprinting is sadly not in our favor. The figure above shows that the WAIS, which is the most likely to rapidly collapse in the near-future, could contribute to sea-level rise of greater than the global mean in the most densely populated regions of the world such as North America, Europe, and Eastern Asia. The take home point here is that we should be preparing for sea-level rise in a well educated manner. While city planners are beginning to incorporate a rising ocean into their assessments, they often use the misinformed global mean, whereas local estimates could be quite variable from that eustatic value.</p>
+
+    </div>
+
+    
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/academic/">Academic</a>
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://example.com/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu27f7dc34c9db8fd2b063f3fba6be9864_1139943_270x270_fill_q75_lanczos_center.jpg" alt="Benjamin Hills"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://example.com/">Benjamin Hills</a></h5>
+      <h6 class="card-subtitle">PhD Student</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:bhills@uw.edu" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=VjPBuycAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/0xboodle" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/benhills" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0003-4490-7416" target="_blank" rel="noopener">
+        <i class="fab fa-orcid"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <font size="-1">
+<center>
+
+©<script>document.write(/\d{4}/.exec(Date())[0])</script>
+licensed under
+<a href="https://creativecommons.org/licenses/by-nc-nd/4.0" target="_blank">CC BY NC ND 4.0</a>
+
+<br>
+
+Designed and published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank">Wowchemy</a>
+
+</center>
+</font>
+
+    </div>
+    
+  </div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.3d946de2e8784a477845261d87025092.js"></script>
+
+    
+    
+    
+      
+      
+        <script src="https://cdn.jsdelivr.net/gh/desandro/imagesloaded@v4.1.4/imagesloaded.pkgd.min.js" integrity="sha512-S5PZ9GxJZO16tT9r3WJp/Safn31eu8uWrzglMahDT4dsmgqWonRY9grk3j+3tfuPr9WJNsfooOR7Gi7HL5W2jw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/metafizzy/isotope@v3.0.6/dist/isotope.pkgd.min.js" integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/r.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/latex.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+
+    
+    
+    
+    <script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+    
+    
+      <script src="/js/wowchemy-headroom.e8fd2d733eef6a8bbbe0539398fc0547.js" type="module"></script>
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.a2ed145159dd33ad55ff402163350b5d.js"></script>
+
+    
+    
+    
+    
+    
+    
+      
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      <script src="/js/wowchemy-publication.b0d291ed6d27eacec233e6cf5204f99a.js" type="module"></script>
+
+
+
+
+
+
+</body>
+</html>
