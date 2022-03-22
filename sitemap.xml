@@ -48,6 +48,8 @@
   <url>
     <loc>https://example.com/photo/alpine/</loc><lastmod>2022-01-10T00:00:00+00:00</lastmod></url>
   <url>
+    <loc>https://example.com/photo/antarctica/</loc><lastmod>2022-01-10T00:00:00+00:00</lastmod></url>
+  <url>
     <loc>https://example.com/teaching/coding-boot-camp/</loc><lastmod>2022-01-10T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://example.com/teaching/ess-431/</loc><lastmod>2022-01-10T00:00:00+00:00</lastmod></url>
@@ -61,8 +63,6 @@
     <loc>https://example.com/research/</loc><lastmod>2022-01-10T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://example.com/teaching/</loc><lastmod>2022-01-10T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://example.com/photo/antarctica/</loc><lastmod>2022-01-10T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://example.com/photo/greenland/</loc><lastmod>2022-01-10T00:00:00+00:00</lastmod></url>
   <url>
