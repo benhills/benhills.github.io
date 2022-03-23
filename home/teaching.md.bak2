@@ -1,0 +1,40 @@
+---
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: featurette
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 50 
+
+title: Teaching
+subtitle: 'I like to teach out of Jupyter Notebooks. I use Binder so that students can run the code in a common environment without setting up all the dependencies on their own. Please feel free to take and use these notebooks from the associated github repositories, no permission necessary.'
+
+design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '1'
+
+feature:
+  - icon: binder
+    icon_pack: custom
+    name: "[Coding Boot Camp](https://mybinder.org/v2/gh/benhills/CodingBootCamp/main)"
+    description: "A primer on programming tools for students new to scientific research."
+
+  - icon: binder
+    icon_pack: custom
+    name: "[Climate Modeling](https://mybinder.org/v2/gh/benhills/ClimateModels_Notebooks/main)"
+    description: Toy models to develop intuition for physics in the climate system.
+
+  - icon: binder
+    icon_pack: custom
+    name: "[Heat Transfer](https://mybinder.org/v2/gh/benhills/HeatTransfer_Notebooks/master)"
+    description: Focused on ice applications. Advection-diffusion problems; Stefan problem.
+
+  - icon: binder
+    icon_pack: custom
+    name: "[ImpDAR Tutorials](https://mybinder.org/v2/gh/benhills/ImpDAR_tutorials/master)"
+    description: Walkthrough for the ice-penetrating radar processing and interpretation toolkit developed at UW.
+
+---
