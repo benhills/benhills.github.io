@@ -261,6 +261,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-62J5R1BNKK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-62J5R1BNKK', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -827,12 +866,6 @@
   <div class="ml-3">
     
     
-    
-    <a href="/blog/remote-fieldwork/" >
-      <img src="/blog/remote-fieldwork/featured_hu84f570fc7326cba7dbb8dcbd799e10dd_65932_150x0_resize_q75_h2_lanczos.webp" height="79" width="150"
-           alt="&#39;Working remotely&#39; as a polar field scientist" loading="lazy">
-    </a>
-    
   </div>
 </div>
 
@@ -928,12 +961,6 @@
   </div>
   <div class="ml-3">
     
-    
-    
-    <a href="/blog/open-science/" >
-      <img src="/blog/open-science/featured_hua958473651e4c8c1158305016ba44f20_160716_150x0_resize_q75_h2_lanczos_3.webp" height="88" width="150"
-           alt="Tokenized Thought" loading="lazy">
-    </a>
     
   </div>
 </div>
@@ -1031,12 +1058,6 @@
   <div class="ml-3">
     
     
-    
-    <a href="/blog/why-go-back/" >
-      <img src="/blog/why-go-back/featured_hu0f7b67ccd038a0a5cfeb92897f3a4ae4_1502786_150x0_resize_q75_h2_lanczos.webp" height="95" width="150"
-           alt="Why Go Back?" loading="lazy">
-    </a>
-    
   </div>
 </div>
 
@@ -1132,12 +1153,6 @@
   </div>
   <div class="ml-3">
     
-    
-    
-    <a href="/blog/mass-balance/" >
-      <img src="/blog/mass-balance/featured_huf50c5bcfb9b97e5dca5acd532891166c_551887_150x0_resize_q75_h2_lanczos.webp" height="185" width="150"
-           alt="Glacier Mass Balance at South Cascade" loading="lazy">
-    </a>
     
   </div>
 </div>
@@ -1235,12 +1250,6 @@
   <div class="ml-3">
     
     
-    
-    <a href="/blog/ice-penetrating-radar/" >
-      <img src="/blog/ice-penetrating-radar/featured_hu8327dd230a0a41c22199c0abfdfce843_1497163_150x0_resize_q75_h2_lanczos.webp" height="99" width="150"
-           alt="Ice-Penetrating Radar" loading="lazy">
-    </a>
-    
   </div>
 </div>
 
@@ -1336,12 +1345,6 @@
   </div>
   <div class="ml-3">
     
-    
-    
-    <a href="/blog/the-pole/" >
-      <img src="/blog/the-pole/featured_hud9be2d2bc1125f3ee69328a367ac188f_1013275_150x0_resize_q75_h2_lanczos.webp" height="100" width="150"
-           alt="The Pole" loading="lazy">
-    </a>
     
   </div>
 </div>
@@ -1439,12 +1442,6 @@
   <div class="ml-3">
     
     
-    
-    <a href="/blog/going-south/" >
-      <img src="/blog/going-south/featured_hud9162557c8f44f51057f67753a925e65_60777_150x0_resize_q75_h2_lanczos.webp" height="84" width="150"
-           alt="Going South" loading="lazy">
-    </a>
-    
   </div>
 </div>
 
@@ -1540,12 +1537,6 @@
   </div>
   <div class="ml-3">
     
-    
-    
-    <a href="/blog/sea-level-fingerprinting/" >
-      <img src="/blog/sea-level-fingerprinting/featured_hu550959ee9a3e7f2a2709f72ef43d8019_145000_150x0_resize_q75_h2_lanczos_3.webp" height="150" width="150"
-           alt="Sea-Level Fingerprinting" loading="lazy">
-    </a>
     
   </div>
 </div>
@@ -1643,12 +1634,6 @@
   <div class="ml-3">
     
     
-    
-    <a href="/blog/crystalline-ice/" >
-      <img src="/blog/crystalline-ice/featured_hu1db8dc5a8de1b07857aabf05af985e8a_13159_150x0_resize_q75_h2_lanczos.webp" height="100" width="150"
-           alt="Crystalline Ice" loading="lazy">
-    </a>
-    
   </div>
 </div>
 
@@ -1744,12 +1729,6 @@
   </div>
   <div class="ml-3">
     
-    
-    
-    <a href="/blog/ablation-zone/" >
-      <img src="/blog/ablation-zone/featured_hu5c10aacc9b7800a29bec32a7fbef6aac_1516199_150x0_resize_q75_h2_lanczos.webp" height="100" width="150"
-           alt="Greenland Ice Sheet Ablation Zone" loading="lazy">
-    </a>
     
   </div>
 </div>

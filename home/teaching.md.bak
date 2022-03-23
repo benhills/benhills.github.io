@@ -7,10 +7,10 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 50
 
 title: Teaching
-subtitle: 'I like to teach out of Jupyter Notebooks. I use Binder so that students can run the code in a common environment without setting up all the dependencies on their own. Please feel free to take and use these notebooks from the associated github repositories, no permission necessary.'
+subtitle: 'I enjoy teaching from Jupyter Notebooks, especially when targeted toward students who are relatively new to programming. I use Binder so that students can execute code in a common environment without setting up all the dependencies on their own. Please feel free to take and use these notebooks from the associated github repositories, no permission necessary.'
 
 content:
   # Page type to display. E.g. post, talk, publication...

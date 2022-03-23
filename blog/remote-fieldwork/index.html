@@ -261,6 +261,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-62J5R1BNKK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-62J5R1BNKK', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -294,6 +333,7 @@
   
   
     
+    
   
   
 
@@ -302,7 +342,7 @@
     
     
   
-  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:card" content="summary" />
   
     <meta property="twitter:site" content="@wowchemy" />
     <meta property="twitter:creator" content="@wowchemy" />
@@ -310,8 +350,8 @@
   <meta property="og:site_name" content="Benjamin Hills" />
   <meta property="og:url" content="https://example.com/blog/remote-fieldwork/" />
   <meta property="og:title" content="&#39;Working remotely&#39; as a polar field scientist | Benjamin Hills" />
-  <meta property="og:description" content="We are wrapping up our fourth* season at Hercules Dome, Antarctica. I use an asterisk because it hasn’t really been the fourth at all. For the first season, in ‘18-’19, we had a 4-person team who was meant to deploy a full field camp for a full month of work on the ground; instead, we spent ~6 weeks at South Pole Station for a handful of day trips commuting back and forth to Hercules Dome." /><meta property="og:image" content="https://example.com/blog/remote-fieldwork/featured.jpeg" />
-    <meta property="twitter:image" content="https://example.com/blog/remote-fieldwork/featured.jpeg" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="We are wrapping up our fourth* season at Hercules Dome, Antarctica. I use an asterisk because it hasn’t really been the fourth at all. For the first season, in ‘18-’19, we had a 4-person team who was meant to deploy a full field camp for a full month of work on the ground; instead, we spent ~6 weeks at South Pole Station for a handful of day trips commuting back and forth to Hercules Dome." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta

@@ -275,6 +275,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-62J5R1BNKK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-62J5R1BNKK', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -950,13 +989,17 @@
   <div class="col-12 col-lg-8">
 
     
-    <h1>Biography</h1>
+    <h1></h1>
 
     <div class="article-style">
-      <p>I have a long-standing interest in ice and polar regions, especially their connection to global climate. It started as a convenient way to bridge science and engineering by studying snow at MSU, but it grew into a passion for polar fieldwork and an identity within the glaciology community. Over the last couple years I have also been interested in the blossoming web3 ecosystem, including decentralization of academia, on-chain carbon markets, and Ethereum&rsquo;s proof-of-stake
-transition.</p>
+      <br>
+I have a long-standing interest in ice and polar regions, especially their connection to global climate. It started as a convenient way to bridge science and engineering by studying snow at MSU, but it grew into a passion for polar fieldwork and an identity within the glaciology community. Over the last couple years I have also been interested in the blossoming web3 ecosystem, including decentralization of academia, on-chain carbon markets, and Ethereum's proof-of-stake
+transition.
 <p>
-  <i class="fas fa-download  pr-1 fa-fw"></i> Download my <a href="/uploads/Hills_CV.pdf" target="_blank">CV</a>.</p>
+  <i class="fas fa-download  pr-1 fa-fw"></i> Download my <a href="/uploads/Hills_CV.pdf" target="_blank">CV</a>.
+<br>
+
+  <i class="fas fa-download  pr-1 fa-fw"></i> or my <a href="/uploads/dissertation_proposal.pdf" target="_blank">dissertation proposal</a>.</p>
 
     </div>
 
@@ -1585,12 +1628,6 @@ transition.</p>
   <div class="ml-3">
     
     
-    
-    <a href="/blog/remote-fieldwork/" >
-      <img src="/blog/remote-fieldwork/featured_hu84f570fc7326cba7dbb8dcbd799e10dd_65932_150x0_resize_q75_h2_lanczos.webp" height="79" width="150"
-           alt="&#39;Working remotely&#39; as a polar field scientist" loading="lazy">
-    </a>
-    
   </div>
 </div>
 
@@ -1687,12 +1724,6 @@ transition.</p>
   <div class="ml-3">
     
     
-    
-    <a href="/blog/open-science/" >
-      <img src="/blog/open-science/featured_hua958473651e4c8c1158305016ba44f20_160716_150x0_resize_q75_h2_lanczos_3.webp" height="88" width="150"
-           alt="Tokenized Thought" loading="lazy">
-    </a>
-    
   </div>
 </div>
 
@@ -1788,12 +1819,6 @@ transition.</p>
   </div>
   <div class="ml-3">
     
-    
-    
-    <a href="/blog/why-go-back/" >
-      <img src="/blog/why-go-back/featured_hu0f7b67ccd038a0a5cfeb92897f3a4ae4_1502786_150x0_resize_q75_h2_lanczos.webp" height="95" width="150"
-           alt="Why Go Back?" loading="lazy">
-    </a>
     
   </div>
 </div>
@@ -2180,7 +2205,7 @@ transition.</p>
       
         
           <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
-            <h1 class="mb-0">Photos</h1>
+            <h1 class="mb-0">Photo <br> Galleries</h1>
             
           </div>
         
