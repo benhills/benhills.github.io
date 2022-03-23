@@ -261,6 +261,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-62J5R1BNKK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-62J5R1BNKK', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -294,7 +333,6 @@
   
   
     
-    
   
   
 
@@ -303,7 +341,7 @@
     
     
   
-  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:card" content="summary_large_image" />
   
     <meta property="twitter:site" content="@wowchemy" />
     <meta property="twitter:creator" content="@wowchemy" />
@@ -311,8 +349,8 @@
   <meta property="og:site_name" content="Benjamin Hills" />
   <meta property="og:url" content="https://example.com/project/ice-temperature/" />
   <meta property="og:title" content="Ice Temperature | Benjamin Hills" />
-  <meta property="og:description" content="Heat transfer, ice viscosity, and radar attenuation." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="Heat transfer, ice viscosity, and radar attenuation." /><meta property="og:image" content="https://example.com/project/ice-temperature/featured.png" />
+    <meta property="twitter:image" content="https://example.com/project/ice-temperature/featured.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -345,6 +383,10 @@
     "@id": "https://example.com/project/ice-temperature/"
   },
   "headline": "Ice Temperature",
+  
+  "image": [
+    "https://example.com/project/ice-temperature/featured.png"
+  ],
   
   "datePublished": "2022-01-10T00:00:00Z",
   "dateModified": "2022-01-10T00:00:00Z",
@@ -624,6 +666,43 @@
           
 
           <li class="nav-item">
+            <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
             <a class="nav-link " href="/#photos"><span>Photos</span></a>
           </li>
 
@@ -662,43 +741,6 @@
 
           <li class="nav-item">
             <a class="nav-link " href="/#publications"><span>Publications</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-              
-              
-              
-                
-              
-              
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
           </li>
 
           
@@ -817,7 +859,7 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>Temperatures of glacier ice range from ~ -60-0°C, which corresponds to a viscosity range over three orders of magnitude. Ice is generally warmest at the glacier bed, being heated by the energy flux from the Earth&rsquo;s interior, and coldest near the surface where ice is in equilibrium with the mean air temperature. Heat moves between those two boundaries through the processes of diffusion (spreading out) and advection (transport through flow of the ice itself). Because the length scale for thermal diffusion in ice is long, deviations in ice temperature can be preserved for thousands of years.</p>
+      <p>Temperatures of glacier ice range from ~ -60-0°C, which corresponds to a viscosity range over three orders of magnitude. Ice is generally warmest at the glacier bed, being heated by the energy flux from Earth&rsquo;s interior, and coldest near the glacier surface where ice is in equilibrium with the mean air temperature. Heat moves between those two boundaries through the processes of diffusion (spreading out) and advection (transport by flow of the ice itself). Because the length scale for thermal diffusion in ice is long, deviations in ice temperature can be preserved for thousands of years.</p>
 
 
 
@@ -845,7 +887,7 @@
   </div><figcaption>
       Characteristic length scale of thermal diffusion in ice. Temperature variations can be persistent for hundreds of years in alpine glaciers and for thousands to even tens of thousands of years in the Greenland and Antarctic Ice Sheets.
     </figcaption></figure>
-<p>We measure ice temperature directly by drilling into it, installing in-situ instrumentation, and letting the hole freeze in on the instruments. The heat from drilling dissipates on the order of ~months and thereafter instruments measure the representative ice temperature. Ice-temperature measurements made at slow-moving, accumulation-dominated, ice divide locations (e.g. Greenland Ice Core Project, WAIS Divide) are used to infer past air temperatures. The past climate is preserved within the ice because the frequency of those climate changes is within the time scale for thermal diffusion. We also measure temperature deviations within the faster moving ice-stream shear margins (more below) and the melt-dominated ablation zone. In the ablation zone, surface meltwater is plentifully available and transports latent heat when it penetrates into a crevasse or through a moulin to the ice-sheet bed.</p>
+<p>We measure ice temperature directly by drilling into it, installing in-situ instrumentation, and letting the hole freeze in on the instruments. The heat from drilling dissipates on the order of ~months and thereafter instruments measure the representative temperature. Ice-temperature measurements made at slow-moving, accumulation-dominated, ice divide locations (e.g. Greenland Ice Core Project, WAIS Divide) can be used to infer past air temperatures. The past climate is preserved within the ice because the frequency of those climate changes is within the time scale for thermal diffusion. We also measure temperature deviations within the faster moving ice-stream shear margins (more below) and the melt-dominated ablation zone. In the ablation zone, surface meltwater is plentifully available and transports latent heat when it penetrates into a crevasse or through a moulin to the ice-sheet bed.</p>
 
 
 
@@ -873,7 +915,7 @@
   </div><figcaption>
       Ice temperature deviations measured in a cube of Greenland ice.
     </figcaption></figure>
-<p>In highly dynamic areas, heat is generated within the ice column through friction as the ice defoms. Warmer ice means a lower viscosity, more deformation, and thus more heat production, creating a positive feedback loop. We argue that this feedback is suppressed by cold ice moving through the system that was source from higher and colder regions.</p>
+<p>In highly dynamic areas, heat is generated within the ice column through friction as the ice defoms. Warmer ice means a lower viscosity, more deformation, and thus more heat production, creating a positive feedback loop. Some studies even argue that much of the ice in an ice-stream shear margin is at the pressure-melting point. We found that this feedback is suppressed by cold ice moving through the system, ice that was source from higher and colder regions.</p>
 <p>
 
 
@@ -929,13 +971,13 @@
       Modeled ice temperatures using gradients like those above.
     </figcaption></figure></p>
 <h2 id="radar-attenuation">Radar Attenuation</h2>
-<p>Ice temperature can theoretically be measured remotely using radar attenuation. The attenuation rate is dependent on temperature because energy is absorbed through electrical conduction. The function is in the form of an Arrhenius relation,</p>
+<p>Ice temperature can theoretically be measured remotely using radar attenuation. Attenuation is the result of energy absorption through electrical conduction which is temperature dependent. The function is in the form of an Arrhenius relation,</p>
 
 $$ 
 N \propto \sigma \propto e^{\frac{-Q}{RT}}
 $$
 
-<p>where the attenuation rate,  $ N $ , is proportional to the electrical conductivity,  $ \sigma $ </p>
+<p>where the attenuation rate, $N$, is proportional to the electrical conductivity, $\sigma$.</p>
 
 
 
@@ -961,7 +1003,7 @@ $$
                height="760"
                loading="lazy" data-zoomable /></div>
   </div></figure>
-<p>Empirical results for radar attenuation are generally dependent on the system and the empirical method used. Here, I show a result that we found in a single ground-based radar transect that traverses 200 km down the Kamb Ice Stream and up onto Siple Dome. We interpret the reflected power of the wave reflected off the ice-bed interface and calculate attenuation rate as the change in measured bed power with ice thickness. Essentially, if the wave travels through more ice we should measure a weaker return and the rate at which that measured power attenuates is temperature dependent.</p>
+<p>Empirical results for radar attenuation are generally dependent on the radar system and the empirical method used. Here, I show a result that we found in a single ground-based radar transect that traverses 200 km down the Kamb Ice Stream and up onto Siple Dome. We interpret the reflected power of the wave reflected off the ice-bed interface and calculate attenuation rate as the change in measured bed power with ice thickness. Essentially, if the wave travels through more ice we should measure a weaker return and the rate at which that measured power attenuates is temperature dependent.</p>
 
 
 
@@ -1196,7 +1238,8 @@ $$
   <span >
       Benjamin Hills</span>, <span >
       Knut Christianson</span>, <span >
-      Robert Jacobel</span>
+      Robert Jacobel</span>, <span >
+      Rickard Petterson</span>
       </div>
       
     </div>
@@ -1249,6 +1292,12 @@ $$
   </a>
   
 
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/modeling/">
+    Project
+  </a>
+  
+
 
 
 
@@ -1265,6 +1314,12 @@ $$
   </div>
   <div class="ml-3">
     
+    
+    
+    <a href="/publication/hills2022b/" >
+      <img src="/publication/hills2022b/featured_hu8c299c9cf1764b9a1644e1820b085d8a_254105_150x0_resize_q75_h2_lanczos.webp" height="107" width="150"
+           alt="Radar attenuation demonstrates advective cooling in the Siple Coast ice streams" loading="lazy">
+    </a>
     
   </div>
 </div>
@@ -1382,6 +1437,12 @@ $$
   </a>
   
 
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/geophysical-tools/">
+    Project
+  </a>
+  
+
 
 
 
@@ -1402,6 +1463,12 @@ $$
   </div>
   <div class="ml-3">
     
+    
+    
+    <a href="/publication/hills2022/" >
+      <img src="/publication/hills2022/featured_hu84cff29a32f0340870e3cf7a4acfa322_1589418_150x0_resize_q75_h2_lanczos.webp" height="109" width="150"
+           alt="Geophysics and thermodynamics at South Pole Lake indicate stability and a regionally thawed bed" loading="lazy">
+    </a>
     
   </div>
 </div>
@@ -1527,6 +1594,12 @@ $$
   <div class="ml-3">
     
     
+    
+    <a href="/publication/hills2018/" >
+      <img src="/publication/hills2018/featured_hu6344cc2ce584add2cf254f401e289608_516273_150x0_resize_q75_h2_lanczos.webp" height="117" width="150"
+           alt="Processes influencing heat transfer in the near-surface ice of Greenland&#39;s ablation zone" loading="lazy">
+    </a>
+    
   </div>
 </div>
 
@@ -1554,7 +1627,7 @@ $$
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/hills2017/" >Measured horizontal temperature gradients constrain heat transfer mechanismsin in Greenland ice</a>
+      <a href="/publication/hills2017/" >Measured horizontal temperature gradients constrain heat transfer mechanisms in Greenland ice</a>
     </div>
 
     
@@ -1648,6 +1721,12 @@ $$
   </div>
   <div class="ml-3">
     
+    
+    
+    <a href="/publication/hills2017/" >
+      <img src="/publication/hills2017/featured_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_150x0_resize_q75_h2_lanczos.webp" height="113" width="150"
+           alt="Measured horizontal temperature gradients constrain heat transfer mechanisms in Greenland ice" loading="lazy">
+    </a>
     
   </div>
 </div>

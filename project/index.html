@@ -261,6 +261,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-62J5R1BNKK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-62J5R1BNKK', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -579,6 +618,43 @@
           
 
           <li class="nav-item">
+            <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
             <a class="nav-link " href="/#photos"><span>Photos</span></a>
           </li>
 
@@ -617,43 +693,6 @@
 
           <li class="nav-item">
             <a class="nav-link " href="/#publications"><span>Publications</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-              
-              
-              
-                
-              
-              
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
           </li>
 
           
@@ -782,6 +821,12 @@
   <div class="ml-3">
     
     
+    
+    <a href="/project/ice-temperature/" >
+      <img src="/project/ice-temperature/featured_hu397a622204ae5a50baade0ff82f867e6_22354_150x0_resize_q75_h2_lanczos_3.webp" height="113" width="150"
+           alt="Ice Temperature" loading="lazy">
+    </a>
+    
   </div>
 </div>
 
@@ -809,7 +854,7 @@
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/project/cof/" >Crystal Orientation Fabric</a>
+      <a href="/project/cof/" >Crystal Fabric</a>
     </div>
 
     
@@ -832,6 +877,12 @@
   </div>
   <div class="ml-3">
     
+    
+    
+    <a href="/project/cof/" >
+      <img src="/project/cof/featured_hufca24802cac2afecbc3e50f1382e61c5_311497_150x0_resize_q75_h2_lanczos_3.webp" height="113" width="150"
+           alt="Crystal Fabric" loading="lazy">
+    </a>
     
   </div>
 </div>
@@ -884,6 +935,12 @@
   <div class="ml-3">
     
     
+    
+    <a href="/project/modeling/" >
+      <img src="/project/modeling/featured_hue17f5f45c31e888b97447d7025e5c7ed_383587_150x0_resize_q75_h2_lanczos_3.webp" height="113" width="150"
+           alt="Modeling" loading="lazy">
+    </a>
+    
   </div>
 </div>
 
@@ -911,7 +968,7 @@
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/project/geophysical-tools/" >Geophysical Tool Development</a>
+      <a href="/project/geophysical-tools/" >Geophysical Tools</a>
     </div>
 
     
@@ -934,6 +991,12 @@
   </div>
   <div class="ml-3">
     
+    
+    
+    <a href="/project/geophysical-tools/" >
+      <img src="/project/geophysical-tools/featured_hu9cc82ba279c2545cc908f789119a1cfd_44502_150x0_resize_q75_h2_lanczos_3.webp" height="113" width="150"
+           alt="Geophysical Tools" loading="lazy">
+    </a>
     
   </div>
 </div>
@@ -986,6 +1049,12 @@
   <div class="ml-3">
     
     
+    
+    <a href="/project/alpine-glaciology/" >
+      <img src="/project/alpine-glaciology/featured_hu026827cf8d7a17092c836fdede84ba90_58767_150x0_resize_q75_h2_lanczos_3.webp" height="113" width="150"
+           alt="Alpine Glaciology" loading="lazy">
+    </a>
+    
   </div>
 </div>
 
@@ -1036,6 +1105,12 @@
   </div>
   <div class="ml-3">
     
+    
+    
+    <a href="/project/drilling/" >
+      <img src="/project/drilling/featured_hub996a8246f94c4d5c3506206174dffab_46012_150x0_resize_q75_h2_lanczos_3.webp" height="113" width="150"
+           alt="Drilling in Ice" loading="lazy">
+    </a>
     
   </div>
 </div>

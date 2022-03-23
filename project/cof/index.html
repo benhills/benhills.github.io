@@ -261,6 +261,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-62J5R1BNKK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-62J5R1BNKK', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -294,7 +333,6 @@
   
   
     
-    
   
   
 
@@ -303,16 +341,16 @@
     
     
   
-  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:card" content="summary_large_image" />
   
     <meta property="twitter:site" content="@wowchemy" />
     <meta property="twitter:creator" content="@wowchemy" />
   
   <meta property="og:site_name" content="Benjamin Hills" />
   <meta property="og:url" content="https://example.com/project/cof/" />
-  <meta property="og:title" content="Crystal Orientation Fabric | Benjamin Hills" />
-  <meta property="og:description" content="Ice crystal anisotropy and radar polarimetry." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:title" content="Crystal Fabric | Benjamin Hills" />
+  <meta property="og:description" content="Ice crystal anisotropy and radar polarimetry." /><meta property="og:image" content="https://example.com/project/cof/featured.png" />
+    <meta property="twitter:image" content="https://example.com/project/cof/featured.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -344,7 +382,11 @@
     "@type": "WebPage",
     "@id": "https://example.com/project/cof/"
   },
-  "headline": "Crystal Orientation Fabric",
+  "headline": "Crystal Fabric",
+  
+  "image": [
+    "https://example.com/project/cof/featured.png"
+  ],
   
   "datePublished": "2022-01-09T00:00:00Z",
   "dateModified": "2022-01-09T00:00:00Z",
@@ -378,7 +420,7 @@
 
 
 
-  <title>Crystal Orientation Fabric | Benjamin Hills</title>
+  <title>Crystal Fabric | Benjamin Hills</title>
 </head>
 
 
@@ -624,6 +666,43 @@
           
 
           <li class="nav-item">
+            <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
             <a class="nav-link " href="/#photos"><span>Photos</span></a>
           </li>
 
@@ -662,43 +741,6 @@
 
           <li class="nav-item">
             <a class="nav-link " href="/#publications"><span>Publications</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-              
-              
-              
-                
-              
-              
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
           </li>
 
           
@@ -766,7 +808,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Crystal Orientation Fabric</h1>
+  <h1>Crystal Fabric</h1>
 
   
 
@@ -817,7 +859,7 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>Snow crystals are deposited at random orientation on the glacier surface. In other words, the &lsquo;crystal orientation fabric&rsquo; is initially isotropic (non-directional). As ice flows, crystal c-axes rotate away from the primary extensional axis and toward compression. In places where ice flow is consistent for thousands of years, the bulk fabric becomes anisotropic. Single-pole fabrics with upward-pointing c-axes develop at an ice divide where flow is longitudinal extension. In this case, the ice hardens in the vertical and preserves old ice near the bed. Girdle fabrics develop in an ice-stream shear margin where transverse shear dominates.</p>
+      <p>Snow crystals are deposited at random orientation on the glacier surface. In other words, the &lsquo;crystal orientation fabric&rsquo; is initially isotropic (non-directional). As ice flows, crystal c-axes rotate away from the primary extensional axis and toward compression. In places where ice flow is consistent for hundreds or thousands of years, the bulk fabric becomes anisotropic. Single-pole fabrics with upward-pointing c-axes develop at an ice divide where flow is uniform vertical compression and outward extension (new snow continually added at the surface). In this case, the ice hardens in the vertical and preserves old ice near the bed. Horizontal girdle fabrics develop in an ice-stream shear margin where transverse shear dominates.</p>
 
 
 
@@ -843,9 +885,9 @@
                height="617"
                loading="lazy" data-zoomable /></div>
   </div></figure>
-<p>Deformation of ice is a result of primarily defect propagation along the crystal&rsquo;s basal plane. This process is directional, defects do not propagate as easily in the direction of the crystal c-axis; therefore, ice viscosity is orientation dependent with the softest ice aligned with the basal plane. When a strong crystal fabric develops, the bulk ice viscosity can change by ~2 orders of magnitude.</p>
+<p>Deformation of ice is a result of primarily defect propagation along the crystal&rsquo;s basal plane. This process is directional, defects do not propagate as easily in the direction of the crystal c-axis; therefore, ice viscosity is orientation dependent with the softest ice aligned with the basal plane. When a strong crystal fabric develops, the bulk ice viscosity can change by ~2 orders of magnitude. This can lead to a feedback where a consistent strain pattern leads to development of a crystal fabric which softens the ice and leads to additional strain.</p>
 <h2 id="radar-polarimetry">Radar Polarimetry</h2>
-<p>The electrical properties of ice are also orientation dependent. Radio waves move faster when propagating perpendicular to the c-axis than parallel. This makes ice what we call a &lsquo;birefringent&rsquo; material.</p>
+<p>The electrical properties of ice are also orientation dependent. Radio waves move faster (smaller permittivity, $\epsilon$) when polarized parallel to the c-axis than perpendicular. This makes ice what we call a &lsquo;birefringent&rsquo; material.</p>
 
 
 
@@ -863,15 +905,15 @@
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="" srcset="
-               /project/cof/birefringence_hu273f152f4fdc7fccf1d796eab7f54a1a_210533_2c317a9317980bd09a01948fc5b5b694.webp 400w,
-               /project/cof/birefringence_hu273f152f4fdc7fccf1d796eab7f54a1a_210533_b468b73b38336aca49bcb0e858c6a2ba.webp 760w,
-               /project/cof/birefringence_hu273f152f4fdc7fccf1d796eab7f54a1a_210533_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-               src="/project/cof/birefringence_hu273f152f4fdc7fccf1d796eab7f54a1a_210533_2c317a9317980bd09a01948fc5b5b694.webp"
+               /project/cof/birefringence_hu6e33e20b3b03aa3d48feedb4a0dcce8d_193920_9241644c06a616b83aae48fd51e1bbe4.webp 400w,
+               /project/cof/birefringence_hu6e33e20b3b03aa3d48feedb4a0dcce8d_193920_3d234796d5cc70d8c60c5430d68ef384.webp 760w,
+               /project/cof/birefringence_hu6e33e20b3b03aa3d48feedb4a0dcce8d_193920_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/project/cof/birefringence_hu6e33e20b3b03aa3d48feedb4a0dcce8d_193920_9241644c06a616b83aae48fd51e1bbe4.webp"
                width="50%"
-               height="677"
+               height="653"
                loading="lazy" data-zoomable /></div>
   </div></figure>
-<p>We can take this material property and use it in a strategy to measure the ice fabric remotely (without sampling the ice directly) using radar polarimetry.</p>
+<p>We can take this material property and use it in a strategy to measure the ice fabric remotely (without sampling the ice directly) using radar polarimetry. Repeating radar acquisitions in the same location but with a rotated polarization leads to a measured phase shift associated with the varying wave speed. The fabric strength is directly related to the gradient in measured phase difference between the two polarizations.</p>
 
 
 
@@ -886,13 +928,15 @@
 
 
 
-<figure  >
+<figure  id="figure-four-different-polarizations-from-one-location-plotted-as-radargrams-over-a-range-of-azimuthal-orientations">
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img alt=""
+    <div class="w-100" ><img alt="Four different polarizations from one location plotted as radargrams over a range of azimuthal orientations."
            src="/project/cof/Rotational_Offset.gif"
            loading="lazy" data-zoomable width="100%" /></div>
-  </div></figure>
-<p>We carried out a radar polarimetry experiment at Hercules Dome in order to constrain past and present ice flow there.</p>
+  </div><figcaption>
+      Four different polarizations from one location plotted as radargrams over a range of azimuthal orientations.
+    </figcaption></figure>
+<p>We carried out a radar polarimetry experiment at Hercules Dome in order to constrain past and present ice flow there. The strength and orientation of inferred crystal orientation fabric tells us about the flow paterns in the recent past (~10-20 ka) which we compare to the present day ice dynamics that we can measure directly.</p>
 
 
 

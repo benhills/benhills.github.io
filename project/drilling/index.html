@@ -261,6 +261,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-62J5R1BNKK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-62J5R1BNKK', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -294,7 +333,6 @@
   
   
     
-    
   
   
 
@@ -303,7 +341,7 @@
     
     
   
-  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:card" content="summary_large_image" />
   
     <meta property="twitter:site" content="@wowchemy" />
     <meta property="twitter:creator" content="@wowchemy" />
@@ -311,8 +349,8 @@
   <meta property="og:site_name" content="Benjamin Hills" />
   <meta property="og:url" content="https://example.com/project/drilling/" />
   <meta property="og:title" content="Drilling in Ice | Benjamin Hills" />
-  <meta property="og:description" content="Thermal drilling in theory and in practice." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="Thermal drilling in theory and in practice." /><meta property="og:image" content="https://example.com/project/drilling/featured.png" />
+    <meta property="twitter:image" content="https://example.com/project/drilling/featured.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -345,6 +383,10 @@
     "@id": "https://example.com/project/drilling/"
   },
   "headline": "Drilling in Ice",
+  
+  "image": [
+    "https://example.com/project/drilling/featured.png"
+  ],
   
   "datePublished": "2022-01-05T00:00:00Z",
   "dateModified": "2022-01-05T00:00:00Z",
@@ -624,6 +666,43 @@
           
 
           <li class="nav-item">
+            <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
             <a class="nav-link " href="/#photos"><span>Photos</span></a>
           </li>
 
@@ -662,43 +741,6 @@
 
           <li class="nav-item">
             <a class="nav-link " href="/#publications"><span>Publications</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-              
-              
-              
-                
-              
-              
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
           </li>
 
           
@@ -818,7 +860,7 @@
 
     <div class="article-style">
       <h2 id="ice-core-drilling">Ice-Core Drilling</h2>
-<p>Much of our work aids in site selection for ice cores. We use geophysical tools to survey the ice geometry and stratigraphy. We can estimate ice age, ice temperature, past flow patterns, etc. With this information, paleoclimatologists are able to make an informed desicion on specifically where to drill an ice core in order to retrieve ice that will answer their pending quesitons about the ancient atmosphere and climate. Hercules Dome is currently our primary project. The site is close enough to West Antarctica that it should record a climate signal in the case of West Antarctic Ice Sheet collapse, but far enough that ice would not have melted.</p>
+<p>Much of our work aids in site selection for ice cores. We use geophysical tools to survey the ice geometry and stratigraphy. We can estimate ice age, ice temperature, past flow patterns, etc. With this information, paleoclimatologists are able to make an informed desicion on specifically where to drill an ice core in order to retrieve ice that will answer their pending quesitons about the ancient atmosphere and climate. Hercules Dome is currently our primary project. The site is close enough to West Antarctica that it should record a climate signal in the case of West Antarctic Ice Sheet collapse, but far enough that ice would not have melted during that time.</p>
 
 
 
@@ -901,7 +943,7 @@
       Looking down an instrumented hole.
     </figcaption></figure></p>
 <h2 id="hot-point-drilling">Hot-Point Drilling</h2>
-<p>This is another thermal drilling method which uses conduction at the tip of a melt probe rather than hot water. These drills are simpler in design, so were used earlier, and lighter weight so can be deployed more quickly than hot-water drills.</p>
+<p>This is another thermal drilling method which uses conduction at the tip of a melt probe rather than hot water. These drills are simpler in design, so were used earlier, and lighter weight so can be deployed more quickly than hot-water drills. In collaboration with Dr. Dale Winebrenner and Dr. Tim Elam at the Applied Physics Laboratory, I wrote a thermal model and ran an ensemble of model experiments to aid in the engineering design of their hot-point drill, <a href="https://apl.uw.edu/project/project.php?id=ice_diver" target="_blank" rel="noopener">Ice Diver</a>.</p>
 
 
 
@@ -1112,6 +1154,132 @@
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/fudge2022/" >A site for deep ice coring at West Hercules Dome: results from ground-based geophysics and modeling</a>
+    </div>
+
+    
+    <a href="/publication/fudge2022/"  class="summary-link">
+      <div class="article-style">
+        Hercules Dome, Antarctica, has long been identified as a prospective deep ice core site due to the undisturbed internal layering, …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      TJ Fudge</span>, <span >
+      Benjamin Hills</span>, <span >
+      Annika Horlings</span>, <span >
+      Nick Holschuh</span>, <span >
+      Gemma O&#39;Connor</span>, <span >
+      John Christian</span>, <span >
+      Lindsey Davidge</span>, <span >
+      Andrew Hoffman</span>, <span >
+      Knut Christianson</span>, <span >
+      Eric Steig</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/fudge2022/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/benhills/IceTemperature" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.usap-dc.org/view/dataset/609537" target="_blank" rel="noopener">
+  Dataset
+</a>
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/drilling/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/publication/hills2021/" >Avoiding slush for hot-point drilling of glacier boreholes</a>
     </div>
 
@@ -1186,6 +1354,12 @@
   </a>
   
 
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/modeling/">
+    Project
+  </a>
+  
+
 
 
 
@@ -1206,6 +1380,12 @@
   </div>
   <div class="ml-3">
     
+    
+    
+    <a href="/publication/hills2021/" >
+      <img src="/publication/hills2021/featured_hu1d58162c7fc8bccdcf98ffd91112108a_304824_150x0_resize_q75_h2_lanczos.webp" height="267" width="150"
+           alt="Avoiding slush for hot-point drilling of glacier boreholes" loading="lazy">
+    </a>
     
   </div>
 </div>

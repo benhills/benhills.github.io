@@ -261,6 +261,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-62J5R1BNKK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-62J5R1BNKK', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -294,7 +333,6 @@
   
   
     
-    
   
   
 
@@ -303,16 +341,16 @@
     
     
   
-  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:card" content="summary_large_image" />
   
     <meta property="twitter:site" content="@wowchemy" />
     <meta property="twitter:creator" content="@wowchemy" />
   
   <meta property="og:site_name" content="Benjamin Hills" />
   <meta property="og:url" content="https://example.com/project/geophysical-tools/" />
-  <meta property="og:title" content="Geophysical Tool Development | Benjamin Hills" />
-  <meta property="og:description" content="Instrument design and software for radar processing." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:title" content="Geophysical Tools | Benjamin Hills" />
+  <meta property="og:description" content="Instrument design and software for radar processing." /><meta property="og:image" content="https://example.com/project/geophysical-tools/featured.png" />
+    <meta property="twitter:image" content="https://example.com/project/geophysical-tools/featured.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -344,7 +382,11 @@
     "@type": "WebPage",
     "@id": "https://example.com/project/geophysical-tools/"
   },
-  "headline": "Geophysical Tool Development",
+  "headline": "Geophysical Tools",
+  
+  "image": [
+    "https://example.com/project/geophysical-tools/featured.png"
+  ],
   
   "datePublished": "2022-01-07T00:00:00Z",
   "dateModified": "2022-01-07T00:00:00Z",
@@ -378,7 +420,7 @@
 
 
 
-  <title>Geophysical Tool Development | Benjamin Hills</title>
+  <title>Geophysical Tools | Benjamin Hills</title>
 </head>
 
 
@@ -624,6 +666,43 @@
           
 
           <li class="nav-item">
+            <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
             <a class="nav-link " href="/#photos"><span>Photos</span></a>
           </li>
 
@@ -662,43 +741,6 @@
 
           <li class="nav-item">
             <a class="nav-link " href="/#publications"><span>Publications</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-              
-              
-              
-                
-              
-              
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
           </li>
 
           
@@ -766,7 +808,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Geophysical Tool Development</h1>
+  <h1>Geophysical Tools</h1>
 
   
 
@@ -818,7 +860,7 @@
 
     <div class="article-style">
       <h2 id="impdar">ImpDAR</h2>
-<p>Led by Dr. David Lilien, ImpDAR (Impulse raDAR) is a suite of processing and interpretation tools for impulse radar sounding. The software (<a href="https://github.com/dlilien/ImpDAR" target="_blank" rel="noopener">hosted on github</a>) is targeted for ice-penetrating radar applications but usable for ground-penetrating radar and associated surveying applications as well. The core processing steps and general terminology come from a set of Matlab scripts developed at St. Olaf College under Dr. Robert Jacobel. Here, everything has been re-written in python and significant improvements to speed, readability, documentation, and interface have been made across the board. Additionally, ImpDAR is intended to be more flexible than other available options. Support is gradually being added for a variety of file formats. Currently, GSSI, PulseEKKO, GPRMax, SEGY, and several custom file formats are supported. Available processing steps include various filtering operations, trivial modifications such as restacking, cropping, or reversing data, geolocation-related operations like interpolating to constant trace spacing, and various migration routines.</p>
+<p>Led by Dr. David Lilien, ImpDAR (Impulse raDAR) is a suite of processing and interpretation tools for impulse radar sounding. The software (hosted on <a href="https://github.com/dlilien/ImpDAR" target="_blank" rel="noopener">github</a>) is targeted for ice-penetrating radar applications but usable for ground-penetrating radar and associated surveying applications as well. The core processing steps and general terminology come from a set of Matlab scripts developed at St. Olaf College under Dr. Robert Jacobel. Here, everything has been re-written in python and significant improvements to speed, readability, documentation, and interface have been made across the board. Additionally, ImpDAR is intended to be more flexible than other available options. Support is gradually being added for a variety of file formats. Currently, GSSI, PulseEKKO, GPRMax, SEGY, and several custom file formats are supported. Available processing steps include various filtering operations, trivial modifications such as restacking, cropping, or reversing data, geolocation-related operations like interpolating to constant trace spacing, and various migration routines.</p>
 <p>In addition to processing, ImpDAR can also be used for interpreting radargrams (i.e. picking layers). Picking is generally an interactive process, so there is a GUI for carrying out the semi-automated picking procedure. Each picked layer is saved with variables for both the depth and picked power (i.e. the root-mean-square amplitude). The GUI also allows for basic processing steps, with the updates happening to the plot in real time to aid the picking process. We are also developing an automated picking algorithm that will ideally pick both internal layers and the bed reflector.</p>
 
 
@@ -1108,6 +1150,155 @@
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/hills2022/" >Geophysics and thermodynamics at South Pole Lake indicate stability and a regionally thawed bed</a>
+    </div>
+
+    
+    <a href="/publication/hills2022/"  class="summary-link">
+      <div class="article-style">
+        Subglacial lakes require a thawed bed either now or in the past; thus, their presence and stability have implications for current and …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Benjamin Hills</span>, <span >
+      Knut Christianson</span>, <span >
+      Andrew Hoffman</span>, <span >
+      TJ Fudge</span>, <span >
+      Nick Holschuh</span>, <span >
+      Emma Kahle</span>, <span >
+      Howard Conway</span>, <span >
+      John Christian</span>, <span >
+      Annika Horlings</span>, <span >
+      Gemma O&#39;Connor</span>, <span >
+      Eric Steig</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/uploads/Hills2022_GRL.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/hills2022/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/benhills/IceTemperature" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.usap-dc.org/view/project/p0010160" target="_blank" rel="noopener">
+  Dataset
+</a>
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/ice-temperature/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/geophysical-tools/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1029/2021GL096218" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/hills2022/" >
+      <img src="/publication/hills2022/featured_hu84cff29a32f0340870e3cf7a4acfa322_1589418_150x0_resize_q75_h2_lanczos.webp" height="109" width="150"
+           alt="Geophysics and thermodynamics at South Pole Lake indicate stability and a regionally thawed bed" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/publication/lilien2020/" >ImpDAR: an open-source impulse radar processor</a>
     </div>
 
@@ -1203,6 +1394,12 @@
   </div>
   <div class="ml-3">
     
+    
+    
+    <a href="/publication/lilien2020/" >
+      <img src="/publication/lilien2020/featured_hu941463d396fa29659b085a0b338c5722_1416921_150x0_resize_q75_h2_lanczos.webp" height="122" width="150"
+           alt="ImpDAR: an open-source impulse radar processor" loading="lazy">
+    </a>
     
   </div>
 </div>
@@ -1332,6 +1529,12 @@
   </div>
   <div class="ml-3">
     
+    
+    
+    <a href="/publication/hills2020/" >
+      <img src="/publication/hills2020/featured_hudcc6fbf358e06c0b01c76e6cb7430c6b_1533373_150x0_resize_q75_h2_lanczos.webp" height="106" width="150"
+           alt="A framework for attenuation method selection evaluated with ice-penetrating radar data at South Pole Lake" loading="lazy">
+    </a>
     
   </div>
 </div>

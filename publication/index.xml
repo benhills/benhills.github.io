@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>A site for deep ice coring at West Hercules Dome: results from ground-based geophysics and modeling</title>
+      <link>https://example.com/publication/fudge2022/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fudge2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Radar attenuation demonstrates advective cooling in the Siple Coast ice streams</title>
       <link>https://example.com/publication/hills2022b/</link>
       <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/hills2022b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scars of tectonic extension promote ice-sheet nucleation from Hercules Dome, West Antarctica</title>
+      <link>https://example.com/publication/hoffman2022/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hoffman2022/</guid>
       <description></description>
     </item>
     
@@ -61,7 +77,7 @@
     </item>
     
     <item>
-      <title>Measured horizontal temperature gradients constrain heat transfer mechanismsin in Greenland ice</title>
+      <title>Measured horizontal temperature gradients constrain heat transfer mechanisms in Greenland ice</title>
       <link>https://example.com/publication/hills2017/</link>
       <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/hills2017/</guid>

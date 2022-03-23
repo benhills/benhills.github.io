@@ -5,20 +5,12 @@
     <link>https://example.com/publication-type/2/</link>
       <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://example.com/publication-type/2/</link>
     </image>
-    
-    <item>
-      <title>Radar attenuation demonstrates advective cooling in the Siple Coast ice streams</title>
-      <link>https://example.com/publication/hills2022b/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hills2022b/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Geophysics and thermodynamics at South Pole Lake indicate stability and a regionally thawed bed</title>
@@ -61,7 +53,7 @@
     </item>
     
     <item>
-      <title>Measured horizontal temperature gradients constrain heat transfer mechanismsin in Greenland ice</title>
+      <title>Measured horizontal temperature gradients constrain heat transfer mechanisms in Greenland ice</title>
       <link>https://example.com/publication/hills2017/</link>
       <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/hills2017/</guid>
