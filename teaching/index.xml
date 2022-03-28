@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Coding Boot Camp</title>
+      <title>Jupyter Boot Camp</title>
       <link>https://example.com/teaching/coding-boot-camp/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/teaching/coding-boot-camp/</guid>
@@ -21,15 +21,7 @@
     </item>
     
     <item>
-      <title>Climate Modeling</title>
-      <link>https://example.com/teaching/climate/</link>
-      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/climate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Heat Transfer</title>
+      <title>Glacier Thermodynamics</title>
       <link>https://example.com/teaching/thermo/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/teaching/thermo/</guid>
@@ -39,7 +31,7 @@
     <item>
       <title>ImpDAR Tutorials</title>
       <link>https://example.com/teaching/impdar/</link>
-      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/teaching/impdar/</guid>
       <description></description>
     </item>
