@@ -601,7 +601,8 @@ $$
       <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/alpine-glaciology/</guid>
       <description>&lt;p&gt;Much of the original theory in glaciology came from work on alpine glaciers, mostly in Europe. This is partially because of their relative proximity to human civilizations, but also becuase until recently we thought that the polar ice sheets operated on millenial timescales, too long to be of immenent concern. It was only around the turn of the century that the glaciological community started to recognize key instabilities within the ice sheets that can be triggered much faster, on the order of decades to centuries. While alpine glaciers have since gotten less attention in terms of sea-level focused research publications and grant funding, they are still critical for water supply, temperature, and chemistry, especially in alpine environments.&lt;/p&gt;
-&lt;h2 id=&#34;glacier-dynamics&#34;&gt;Glacier Dynamics&lt;/h2&gt;
+&lt;h2 id=&#34;ice-dynamics&#34;&gt;Ice Dynamics&lt;/h2&gt;
+&lt;p&gt;We study alpine glacier dynamics using radar interferometry at the north face of Mt. Baker. We repeatedly scan the mountain face every 2 minutes for several days and by comparing the phase return between scans can tell how objects in the field of view are moving. This is much like the ApRES measurement described in &lt;a href=&#34;https://example.com/project/geophysical-tools/&#34;&gt;Geophysical Tools&lt;/a&gt; but many different reflections from across a range of azimuths.&lt;/p&gt;
 
 
 
