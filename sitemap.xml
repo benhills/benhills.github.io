@@ -4,12 +4,6 @@
   
   
   <url>
-    <loc>https://example.com/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://example.com/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
-  <url>
     <loc></loc><lastmod>2022-05-02T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://example.com/publication-type/3/</loc><lastmod>2022-05-02T00:00:00+00:00</lastmod></url>
@@ -21,6 +15,8 @@
     <loc></loc><lastmod>2022-05-02T00:00:00+00:00</lastmod></url>
   <url>
     <loc></loc><lastmod>2022-05-02T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://example.com/</loc><lastmod>2022-05-02T00:00:00+00:00</lastmod></url>
   <url>
     <loc></loc><lastmod>2022-05-02T00:00:00+00:00</lastmod></url>
   <url>
