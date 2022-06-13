@@ -32,6 +32,8 @@
 
 
 
+
+
 &lt;figure  id=&#34;figure-characteristic-length-scale-of-thermal-diffusion-in-ice-temperature-variations-can-be-persistent-for-hundreds-of-years-in-alpine-glaciers-and-for-thousands-to-even-tens-of-thousands-of-years-in-the-greenland-and-antarctic-ice-sheets&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Characteristic length scale of thermal diffusion in ice. Temperature variations can be persistent for hundreds of years in alpine glaciers and for thousands to even tens of thousands of years in the Greenland and Antarctic Ice Sheets.&#34; srcset=&#34;
@@ -46,6 +48,8 @@
       Characteristic length scale of thermal diffusion in ice. Temperature variations can be persistent for hundreds of years in alpine glaciers and for thousands to even tens of thousands of years in the Greenland and Antarctic Ice Sheets.
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;We measure ice temperature directly by drilling into it, installing in-situ instrumentation, and letting the hole freeze in on the instruments. The heat from drilling dissipates on the order of ~months and thereafter instruments measure the representative temperature. Ice-temperature measurements made at slow-moving, accumulation-dominated, ice divide locations (e.g. Greenland Ice Core Project, WAIS Divide) can be used to infer past air temperatures. The past climate is preserved within the ice because the frequency of those climate changes is within the time scale for thermal diffusion. We also measure temperature deviations within the faster moving ice-stream shear margins (more below) and the melt-dominated ablation zone. In the ablation zone, surface meltwater is plentifully available and transports latent heat when it penetrates into a crevasse or through a moulin to the ice-sheet bed.&lt;/p&gt;
+
+
 
 
 
@@ -88,6 +92,8 @@
 
 
 
+
+
 &lt;figure  id=&#34;figure-whillans-ice-stream-drainage-area-downstream-gradients-in-the-parameters-that-effect-ice-temperature&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Whillans Ice Stream drainage area. Downstream gradients in the parameters that effect ice temperature.&#34; srcset=&#34;
@@ -101,6 +107,8 @@
   &lt;/div&gt;&lt;figcaption&gt;
       Whillans Ice Stream drainage area. Downstream gradients in the parameters that effect ice temperature.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
+
 
 
 
@@ -150,6 +158,8 @@ $$
 
 
 
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
@@ -162,6 +172,8 @@ $$
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;Empirical results for radar attenuation are generally dependent on the radar system and the empirical method used. Here, I show a result that we found in a single ground-based radar transect that traverses 200 km down the Kamb Ice Stream and up onto Siple Dome. We interpret the reflected power of the wave reflected off the ice-bed interface and calculate attenuation rate as the change in measured bed power with ice thickness. Essentially, if the wave travels through more ice we should measure a weaker return and the rate at which that measured power attenuates is temperature dependent.&lt;/p&gt;
+
+
 
 
 
@@ -212,6 +224,8 @@ $$
 
 
 
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
@@ -226,6 +240,8 @@ $$
 &lt;p&gt;Deformation of ice is a result of primarily defect propagation along the crystal&amp;rsquo;s basal plane. This process is directional, defects do not propagate as easily in the direction of the crystal c-axis; therefore, ice viscosity is orientation dependent with the softest ice aligned with the basal plane. When a strong crystal fabric develops, the bulk ice viscosity can change by ~2 orders of magnitude. This can lead to a feedback where a consistent strain pattern leads to development of a crystal fabric which softens the ice and leads to additional strain.&lt;/p&gt;
 &lt;h2 id=&#34;radar-polarimetry&#34;&gt;Radar Polarimetry&lt;/h2&gt;
 &lt;p&gt;The electrical properties of ice are also orientation dependent. Radio waves move faster (smaller permittivity, $\epsilon$) when polarized parallel to the c-axis than perpendicular. This makes ice what we call a &amp;lsquo;birefringent&amp;rsquo; material.&lt;/p&gt;
+
+
 
 
 
@@ -266,6 +282,8 @@ $$
 
 
 
+
+
 &lt;figure  id=&#34;figure-four-different-polarizations-from-one-location-plotted-as-radargrams-over-a-range-of-azimuthal-orientations&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Four different polarizations from one location plotted as radargrams over a range of azimuthal orientations.&#34;
@@ -275,6 +293,8 @@ $$
       Four different polarizations from one location plotted as radargrams over a range of azimuthal orientations.
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;We carried out a radar polarimetry experiment at Hercules Dome in order to constrain past and present ice flow there. The strength and orientation of inferred crystal orientation fabric tells us about the flow paterns in the recent past (~10-20 ka) which we compare to the present day ice dynamics that we can measure directly.&lt;/p&gt;
+
+
 
 
 
@@ -330,6 +350,8 @@ $$
 
 
 
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
@@ -355,6 +377,8 @@ $$
 $$
 
 &lt;p&gt;We found that in a shear margin at Antarctica&amp;rsquo;s Siple Coast  $ Br $  is only slightly larger than  $ \Lambda $ , so ice temperatures should be warmer than the surrounding ice but not necessarily temperate.&lt;/p&gt;
+
+
 
 
 
@@ -409,6 +433,8 @@ $$
 
 
 
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
@@ -437,6 +463,8 @@ $$
 
 
 
+
+
 &lt;figure  id=&#34;figure-example-finite-element-mesh-of-greenaland-from-mpashttpmpas-devgithubio&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example finite-element mesh of Greenaland from [MPAS](http://mpas-dev.github.io/).&#34; srcset=&#34;
@@ -451,6 +479,8 @@ $$
       Example finite-element mesh of Greenaland from &lt;a href=&#34;http://mpas-dev.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MPAS&lt;/a&gt;.
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;As a collaboration with Dr. Matthew Hoffman of Los Alamos National Laboratory, I used the Model for Precision Across Scales (MPAS) to couple fluid flow beneath an ice sheet to the dynamics of the ice sheet itself. In essense, high pressure within the subglacial hydrologic system lifts the ice sheet off its substrate, allowing it to move faster. I have also done some work with Dr. Daniel Shapero on his finite-element ice-sheet model icepack. We are interested in simulating how ice dynamics effect the development of ice temperature and crystal orientation fabric.&lt;/p&gt;
+
+
 
 
 
@@ -503,6 +533,8 @@ $$
 
 
 
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
@@ -515,6 +547,8 @@ $$
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;The ApRES (Autonomous phase-sensitive Radio Echo Sounder) is a new and popular tool within the glaciology community. It transmits a phase-coherent waveform, so repeat acquisitions can be used for interference in order to measure small changes in returned phase. Phase changes are associated either with a difference in the total distance that the wave travels or differences in the wave speed through the medium. We are actively developing a processing flow for ApRES data within ImpDAR. We preserve a similar data structure to the impulse data, so users will have some familiarity across the two.&lt;/p&gt;
+
+
 
 
 
@@ -557,6 +591,8 @@ $$
 
 
 
+
+
 &lt;figure  id=&#34;figure-impdar-prosessing-flow-for-apres-polarimetry&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;ImpDAR prosessing flow for ApRES polarimetry.&#34; srcset=&#34;
@@ -572,6 +608,8 @@ $$
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;h2 id=&#34;seidart&#34;&gt;SeiDarT&lt;/h2&gt;
 &lt;p&gt;SeiDarT (Seismic-Radar Toolbox) is a full-waveform geophysical modeling package meant for both seismic and radar applications (available on &lt;a href=&#34;https://github.com/UMainedynamics/SeidarT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;). Again, the majority of the development is with ice in mind as the primary media, but the tool could be used for other materials as well. This package was primarily developed by Steven Bernsen and Christopher Gerbi at the University of Maine.&lt;/p&gt;
+
+
 
 
 
@@ -617,6 +655,8 @@ $$
 
 
 
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
@@ -632,6 +672,8 @@ $$
 &lt;p&gt;The United States Geological Survey (USGS) has a surveying outpost at four alpine glaciers, Sperry Glacier in Montana, Wolverine and Gulkana Glaciers in Alaska, and South Cascade Glacier in Washington. For decades, they have been tracking the mass balance, the amount of ice added by snow and removed by melting. Understanding how these USGS ‘benchmark’ glaciers are changing over decadal timescales is helping us understand the regional influence of climate change. Our research group at UW works in collaboration with scientists at USGS, including Dr. Caitlyn Florentine and others, doing field campaigns to collect data for surveying these glaciers, especially at our local South Cascade Glacier.&lt;/p&gt;
 &lt;p&gt;Measuring glacier mass balance is relatively simple. For inputs, we drill a snow core or dig a snow pit at the end of the winter season and measure the total depth as well as density through the column. Together, depth and density give us an input balance in units of snow water equivalent (SWE). For outputs, we drill a metal stake into the ice at the beginning of summer and observe how much it has melted out by the end. Again, this measurement will be in SWE. Then the balance inputs (accumulation) and outputs (ablation) are summed to quantify glacier change. At South Cascade, the average mass balance over the past 50 years has been about -0.5 m/yr over the extent of the glacier’s area (Rasmussen and Conway, 2001; fig. 10).&lt;/p&gt;
 &lt;p&gt;
+
+
 
 
 
@@ -670,6 +712,8 @@ $$
 
 
 
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
@@ -682,6 +726,8 @@ $$
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;The conventional mass balance methods described above are still in use for many glaciers today, including a continuing record for South Cascade Glacier. Being glacier geophysicists though, we are interested in developing more innovative ways to measure the inputs and outputs for the system. In particular, we are using ice-penetrating radar to get a distributed snow depth measurement at the end of the winter season. The hope is not to abandon the snow coring completely, but to use the two in parallel to build a more robust, and glacier wide, observation for snow inputs to the glacier system. With radar, we can easily see a reflection of the previous summer’s surface (giving the total snow depth accumulated over the winter season), but in some areas we can also see deeper reflections from multi-year snow (firn) layers. Firn observations could provide insight into the mechanisms for accumulation in this alpine setting including avalanching and wind-blown snow.&lt;/p&gt;
+
+
 
 
 
@@ -731,6 +777,8 @@ $$
 
 
 
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
@@ -745,6 +793,8 @@ $$
 &lt;h2 id=&#34;hot-water-drilling&#34;&gt;Hot-Water Drilling&lt;/h2&gt;
 &lt;p&gt;Unlike ice-core drilling, thermal drilling methods such as with hot water are destructive, so the goal is not to retrieve any ice. Instead, hot-water holes are used to install instruments which measure in-situ properties like ice temeprature, stress/strain, subglacial water pressure, etc.&lt;/p&gt;
 &lt;p&gt;
+
+
 
 
 
@@ -785,6 +835,8 @@ $$
 
 
 
+
+
 &lt;figure  id=&#34;figure-looking-down-an-instrumented-hole&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Looking down an instrumented hole.&#34; srcset=&#34;
@@ -800,6 +852,8 @@ $$
     &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h2 id=&#34;hot-point-drilling&#34;&gt;Hot-Point Drilling&lt;/h2&gt;
 &lt;p&gt;This is another thermal drilling method which uses conduction at the tip of a melt probe rather than hot water. These drills are simpler in design, so were used earlier, and lighter weight so can be deployed more quickly than hot-water drills. In collaboration with Dr. Dale Winebrenner and Dr. Tim Elam at the Applied Physics Laboratory, I wrote a thermal model and ran an ensemble of model experiments to aid in the engineering design of their hot-point drill, &lt;a href=&#34;https://apl.uw.edu/project/project.php?id=ice_diver&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ice Diver&lt;/a&gt;.&lt;/p&gt;
+
+
 
 
 

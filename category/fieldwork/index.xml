@@ -32,6 +32,8 @@
 
 
 
+
+
 &lt;figure  id=&#34;figure-a-map-of-our-ongoing-survey-at-hercules-dome-overlaid-on-the-rema-surface-elevation-solid-lines-show-positions-of-the-profiling-radar-transects-where-we-map-ice-stratigraphy-and-structure-of-the-underlying-bedrock-dots-show-locations-where-we-measure-vertical-ice-motion-with-a-specialized-radar-system-red-circles-show-the-priority-for-repeat-measurements-that-happened-this-season&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A map of our ongoing survey at Hercules Dome overlaid on the REMA surface elevation. Solid lines show positions of the profiling radar transects where we map ice stratigraphy and structure of the underlying bedrock. Dots show locations where we measure vertical ice motion with a specialized radar system. Red circles show the priority for repeat measurements that happened this season.&#34; srcset=&#34;
@@ -46,6 +48,8 @@
       A map of our ongoing survey at Hercules Dome overlaid on the REMA surface elevation. Solid lines show positions of the profiling radar transects where we map ice stratigraphy and structure of the underlying bedrock. Dots show locations where we measure vertical ice motion with a specialized radar system. Red circles show the priority for repeat measurements that happened this season.
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;I was supposed to be the UW scientist on the ground this season, but I failed the physical qualification examination (PQ) due to mild anxiety/depression. I am not particularly bitter about this. We were able to find a fantastic last-minute replacement, Erika Schreiber of Unavco, who successfully made all of our top priority measurements. Moreover, I was able to spend the holidays with my new fiancée and her family. Having said that, I do want to explain what happened and why I think it is problematic.&lt;/p&gt;
+
+
 
 
 
@@ -78,6 +82,8 @@
 &lt;p&gt;I feel mostly unaffected by this disruption since we were able to find a replacement, and I was well supported by my academic advisor as well as my friends and family. However, this exposed me to inefficiencies within the PQ process which I feel could be more disruptive to others, especially younger students who have not had as many opportunities for fieldwork (note that this is a critical learning experience for many earth scientists). Mental health concerns are rampant among academics, and there should be a clear pathway toward successful participation in field campaigns for anyone who can safely do so. Moreover, the review procedure should rely more heavily on trained mental health professionals. My counselor said that she would be willing to sign off in approval of my deployment, but unfortunately her voice did not carry much weight in the process.&lt;/p&gt;
 &lt;p&gt;After much back and forth, the decision was made clear that I would not deploy for this season only a few weeks before the scheduled departure. Luckily for us, Erika agreed to fill in as a replacement on this extremely short notice. While she had significant polar experience prior to this season, she had never deployed to Antarctica and obviously didn’t have direct experience at Hercules Dome. Suffice it to say, she got her fill of Zoom calls with me and my advisor. Not only did we need to explain our scientific priorities and instrument procedures, but we also had numerous favors for other field groups which she graciously took on. Luckily she had time for reading and reviewing during her 2-week quarantine in New Zealand.&lt;/p&gt;
 &lt;p&gt;After numerous layovers Erika finally arrived at South Pole Station on December 7th. From there, she would acclimatize before using the Twin Otter as a flight commuter for day trips to Hercules Dome. As is typical for this type of work, she faced weather delays during which she did instrument tests around the South Pole. We were having regular calls and she would send data back to us so that we could check that the instrument was working properly. I could tell with certainty whether she was making the measurement in the same way we had done in the past because she was reoccupying old field sites and if done properly the radar return would be coherent with prior acquisitions. Finally, on December 17th, we had our first true science day at Hercules Dome. She returned with the data shown below which, as you can see in the bottom panel, nicely reproduce a prior result of the vertical velocity structure.&lt;/p&gt;
+
+
 
 
 
@@ -134,6 +140,8 @@
 
 
 
+
+
 &lt;figure  id=&#34;figure-our-groomed-skiway-at-hercules-dome-with-the-field-camp-on-the-right-hand-side-note-the-scale-of-the-surface-roughness-these-sastrugi-are-what-prevented-us-from-landing-the-herc-last-year-photo-credit-rodney-fishbrook-our-twin-otter-pilot-for-the-first-half-of-the-season&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Our groomed skiway at Hercules Dome with the field camp on the right-hand side. Note the scale of the surface roughness, these sastrugi are what prevented us from landing the Herc last year. Photo credit: Rodney Fishbrook, our Twin Otter pilot for the first half of the season.&#34; srcset=&#34;
@@ -164,6 +172,8 @@
 
 
 
+
+
 &lt;figure  id=&#34;figure-a-waveform-represented-in-the-complex-plane&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A waveform represented in the complex plane.&#34;
@@ -173,6 +183,8 @@
       A waveform represented in the complex plane.
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;Knowing why a phase measurement can be useful warrants another short physics lesson. There are three components to any wave, the frequency is how long it takes for a 2-pi period of the wave to pass, the amplitude is a measure of the real ‘strength’ of the signal, and the phase is the time-varying location of the wave within its periodic cycle. The animation above shows a waveform as represented in the complex plane. Looking at the circle, the phase of the waveform is represented by the angle that the rotating line makes with the horizontal; hence, the phase repeats itself every time the moving point completes the circle (i.e. at 2 pi). While the power (i.e. the radius of the circle) remains constant in time, the real component fluctuates. With a conventional radar system, we would only measure the real component of the waveform, so there is no way to know the phase. However, with a phase-coherent radar system, we use information that we know about the transmitted waveform to back out the imaginary component as well and can then know the phase with precision to ~1 degree. With a center frequency of 300 MHz, the 1-degree precision allows us to measure vertical ice motion on the order of mm.&lt;/p&gt;
+
+
 
 
 
@@ -215,6 +227,8 @@
 
 
 
+
+
 &lt;figure  id=&#34;figure-a-repeated-apres-measurement-used-to-infer-vertical-ice-motion-the-top-panel-is-the-measured-phase-over-a-sample-window-represented-by-the-moving-line-in-the-bottom-three-panels-the-second-panel-is-the-radar-profile-with-the-strength-of-the-returning-signal-being-diminished-with-depth-until-the-ice-bed-interface-at-2800-m-the-third-panel-is-the-correlation-between-the-year-1-and-year-2-measurements-as-expected-correlation-drops-off-below-1500-m-because-the-signal-is-noisy-for-deep-returns-the-fourth-panel-is-the-inferred-displacement-between-measurements-the-result-is-well-behaved-above-1500-m-where-the-correlation-is-high&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A repeated ApRES measurement used to infer vertical ice motion. The top panel is the measured phase over a sample window represented by the moving line in the bottom three panels. The second panel is the radar profile with the strength of the returning signal being diminished with depth until the ice-bed interface at ~2800 m. The third panel is the correlation between the year 1 and year 2 measurements. As expected, correlation drops off below ~1500 m because the signal is noisy for deep returns. The fourth panel is the inferred displacement between measurements, the result is well behaved above ~1500 m where the correlation is high.&#34;
@@ -225,6 +239,8 @@
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;h2 id=&#34;continuous-delays&#34;&gt;Continuous Delays&lt;/h2&gt;
 &lt;p&gt;As of now, we are still waiting for a plane to take us off continent. The delays have been frustrating this year, not only for us, but for all of the deep field groups. For the most part, these delays have been inevitable. Early in the season, weather in West Antarctica created unsuitable flying conditions through late November and early December which is when most groups are trying to get out into the field. Additionally, we are short on LC-130’s and there was an early mechanical issue with the C-17 that set all the cargo movement behind starting in November. The delays on the way out have been a combination of mechanical and weather-related as well. By far our closest attempt to escape was on Saturday, my birthday. That day, we had a 10-hour trip out to the skifield here in McMurdo to watch the C-17 fly in from Christchurch, load our cargo, and then be told that the plane is now broken and will sit on the ground while wait to get a decision from Boeing on whether or not it can be flown. At around 10pm the no-fly decision was made. Lucky for us, they brought out food to tide us over during our long wait (i.e. hot dogs with no bun, utensils, or condiments…).&lt;/p&gt;
+
+
 
 
 
@@ -277,6 +293,8 @@
 
 
 
+
+
 &lt;figure  id=&#34;figure-a-photo-time-series-of-south-cascade-glacier-usgs&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A photo time series of South Cascade Glacier. USGS.&#34; srcset=&#34;
@@ -290,6 +308,8 @@
   &lt;/div&gt;&lt;figcaption&gt;
       A photo time series of South Cascade Glacier. USGS.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
+
 
 
 
@@ -334,6 +354,8 @@
 
 
 
+
+
 &lt;figure  id=&#34;figure-a-schematic-of-glacier-mass-balance-usgs&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A schematic of glacier mass balance. USGS.&#34; srcset=&#34;
@@ -348,6 +370,8 @@
       A schematic of glacier mass balance. USGS.
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;Measuring glacier mass balance is relatively simple. For inputs, we drill a snow core or dig a snow pit at the end of the winter season and measure the total depth as well as density through the column. Together, depth and density give us an input balance in units of snow water equivalent (SWE). For outputs, we drill a metal stake into the ice at the beginning of summer and observe how quickly it has melted out by the end. Again, this measurement will be in SWE. Then the balance inputs (accumulation) and outputs (ablation) are summed to quantify glacier change. At South Cascade, the average mass balance over the past 50 years has been about -0.5 m/yr over the extent of the glacier&amp;rsquo;s area (Rasmussen and Conway, 2001; fig. 10).&lt;/p&gt;
+
+
 
 
 
@@ -379,6 +403,8 @@
 &lt;h2 id=&#34;a-global-perspective&#34;&gt;A Global Perspective&lt;/h2&gt;
 &lt;p&gt;Obviously the USGS are not the only group measuring glacier mass balance; in fact, most of the longer records come from European glaciers such as Storglaciären or Engabreen. Historically, most of the well-monitored glaciers tend to be those that are close to human civilizations. However, at the onset of the earth-observing satellite era (~1970) it became much easier to survey the global glacier network remotely. This includes glaciers in the arctic but also in North and South America, New Zealand, high mountain Asia, etc.&lt;/p&gt;
 &lt;p&gt;Sadly, the global picture looks similar to what we see in our backyard. Mostly everything is melting, and over the past ~50 years the melt rates show an acceleration. Even though mountain glaciers don&amp;rsquo;t have the potential to effect future sea-level rise to the same extent as the polar ice sheets, there is still some contribution to sea-level rise (~mm/yr, see figure below), and the recession of alpine glaciers means a lot for both the surrounding ecological system as well as the communities that depend upon glaciers as a water supply.&lt;/p&gt;
+
+
 
 
 
@@ -431,6 +457,8 @@
 
 
 
+
+
 &lt;figure  id=&#34;figure-a-cartoon-illustration-of-ice-penetrating-radar-and-some-example-data-from-the-northeast-greenland-ice-stream&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A cartoon illustration of ice-penetrating radar and some example data from the Northeast Greenland Ice Stream.&#34; srcset=&#34;
@@ -449,6 +477,8 @@
 &lt;p&gt;Of course, we now know that Piggott was correct and have since developed theory as to why radio waves move so easily through crystalline ice. Most of the electromagnetic spectrum is absorbed by ice (making it opaque), although at different rates and by different mechanisms depending on frequency. High-energy photons (microwaves to visible light and higher) are absorbed and converted to either lattice vibrations (heat) or electronic transitions (electron jumps to a higher shell). Low-energy photons (~kHz radio waves) are absorbed by Debye Relaxation (molecular rotations). This leaves an absorption gap for the ~MHz frequency range that we use in our research. Therefore, radio waves at these frequencies can easily image ice that is 3-4 km thick.&lt;/p&gt;
 &lt;p&gt;In using ice-penetrating radar to image the ice sheets, by far the strongest reflection comes from the ice-bedrock interface. This interface represents a permittivity contrast (i.e. that the radio wave travels faster through ice than it does through bedrock). Here it is useful to recall an illustrative demonstration on wave reflections from freshman physics. Take two ropes of unequal weight and tie them together. When a wave traveling through the lighter rope hits the knot between the two, some of the energy propagates forward as a wave in the heavier rope (although at a slower speed); however, the remaining energy is reflected back into the lighter rope in the direction from which it came. The idea in our ice-penetrating radar case is the same, with the knot in the rope being analogous to the ice-bedrock interface.&lt;/p&gt;
 &lt;p&gt;Having ~50 years of experience behind us, we are building progressively better radar systems with which we can see not only the extremely bright bed reflector, but also the dimmer internal reflectors from within the ice column. Similarly to the bed, these are permittivity contrasts which are typically a result of variations in the impurity content of the ice. The visible stratigraphy of the ice mapped by these internal reflectors leads to the somewhat obvious geometric interpretations of radar data, but we are also starting to use the information in the amplitude of the measured waveform for additional insight. For example, if the ice-bedrock interface is melted the reflection is brighter, so we can use the strength of a bed reflection to say something about the nature of the bed.&lt;/p&gt;
+
+
 
 
 
@@ -490,6 +520,8 @@
 
 
 
+
+
 &lt;figure  id=&#34;figure-the-apres-radar-with-the-data-logger-in-the-center-next-to-the-gps-and-the-two-antennae-stretched-out-on-either-side&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The ApRES radar with the data logger in the center next to the GPS and the two antennae stretched out on either side.&#34; srcset=&#34;
@@ -506,6 +538,8 @@
 &lt;p&gt;At Herc Dome we are using 3 radars. The first is a high frequency system (3 MHz) with which we can see to the bed of the ice sheet. Unfortunately though, there is a tradeoff between range and resolution, the 3 MHz antennae give us data that can be vertically resolved only to the scale of ~meters. For this reason, we also use a very-high frequency system (500 MHz) which gives us more like cm-scale resolution although its signal is fully attenuated by about 20 m below the surface. The third system is a phase-coherent radar called the ApRES (autonomous phase-sensitive radio-echo sounder). This system is a bit more complicated so I will not get into the details, but it essentially uses the additional phase information in the waveform to allow incredibly high precision for changes in time. Hence, we can use the ApRES to measure layer motion on the order of mm.&lt;/p&gt;
 &lt;p&gt;The primary goal of this and following seasons (hopefully two more in 2019-21) are to survey Herc Dome in order to provide guidance for ice-core drilling at this location. We are looking for signs of stability and hopefully a frozen bed. The dream result would be to find a feature called a ‘Raymond Bump’ which forms in the case of a steady divide location for at least a few tens of thousands of years. The bump would indicate a good drilling site because it demonstrates that the ice is not melting at the bed in that location, we would know that the seasonal layers have been well-preserved within the ice, and it implies stability close to the last interglacial which is the time period we are interested in.&lt;/p&gt;
 &lt;p&gt;Our day-to-day in the field is mostly spent on a snowmobile or in the radar shelter where we keep the computer while it logs incoming data. All day, we drive around in the flat white expanse. In a way, traversing the ice-sheet surface feels like navigating the sea; there is nothing to be seen except H2O in any direction, and we even use marine GPS. The sastrugi feel like waves and could make one a bit ‘sled sick’ from the sled-rocking motion. We work long days when we are out, but once we get the radar system going it is not exactly strenuous work. The hope is that we sit back and watch the data come in. Of course, when instruments break our lives get a bit more complicated, and this is somewhat inevitable when it is -30°C and we have a bumpy route over sastrugi.&lt;/p&gt;
+
+
 
 
 
@@ -557,6 +591,8 @@
 
 
 
+
+
 &lt;figure  id=&#34;figure-shuttle-to-our-plane-on-the-mcmurdo-ice-shelf-with-mt-erebus-in-the-background&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Shuttle to our plane on the McMurdo Ice Shelf with Mt. Erebus in the background.&#34; srcset=&#34;
@@ -587,6 +623,8 @@
 
 
 
+
+
 &lt;figure  id=&#34;figure-flying-over-the-transantarctic-mountains&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Flying over the Transantarctic Mountains.&#34; srcset=&#34;
@@ -601,6 +639,8 @@
       Flying over the Transantarctic Mountains.
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;Antarctica is stunning, but we are ultimately here for the science. The diversity of interesting science is what makes South Pole Station an exciting place. In the ‘dark sector’ there is the IceCube Neutrino Observatory, which is a 1 km3 network of Cherenkov detectors buried in the ice, and the South Pole Telescope, which measures cosmic microwaves with the objective of gaining insight about the origins of our universe. SuperDARN is a radio antenna, and a part of a worldwide network used to study the aurora. In the ‘clean-air sector’ there are automated weather stations, and UV measurements to study the ozone hole. There are also field projects based out of the station including our own, but also another University of Washington project on ice and firn dynamics upstream of the South Pole Ice Core (SPICE core).&lt;/p&gt;
+
+
 
 
 
@@ -654,6 +694,8 @@
 
 
 
+
+
 &lt;figure  id=&#34;figure-a-map-of-ice-core-drilling-sites-in-antarctica-with-herc-dome-shown-in-red-borrowed-from-tj-fudgehttpsantarcticfudgesicleswordpresscom20181117hercules-dome-antarctica&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A map of ice core drilling sites in Antarctica with Herc Dome shown in red (borrowed from [T.J. Fudge](https://antarcticfudgesicles.wordpress.com/2018/11/17/hercules-dome-antarctica/)).&#34; srcset=&#34;
@@ -683,6 +725,8 @@
 
 
 
+
+
 &lt;figure  id=&#34;figure-paleoclimate-data-from-three-ice-cores-and-an-oceanic-record-used-as-a-proxy-for-sea-level-change-taken-from-a-climate-review-paperhttpswwwclim-pastnet925252013&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Paleoclimate data from three ice cores and an oceanic record used as a proxy for sea-level change (taken from a [climate review paper](https://www.clim-past.net/9/2525/2013/))&#34; srcset=&#34;
@@ -698,6 +742,8 @@
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;Our ultimate objective for Herc Dome is to drill a new ice core which will hopefully extend through the Eemian and more rigorously address the nature of the West Antarctic Ice Sheet at that time. This site is at a critical location on an ice divide but between East and West Antarctica, which means that it will likely hold valuable information about flow between the two ice sheets especially in times of WAIS collapse. In preparation, this upcoming season is a pre-drilling geophysics campaign led by my advisor, Knut Christianson. We will use ice-penetrating radar to learn about the bed topography (among other things) and use that information to choose the exact location for the core, whether that be at the top of the dome or not. But how do we know what a ‘good’ ice-core location looks like from the radar data? We are looking for a place where the bottom of the ice sheet is cold (i.e. that it is not melting) because we want the old ice to be preserved. We also want a location where the internal reflectors are consistently flat so that we know the ice flow is relatively simple and has been consistent through time.&lt;/p&gt;
 &lt;p&gt;Only a handful of people have ever been to Herc Dome. As far as I know, none of the original explorers came through this way. Scott, Shackleton, and Amundsen all came from the Ross Sea sector but moved through the Transantarctic Mountains further north and ended up significantly east of Herc Dome. One previous science mission did come over the dome as a part of the ITASE traverse from Byrd Station to the South Pole. It was during this traverse that the scientific importance of Herc Dome was established. Bob Jacobel and his team (including Eric Steig) recognized what they thought might be a &amp;lsquo;Raymond Arch&amp;rsquo; within their radar data which would indicate that it is a good location for drilling. However, having only a few isolated transects, their evidence is not strong enough to say for certain what this feature is. That is a big part of the reason why we need to go back.&lt;/p&gt;
+
+
 
 
 
@@ -754,6 +800,8 @@
 
 
 
+
+
 &lt;figure  id=&#34;figure-in-the-accumulation-zone-more-ice-accumulates-from-snowfall-than-melts-alternatively-in-the-ablation-zone-the-entire-winter-snowpack-as-well-as-some-amount-of-ice-all-melts-during-the-summer&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;In the accumulation zone, more ice accumulates from snowfall than melts. Alternatively, in the ablation zone, the entire winter snowpack as well as some amount of ice all melts during the summer.&#34; srcset=&#34;
@@ -769,6 +817,8 @@
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;The two ice sheets on this planet, Greenland and Antarctica, are unique in several ways. Importantly, these ice sheets are at different latitudes, the Antarctic being considerably further from the equator, and as a consequence much colder and larger. The Antarctic Ice Sheet contains approximately 30 million cubic meters (60 m sea level equivalent), while the Greenland Ice Sheet is only about one tenth of that. Because the Antarctic Ice Sheet is in a colder environment, it does not lose mass to melting, only to calving, and it therefore has no ablation zone. Greenland, on the other hand, has a rather large ablation zone, meaning that a significant portion of its mass loss can be attributed to surface melting.&lt;/p&gt;
 &lt;h2 id=&#34;our-project-in-the-ablation-zone&#34;&gt;Our Project in the Ablation Zone&lt;/h2&gt;
+
+
 
 
 
@@ -813,6 +863,8 @@
 
 
 
+
+
 &lt;figure  id=&#34;figure-our-research-team-getting-the-hot-water-drill-started-on-the-morning-of-a-drilling-day&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Our research team getting the hot-water drill started on the morning of a drilling day.&#34; srcset=&#34;
@@ -827,6 +879,8 @@
       Our research team getting the hot-water drill started on the morning of a drilling day.
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;There are two main approaches to drilling in ice. Typically, when I tell people that my research involves drilling boreholes in Greenland, they assume that I am drilling &amp;lsquo;mechanical&amp;rsquo; holes in order to extract ice cores. In fact, our methodology is quite the opposite. A hot-water drill melts a hole in the ice, leaving space so that we can put things into the ice sheet. One can think of a hot-water drill as a hose, which sprays very hot (~80ºC) and highly pressurized (~1100 psi) water. With this hose, we can drill through the thickness of the ice sheet, ~500-1000 m, in less than a day. In total, we drilled something like 35 holes to the bed of the ice sheet in the ablation zone, instrumenting each one with electronics.&lt;/p&gt;
+
+
 
 
 
