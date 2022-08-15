@@ -5,12 +5,20 @@
     <link>https://example.com/publication-type/2/</link>
       <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://example.com/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>A site for deep ice coring at West Hercules Dome: results from ground-based geophysics and modeling</title>
+      <link>https://example.com/publication/fudge2022/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fudge2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Geophysics and thermodynamics at South Pole Lake indicate stability and a regionally thawed bed</title>

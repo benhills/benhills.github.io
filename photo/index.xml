@@ -47,6 +47,15 @@
     
     
     
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/dragging_radar.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/alpine/dragging_radar_hud8c5d75f0c55580faccd25ca871cf326_3250552_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dragging_radar.jpeg&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
     &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/DSC_0032.jpeg&#34; &gt;
       &lt;img src=&#34;https://example.com/media/albums/alpine/DSC_0032_hu284d939a3cc125d20c5fd77c3e290803_930204_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0032.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
@@ -139,6 +148,51 @@
     
     &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/ogives.jpeg&#34; &gt;
       &lt;img src=&#34;https://example.com/media/albums/alpine/ogives_hu284d939a3cc125d20c5fd77c3e290803_476285_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;ogives.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/PXL_20220722_213743594.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/alpine/PXL_20220722_213743594_hu486fe30a257be559e7b46ffb96bff38f_4876110_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;PXL_20220722_213743594.jpeg&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/PXL_20220724_034751945.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/alpine/PXL_20220724_034751945_hu367b37d2fb232d694ba526a301984f82_3958247_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;PXL_20220724_034751945.jpeg&#34; width=&#34;252&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/PXL_20220724_204905969.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/alpine/PXL_20220724_204905969_hue15965abbe985161c4d4551363ed94bb_2588177_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;PXL_20220724_204905969.jpeg&#34; width=&#34;252&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/PXL_20220724_223333997.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/alpine/PXL_20220724_223333997_huc2ab666fd16ff2dc17876d4ec2b7f8bd_3350551_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;PXL_20220724_223333997.jpeg&#34; width=&#34;252&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/PXL_20220725_145551185_2.jpeg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/alpine/PXL_20220725_145551185_2_huc7a4cb3d836e1460d26daf43ea5af1e8_2080845_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;PXL_20220725_145551185_2.jpeg&#34; width=&#34;277&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
 
@@ -821,6 +875,86 @@
     
     &lt;a data-fancybox=&#34;gallery-radar&#34; href=&#34;https://example.com/media/albums/radar/wgz.jpeg&#34; &gt;
       &lt;img src=&#34;https://example.com/media/albums/radar/wgz_hu120f39e4cc541dd5c6994e4fac8e8abd_14635531_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wgz.jpeg&#34; width=&#34;274&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Radar Polarimetry</title>
+      <link>https://example.com/photo/polarimetry/</link>
+      <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/photo/polarimetry/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-polarimetry&#34; href=&#34;https://example.com/media/albums/polarimetry/e0s50000_raw.png&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/polarimetry/e0s50000_raw_hu548aeda44d7fb5ae41d707921f5d61d4_872110_0x190_resize_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;e0s50000_raw.png&#34; width=&#34;261&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-polarimetry&#34; href=&#34;https://example.com/media/albums/polarimetry/x135n0_raw.png&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/polarimetry/x135n0_raw_hu149aba08001ad8b0c5bcfa5a78a4e11f_866881_0x190_resize_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;x135n0_raw.png&#34; width=&#34;261&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-polarimetry&#34; href=&#34;https://example.com/media/albums/polarimetry/x55n0_raw.png&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/polarimetry/x55n0_raw_hu9eec95f642e509372529e004ae2074ca_833986_0x190_resize_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;x55n0_raw.png&#34; width=&#34;261&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-polarimetry&#34; href=&#34;https://example.com/media/albums/polarimetry/x75n0_raw.png&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/polarimetry/x75n0_raw_hubc278f7b77fb54a1329d46a8ed328454_874631_0x190_resize_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;x75n0_raw.png&#34; width=&#34;261&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-polarimetry&#34; href=&#34;https://example.com/media/albums/polarimetry/x95s2000_raw.png&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/polarimetry/x95s2000_raw_huf740c69c8dbf3d5a2aa9f36e43656024_870711_0x190_resize_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;x95s2000_raw.png&#34; width=&#34;261&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-polarimetry&#34; href=&#34;https://example.com/media/albums/polarimetry/x95s5000_raw.png&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/polarimetry/x95s5000_raw_hu4e18edcfdb9c71bc65eb64a7a5ccc58f_741619_0x190_resize_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;x95s5000_raw.png&#34; width=&#34;261&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
 

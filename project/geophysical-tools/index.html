@@ -870,7 +870,7 @@
 
     <div class="article-style">
       <h2 id="impdar">ImpDAR</h2>
-<p>Led by Dr. David Lilien, ImpDAR (Impulse raDAR) is a suite of processing and interpretation tools for impulse radar sounding. The software (hosted on <a href="https://github.com/dlilien/ImpDAR" target="_blank" rel="noopener">github</a>) is targeted for ice-penetrating radar applications but usable for ground-penetrating radar and associated surveying applications as well. The core processing steps and general terminology come from a set of Matlab scripts developed at St. Olaf College under Dr. Robert Jacobel. Here, everything has been re-written in python and significant improvements to speed, readability, documentation, and interface have been made across the board. Additionally, ImpDAR is intended to be more flexible than other available options. Support is gradually being added for a variety of file formats. Currently, GSSI, PulseEKKO, GPRMax, SEGY, and several custom file formats are supported. Available processing steps include various filtering operations, trivial modifications such as restacking, cropping, or reversing data, geolocation-related operations like interpolating to constant trace spacing, and various migration routines.</p>
+<p>ImpDAR (Impulse raDAR) is a suite of processing and interpretation tools for impulse radar sounding, led by Dr. David Lilien. The software (<a href="https://github.com/dlilien/ImpDAR" target="_blank" rel="noopener">hosted on github</a>) is targeted for ice-penetrating radar applications but usable for ground-penetrating radar and associated surveying applications as well. The core processing steps and general terminology come from a set of Matlab scripts developed at St. Olaf College under Dr. Robert Jacobel. Here, everything has been re-written in python and significant improvements to speed, readability, documentation, and interface have been made across the board. Additionally, ImpDAR is intended to be more flexible than other available options. Support is gradually being added for a variety of file formats. Currently, GSSI, PulseEKKO, GPRMax, SEGY, and several custom file formats are supported. Available processing steps include various filtering operations, trivial modifications such as restacking, cropping, or reversing data, geolocation-related operations like interpolating to constant trace spacing, and various migration routines.</p>
 <p>In addition to processing, ImpDAR can also be used for interpreting radargrams (i.e. picking layers). Picking is generally an interactive process, so there is a GUI for carrying out the semi-automated picking procedure. Each picked layer is saved with variables for both the depth and picked power (i.e. the root-mean-square amplitude). The GUI also allows for basic processing steps, with the updates happening to the plot in real time to aid the picking process. We are also developing an automated picking algorithm that will ideally pick both internal layers and the bed reflector.</p>
 
 
@@ -900,7 +900,7 @@
                loading="lazy" data-zoomable /></div>
   </div></figure>
 <h2 id="apdar">ApDAR</h2>
-<p>The ApRES (Autonomous phase-sensitive Radio Echo Sounder) is a new and popular tool within the glaciology community. It transmits a phase-coherent waveform, so repeat acquisitions can be used for interference in order to measure small changes in returned phase. Phase changes are associated either with a difference in the total distance that the wave travels or differences in the wave speed through the medium. We are actively developing a processing flow for ApRES data within ImpDAR. We preserve a similar data structure to the impulse data, so users will have some familiarity across the two.</p>
+<p>The ApRES (Autonomous phase-sensitive Radio Echo Sounder) is a new and popular tool within the glaciology community. It transmits a phase-coherent waveform, so repeat acquisitions can be used for interference in order to measure small changes in returned phase. Phase changes are associated either with a difference in the total distance that the wave travels or differences in the wave speed through the medium. We are actively developing an ImpDAR extension for ApRES processing, called &lsquo;ApDAR&rsquo;. We preserve a similar data structure to the impulse data, so users will have some familiarity across the two.</p>
 
 
 
@@ -930,8 +930,7 @@
   </div><figcaption>
       Repeat ApRES acquisition, showing motion (phase offset) of measured reflectors.
     </figcaption></figure>
-<h2 id="qpdar">QpDAR</h2>
-<p>Radar polarimetry is an experimental design where we intentionally polarize the antennas in one direction or another to pick out differences in the material properties of the ice, namely the ice-crystal orientation fabric. As with the standard ApRES processing flow, we are building a polarimetry unit into ImpDAR specifically for ApRES data.</p>
+<p>ApDAR is built to be modular so that various ApRES acquisition techniques can be loaded and processed. One such technique is radar polarimetry, where the antennas are intentionally polarized in one direction or another to pick out differences in the material properties of the ice, namely the ice-crystal orientation fabric.</p>
 
 
 
