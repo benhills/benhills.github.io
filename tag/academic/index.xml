@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Benjamin Hills</title>
-    <link>https://example.com/tag/academic/</link>
-      <atom:link href="https://example.com/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://benhills.github.io/tag/academic/</link>
+      <atom:link href="https://benhills.github.io/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://benhills.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://example.com/tag/academic/</link>
+      <link>https://benhills.github.io/tag/academic/</link>
     </image>
     
     <item>
       <title>&#39;Working remotely&#39; as a polar field scientist</title>
-      <link>https://example.com/blog/remote-fieldwork/</link>
+      <link>https://benhills.github.io/blog/remote-fieldwork/</link>
       <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/remote-fieldwork/</guid>
+      <guid>https://benhills.github.io/blog/remote-fieldwork/</guid>
       <description>&lt;p&gt;We are wrapping up our fourth* season at Hercules Dome, Antarctica. I use an asterisk because it hasn’t really been the fourth at all. For the first season, in ‘18-’19, we had a 4-person team who was meant to deploy a full field camp for a full month of work on the ground; instead, we spent ~6 weeks at South Pole Station for a handful of day trips commuting back and forth to Hercules Dome. The second season was as expected, ‘19-’20 brought a 7-person team to the field where we did most of the surveying seen in the figure below. The third “season” was not a season at all, Covid halted nearly 100% of Antarctic field work in ‘20-’21. Finally, this current season that is wrapping up now was a small and lightweight team, with only a single scientist on the ground, meant to get in for only a few repeat acquisitions and nothing else. Hercules Dome was originally proposed as a 2-year surveying project and has now been extended to a total of 5 seasons, such is the nature of Antarctic fieldwork during a global pandemic.&lt;/p&gt;
 
 
@@ -40,7 +40,7 @@
                /blog/remote-fieldwork/HD_map_2122_hu1d4487603f979735dcc191e2140be7c6_1788984_ac925f73060b24f9a63e46b7cb24c29d.webp 400w,
                /blog/remote-fieldwork/HD_map_2122_hu1d4487603f979735dcc191e2140be7c6_1788984_e7a18f8e9ffdb530d5a88f3d1626180f.webp 760w,
                /blog/remote-fieldwork/HD_map_2122_hu1d4487603f979735dcc191e2140be7c6_1788984_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/remote-fieldwork/HD_map_2122_hu1d4487603f979735dcc191e2140be7c6_1788984_ac925f73060b24f9a63e46b7cb24c29d.webp&#34;
+               src=&#34;https://benhills.github.io/blog/remote-fieldwork/HD_map_2122_hu1d4487603f979735dcc191e2140be7c6_1788984_ac925f73060b24f9a63e46b7cb24c29d.webp&#34;
                width=&#34;760&#34;
                height=&#34;571&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -70,7 +70,7 @@
                /blog/remote-fieldwork/tree_hue89a0aa046b09da89068440f8a9c75be_126460_28266a1c1bc72b1dfd2ef3c930812567.webp 400w,
                /blog/remote-fieldwork/tree_hue89a0aa046b09da89068440f8a9c75be_126460_ebf917d9d79ecfc110fb209b8ca701dd.webp 760w,
                /blog/remote-fieldwork/tree_hue89a0aa046b09da89068440f8a9c75be_126460_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/remote-fieldwork/tree_hue89a0aa046b09da89068440f8a9c75be_126460_28266a1c1bc72b1dfd2ef3c930812567.webp&#34;
+               src=&#34;https://benhills.github.io/blog/remote-fieldwork/tree_hue89a0aa046b09da89068440f8a9c75be_126460_28266a1c1bc72b1dfd2ef3c930812567.webp&#34;
                width=&#34;472&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -104,7 +104,7 @@
                /blog/remote-fieldwork/blog_pres_hu29b6964728c3af8ef7372565a95e8991_300189_0f82244d7eea5f05bc65cad67b9a2eb4.webp 400w,
                /blog/remote-fieldwork/blog_pres_hu29b6964728c3af8ef7372565a95e8991_300189_be6231dd76636685ef311e9e3b9c53c0.webp 760w,
                /blog/remote-fieldwork/blog_pres_hu29b6964728c3af8ef7372565a95e8991_300189_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/remote-fieldwork/blog_pres_hu29b6964728c3af8ef7372565a95e8991_300189_0f82244d7eea5f05bc65cad67b9a2eb4.webp&#34;
+               src=&#34;https://benhills.github.io/blog/remote-fieldwork/blog_pres_hu29b6964728c3af8ef7372565a95e8991_300189_0f82244d7eea5f05bc65cad67b9a2eb4.webp&#34;
                width=&#34;633&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -118,9 +118,9 @@
     
     <item>
       <title>Why Go Back?</title>
-      <link>https://example.com/blog/why-go-back/</link>
+      <link>https://benhills.github.io/blog/why-go-back/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/why-go-back/</guid>
+      <guid>https://benhills.github.io/blog/why-go-back/</guid>
       <description>&lt;p&gt;They say that the first time you go to Antarctica is for the adventure, the second for the science, and the third because you no longer belong anywhere else. I would hope that it is always for the science, but I do understand how people get attached to the community down here. Life on the ice is mission oriented; whether for science or support, the team knows what needs to get done and works together to accomplish the task at hand.&lt;/p&gt;
 &lt;p&gt;If you read my writing last year, you will know that we had some logistical issues with our project at Hercules Dome. In a way, we had to come back to even get a real start. Having said that, it is common for field projects to be spread across multiple seasons, and some of our team will be coming down next year as well. I want to give somewhat of an explanation for why any field-based project would need more than one season on the ice.&lt;/p&gt;
 &lt;h2 id=&#34;logistical-reasons-to-return&#34;&gt;Logistical Reasons to Return&lt;/h2&gt;
@@ -148,7 +148,7 @@
                /blog/why-go-back/skiway_hu7d1472b035cfc73c709fc3246cf2351f_610022_0612fcde909166421a5771350a72117b.webp 400w,
                /blog/why-go-back/skiway_hu7d1472b035cfc73c709fc3246cf2351f_610022_ed8b1e68355778645b321d9727586813.webp 760w,
                /blog/why-go-back/skiway_hu7d1472b035cfc73c709fc3246cf2351f_610022_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/why-go-back/skiway_hu7d1472b035cfc73c709fc3246cf2351f_610022_0612fcde909166421a5771350a72117b.webp&#34;
+               src=&#34;https://benhills.github.io/blog/why-go-back/skiway_hu7d1472b035cfc73c709fc3246cf2351f_610022_0612fcde909166421a5771350a72117b.webp&#34;
                width=&#34;760&#34;
                height=&#34;577&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -177,7 +177,7 @@
 &lt;figure  id=&#34;figure-a-waveform-represented-in-the-complex-plane&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A waveform represented in the complex plane.&#34;
-           src=&#34;https://example.com/blog/why-go-back/phase.gif&#34;
+           src=&#34;https://benhills.github.io/blog/why-go-back/phase.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       A waveform represented in the complex plane.
@@ -205,7 +205,7 @@
                /blog/why-go-back/annika-pres_hu13302735ebbf5f45f6b9c1477bda07d6_2075478_4a82c58bd458a6293fd239a127972109.webp 400w,
                /blog/why-go-back/annika-pres_hu13302735ebbf5f45f6b9c1477bda07d6_2075478_5978deff64dbac51f6427972fb3aaf24.webp 760w,
                /blog/why-go-back/annika-pres_hu13302735ebbf5f45f6b9c1477bda07d6_2075478_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/why-go-back/annika-pres_hu13302735ebbf5f45f6b9c1477bda07d6_2075478_4a82c58bd458a6293fd239a127972109.webp&#34;
+               src=&#34;https://benhills.github.io/blog/why-go-back/annika-pres_hu13302735ebbf5f45f6b9c1477bda07d6_2075478_4a82c58bd458a6293fd239a127972109.webp&#34;
                width=&#34;760&#34;
                height=&#34;457&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -232,7 +232,7 @@
 &lt;figure  id=&#34;figure-a-repeated-apres-measurement-used-to-infer-vertical-ice-motion-the-top-panel-is-the-measured-phase-over-a-sample-window-represented-by-the-moving-line-in-the-bottom-three-panels-the-second-panel-is-the-radar-profile-with-the-strength-of-the-returning-signal-being-diminished-with-depth-until-the-ice-bed-interface-at-2800-m-the-third-panel-is-the-correlation-between-the-year-1-and-year-2-measurements-as-expected-correlation-drops-off-below-1500-m-because-the-signal-is-noisy-for-deep-returns-the-fourth-panel-is-the-inferred-displacement-between-measurements-the-result-is-well-behaved-above-1500-m-where-the-correlation-is-high&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A repeated ApRES measurement used to infer vertical ice motion. The top panel is the measured phase over a sample window represented by the moving line in the bottom three panels. The second panel is the radar profile with the strength of the returning signal being diminished with depth until the ice-bed interface at ~2800 m. The third panel is the correlation between the year 1 and year 2 measurements. As expected, correlation drops off below ~1500 m because the signal is noisy for deep returns. The fourth panel is the inferred displacement between measurements, the result is well behaved above ~1500 m where the correlation is high.&#34;
-           src=&#34;https://example.com/blog/why-go-back/pres.gif&#34;
+           src=&#34;https://benhills.github.io/blog/why-go-back/pres.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       A repeated ApRES measurement used to infer vertical ice motion. The top panel is the measured phase over a sample window represented by the moving line in the bottom three panels. The second panel is the radar profile with the strength of the returning signal being diminished with depth until the ice-bed interface at ~2800 m. The third panel is the correlation between the year 1 and year 2 measurements. As expected, correlation drops off below ~1500 m because the signal is noisy for deep returns. The fourth panel is the inferred displacement between measurements, the result is well behaved above ~1500 m where the correlation is high.
@@ -261,7 +261,7 @@
                /blog/why-go-back/critters_hu5173823e27f62e392edd7495b108e579_247288_af83d9718be9723d6ee1872fbc9dee20.webp 400w,
                /blog/why-go-back/critters_hu5173823e27f62e392edd7495b108e579_247288_bc3f6ff56f8f6494826428e969d67056.webp 760w,
                /blog/why-go-back/critters_hu5173823e27f62e392edd7495b108e579_247288_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/why-go-back/critters_hu5173823e27f62e392edd7495b108e579_247288_af83d9718be9723d6ee1872fbc9dee20.webp&#34;
+               src=&#34;https://benhills.github.io/blog/why-go-back/critters_hu5173823e27f62e392edd7495b108e579_247288_af83d9718be9723d6ee1872fbc9dee20.webp&#34;
                width=&#34;598&#34;
                height=&#34;255&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -273,9 +273,9 @@
     
     <item>
       <title>Glacier Mass Balance at South Cascade</title>
-      <link>https://example.com/blog/mass-balance/</link>
+      <link>https://benhills.github.io/blog/mass-balance/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/mass-balance/</guid>
+      <guid>https://benhills.github.io/blog/mass-balance/</guid>
       <description>&lt;p&gt;Yesterday, I came home from a week-long field trip to South Cascade Glacier in Washington. South Cascade is one of the United States Geological Survey (USGS) benchmark glaciers, along with Gulkana and Wolverine in Alaska as well as Sperry in Glacier National Park, Montana. The benchmark glacier program was set up by the USGS to intensively monitor climate, glacier motion, glacier mass balance, glacier geometry, and stream runoff for these select glaciers which are thought to be representative of their respective region.&lt;/p&gt;
 &lt;p&gt;Why monitor glaciers? Aside from the fact that they are a fascinating aspect of the earth system, one reason is because they act as a low-pass filter on changes in climate. While climatic variables such as the air temperature and precipitation change on time scales as short as hours to days to years, ice flows slowly enough that it absorbs all the high-frequency information and responds at more like decadal (alpine glacier) or centennial (polar ice sheet) time scales. Therefore, glacier growth and decay are typically (c.f. tidewater glacier cycle) expressive of the longer term climate trend whether that be a change in temperature, precipitation, or both.&lt;/p&gt;
 &lt;p&gt;As a community, we have been measuring glacier change for at least several decades now. The easiest and most obvious way to do so is also the most illustrative for the public, a simple photo. Projects like the Extreme Ice Survey use photo time series to display glacier retreat in a way that needs no explanation. Some studies even use anecdotal evidence and drawings to extend the record further back in time (to 1602 for the Rhone Glacier). In our case at South Cascade, photos display that the terminus has retreated by ~3 kilometers over the past century. In the 1950&amp;rsquo;s and 60&amp;rsquo;s, this glacier terminated in a proglacial lake, but around 1970 the glacier pulled up out of the lake and now the terminus rests a full kilometer further uphill.&lt;/p&gt;
@@ -301,7 +301,7 @@
                /blog/mass-balance/history_hu6021e390eb012c2a28d2828b2a80ad68_497490_c7a04911d514d956333c96613858b503.webp 400w,
                /blog/mass-balance/history_hu6021e390eb012c2a28d2828b2a80ad68_497490_3f9441f5f04c3aa2d7a035f05f65abc0.webp 760w,
                /blog/mass-balance/history_hu6021e390eb012c2a28d2828b2a80ad68_497490_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/mass-balance/history_hu6021e390eb012c2a28d2828b2a80ad68_497490_c7a04911d514d956333c96613858b503.webp&#34;
+               src=&#34;https://benhills.github.io/blog/mass-balance/history_hu6021e390eb012c2a28d2828b2a80ad68_497490_c7a04911d514d956333c96613858b503.webp&#34;
                width=&#34;690&#34;
                height=&#34;550&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -330,7 +330,7 @@
                /blog/mass-balance/scg_hu8d171eafad3e5ec247601b00697c4980_4525133_85e6157b1b402b00aa22c1881da13c88.webp 400w,
                /blog/mass-balance/scg_hu8d171eafad3e5ec247601b00697c4980_4525133_52d7938e7319d4ba27b99bd7077066fb.webp 760w,
                /blog/mass-balance/scg_hu8d171eafad3e5ec247601b00697c4980_4525133_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/mass-balance/scg_hu8d171eafad3e5ec247601b00697c4980_4525133_85e6157b1b402b00aa22c1881da13c88.webp&#34;
+               src=&#34;https://benhills.github.io/blog/mass-balance/scg_hu8d171eafad3e5ec247601b00697c4980_4525133_85e6157b1b402b00aa22c1881da13c88.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -362,7 +362,7 @@
                /blog/mass-balance/schematic_hu055126dfc99cfe5a0e61e19c9cac8081_138294_e5a1e29aff839d99510b33bf3be19737.webp 400w,
                /blog/mass-balance/schematic_hu055126dfc99cfe5a0e61e19c9cac8081_138294_bb235608989cfa893ad34cc9a9882fcb.webp 760w,
                /blog/mass-balance/schematic_hu055126dfc99cfe5a0e61e19c9cac8081_138294_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/mass-balance/schematic_hu055126dfc99cfe5a0e61e19c9cac8081_138294_e5a1e29aff839d99510b33bf3be19737.webp&#34;
+               src=&#34;https://benhills.github.io/blog/mass-balance/schematic_hu055126dfc99cfe5a0e61e19c9cac8081_138294_e5a1e29aff839d99510b33bf3be19737.webp&#34;
                width=&#34;460&#34;
                height=&#34;322&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -392,7 +392,7 @@
                /blog/mass-balance/pit_hufbb8dc8af21203b24f648026c9457cdf_108650_c1e50f56893692b0708f8b6d8fe88c7f.webp 400w,
                /blog/mass-balance/pit_hufbb8dc8af21203b24f648026c9457cdf_108650_950b77fe2f3a2c75513adfb62b78124a.webp 760w,
                /blog/mass-balance/pit_hufbb8dc8af21203b24f648026c9457cdf_108650_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/mass-balance/pit_hufbb8dc8af21203b24f648026c9457cdf_108650_c1e50f56893692b0708f8b6d8fe88c7f.webp&#34;
+               src=&#34;https://benhills.github.io/blog/mass-balance/pit_hufbb8dc8af21203b24f648026c9457cdf_108650_c1e50f56893692b0708f8b6d8fe88c7f.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -425,7 +425,7 @@
                /blog/mass-balance/global_map_hub96782b94b601335ab68c556cc3b8482_737040_8b9c82d42c4679ee2463cfacf85692b7.webp 400w,
                /blog/mass-balance/global_map_hub96782b94b601335ab68c556cc3b8482_737040_86781388dcc5604d0c832c5890ad333b.webp 760w,
                /blog/mass-balance/global_map_hub96782b94b601335ab68c556cc3b8482_737040_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/mass-balance/global_map_hub96782b94b601335ab68c556cc3b8482_737040_8b9c82d42c4679ee2463cfacf85692b7.webp&#34;
+               src=&#34;https://benhills.github.io/blog/mass-balance/global_map_hub96782b94b601335ab68c556cc3b8482_737040_8b9c82d42c4679ee2463cfacf85692b7.webp&#34;
                width=&#34;526&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -438,9 +438,9 @@
     
     <item>
       <title>Ice-Penetrating Radar</title>
-      <link>https://example.com/blog/ice-penetrating-radar/</link>
+      <link>https://benhills.github.io/blog/ice-penetrating-radar/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/ice-penetrating-radar/</guid>
+      <guid>https://benhills.github.io/blog/ice-penetrating-radar/</guid>
       <description>&lt;p&gt;We study ice dynamics; namely, how the Greenland and Antarctic ice sheets are moving, how they may have been moving in the past, and how they will move into the future. Ice flows downhill under the force of gravity. As it moves to lower elevation, it eventually either melts or calves and floats away, both contributing mass to the oceans. Thus, the principal importance of our research is to put constraints on future projections of sea-level rise.&lt;/p&gt;
 &lt;p&gt;Being a geophysics team, the research tools that we use are a suite of geophysical methods including GPS, remote sensing (satellites), ice-penetrating radar, seismics, and physics-based computer models. With GPS and remote sensing methods we measure the elevation and velocity of the ice surface. We get at least cm precision with our GPS (down to mm when using real-time kinematics from a stationary base station). With radar and seismics, on the other hand, we survey the internal structure and intrinsic properties of the ice sheets. The basics of radar (seismic) methods are to transmit a radio (seismic) wave at the ice surface and to look (listen) for the reflections. The radio waves that we transmit are in the high to very-high frequency range (close to the same frequencies that you would use in your car or on a handheld radio). Seismics in glaciological applications are typically active source, using an explosion triggered at the surface. By measuring the time and amplitude of the returning waves (both radar and seismic), we learn what we need to build intuition about the dynamic nature of the ice-sheet system. Finally, we test our intuition using computer models.&lt;/p&gt;
 
@@ -465,7 +465,7 @@
                /blog/ice-penetrating-radar/ipr_cartoon_hu2dddb388711da89393e7649c08552bc5_475851_6956e7285cc7e35b22f10952a9cdc528.webp 400w,
                /blog/ice-penetrating-radar/ipr_cartoon_hu2dddb388711da89393e7649c08552bc5_475851_7e0a5ab9ef5cdff4c9610c5315a3014b.webp 760w,
                /blog/ice-penetrating-radar/ipr_cartoon_hu2dddb388711da89393e7649c08552bc5_475851_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/ice-penetrating-radar/ipr_cartoon_hu2dddb388711da89393e7649c08552bc5_475851_6956e7285cc7e35b22f10952a9cdc528.webp&#34;
+               src=&#34;https://benhills.github.io/blog/ice-penetrating-radar/ipr_cartoon_hu2dddb388711da89393e7649c08552bc5_475851_6956e7285cc7e35b22f10952a9cdc528.webp&#34;
                width=&#34;760&#34;
                height=&#34;749&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -499,7 +499,7 @@
                /blog/ice-penetrating-radar/radar-shelter_hud91ee38fd9ecc041d795446f233bb91a_266073_66676853e8ea18f6769d7024b64192a6.webp 400w,
                /blog/ice-penetrating-radar/radar-shelter_hud91ee38fd9ecc041d795446f233bb91a_266073_3367372f29d6aeb218d763d531d7712d.webp 760w,
                /blog/ice-penetrating-radar/radar-shelter_hud91ee38fd9ecc041d795446f233bb91a_266073_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/ice-penetrating-radar/radar-shelter_hud91ee38fd9ecc041d795446f233bb91a_266073_66676853e8ea18f6769d7024b64192a6.webp&#34;
+               src=&#34;https://benhills.github.io/blog/ice-penetrating-radar/radar-shelter_hud91ee38fd9ecc041d795446f233bb91a_266073_66676853e8ea18f6769d7024b64192a6.webp&#34;
                width=&#34;760&#34;
                height=&#34;571&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -528,7 +528,7 @@
                /blog/ice-penetrating-radar/apres_hubb6e1558ebe2ad9a2005af4a458250be_1936637_53b5f59b7fc7b2a226742ec8ac294236.webp 400w,
                /blog/ice-penetrating-radar/apres_hubb6e1558ebe2ad9a2005af4a458250be_1936637_0b1b7098f02f6eff063a1f79d1f0f7dd.webp 760w,
                /blog/ice-penetrating-radar/apres_hubb6e1558ebe2ad9a2005af4a458250be_1936637_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/ice-penetrating-radar/apres_hubb6e1558ebe2ad9a2005af4a458250be_1936637_53b5f59b7fc7b2a226742ec8ac294236.webp&#34;
+               src=&#34;https://benhills.github.io/blog/ice-penetrating-radar/apres_hubb6e1558ebe2ad9a2005af4a458250be_1936637_53b5f59b7fc7b2a226742ec8ac294236.webp&#34;
                width=&#34;760&#34;
                height=&#34;306&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -560,7 +560,7 @@
                /blog/ice-penetrating-radar/ben_at_hd_hue4873627a0a19c356457209492e55d2d_1040915_203c068a2b3f02e34ddf4262f35e6bdc.webp 400w,
                /blog/ice-penetrating-radar/ben_at_hd_hue4873627a0a19c356457209492e55d2d_1040915_ab435430a56bfe16bac5525997c6dcd5.webp 760w,
                /blog/ice-penetrating-radar/ben_at_hd_hue4873627a0a19c356457209492e55d2d_1040915_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/ice-penetrating-radar/ben_at_hd_hue4873627a0a19c356457209492e55d2d_1040915_203c068a2b3f02e34ddf4262f35e6bdc.webp&#34;
+               src=&#34;https://benhills.github.io/blog/ice-penetrating-radar/ben_at_hd_hue4873627a0a19c356457209492e55d2d_1040915_203c068a2b3f02e34ddf4262f35e6bdc.webp&#34;
                width=&#34;497&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -572,9 +572,9 @@
     
     <item>
       <title>The Pole</title>
-      <link>https://example.com/blog/the-pole/</link>
+      <link>https://benhills.github.io/blog/the-pole/</link>
       <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/the-pole/</guid>
+      <guid>https://benhills.github.io/blog/the-pole/</guid>
       <description>&lt;p&gt;We made it to South Pole Station. It turns out that getting around this continent necessitates a bit of patience. We spent nearly a week in Christchurch, NZ, waiting for the weather to clear so that we could fly to McMurdo (the primary American station). During that week, we had two boomerang flights in which we took off and flew for ~5 hours down over the Southern Ocean only to get turned around back to New Zealand because the pilots did not feel comfortable landing on the McMurdo Ice Shelf. When the weather finally cleared, we landed in McMurdo and I was greeted by the rest of my science team who had been waiting there for three weeks.&lt;/p&gt;
 &lt;p&gt;McMurdo is an interesting place. In many ways it reminds me of Kangerlussuaq, the center for US science operations in Greenland. The town sits on the McMurdo Sound, across which are the Royal Society Range which tower to 13000&amp;rsquo; from sea level. Being on the coast also means that there is marine wildlife. In the short time that I was there, we saw seals and emperor penguins, but when the icebreaker comes in and breaks the sea ice later in the summer whales, penguins, and seals will surely have a stronger presence. The culture in town in somewhat divided between the contractors and the scientists. They call us &amp;lsquo;beakers&amp;rsquo;, which, although somewhat condescending, is more endearing than the myriad nicknames I was given in high school.&lt;/p&gt;
 
@@ -599,7 +599,7 @@
                /blog/the-pole/Delta_hu722106d66d2a50f4000fa5df1234233d_3358740_56b4657c64a4dc423fcd04896ebe8b89.webp 400w,
                /blog/the-pole/Delta_hu722106d66d2a50f4000fa5df1234233d_3358740_d595c8ecf2c5a823ac3cddc20a14d5d5.webp 760w,
                /blog/the-pole/Delta_hu722106d66d2a50f4000fa5df1234233d_3358740_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/the-pole/Delta_hu722106d66d2a50f4000fa5df1234233d_3358740_56b4657c64a4dc423fcd04896ebe8b89.webp&#34;
+               src=&#34;https://benhills.github.io/blog/the-pole/Delta_hu722106d66d2a50f4000fa5df1234233d_3358740_56b4657c64a4dc423fcd04896ebe8b89.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -631,7 +631,7 @@
                /blog/the-pole/transantarctics_hu722106d66d2a50f4000fa5df1234233d_2874254_9c67154b36ff9b5806a16ec8010cdac6.webp 400w,
                /blog/the-pole/transantarctics_hu722106d66d2a50f4000fa5df1234233d_2874254_b9ec316632265894b32182f1ce864afd.webp 760w,
                /blog/the-pole/transantarctics_hu722106d66d2a50f4000fa5df1234233d_2874254_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/the-pole/transantarctics_hu722106d66d2a50f4000fa5df1234233d_2874254_9c67154b36ff9b5806a16ec8010cdac6.webp&#34;
+               src=&#34;https://benhills.github.io/blog/the-pole/transantarctics_hu722106d66d2a50f4000fa5df1234233d_2874254_9c67154b36ff9b5806a16ec8010cdac6.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -661,7 +661,7 @@
                /blog/the-pole/SPT_hu0a4ff54ba61226b25c17514fab2365d0_348343_dcb2375f70b7c15199dd92cc5d3b0c91.webp 400w,
                /blog/the-pole/SPT_hu0a4ff54ba61226b25c17514fab2365d0_348343_e6dbc22fb3297710d65ec4ee09685cb3.webp 760w,
                /blog/the-pole/SPT_hu0a4ff54ba61226b25c17514fab2365d0_348343_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/the-pole/SPT_hu0a4ff54ba61226b25c17514fab2365d0_348343_dcb2375f70b7c15199dd92cc5d3b0c91.webp&#34;
+               src=&#34;https://benhills.github.io/blog/the-pole/SPT_hu0a4ff54ba61226b25c17514fab2365d0_348343_dcb2375f70b7c15199dd92cc5d3b0c91.webp&#34;
                width=&#34;760&#34;
                height=&#34;506&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -675,9 +675,9 @@
     
     <item>
       <title>Going South</title>
-      <link>https://example.com/blog/going-south/</link>
+      <link>https://benhills.github.io/blog/going-south/</link>
       <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/going-south/</guid>
+      <guid>https://benhills.github.io/blog/going-south/</guid>
       <description>&lt;p&gt;I am in the process of deploying to Hercules Dome, Antarctica (‘Herc Dome’, named after the airplane above) and will be in the field for at least a month, likely longer. This research trip came as a surprise to me because, in an emergency, an extra field personnel was needed. Two weeks ago, I was putting together a poster for the American Geophysical Union Fall Meeting in Washington D.C. and making Christmas plans with my girlfriend’s family. In the time since I was informed that I would be needed in Antarctica on Tuesday, November 27, I had to renew my passport, pass a rigorous physical examination (including full blood work, a tuberculosis test, a dental examination, etc.), purchase and pack gear for my first trip to the southern continent, write and print my science poster for a friend to hang up at the conference I would be missing, and finish my schoolwork for the quarter.&lt;/p&gt;
 &lt;p&gt;Mental preparation thrust me into a vortex of emotions. Obviously, I am both excited and nervous about the trip itself, but I also sporadically feel sad, isolated, exhausted, proud, hopeful, and even nostalgic as we pass through Christchurch, New Zealand, where I lived as a 20-year-old student. In the days and weeks to come I will have more trainings and preparations to do at both the McMurdo and South Pole stations. Although being dragged through this emotional landscape is somewhat inevitable, I am hoping for a mental shift toward sharpening my focus on our scientific objectives. After all, that is my reason for being here.&lt;/p&gt;
 
@@ -702,7 +702,7 @@
                /blog/going-south/hd-map_hue72b89f81990392c5429058996f26f48_43647_71f23b853006c34e2591dfde485d40f1.webp 400w,
                /blog/going-south/hd-map_hue72b89f81990392c5429058996f26f48_43647_a4546e1554ad45056d28353bcf19bed3.webp 760w,
                /blog/going-south/hd-map_hue72b89f81990392c5429058996f26f48_43647_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/going-south/hd-map_hue72b89f81990392c5429058996f26f48_43647_71f23b853006c34e2591dfde485d40f1.webp&#34;
+               src=&#34;https://benhills.github.io/blog/going-south/hd-map_hue72b89f81990392c5429058996f26f48_43647_71f23b853006c34e2591dfde485d40f1.webp&#34;
                width=&#34;484&#34;
                height=&#34;417&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -733,7 +733,7 @@
                /blog/going-south/IceCoreData_hu0803a4af1784c1df74d0ceb908763193_79889_9b44b828102dfe0850a6ae58535edf58.webp 400w,
                /blog/going-south/IceCoreData_hu0803a4af1784c1df74d0ceb908763193_79889_93ee3c3f2fab8bcbd1cf4e8dca55f99f.webp 760w,
                /blog/going-south/IceCoreData_hu0803a4af1784c1df74d0ceb908763193_79889_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/going-south/IceCoreData_hu0803a4af1784c1df74d0ceb908763193_79889_9b44b828102dfe0850a6ae58535edf58.webp&#34;
+               src=&#34;https://benhills.github.io/blog/going-south/IceCoreData_hu0803a4af1784c1df74d0ceb908763193_79889_9b44b828102dfe0850a6ae58535edf58.webp&#34;
                width=&#34;640&#34;
                height=&#34;450&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -764,7 +764,7 @@
                /blog/going-south/clothes_hu8ece794870e2fd8521c3b43a5cefa654_498152_1b186ac16a8b48d494d904b147185bde.webp 400w,
                /blog/going-south/clothes_hu8ece794870e2fd8521c3b43a5cefa654_498152_f3fe9be054356959a3f8db76b709758e.webp 760w,
                /blog/going-south/clothes_hu8ece794870e2fd8521c3b43a5cefa654_498152_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/going-south/clothes_hu8ece794870e2fd8521c3b43a5cefa654_498152_1b186ac16a8b48d494d904b147185bde.webp&#34;
+               src=&#34;https://benhills.github.io/blog/going-south/clothes_hu8ece794870e2fd8521c3b43a5cefa654_498152_1b186ac16a8b48d494d904b147185bde.webp&#34;
                width=&#34;697&#34;
                height=&#34;695&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -778,9 +778,9 @@
     
     <item>
       <title>Sea-Level Fingerprinting</title>
-      <link>https://example.com/blog/sea-level-fingerprinting/</link>
+      <link>https://benhills.github.io/blog/sea-level-fingerprinting/</link>
       <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/sea-level-fingerprinting/</guid>
+      <guid>https://benhills.github.io/blog/sea-level-fingerprinting/</guid>
       <description>&lt;p&gt;Projections of sea-level rise from the International Panel on Climate Change (IPCC) 5th Assessment Report are daunting to say the least. Policy makers are most concerned about the changes coming in the next century, over which we could see up to a full meter of sea-level rise. Even under the best-case scenario, dramatically curbing emissions today, the oceans will rise considerably by year 2100 (see the figure below). Looking beyond that 100-year mark though, the rates of sea-level rise become much more uncertain. The largest uncertainty in future sea-level projections is that associated with dynamic losses from the West Antarctic Ice Sheet (WAIS). Dynamic losses are those from speedup of the ice sheet, resulting in drawdown of interior ice and more calving into the ocean. Unlike ice melting, which pretty much scales linearly with the global air temperature, these dynamic losses could entirely eliminate an unstable ice sheet on the timescale of decades to centuries rather than millennia.&lt;/p&gt;
 
 
@@ -804,7 +804,7 @@
                /blog/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_5856d5a353079dbfde643b99970a308e.webp 400w,
                /blog/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_55bdff5ffb534d7a431336680ec5769d.webp 760w,
                /blog/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_5856d5a353079dbfde643b99970a308e.webp&#34;
+               src=&#34;https://benhills.github.io/blog/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_5856d5a353079dbfde643b99970a308e.webp&#34;
                width=&#34;589&#34;
                height=&#34;556&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -837,7 +837,7 @@
                /blog/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_8b3d2f6100097ef6614a53c3ba5ac1ed.webp 400w,
                /blog/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_42dbaa00d3d92449c7d082e358921ceb.webp 760w,
                /blog/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_8b3d2f6100097ef6614a53c3ba5ac1ed.webp&#34;
+               src=&#34;https://benhills.github.io/blog/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_8b3d2f6100097ef6614a53c3ba5ac1ed.webp&#34;
                width=&#34;592&#34;
                height=&#34;451&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -869,7 +869,7 @@
                /blog/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_1eaebf29742993e6bb4fc2da22936160.webp 400w,
                /blog/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_f9d1c6596df1b83ec3d23aee16d10312.webp 760w,
                /blog/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_1eaebf29742993e6bb4fc2da22936160.webp&#34;
+               src=&#34;https://benhills.github.io/blog/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_1eaebf29742993e6bb4fc2da22936160.webp&#34;
                width=&#34;760&#34;
                height=&#34;256&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -882,9 +882,9 @@
     
     <item>
       <title>Crystalline Ice</title>
-      <link>https://example.com/blog/crystalline-ice/</link>
+      <link>https://benhills.github.io/blog/crystalline-ice/</link>
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/crystalline-ice/</guid>
+      <guid>https://benhills.github.io/blog/crystalline-ice/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&amp;lsquo;Now suppose,&amp;rsquo; chortled Dr. Breed, enjoying himself, &amp;rsquo;that there were many possible ways in which water could crystallize, could freeze. Suppose that the sort of ice we skate upon and put into highballs&amp;ndash;what we might call ice-one&amp;ndash; is only one of several types of ice. Suppose water always froze as ice-one on Earth because it had never had a seed to teach it how to form ice-two, ice-three, ice-four&amp;hellip;? And suppose,&amp;rsquo; he rapped on his desk with his old hand again, &amp;rsquo;that there were one form, which we will call ice-nine&amp;ndash;a crystal as hard as this desk&amp;ndash;with a melting point of, let us say, one-hundred degrees Fahrenheit, or, better still, a melting point of one-hundred-and-thirty degrees.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -916,7 +916,7 @@
                /blog/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_93af586cc6f61a2bba9e330a413eacb2.webp 400w,
                /blog/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_cc4a37d413d576881933731fd587d3b8.webp 760w,
                /blog/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_93af586cc6f61a2bba9e330a413eacb2.webp&#34;
+               src=&#34;https://benhills.github.io/blog/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_93af586cc6f61a2bba9e330a413eacb2.webp&#34;
                width=&#34;760&#34;
                height=&#34;578&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -951,7 +951,7 @@
                /blog/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_c56671314f618958244f0c7ca94ba0c6.webp 400w,
                /blog/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_354d8e3074dafe7b6f00ddc555ca4445.webp 760w,
                /blog/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_c56671314f618958244f0c7ca94ba0c6.webp&#34;
+               src=&#34;https://benhills.github.io/blog/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_c56671314f618958244f0c7ca94ba0c6.webp&#34;
                width=&#34;760&#34;
                height=&#34;510&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -965,9 +965,9 @@
     
     <item>
       <title>Greenland Ice Sheet Ablation Zone</title>
-      <link>https://example.com/blog/ablation-zone/</link>
+      <link>https://benhills.github.io/blog/ablation-zone/</link>
       <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/ablation-zone/</guid>
+      <guid>https://benhills.github.io/blog/ablation-zone/</guid>
       <description>&lt;p&gt;From 2015 to 2017 I was a graduate student at the University of Montana. While there, my research focused on heat transfer in Greenland&amp;rsquo;s ablation zone. I was fortunate in getting to experience this place, which up to now has been the most awe inspiring and the most intellectually fascinating place I have ever been. Spending approximately a month of time on the ice (over two separate summers) I learned how to work in such an environment, and specifically how to extract information from one of the most influential natural systems on our planet.&lt;/p&gt;
 &lt;h2 id=&#34;ice-sheet-basics&#34;&gt;Ice Sheet Basics&lt;/h2&gt;
 &lt;p&gt;Ice forms on the Earth&amp;rsquo;s surface in places where more snow falls in the winter than melts in the summer. Typically, this means at either high elevation or high latitude, both of which are landscapes generally void of dense human populations. While it is easy for most of us to think of these as abstract places having no impact on our daily lives, as early as the 1960s scientists were warning of the potential for global influence by the Earth&amp;rsquo;s ice sheets.&lt;/p&gt;
@@ -995,7 +995,7 @@
                /blog/ablation-zone/accabl_hua021b37d7b32ea2a52939f9d359e088c_26655654_38277dd4e9fae0d15b54a8b4d033e791.webp 400w,
                /blog/ablation-zone/accabl_hua021b37d7b32ea2a52939f9d359e088c_26655654_a6a06fe01ee718d50ea14dc27d65dff7.webp 760w,
                /blog/ablation-zone/accabl_hua021b37d7b32ea2a52939f9d359e088c_26655654_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/ablation-zone/accabl_hua021b37d7b32ea2a52939f9d359e088c_26655654_38277dd4e9fae0d15b54a8b4d033e791.webp&#34;
+               src=&#34;https://benhills.github.io/blog/ablation-zone/accabl_hua021b37d7b32ea2a52939f9d359e088c_26655654_38277dd4e9fae0d15b54a8b4d033e791.webp&#34;
                width=&#34;760&#34;
                height=&#34;253&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1026,7 +1026,7 @@
                /blog/ablation-zone/isunninset_hu7494ad9600d4a9895c52f1b8717378bc_752443_afa3cb44f4c4f908cbb825e90c092a06.webp 400w,
                /blog/ablation-zone/isunninset_hu7494ad9600d4a9895c52f1b8717378bc_752443_5c1008b66f404d21b9edf919b4b5bdd5.webp 760w,
                /blog/ablation-zone/isunninset_hu7494ad9600d4a9895c52f1b8717378bc_752443_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/ablation-zone/isunninset_hu7494ad9600d4a9895c52f1b8717378bc_752443_afa3cb44f4c4f908cbb825e90c092a06.webp&#34;
+               src=&#34;https://benhills.github.io/blog/ablation-zone/isunninset_hu7494ad9600d4a9895c52f1b8717378bc_752443_afa3cb44f4c4f908cbb825e90c092a06.webp&#34;
                width=&#34;537&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1058,7 +1058,7 @@
                /blog/ablation-zone/hot-water_hud56757ca3a027ba70972e9f698a2c263_207670_c997d1f069c56f21f27885347a87d914.webp 400w,
                /blog/ablation-zone/hot-water_hud56757ca3a027ba70972e9f698a2c263_207670_c0f26f802120b22e054689e4d069d56a.webp 760w,
                /blog/ablation-zone/hot-water_hud56757ca3a027ba70972e9f698a2c263_207670_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/ablation-zone/hot-water_hud56757ca3a027ba70972e9f698a2c263_207670_c997d1f069c56f21f27885347a87d914.webp&#34;
+               src=&#34;https://benhills.github.io/blog/ablation-zone/hot-water_hud56757ca3a027ba70972e9f698a2c263_207670_c997d1f069c56f21f27885347a87d914.webp&#34;
                width=&#34;712&#34;
                height=&#34;474&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1088,7 +1088,7 @@
                /blog/ablation-zone/hole_hu5ca122fbc12e048477b3e4e646571db0_126123_785a87c751b34a323d9b826a7587b75a.webp 400w,
                /blog/ablation-zone/hole_hu5ca122fbc12e048477b3e4e646571db0_126123_f161110c9794a3eb44143a32d56b43e3.webp 760w,
                /blog/ablation-zone/hole_hu5ca122fbc12e048477b3e4e646571db0_126123_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/ablation-zone/hole_hu5ca122fbc12e048477b3e4e646571db0_126123_785a87c751b34a323d9b826a7587b75a.webp&#34;
+               src=&#34;https://benhills.github.io/blog/ablation-zone/hole_hu5ca122fbc12e048477b3e4e646571db0_126123_785a87c751b34a323d9b826a7587b75a.webp&#34;
                width=&#34;708&#34;
                height=&#34;471&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

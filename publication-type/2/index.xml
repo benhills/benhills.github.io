@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Benjamin Hills</title>
-    <link>https://example.com/publication-type/2/</link>
-      <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://benhills.github.io/publication-type/2/</link>
+      <atom:link href="https://benhills.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://benhills.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>https://example.com/publication-type/2/</link>
+      <link>https://benhills.github.io/publication-type/2/</link>
     </image>
     
     <item>
       <title>A site for deep ice coring at West Hercules Dome: results from ground-based geophysics and modeling</title>
-      <link>https://example.com/publication/fudge2022/</link>
+      <link>https://benhills.github.io/publication/fudge2022/</link>
       <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/fudge2022/</guid>
+      <guid>https://benhills.github.io/publication/fudge2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geophysics and thermodynamics at South Pole Lake indicate stability and a regionally thawed bed</title>
-      <link>https://example.com/publication/hills2022/</link>
+      <link>https://benhills.github.io/publication/hills2022/</link>
       <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hills2022/</guid>
+      <guid>https://benhills.github.io/publication/hills2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Avoiding slush for hot-point drilling of glacier boreholes</title>
-      <link>https://example.com/publication/hills2021/</link>
+      <link>https://benhills.github.io/publication/hills2021/</link>
       <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hills2021/</guid>
+      <guid>https://benhills.github.io/publication/hills2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ImpDAR: an open-source impulse radar processor</title>
-      <link>https://example.com/publication/lilien2020/</link>
+      <link>https://benhills.github.io/publication/lilien2020/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/lilien2020/</guid>
+      <guid>https://benhills.github.io/publication/lilien2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A framework for attenuation method selection evaluated with ice-penetrating radar data at South Pole Lake</title>
-      <link>https://example.com/publication/hills2020/</link>
+      <link>https://benhills.github.io/publication/hills2020/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hills2020/</guid>
+      <guid>https://benhills.github.io/publication/hills2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Processes influencing heat transfer in the near-surface ice of Greenland&#39;s ablation zone</title>
-      <link>https://example.com/publication/hills2018/</link>
+      <link>https://benhills.github.io/publication/hills2018/</link>
       <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hills2018/</guid>
+      <guid>https://benhills.github.io/publication/hills2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measured horizontal temperature gradients constrain heat transfer mechanisms in Greenland ice</title>
-      <link>https://example.com/publication/hills2017/</link>
+      <link>https://benhills.github.io/publication/hills2017/</link>
       <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hills2017/</guid>
+      <guid>https://benhills.github.io/publication/hills2017/</guid>
       <description></description>
     </item>
     

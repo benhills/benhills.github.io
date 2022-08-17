@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Benjamin Hills</title>
-    <link>https://example.com/project/</link>
-      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://benhills.github.io/project/</link>
+      <atom:link href="https://benhills.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://benhills.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://example.com/project/</link>
+      <link>https://benhills.github.io/project/</link>
     </image>
     
     <item>
       <title>Ice Temperature</title>
-      <link>https://example.com/project/ice-temperature/</link>
+      <link>https://benhills.github.io/project/ice-temperature/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/ice-temperature/</guid>
+      <guid>https://benhills.github.io/project/ice-temperature/</guid>
       <description>&lt;p&gt;Temperatures of glacier ice range from ~ -60-0°C, which corresponds to a viscosity range over three orders of magnitude. Ice is generally warmest at the glacier bed, being heated by the energy flux from the solid Earth, and coldest near the glacier surface where ice is in equilibrium with the mean air temperature. Heat moves between those two boundaries through the processes of diffusion (spreading out) and advection (transport by flow of the ice itself). Because the length scale for thermal diffusion in ice is long, deviations in ice temperature can be preserved for thousands of years.&lt;/p&gt;
 
 
@@ -40,7 +40,7 @@
                /project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_beac3cb7e04314905bfd229bb30c6295.webp 400w,
                /project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_c204d6e1207e3840b8d602147ce60bdd.webp 760w,
                /project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_beac3cb7e04314905bfd229bb30c6295.webp&#34;
+               src=&#34;https://benhills.github.io/project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_beac3cb7e04314905bfd229bb30c6295.webp&#34;
                width=&#34;50%&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -70,7 +70,7 @@
                /project/ice-temperature/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_26b6469ab0c4684537525001fa150720.webp 400w,
                /project/ice-temperature/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_7750f8614013696d646369f2266b5f8e.webp 760w,
                /project/ice-temperature/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/ice-temperature/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_26b6469ab0c4684537525001fa150720.webp&#34;
+               src=&#34;https://benhills.github.io/project/ice-temperature/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_26b6469ab0c4684537525001fa150720.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -100,7 +100,7 @@
                /project/ice-temperature/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_6aa2b60f4c45dd69d3eca84dc021aa2b.webp 400w,
                /project/ice-temperature/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_864c74954cf23094136a41a43a2534b8.webp 760w,
                /project/ice-temperature/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/ice-temperature/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_6aa2b60f4c45dd69d3eca84dc021aa2b.webp&#34;
+               src=&#34;https://benhills.github.io/project/ice-temperature/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_6aa2b60f4c45dd69d3eca84dc021aa2b.webp&#34;
                width=&#34;760&#34;
                height=&#34;228&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -129,7 +129,7 @@
                /project/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_6b9e0b305d76b6655608848ad5185d75.webp 400w,
                /project/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_1cd70c154c5ac692a548edfe5199b10a.webp 760w,
                /project/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_6b9e0b305d76b6655608848ad5185d75.webp&#34;
+               src=&#34;https://benhills.github.io/project/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_6b9e0b305d76b6655608848ad5185d75.webp&#34;
                width=&#34;760&#34;
                height=&#34;338&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -166,7 +166,7 @@ $$
                /project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_b816286980811cb7f00d3d12057bf08e.webp 400w,
                /project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_71be4f756686cf692167855bcadead6e.webp 760w,
                /project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_b816286980811cb7f00d3d12057bf08e.webp&#34;
+               src=&#34;https://benhills.github.io/project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_b816286980811cb7f00d3d12057bf08e.webp&#34;
                width=&#34;50%&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -194,7 +194,7 @@ $$
                /project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_ad4c817c170e470f0fc2217f8a3cb659.webp 400w,
                /project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_49df8d0cae8791edbc7c138941f2bb6b.webp 760w,
                /project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_ad4c817c170e470f0fc2217f8a3cb659.webp&#34;
+               src=&#34;https://benhills.github.io/project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_ad4c817c170e470f0fc2217f8a3cb659.webp&#34;
                width=&#34;100%&#34;
                height=&#34;380&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -206,9 +206,9 @@ $$
     
     <item>
       <title>Crystal Fabric</title>
-      <link>https://example.com/project/cof/</link>
+      <link>https://benhills.github.io/project/cof/</link>
       <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/cof/</guid>
+      <guid>https://benhills.github.io/project/cof/</guid>
       <description>&lt;p&gt;Snow crystals are deposited at random orientation on the glacier surface. In other words, the &amp;lsquo;crystal orientation fabric&amp;rsquo; is initially isotropic (non-directional). As ice flows, crystal c-axes rotate away from the primary extensional axis and toward compression. In places where ice flow is consistent for hundreds or thousands of years, the bulk fabric becomes anisotropic. Single-pole fabrics with upward-pointing c-axes develop at an ice divide where flow is uniform vertical compression and outward extension (new snow continually added at the surface). In this case, the ice hardens in the vertical and preserves old ice near the bed. Horizontal girdle fabrics develop in an ice-stream shear margin where transverse shear dominates.&lt;/p&gt;
 
 
@@ -232,7 +232,7 @@ $$
                /project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_0c3363e589866221ac1a378345a36e65.webp 400w,
                /project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_1a2689c21f8e690fb2f7c86850a2710a.webp 760w,
                /project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_0c3363e589866221ac1a378345a36e65.webp&#34;
+               src=&#34;https://benhills.github.io/project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_0c3363e589866221ac1a378345a36e65.webp&#34;
                width=&#34;75%&#34;
                height=&#34;617&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -262,7 +262,7 @@ $$
                /project/cof/birefringence_hu6e33e20b3b03aa3d48feedb4a0dcce8d_193920_9241644c06a616b83aae48fd51e1bbe4.webp 400w,
                /project/cof/birefringence_hu6e33e20b3b03aa3d48feedb4a0dcce8d_193920_3d234796d5cc70d8c60c5430d68ef384.webp 760w,
                /project/cof/birefringence_hu6e33e20b3b03aa3d48feedb4a0dcce8d_193920_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/cof/birefringence_hu6e33e20b3b03aa3d48feedb4a0dcce8d_193920_9241644c06a616b83aae48fd51e1bbe4.webp&#34;
+               src=&#34;https://benhills.github.io/project/cof/birefringence_hu6e33e20b3b03aa3d48feedb4a0dcce8d_193920_9241644c06a616b83aae48fd51e1bbe4.webp&#34;
                width=&#34;50%&#34;
                height=&#34;653&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -287,7 +287,7 @@ $$
 &lt;figure  id=&#34;figure-four-different-polarizations-from-one-location-plotted-as-radargrams-over-a-range-of-azimuthal-orientations&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Four different polarizations from one location plotted as radargrams over a range of azimuthal orientations.&#34;
-           src=&#34;https://example.com/project/cof/Rotational_Offset.gif&#34;
+           src=&#34;https://benhills.github.io/project/cof/Rotational_Offset.gif&#34;
            loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Four different polarizations from one location plotted as radargrams over a range of azimuthal orientations.
@@ -315,7 +315,7 @@ $$
                /project/cof/hd-polarimetry_hu9b54af14dbdf0167da5f6a8bdcc332f4_301166_aa0c4c18d0213f6cb3d5b4bdd85b57e4.webp 400w,
                /project/cof/hd-polarimetry_hu9b54af14dbdf0167da5f6a8bdcc332f4_301166_a58119a63d34a86b15bca136386ca4b2.webp 760w,
                /project/cof/hd-polarimetry_hu9b54af14dbdf0167da5f6a8bdcc332f4_301166_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/cof/hd-polarimetry_hu9b54af14dbdf0167da5f6a8bdcc332f4_301166_aa0c4c18d0213f6cb3d5b4bdd85b57e4.webp&#34;
+               src=&#34;https://benhills.github.io/project/cof/hd-polarimetry_hu9b54af14dbdf0167da5f6a8bdcc332f4_301166_aa0c4c18d0213f6cb3d5b4bdd85b57e4.webp&#34;
                width=&#34;760&#34;
                height=&#34;594&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -325,9 +325,9 @@ $$
     
     <item>
       <title>Modeling</title>
-      <link>https://example.com/project/modeling/</link>
+      <link>https://benhills.github.io/project/modeling/</link>
       <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/modeling/</guid>
+      <guid>https://benhills.github.io/project/modeling/</guid>
       <description>&lt;h2 id=&#34;nondimensional-numbers&#34;&gt;Nondimensional Numbers&lt;/h2&gt;
 &lt;p&gt;Physics problems are commonly &amp;rsquo;nondimensionalized&amp;rsquo; in order to compare the scale of two processes. As an example, take the &lt;em&gt;Peclet number&lt;/em&gt; which compares thermal advection (convection) to thermal diffusion (conduction) in a moving fluid,&lt;/p&gt;
 
@@ -358,7 +358,7 @@ $$
                /project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_9b11f4ad80ca5f50f1b3f764d2856009.webp 400w,
                /project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_b795a6cf6c9752c39a6b3e9588234a63.webp 760w,
                /project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_9b11f4ad80ca5f50f1b3f764d2856009.webp&#34;
+               src=&#34;https://benhills.github.io/project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_9b11f4ad80ca5f50f1b3f764d2856009.webp&#34;
                width=&#34;75%&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -399,7 +399,7 @@ $$
                /project/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_d83ae8434dd6b869f8487e28e1451f7a.webp 400w,
                /project/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_790f7400d3c9615a1dd277f877ca5041.webp 760w,
                /project/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_d83ae8434dd6b869f8487e28e1451f7a.webp&#34;
+               src=&#34;https://benhills.github.io/project/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_d83ae8434dd6b869f8487e28e1451f7a.webp&#34;
                width=&#34;760&#34;
                height=&#34;543&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -441,7 +441,7 @@ $$
                /project/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_27ccbea9029f20bcb25906fe0561e879.webp 400w,
                /project/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_11c4dc78b44ff12257c6eb868fefc44c.webp 760w,
                /project/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_27ccbea9029f20bcb25906fe0561e879.webp&#34;
+               src=&#34;https://benhills.github.io/project/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_27ccbea9029f20bcb25906fe0561e879.webp&#34;
                width=&#34;50%&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -471,7 +471,7 @@ $$
                /project/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_2810eb026ca58d30c937634047eb80cb.webp 400w,
                /project/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_a1a255fe7efab1723ef8f44b8735cb0a.webp 760w,
                /project/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_2810eb026ca58d30c937634047eb80cb.webp&#34;
+               src=&#34;https://benhills.github.io/project/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_2810eb026ca58d30c937634047eb80cb.webp&#34;
                width=&#34;30%&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -501,7 +501,7 @@ $$
                /project/modeling/mpas-results_huf7dc2de23686106c1182ca27dd753964_501905_c60b4740e4290229f0f7a2e6790933bd.webp 400w,
                /project/modeling/mpas-results_huf7dc2de23686106c1182ca27dd753964_501905_37cf35d7018e5da1dfff008255ae9c09.webp 760w,
                /project/modeling/mpas-results_huf7dc2de23686106c1182ca27dd753964_501905_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/modeling/mpas-results_huf7dc2de23686106c1182ca27dd753964_501905_c60b4740e4290229f0f7a2e6790933bd.webp&#34;
+               src=&#34;https://benhills.github.io/project/modeling/mpas-results_huf7dc2de23686106c1182ca27dd753964_501905_c60b4740e4290229f0f7a2e6790933bd.webp&#34;
                width=&#34;760&#34;
                height=&#34;285&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -513,9 +513,9 @@ $$
     
     <item>
       <title>Geophysical Tools</title>
-      <link>https://example.com/project/geophysical-tools/</link>
+      <link>https://benhills.github.io/project/geophysical-tools/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/geophysical-tools/</guid>
+      <guid>https://benhills.github.io/project/geophysical-tools/</guid>
       <description>&lt;h2 id=&#34;impdar&#34;&gt;ImpDAR&lt;/h2&gt;
 &lt;p&gt;ImpDAR (Impulse raDAR) is a suite of processing and interpretation tools for impulse radar sounding, led by Dr. David Lilien. The software (&lt;a href=&#34;https://github.com/dlilien/ImpDAR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hosted on github&lt;/a&gt;) is targeted for ice-penetrating radar applications but usable for ground-penetrating radar and associated surveying applications as well. The core processing steps and general terminology come from a set of Matlab scripts developed at St. Olaf College under Dr. Robert Jacobel. Here, everything has been re-written in python and significant improvements to speed, readability, documentation, and interface have been made across the board. Additionally, ImpDAR is intended to be more flexible than other available options. Support is gradually being added for a variety of file formats. Currently, GSSI, PulseEKKO, GPRMax, SEGY, and several custom file formats are supported. Available processing steps include various filtering operations, trivial modifications such as restacking, cropping, or reversing data, geolocation-related operations like interpolating to constant trace spacing, and various migration routines.&lt;/p&gt;
 &lt;p&gt;In addition to processing, ImpDAR can also be used for interpreting radargrams (i.e. picking layers). Picking is generally an interactive process, so there is a GUI for carrying out the semi-automated picking procedure. Each picked layer is saved with variables for both the depth and picked power (i.e. the root-mean-square amplitude). The GUI also allows for basic processing steps, with the updates happening to the plot in real time to aid the picking process. We are also developing an automated picking algorithm that will ideally pick both internal layers and the bed reflector.&lt;/p&gt;
@@ -541,7 +541,7 @@ $$
                /project/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_35481a88845e3d15a3f736c9c58b3a8c.webp 400w,
                /project/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_d10d4dc68ef138846c8f52375b9f1a97.webp 760w,
                /project/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_35481a88845e3d15a3f736c9c58b3a8c.webp&#34;
+               src=&#34;https://benhills.github.io/project/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_35481a88845e3d15a3f736c9c58b3a8c.webp&#34;
                width=&#34;750&#34;
                height=&#34;750&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -570,7 +570,7 @@ $$
                /project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_5ca1cae0709d5aa41c41dbaf70d33a25.webp 400w,
                /project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_a9789dea67f75c3931103264078511bd.webp 760w,
                /project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_5ca1cae0709d5aa41c41dbaf70d33a25.webp&#34;
+               src=&#34;https://benhills.github.io/project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_5ca1cae0709d5aa41c41dbaf70d33a25.webp&#34;
                width=&#34;640&#34;
                height=&#34;480&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -600,7 +600,7 @@ $$
                /project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_0fb2735174228d3741b93be029d99bc7.webp 400w,
                /project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_21845feb0c7c74ae8364d4b510c9add4.webp 760w,
                /project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_0fb2735174228d3741b93be029d99bc7.webp&#34;
+               src=&#34;https://benhills.github.io/project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_0fb2735174228d3741b93be029d99bc7.webp&#34;
                width=&#34;760&#34;
                height=&#34;380&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -628,7 +628,7 @@ $$
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;https://example.com/project/geophysical-tools/Ex.gif&#34;
+           src=&#34;https://benhills.github.io/project/geophysical-tools/Ex.gif&#34;
            loading=&#34;lazy&#34; data-zoomable width=&#34;50%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 </description>
@@ -636,12 +636,12 @@ $$
     
     <item>
       <title>Alpine Glaciology</title>
-      <link>https://example.com/project/alpine-glaciology/</link>
+      <link>https://benhills.github.io/project/alpine-glaciology/</link>
       <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/alpine-glaciology/</guid>
+      <guid>https://benhills.github.io/project/alpine-glaciology/</guid>
       <description>&lt;p&gt;Much of the original theory in glaciology came from work on alpine glaciers, mostly in Europe. This is partially because of their relative proximity to human civilizations, but also becuase until recently we thought that the polar ice sheets operated on millenial timescales, too long to be of immenent concern. It was only around the turn of the century that the glaciological community started to recognize key instabilities within the ice sheets that can be triggered much faster, on the order of decades to centuries. While alpine glaciers have since gotten less attention in terms of sea-level focused research publications and grant funding, they are still critical for water supply, temperature, and chemistry, especially in alpine environments.&lt;/p&gt;
 &lt;h2 id=&#34;ice-dynamics&#34;&gt;Ice Dynamics&lt;/h2&gt;
-&lt;p&gt;We study alpine glacier dynamics using various tools and techniques. As an example, we use a ground-based radar interferometer at the north face of Mt. Baker. We repeatedly scan the mountain face every 2 minutes for several days and by comparing the phase return between scans can tell how objects in the field of view are moving. This is much like the ApRES measurement described in &lt;a href=&#34;https://example.com/project/geophysical-tools/&#34;&gt;Geophysical Tools&lt;/a&gt; but many different reflections from across a range of azimuths.&lt;/p&gt;
+&lt;p&gt;We study alpine glacier dynamics using various tools and techniques. As an example, we use a ground-based radar interferometer at the north face of Mt. Baker. We repeatedly scan the mountain face every 2 minutes for several days and by comparing the phase return between scans can tell how objects in the field of view are moving. This is much like the ApRES measurement described in &lt;a href=&#34;https://benhills.github.io/project/geophysical-tools/&#34;&gt;Geophysical Tools&lt;/a&gt; but many different reflections from across a range of azimuths.&lt;/p&gt;
 
 
 
@@ -664,7 +664,7 @@ $$
                /project/alpine-glaciology/baker_hu284d939a3cc125d20c5fd77c3e290803_456965_827fc8f41bf89976f4976ed5e44643c0.webp 400w,
                /project/alpine-glaciology/baker_hu284d939a3cc125d20c5fd77c3e290803_456965_a47e3ade094309f58f304ad911e78f18.webp 760w,
                /project/alpine-glaciology/baker_hu284d939a3cc125d20c5fd77c3e290803_456965_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/alpine-glaciology/baker_hu284d939a3cc125d20c5fd77c3e290803_456965_827fc8f41bf89976f4976ed5e44643c0.webp&#34;
+               src=&#34;https://benhills.github.io/project/alpine-glaciology/baker_hu284d939a3cc125d20c5fd77c3e290803_456965_827fc8f41bf89976f4976ed5e44643c0.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -692,7 +692,7 @@ $$
                /project/alpine-glaciology/waddington_surveying_hue0bab21f1beaed078012c0d9ee9e2341_6008249_f715a590510380780e8de29af359a301.webp 400w,
                /project/alpine-glaciology/waddington_surveying_hue0bab21f1beaed078012c0d9ee9e2341_6008249_8535491999195f0719e48c6861779ccd.webp 760w,
                /project/alpine-glaciology/waddington_surveying_hue0bab21f1beaed078012c0d9ee9e2341_6008249_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/alpine-glaciology/waddington_surveying_hue0bab21f1beaed078012c0d9ee9e2341_6008249_f715a590510380780e8de29af359a301.webp&#34;
+               src=&#34;https://benhills.github.io/project/alpine-glaciology/waddington_surveying_hue0bab21f1beaed078012c0d9ee9e2341_6008249_f715a590510380780e8de29af359a301.webp&#34;
                width=&#34;760&#34;
                height=&#34;346&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -722,7 +722,7 @@ $$
                /project/alpine-glaciology/snow-pit_hufbb8dc8af21203b24f648026c9457cdf_108650_6b0ea882f61214c227913e302f30bdbd.webp 400w,
                /project/alpine-glaciology/snow-pit_hufbb8dc8af21203b24f648026c9457cdf_108650_5c47e78f58e87dac9c35ebe8f03508e7.webp 760w,
                /project/alpine-glaciology/snow-pit_hufbb8dc8af21203b24f648026c9457cdf_108650_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/alpine-glaciology/snow-pit_hufbb8dc8af21203b24f648026c9457cdf_108650_6b0ea882f61214c227913e302f30bdbd.webp&#34;
+               src=&#34;https://benhills.github.io/project/alpine-glaciology/snow-pit_hufbb8dc8af21203b24f648026c9457cdf_108650_6b0ea882f61214c227913e302f30bdbd.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -749,7 +749,7 @@ $$
                /project/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_ca42cb50c7145ad115977f5be3c47949.webp 400w,
                /project/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_2e41a6b6315ece17bfac126de900ce03.webp 760w,
                /project/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_ca42cb50c7145ad115977f5be3c47949.webp&#34;
+               src=&#34;https://benhills.github.io/project/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_ca42cb50c7145ad115977f5be3c47949.webp&#34;
                width=&#34;760&#34;
                height=&#34;574&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -777,7 +777,7 @@ $$
                /project/alpine-glaciology/SCG_Panel_Map_hu1c16bbbe2e5dc55abb81abf305f056cd_1802779_0042bc5172d2e3a3539b00c912b00ade.webp 400w,
                /project/alpine-glaciology/SCG_Panel_Map_hu1c16bbbe2e5dc55abb81abf305f056cd_1802779_64d5a90e73a7ea91598fea08aedb8a53.webp 760w,
                /project/alpine-glaciology/SCG_Panel_Map_hu1c16bbbe2e5dc55abb81abf305f056cd_1802779_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/alpine-glaciology/SCG_Panel_Map_hu1c16bbbe2e5dc55abb81abf305f056cd_1802779_0042bc5172d2e3a3539b00c912b00ade.webp&#34;
+               src=&#34;https://benhills.github.io/project/alpine-glaciology/SCG_Panel_Map_hu1c16bbbe2e5dc55abb81abf305f056cd_1802779_0042bc5172d2e3a3539b00c912b00ade.webp&#34;
                width=&#34;730&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -787,9 +787,9 @@ $$
     
     <item>
       <title>Drilling in Ice</title>
-      <link>https://example.com/project/drilling/</link>
+      <link>https://benhills.github.io/project/drilling/</link>
       <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/drilling/</guid>
+      <guid>https://benhills.github.io/project/drilling/</guid>
       <description>&lt;h2 id=&#34;ice-core-drilling&#34;&gt;Ice-Core Drilling&lt;/h2&gt;
 &lt;p&gt;Much of our work aids in site selection for ice cores. We use geophysical tools to survey the ice geometry and stratigraphy. We can estimate ice age, ice temperature, past flow patterns, etc. With this information, paleoclimatologists are able to make an informed desicion on specifically where to drill an ice core in order to retrieve ice that will answer their pending quesitons about the ancient atmosphere and climate. Hercules Dome is currently our primary project. The site is close enough to West Antarctica that it should record a climate signal in the case of West Antarctic Ice Sheet collapse, but far enough that ice would not have melted during that time.&lt;/p&gt;
 
@@ -814,7 +814,7 @@ $$
                /project/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_640226aebd920645c55f1aeb9346228e.webp 400w,
                /project/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_b728b0248b0ee1e1314e0f64d79e302e.webp 760w,
                /project/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_640226aebd920645c55f1aeb9346228e.webp&#34;
+               src=&#34;https://benhills.github.io/project/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_640226aebd920645c55f1aeb9346228e.webp&#34;
                width=&#34;100%&#34;
                height=&#34;649&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -843,7 +843,7 @@ $$
                /project/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_9b14a2a2e64cbbf4be7df05c0acd9c0c.webp 400w,
                /project/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_332b82a3bf72958c7c347e5851af4ec9.webp 760w,
                /project/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_9b14a2a2e64cbbf4be7df05c0acd9c0c.webp&#34;
+               src=&#34;https://benhills.github.io/project/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_9b14a2a2e64cbbf4be7df05c0acd9c0c.webp&#34;
                width=&#34;100%&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -872,7 +872,7 @@ $$
                /project/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_ab400531032e7ad3e223443745b5255b.webp 400w,
                /project/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_c08be67297c1126089ec8cdef45a4920.webp 760w,
                /project/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_ab400531032e7ad3e223443745b5255b.webp&#34;
+               src=&#34;https://benhills.github.io/project/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_ab400531032e7ad3e223443745b5255b.webp&#34;
                width=&#34;100%&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -903,7 +903,7 @@ $$
                /project/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_267847a81154252d6e58c84876bf99e8.webp 400w,
                /project/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_652b6a1d09add1d3f13b12dfa4f9a24b.webp 760w,
                /project/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_267847a81154252d6e58c84876bf99e8.webp&#34;
+               src=&#34;https://benhills.github.io/project/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_267847a81154252d6e58c84876bf99e8.webp&#34;
                width=&#34;428&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

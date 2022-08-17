@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benjamin Hills</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://benhills.github.io/</link>
+      <atom:link href="https://benhills.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin Hills</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://benhills.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Benjamin Hills</title>
-      <link>https://example.com/</link>
+      <link>https://benhills.github.io/</link>
     </image>
     
     <item>
       <title>What can the ice-bed interface tell us? Insights into old ice, meltwater, bedrock geology, and ice-sheet history</title>
-      <link>https://example.com/publication/walcott2022/</link>
+      <link>https://benhills.github.io/publication/walcott2022/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/walcott2022/</guid>
+      <guid>https://benhills.github.io/publication/walcott2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Radar attenuation demonstrates advective cooling in the Siple Coast ice streams</title>
-      <link>https://example.com/publication/hills2022b/</link>
+      <link>https://benhills.github.io/publication/hills2022b/</link>
       <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hills2022b/</guid>
+      <guid>https://benhills.github.io/publication/hills2022b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scars of tectonic extension promote ice-sheet nucleation from Hercules Dome, West Antarctica</title>
-      <link>https://example.com/publication/hoffman2022/</link>
+      <link>https://benhills.github.io/publication/hoffman2022/</link>
       <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hoffman2022/</guid>
+      <guid>https://benhills.github.io/publication/hoffman2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A site for deep ice coring at West Hercules Dome: results from ground-based geophysics and modeling</title>
-      <link>https://example.com/publication/fudge2022/</link>
+      <link>https://benhills.github.io/publication/fudge2022/</link>
       <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/fudge2022/</guid>
+      <guid>https://benhills.github.io/publication/fudge2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jupyter Boot Camp</title>
-      <link>https://example.com/teaching/coding-boot-camp/</link>
+      <link>https://benhills.github.io/teaching/coding-boot-camp/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/coding-boot-camp/</guid>
+      <guid>https://benhills.github.io/teaching/coding-boot-camp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geophysics and thermodynamics at South Pole Lake indicate stability and a regionally thawed bed</title>
-      <link>https://example.com/publication/hills2022/</link>
+      <link>https://benhills.github.io/publication/hills2022/</link>
       <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hills2022/</guid>
+      <guid>https://benhills.github.io/publication/hills2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alpine Glaciers</title>
-      <link>https://example.com/photo/alpine/</link>
+      <link>https://benhills.github.io/photo/alpine/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/photo/alpine/</guid>
+      <guid>https://benhills.github.io/photo/alpine/</guid>
       <description>
 
 
@@ -86,8 +86,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/baker.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/alpine/baker_hu284d939a3cc125d20c5fd77c3e290803_430612_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;baker.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://benhills.github.io/media/albums/alpine/baker.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/alpine/baker_hu284d939a3cc125d20c5fd77c3e290803_430612_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;baker.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -95,8 +95,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/dragging_radar.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/alpine/dragging_radar_hud8c5d75f0c55580faccd25ca871cf326_3250552_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dragging_radar.jpeg&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://benhills.github.io/media/albums/alpine/dragging_radar.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/alpine/dragging_radar_hud8c5d75f0c55580faccd25ca871cf326_3250552_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dragging_radar.jpeg&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -104,8 +104,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/DSC_0032.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/alpine/DSC_0032_hu284d939a3cc125d20c5fd77c3e290803_930204_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0032.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://benhills.github.io/media/albums/alpine/DSC_0032.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/alpine/DSC_0032_hu284d939a3cc125d20c5fd77c3e290803_930204_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0032.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -113,8 +113,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/DSC_0243.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/alpine/DSC_0243_hu284d939a3cc125d20c5fd77c3e290803_431588_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0243.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://benhills.github.io/media/albums/alpine/DSC_0243.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/alpine/DSC_0243_hu284d939a3cc125d20c5fd77c3e290803_431588_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0243.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -122,8 +122,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/DSC_0337.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/alpine/DSC_0337_hu284d939a3cc125d20c5fd77c3e290803_422634_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0337.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://benhills.github.io/media/albums/alpine/DSC_0337.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/alpine/DSC_0337_hu284d939a3cc125d20c5fd77c3e290803_422634_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0337.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -131,8 +131,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/DSC_0339.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/alpine/DSC_0339_hu284d939a3cc125d20c5fd77c3e290803_567757_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0339.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://benhills.github.io/media/albums/alpine/DSC_0339.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/alpine/DSC_0339_hu284d939a3cc125d20c5fd77c3e290803_567757_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0339.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -140,8 +140,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/DSC_0474.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/alpine/DSC_0474_hu284d939a3cc125d20c5fd77c3e290803_480378_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0474.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://benhills.github.io/media/albums/alpine/DSC_0474.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/alpine/DSC_0474_hu284d939a3cc125d20c5fd77c3e290803_480378_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0474.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -149,8 +149,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/Ice%20Cave4.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/alpine/Ice%20Cave4_hu284d939a3cc125d20c5fd77c3e290803_375833_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Ice Cave4.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://benhills.github.io/media/albums/alpine/Ice%20Cave4.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/alpine/Ice%20Cave4_hu284d939a3cc125d20c5fd77c3e290803_375833_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Ice Cave4.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -158,8 +158,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/icefall.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/alpine/icefall_hu284d939a3cc125d20c5fd77c3e290803_522987_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;icefall.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://benhills.github.io/media/albums/alpine/icefall.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/alpine/icefall_hu284d939a3cc125d20c5fd77c3e290803_522987_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;icefall.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -167,8 +167,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/kaskawulsch.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/alpine/kaskawulsch_hu284d939a3cc125d20c5fd77c3e290803_688142_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;kaskawulsch.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://benhills.github.io/media/albums/alpine/kaskawulsch.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/alpine/kaskawulsch_hu284d939a3cc125d20c5fd77c3e290803_688142_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;kaskawulsch.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -176,8 +176,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/mendenhall.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/alpine/mendenhall_hu284d939a3cc125d20c5fd77c3e290803_592890_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;mendenhall.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://benhills.github.io/media/albums/alpine/mendenhall.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/alpine/mendenhall_hu284d939a3cc125d20c5fd77c3e290803_592890_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;mendenhall.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -185,8 +185,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/ogives-2.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/alpine/ogives-2_hu284d939a3cc125d20c5fd77c3e290803_788553_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;ogives-2.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://benhills.github.io/media/albums/alpine/ogives-2.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/alpine/ogives-2_hu284d939a3cc125d20c5fd77c3e290803_788553_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;ogives-2.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -194,8 +194,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/ogives.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/alpine/ogives_hu284d939a3cc125d20c5fd77c3e290803_476285_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;ogives.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://benhills.github.io/media/albums/alpine/ogives.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/alpine/ogives_hu284d939a3cc125d20c5fd77c3e290803_476285_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;ogives.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -203,8 +203,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/PXL_20220722_213743594.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/alpine/PXL_20220722_213743594_hu486fe30a257be559e7b46ffb96bff38f_4876110_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;PXL_20220722_213743594.jpeg&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://benhills.github.io/media/albums/alpine/PXL_20220722_213743594.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/alpine/PXL_20220722_213743594_hu486fe30a257be559e7b46ffb96bff38f_4876110_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;PXL_20220722_213743594.jpeg&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -212,8 +212,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/PXL_20220724_034751945.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/alpine/PXL_20220724_034751945_hu367b37d2fb232d694ba526a301984f82_3958247_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;PXL_20220724_034751945.jpeg&#34; width=&#34;252&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://benhills.github.io/media/albums/alpine/PXL_20220724_034751945.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/alpine/PXL_20220724_034751945_hu367b37d2fb232d694ba526a301984f82_3958247_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;PXL_20220724_034751945.jpeg&#34; width=&#34;252&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -221,8 +221,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/PXL_20220724_204905969.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/alpine/PXL_20220724_204905969_hue15965abbe985161c4d4551363ed94bb_2588177_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;PXL_20220724_204905969.jpeg&#34; width=&#34;252&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://benhills.github.io/media/albums/alpine/PXL_20220724_204905969.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/alpine/PXL_20220724_204905969_hue15965abbe985161c4d4551363ed94bb_2588177_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;PXL_20220724_204905969.jpeg&#34; width=&#34;252&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -230,8 +230,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/PXL_20220724_223333997.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/alpine/PXL_20220724_223333997_huc2ab666fd16ff2dc17876d4ec2b7f8bd_3350551_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;PXL_20220724_223333997.jpeg&#34; width=&#34;252&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://benhills.github.io/media/albums/alpine/PXL_20220724_223333997.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/alpine/PXL_20220724_223333997_huc2ab666fd16ff2dc17876d4ec2b7f8bd_3350551_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;PXL_20220724_223333997.jpeg&#34; width=&#34;252&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -239,8 +239,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://example.com/media/albums/alpine/PXL_20220725_145551185_2.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/alpine/PXL_20220725_145551185_2_huc7a4cb3d836e1460d26daf43ea5af1e8_2080845_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;PXL_20220725_145551185_2.jpeg&#34; width=&#34;277&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-alpine&#34; href=&#34;https://benhills.github.io/media/albums/alpine/PXL_20220725_145551185_2.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/alpine/PXL_20220725_145551185_2_huc7a4cb3d836e1460d26daf43ea5af1e8_2080845_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;PXL_20220725_145551185_2.jpeg&#34; width=&#34;277&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
 
@@ -250,9 +250,9 @@
     
     <item>
       <title>Antarctica</title>
-      <link>https://example.com/photo/antarctica/</link>
+      <link>https://benhills.github.io/photo/antarctica/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/photo/antarctica/</guid>
+      <guid>https://benhills.github.io/photo/antarctica/</guid>
       <description>
 
 
@@ -274,8 +274,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/beardmore.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/antarctica/beardmore_hu284d939a3cc125d20c5fd77c3e290803_320147_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;beardmore.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://benhills.github.io/media/albums/antarctica/beardmore.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/antarctica/beardmore_hu284d939a3cc125d20c5fd77c3e290803_320147_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;beardmore.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -283,8 +283,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/delta.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/antarctica/delta_hu284d939a3cc125d20c5fd77c3e290803_407054_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;delta.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://benhills.github.io/media/albums/antarctica/delta.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/antarctica/delta_hu284d939a3cc125d20c5fd77c3e290803_407054_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;delta.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -292,8 +292,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/dorm.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/antarctica/dorm_hu284d939a3cc125d20c5fd77c3e290803_444127_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dorm.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://benhills.github.io/media/albums/antarctica/dorm.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/antarctica/dorm_hu284d939a3cc125d20c5fd77c3e290803_444127_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dorm.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -301,8 +301,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/DSC_0023.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/antarctica/DSC_0023_hu855bbe0a9c47ac557e5b09db74fa3b06_959978_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0023.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0023.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0023_hu855bbe0a9c47ac557e5b09db74fa3b06_959978_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0023.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -310,8 +310,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/DSC_0031.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/antarctica/DSC_0031_hu284d939a3cc125d20c5fd77c3e290803_1397558_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0031.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0031.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0031_hu284d939a3cc125d20c5fd77c3e290803_1397558_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0031.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -319,8 +319,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/DSC_0050.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/antarctica/DSC_0050_hu284d939a3cc125d20c5fd77c3e290803_766531_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0050.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0050.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0050_hu284d939a3cc125d20c5fd77c3e290803_766531_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0050.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -328,8 +328,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/DSC_0066.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/antarctica/DSC_0066_hu284d939a3cc125d20c5fd77c3e290803_526101_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0066.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0066.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0066_hu284d939a3cc125d20c5fd77c3e290803_526101_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0066.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -337,8 +337,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/DSC_0079.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/antarctica/DSC_0079_hu284d939a3cc125d20c5fd77c3e290803_314480_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0079.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0079.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0079_hu284d939a3cc125d20c5fd77c3e290803_314480_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0079.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -346,8 +346,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/DSC_0108.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/antarctica/DSC_0108_hu284d939a3cc125d20c5fd77c3e290803_272922_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0108.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0108.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0108_hu284d939a3cc125d20c5fd77c3e290803_272922_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0108.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -355,8 +355,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/DSC_0191.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/antarctica/DSC_0191_hu284d939a3cc125d20c5fd77c3e290803_323360_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0191.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0191.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0191_hu284d939a3cc125d20c5fd77c3e290803_323360_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0191.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -364,8 +364,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/DSC_0215.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/antarctica/DSC_0215_hu284d939a3cc125d20c5fd77c3e290803_579305_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0215.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0215.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0215_hu284d939a3cc125d20c5fd77c3e290803_579305_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0215.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -373,8 +373,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/DSC_0274.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/antarctica/DSC_0274_hu284d939a3cc125d20c5fd77c3e290803_299003_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0274.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0274.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0274_hu284d939a3cc125d20c5fd77c3e290803_299003_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0274.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -382,8 +382,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/DSC_0297.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/antarctica/DSC_0297_hu284d939a3cc125d20c5fd77c3e290803_351573_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0297.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0297.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0297_hu284d939a3cc125d20c5fd77c3e290803_351573_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0297.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -391,8 +391,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/DSC_0540.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/antarctica/DSC_0540_hu284d939a3cc125d20c5fd77c3e290803_223395_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0540.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0540.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0540_hu284d939a3cc125d20c5fd77c3e290803_223395_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0540.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -400,8 +400,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/DSC_0564.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/antarctica/DSC_0564_hu284d939a3cc125d20c5fd77c3e290803_156514_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0564.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0564.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0564_hu284d939a3cc125d20c5fd77c3e290803_156514_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0564.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -409,8 +409,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/DSC_0598.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/antarctica/DSC_0598_hu284d939a3cc125d20c5fd77c3e290803_519079_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0598.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0598.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/antarctica/DSC_0598_hu284d939a3cc125d20c5fd77c3e290803_519079_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0598.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -418,8 +418,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/erebus-2.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/antarctica/erebus-2_hu284d939a3cc125d20c5fd77c3e290803_416354_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;erebus-2.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://benhills.github.io/media/albums/antarctica/erebus-2.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/antarctica/erebus-2_hu284d939a3cc125d20c5fd77c3e290803_416354_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;erebus-2.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -427,8 +427,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/erebus.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/antarctica/erebus_hu284d939a3cc125d20c5fd77c3e290803_395611_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;erebus.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://benhills.github.io/media/albums/antarctica/erebus.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/antarctica/erebus_hu284d939a3cc125d20c5fd77c3e290803_395611_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;erebus.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -436,8 +436,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/Pole.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/antarctica/Pole_hu284d939a3cc125d20c5fd77c3e290803_561402_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Pole.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://benhills.github.io/media/albums/antarctica/Pole.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/antarctica/Pole_hu284d939a3cc125d20c5fd77c3e290803_561402_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Pole.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -445,8 +445,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/royal-society.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/antarctica/royal-society_hu284d939a3cc125d20c5fd77c3e290803_538251_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;royal-society.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://benhills.github.io/media/albums/antarctica/royal-society.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/antarctica/royal-society_hu284d939a3cc125d20c5fd77c3e290803_538251_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;royal-society.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -454,8 +454,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://example.com/media/albums/antarctica/Xmas_pole.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/antarctica/Xmas_pole_hu284d939a3cc125d20c5fd77c3e290803_753548_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Xmas_pole.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-antarctica&#34; href=&#34;https://benhills.github.io/media/albums/antarctica/Xmas_pole.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/antarctica/Xmas_pole_hu284d939a3cc125d20c5fd77c3e290803_753548_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Xmas_pole.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
 
@@ -465,25 +465,25 @@
     
     <item>
       <title>Climate Modeling</title>
-      <link>https://example.com/teaching/climate/</link>
+      <link>https://benhills.github.io/teaching/climate/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/climate/</guid>
+      <guid>https://benhills.github.io/teaching/climate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Glacier Thermodynamics</title>
-      <link>https://example.com/teaching/thermo/</link>
+      <link>https://benhills.github.io/teaching/thermo/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/thermo/</guid>
+      <guid>https://benhills.github.io/teaching/thermo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hercules Dome</title>
-      <link>https://example.com/photo/herc-dome/</link>
+      <link>https://benhills.github.io/photo/herc-dome/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/photo/herc-dome/</guid>
+      <guid>https://benhills.github.io/photo/herc-dome/</guid>
       <description>
 
 
@@ -505,8 +505,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/19700103_042818.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/herc-dome/19700103_042818_hu3c9b56034fbbcaba96b73160f93e17d8_436340_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;19700103_042818.jpeg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://benhills.github.io/media/albums/herc-dome/19700103_042818.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/herc-dome/19700103_042818_hu3c9b56034fbbcaba96b73160f93e17d8_436340_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;19700103_042818.jpeg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -514,8 +514,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/90296730_10158365520016180_3877880986070941696_n.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/herc-dome/90296730_10158365520016180_3877880986070941696_n_hue776a334b902d7828bf5c7a8aa11ccb3_478774_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;90296730_10158365520016180_3877880986070941696_n.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://benhills.github.io/media/albums/herc-dome/90296730_10158365520016180_3877880986070941696_n.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/herc-dome/90296730_10158365520016180_3877880986070941696_n_hue776a334b902d7828bf5c7a8aa11ccb3_478774_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;90296730_10158365520016180_3877880986070941696_n.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -523,8 +523,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/90966299_10158365519386180_6265774758449643520_n.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/herc-dome/90966299_10158365519386180_6265774758449643520_n_hu27f7dc34c9db8fd2b063f3fba6be9864_333834_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;90966299_10158365519386180_6265774758449643520_n.jpeg&#34; width=&#34;142&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://benhills.github.io/media/albums/herc-dome/90966299_10158365519386180_6265774758449643520_n.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/herc-dome/90966299_10158365519386180_6265774758449643520_n_hu27f7dc34c9db8fd2b063f3fba6be9864_333834_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;90966299_10158365519386180_6265774758449643520_n.jpeg&#34; width=&#34;142&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -532,8 +532,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/annika-pres_hu13302735ebbf5f45f6b9c1477bda07d6_2075478_1200x1200_fit_q75_h2_lanczos.webp&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/herc-dome/annika-pres_hucf0adf9a1741089d7f632eb07a657bd7_41218_a4ad128147252047a33cee41435ea67b.webp&#34; loading=&#34;lazy&#34; alt=&#34;annika-pres_hu13302735ebbf5f45f6b9c1477bda07d6_2075478_1200x1200_fit_q75_h2_lanczos.webp&#34; width=&#34;316&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://benhills.github.io/media/albums/herc-dome/annika-pres_hu13302735ebbf5f45f6b9c1477bda07d6_2075478_1200x1200_fit_q75_h2_lanczos.webp&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/herc-dome/annika-pres_hucf0adf9a1741089d7f632eb07a657bd7_41218_a4ad128147252047a33cee41435ea67b.webp&#34; loading=&#34;lazy&#34; alt=&#34;annika-pres_hu13302735ebbf5f45f6b9c1477bda07d6_2075478_1200x1200_fit_q75_h2_lanczos.webp&#34; width=&#34;316&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -541,8 +541,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/ben_at_hd_hue4873627a0a19c356457209492e55d2d_1040915_1200x1200_fit_q75_h2_lanczos_3.webp&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/herc-dome/ben_at_hd_hu1b9822f4ba902a2b4060f77007e3fc12_63864_b29817913d9b4558292dbe850faafc04.webp&#34; loading=&#34;lazy&#34; alt=&#34;ben_at_hd_hue4873627a0a19c356457209492e55d2d_1040915_1200x1200_fit_q75_h2_lanczos_3.webp&#34; width=&#34;124&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://benhills.github.io/media/albums/herc-dome/ben_at_hd_hue4873627a0a19c356457209492e55d2d_1040915_1200x1200_fit_q75_h2_lanczos_3.webp&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/herc-dome/ben_at_hd_hu1b9822f4ba902a2b4060f77007e3fc12_63864_b29817913d9b4558292dbe850faafc04.webp&#34; loading=&#34;lazy&#34; alt=&#34;ben_at_hd_hue4873627a0a19c356457209492e55d2d_1040915_1200x1200_fit_q75_h2_lanczos_3.webp&#34; width=&#34;124&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -550,8 +550,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/DSC_0232.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/herc-dome/DSC_0232_hu284d939a3cc125d20c5fd77c3e290803_198027_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0232.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://benhills.github.io/media/albums/herc-dome/DSC_0232.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/herc-dome/DSC_0232_hu284d939a3cc125d20c5fd77c3e290803_198027_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0232.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -559,8 +559,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/DSC_0246.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/herc-dome/DSC_0246_hu284d939a3cc125d20c5fd77c3e290803_475090_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0246.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://benhills.github.io/media/albums/herc-dome/DSC_0246.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/herc-dome/DSC_0246_hu284d939a3cc125d20c5fd77c3e290803_475090_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0246.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -568,8 +568,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/DSC_0309.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/herc-dome/DSC_0309_hu284d939a3cc125d20c5fd77c3e290803_288494_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0309.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://benhills.github.io/media/albums/herc-dome/DSC_0309.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/herc-dome/DSC_0309_hu284d939a3cc125d20c5fd77c3e290803_288494_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0309.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -577,8 +577,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/DSC_0489.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/herc-dome/DSC_0489_hu284d939a3cc125d20c5fd77c3e290803_225033_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0489.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://benhills.github.io/media/albums/herc-dome/DSC_0489.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/herc-dome/DSC_0489_hu284d939a3cc125d20c5fd77c3e290803_225033_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0489.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -586,8 +586,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/DSC_0498.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/herc-dome/DSC_0498_hu284d939a3cc125d20c5fd77c3e290803_232141_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0498.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://benhills.github.io/media/albums/herc-dome/DSC_0498.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/herc-dome/DSC_0498_hu284d939a3cc125d20c5fd77c3e290803_232141_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0498.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -595,8 +595,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/radar-shelter.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/herc-dome/radar-shelter_hu284d939a3cc125d20c5fd77c3e290803_434786_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;radar-shelter.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://benhills.github.io/media/albums/herc-dome/radar-shelter.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/herc-dome/radar-shelter_hu284d939a3cc125d20c5fd77c3e290803_434786_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;radar-shelter.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -604,8 +604,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://example.com/media/albums/herc-dome/tiny-driver.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/herc-dome/tiny-driver_hu7af45c05e7eaab656aeab8d5fe153c59_136084_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tiny-driver.jpeg&#34; width=&#34;127&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-herc-dome&#34; href=&#34;https://benhills.github.io/media/albums/herc-dome/tiny-driver.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/herc-dome/tiny-driver_hu7af45c05e7eaab656aeab8d5fe153c59_136084_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tiny-driver.jpeg&#34; width=&#34;127&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
 
@@ -615,9 +615,9 @@
     
     <item>
       <title>Ice Temperature</title>
-      <link>https://example.com/project/ice-temperature/</link>
+      <link>https://benhills.github.io/project/ice-temperature/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/ice-temperature/</guid>
+      <guid>https://benhills.github.io/project/ice-temperature/</guid>
       <description>&lt;p&gt;Temperatures of glacier ice range from ~ -60-0°C, which corresponds to a viscosity range over three orders of magnitude. Ice is generally warmest at the glacier bed, being heated by the energy flux from the solid Earth, and coldest near the glacier surface where ice is in equilibrium with the mean air temperature. Heat moves between those two boundaries through the processes of diffusion (spreading out) and advection (transport by flow of the ice itself). Because the length scale for thermal diffusion in ice is long, deviations in ice temperature can be preserved for thousands of years.&lt;/p&gt;
 
 
@@ -641,7 +641,7 @@
                /project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_beac3cb7e04314905bfd229bb30c6295.webp 400w,
                /project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_c204d6e1207e3840b8d602147ce60bdd.webp 760w,
                /project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_beac3cb7e04314905bfd229bb30c6295.webp&#34;
+               src=&#34;https://benhills.github.io/project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_beac3cb7e04314905bfd229bb30c6295.webp&#34;
                width=&#34;50%&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -671,7 +671,7 @@
                /project/ice-temperature/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_26b6469ab0c4684537525001fa150720.webp 400w,
                /project/ice-temperature/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_7750f8614013696d646369f2266b5f8e.webp 760w,
                /project/ice-temperature/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/ice-temperature/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_26b6469ab0c4684537525001fa150720.webp&#34;
+               src=&#34;https://benhills.github.io/project/ice-temperature/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_26b6469ab0c4684537525001fa150720.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -701,7 +701,7 @@
                /project/ice-temperature/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_6aa2b60f4c45dd69d3eca84dc021aa2b.webp 400w,
                /project/ice-temperature/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_864c74954cf23094136a41a43a2534b8.webp 760w,
                /project/ice-temperature/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/ice-temperature/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_6aa2b60f4c45dd69d3eca84dc021aa2b.webp&#34;
+               src=&#34;https://benhills.github.io/project/ice-temperature/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_6aa2b60f4c45dd69d3eca84dc021aa2b.webp&#34;
                width=&#34;760&#34;
                height=&#34;228&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -730,7 +730,7 @@
                /project/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_6b9e0b305d76b6655608848ad5185d75.webp 400w,
                /project/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_1cd70c154c5ac692a548edfe5199b10a.webp 760w,
                /project/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_6b9e0b305d76b6655608848ad5185d75.webp&#34;
+               src=&#34;https://benhills.github.io/project/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_6b9e0b305d76b6655608848ad5185d75.webp&#34;
                width=&#34;760&#34;
                height=&#34;338&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -767,7 +767,7 @@ $$
                /project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_b816286980811cb7f00d3d12057bf08e.webp 400w,
                /project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_71be4f756686cf692167855bcadead6e.webp 760w,
                /project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_b816286980811cb7f00d3d12057bf08e.webp&#34;
+               src=&#34;https://benhills.github.io/project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_b816286980811cb7f00d3d12057bf08e.webp&#34;
                width=&#34;50%&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -795,7 +795,7 @@ $$
                /project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_ad4c817c170e470f0fc2217f8a3cb659.webp 400w,
                /project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_49df8d0cae8791edbc7c138941f2bb6b.webp 760w,
                /project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_ad4c817c170e470f0fc2217f8a3cb659.webp&#34;
+               src=&#34;https://benhills.github.io/project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_ad4c817c170e470f0fc2217f8a3cb659.webp&#34;
                width=&#34;100%&#34;
                height=&#34;380&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -807,9 +807,9 @@ $$
     
     <item>
       <title>Western Greenland</title>
-      <link>https://example.com/photo/greenland/</link>
+      <link>https://benhills.github.io/photo/greenland/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/photo/greenland/</guid>
+      <guid>https://benhills.github.io/photo/greenland/</guid>
       <description>
 
 
@@ -833,8 +833,8 @@ $$
     
       
     
-    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/camp.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/greenland/camp_hu284d939a3cc125d20c5fd77c3e290803_190819_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;camp.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://benhills.github.io/media/albums/greenland/camp.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/greenland/camp_hu284d939a3cc125d20c5fd77c3e290803_190819_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;camp.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -844,8 +844,8 @@ $$
     
       
     
-    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/cliff.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/greenland/cliff_hu284d939a3cc125d20c5fd77c3e290803_629829_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;cliff.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://benhills.github.io/media/albums/greenland/cliff.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/greenland/cliff_hu284d939a3cc125d20c5fd77c3e290803_629829_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;cliff.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -855,8 +855,8 @@ $$
     
       
     
-    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/DSC_0019.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/greenland/DSC_0019_hu284d939a3cc125d20c5fd77c3e290803_533166_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0019.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://benhills.github.io/media/albums/greenland/DSC_0019.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/greenland/DSC_0019_hu284d939a3cc125d20c5fd77c3e290803_533166_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0019.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -866,8 +866,8 @@ $$
     
       
     
-    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/DSC_0365.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/greenland/DSC_0365_hu284d939a3cc125d20c5fd77c3e290803_323814_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0365.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://benhills.github.io/media/albums/greenland/DSC_0365.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/greenland/DSC_0365_hu284d939a3cc125d20c5fd77c3e290803_323814_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0365.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -877,8 +877,8 @@ $$
     
       
     
-    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/DSC_0370.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/greenland/DSC_0370_hu284d939a3cc125d20c5fd77c3e290803_657991_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0370.jpeg&#34; width=&#34;127&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://benhills.github.io/media/albums/greenland/DSC_0370.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/greenland/DSC_0370_hu284d939a3cc125d20c5fd77c3e290803_657991_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0370.jpeg&#34; width=&#34;127&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -888,8 +888,8 @@ $$
     
       
     
-    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/DSC_0376.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/greenland/DSC_0376_hu284d939a3cc125d20c5fd77c3e290803_609880_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0376.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://benhills.github.io/media/albums/greenland/DSC_0376.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/greenland/DSC_0376_hu284d939a3cc125d20c5fd77c3e290803_609880_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0376.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -899,8 +899,8 @@ $$
     
       
     
-    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/DSC_0438.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/greenland/DSC_0438_hu284d939a3cc125d20c5fd77c3e290803_1008152_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0438.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://benhills.github.io/media/albums/greenland/DSC_0438.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/greenland/DSC_0438_hu284d939a3cc125d20c5fd77c3e290803_1008152_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0438.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -910,8 +910,8 @@ $$
     
       
     
-    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/DSC_0457.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/greenland/DSC_0457_hu284d939a3cc125d20c5fd77c3e290803_590969_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0457.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://benhills.github.io/media/albums/greenland/DSC_0457.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/greenland/DSC_0457_hu284d939a3cc125d20c5fd77c3e290803_590969_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;DSC_0457.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -921,8 +921,8 @@ $$
     
       
     
-    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/helo.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/greenland/helo_hu7af45c05e7eaab656aeab8d5fe153c59_99958_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;helo.jpeg&#34; width=&#34;127&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://benhills.github.io/media/albums/greenland/helo.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/greenland/helo_hu7af45c05e7eaab656aeab8d5fe153c59_99958_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;helo.jpeg&#34; width=&#34;127&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -932,8 +932,8 @@ $$
     
       
     
-    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/hot-tub.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/greenland/hot-tub_hu284d939a3cc125d20c5fd77c3e290803_252089_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;hot-tub.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://benhills.github.io/media/albums/greenland/hot-tub.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/greenland/hot-tub_hu284d939a3cc125d20c5fd77c3e290803_252089_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;hot-tub.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -943,21 +943,8 @@ $$
     
       
     
-    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/margin.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/greenland/margin_hu284d939a3cc125d20c5fd77c3e290803_582966_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;margin.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-    &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/polar-bear.jpeg&#34; data-caption=&#34;The Polar Bear, Kanger&amp;amp;rsquo;s one and only restaurant outside the airport.&#34;&gt;
-      &lt;img src=&#34;https://example.com/media/albums/greenland/polar-bear_hu284d939a3cc125d20c5fd77c3e290803_426551_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;The Polar Bear, Kanger&amp;#39;s one and only restaurant outside the airport.&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://benhills.github.io/media/albums/greenland/margin.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/greenland/margin_hu284d939a3cc125d20c5fd77c3e290803_582966_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;margin.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -969,8 +956,21 @@ $$
         
       
     
-    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/shuttle.jpeg&#34; data-caption=&#34;Shuttling our gear out to the ice-sheet margin.&#34;&gt;
-      &lt;img src=&#34;https://example.com/media/albums/greenland/shuttle_hu284d939a3cc125d20c5fd77c3e290803_302117_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Shuttling our gear out to the ice-sheet margin.&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://benhills.github.io/media/albums/greenland/polar-bear.jpeg&#34; data-caption=&#34;The Polar Bear, Kanger&amp;amp;rsquo;s one and only restaurant outside the airport.&#34;&gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/greenland/polar-bear_hu284d939a3cc125d20c5fd77c3e290803_426551_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;The Polar Bear, Kanger&amp;#39;s one and only restaurant outside the airport.&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://benhills.github.io/media/albums/greenland/shuttle.jpeg&#34; data-caption=&#34;Shuttling our gear out to the ice-sheet margin.&#34;&gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/greenland/shuttle_hu284d939a3cc125d20c5fd77c3e290803_302117_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Shuttling our gear out to the ice-sheet margin.&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -980,8 +980,8 @@ $$
     
       
     
-    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/spiral-moulin.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/greenland/spiral-moulin_hu7af45c05e7eaab656aeab8d5fe153c59_105125_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;spiral-moulin.jpeg&#34; width=&#34;127&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://benhills.github.io/media/albums/greenland/spiral-moulin.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/greenland/spiral-moulin_hu7af45c05e7eaab656aeab8d5fe153c59_105125_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;spiral-moulin.jpeg&#34; width=&#34;127&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -991,8 +991,8 @@ $$
     
       
     
-    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/surface-hoar.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/greenland/surface-hoar_hu284d939a3cc125d20c5fd77c3e290803_702703_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;surface-hoar.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://benhills.github.io/media/albums/greenland/surface-hoar.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/greenland/surface-hoar_hu284d939a3cc125d20c5fd77c3e290803_702703_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;surface-hoar.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -1002,8 +1002,8 @@ $$
     
       
     
-    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/surface-stream.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/greenland/surface-stream_hu284d939a3cc125d20c5fd77c3e290803_263510_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;surface-stream.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://benhills.github.io/media/albums/greenland/surface-stream.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/greenland/surface-stream_hu284d939a3cc125d20c5fd77c3e290803_263510_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;surface-stream.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -1013,8 +1013,8 @@ $$
     
       
     
-    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://example.com/media/albums/greenland/tent.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/greenland/tent_hu284d939a3cc125d20c5fd77c3e290803_418605_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tent.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-greenland&#34; href=&#34;https://benhills.github.io/media/albums/greenland/tent.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/greenland/tent_hu284d939a3cc125d20c5fd77c3e290803_418605_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tent.jpeg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
 
@@ -1024,9 +1024,9 @@ $$
     
     <item>
       <title>Crystal Fabric</title>
-      <link>https://example.com/project/cof/</link>
+      <link>https://benhills.github.io/project/cof/</link>
       <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/cof/</guid>
+      <guid>https://benhills.github.io/project/cof/</guid>
       <description>&lt;p&gt;Snow crystals are deposited at random orientation on the glacier surface. In other words, the &amp;lsquo;crystal orientation fabric&amp;rsquo; is initially isotropic (non-directional). As ice flows, crystal c-axes rotate away from the primary extensional axis and toward compression. In places where ice flow is consistent for hundreds or thousands of years, the bulk fabric becomes anisotropic. Single-pole fabrics with upward-pointing c-axes develop at an ice divide where flow is uniform vertical compression and outward extension (new snow continually added at the surface). In this case, the ice hardens in the vertical and preserves old ice near the bed. Horizontal girdle fabrics develop in an ice-stream shear margin where transverse shear dominates.&lt;/p&gt;
 
 
@@ -1050,7 +1050,7 @@ $$
                /project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_0c3363e589866221ac1a378345a36e65.webp 400w,
                /project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_1a2689c21f8e690fb2f7c86850a2710a.webp 760w,
                /project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_0c3363e589866221ac1a378345a36e65.webp&#34;
+               src=&#34;https://benhills.github.io/project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_0c3363e589866221ac1a378345a36e65.webp&#34;
                width=&#34;75%&#34;
                height=&#34;617&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1080,7 +1080,7 @@ $$
                /project/cof/birefringence_hu6e33e20b3b03aa3d48feedb4a0dcce8d_193920_9241644c06a616b83aae48fd51e1bbe4.webp 400w,
                /project/cof/birefringence_hu6e33e20b3b03aa3d48feedb4a0dcce8d_193920_3d234796d5cc70d8c60c5430d68ef384.webp 760w,
                /project/cof/birefringence_hu6e33e20b3b03aa3d48feedb4a0dcce8d_193920_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/cof/birefringence_hu6e33e20b3b03aa3d48feedb4a0dcce8d_193920_9241644c06a616b83aae48fd51e1bbe4.webp&#34;
+               src=&#34;https://benhills.github.io/project/cof/birefringence_hu6e33e20b3b03aa3d48feedb4a0dcce8d_193920_9241644c06a616b83aae48fd51e1bbe4.webp&#34;
                width=&#34;50%&#34;
                height=&#34;653&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1105,7 +1105,7 @@ $$
 &lt;figure  id=&#34;figure-four-different-polarizations-from-one-location-plotted-as-radargrams-over-a-range-of-azimuthal-orientations&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Four different polarizations from one location plotted as radargrams over a range of azimuthal orientations.&#34;
-           src=&#34;https://example.com/project/cof/Rotational_Offset.gif&#34;
+           src=&#34;https://benhills.github.io/project/cof/Rotational_Offset.gif&#34;
            loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Four different polarizations from one location plotted as radargrams over a range of azimuthal orientations.
@@ -1133,7 +1133,7 @@ $$
                /project/cof/hd-polarimetry_hu9b54af14dbdf0167da5f6a8bdcc332f4_301166_aa0c4c18d0213f6cb3d5b4bdd85b57e4.webp 400w,
                /project/cof/hd-polarimetry_hu9b54af14dbdf0167da5f6a8bdcc332f4_301166_a58119a63d34a86b15bca136386ca4b2.webp 760w,
                /project/cof/hd-polarimetry_hu9b54af14dbdf0167da5f6a8bdcc332f4_301166_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/cof/hd-polarimetry_hu9b54af14dbdf0167da5f6a8bdcc332f4_301166_aa0c4c18d0213f6cb3d5b4bdd85b57e4.webp&#34;
+               src=&#34;https://benhills.github.io/project/cof/hd-polarimetry_hu9b54af14dbdf0167da5f6a8bdcc332f4_301166_aa0c4c18d0213f6cb3d5b4bdd85b57e4.webp&#34;
                width=&#34;760&#34;
                height=&#34;594&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1143,9 +1143,9 @@ $$
     
     <item>
       <title>Modeling</title>
-      <link>https://example.com/project/modeling/</link>
+      <link>https://benhills.github.io/project/modeling/</link>
       <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/modeling/</guid>
+      <guid>https://benhills.github.io/project/modeling/</guid>
       <description>&lt;h2 id=&#34;nondimensional-numbers&#34;&gt;Nondimensional Numbers&lt;/h2&gt;
 &lt;p&gt;Physics problems are commonly &amp;rsquo;nondimensionalized&amp;rsquo; in order to compare the scale of two processes. As an example, take the &lt;em&gt;Peclet number&lt;/em&gt; which compares thermal advection (convection) to thermal diffusion (conduction) in a moving fluid,&lt;/p&gt;
 
@@ -1176,7 +1176,7 @@ $$
                /project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_9b11f4ad80ca5f50f1b3f764d2856009.webp 400w,
                /project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_b795a6cf6c9752c39a6b3e9588234a63.webp 760w,
                /project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_9b11f4ad80ca5f50f1b3f764d2856009.webp&#34;
+               src=&#34;https://benhills.github.io/project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_9b11f4ad80ca5f50f1b3f764d2856009.webp&#34;
                width=&#34;75%&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1217,7 +1217,7 @@ $$
                /project/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_d83ae8434dd6b869f8487e28e1451f7a.webp 400w,
                /project/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_790f7400d3c9615a1dd277f877ca5041.webp 760w,
                /project/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_d83ae8434dd6b869f8487e28e1451f7a.webp&#34;
+               src=&#34;https://benhills.github.io/project/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_d83ae8434dd6b869f8487e28e1451f7a.webp&#34;
                width=&#34;760&#34;
                height=&#34;543&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1259,7 +1259,7 @@ $$
                /project/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_27ccbea9029f20bcb25906fe0561e879.webp 400w,
                /project/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_11c4dc78b44ff12257c6eb868fefc44c.webp 760w,
                /project/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_27ccbea9029f20bcb25906fe0561e879.webp&#34;
+               src=&#34;https://benhills.github.io/project/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_27ccbea9029f20bcb25906fe0561e879.webp&#34;
                width=&#34;50%&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1289,7 +1289,7 @@ $$
                /project/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_2810eb026ca58d30c937634047eb80cb.webp 400w,
                /project/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_a1a255fe7efab1723ef8f44b8735cb0a.webp 760w,
                /project/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_2810eb026ca58d30c937634047eb80cb.webp&#34;
+               src=&#34;https://benhills.github.io/project/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_2810eb026ca58d30c937634047eb80cb.webp&#34;
                width=&#34;30%&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1319,7 +1319,7 @@ $$
                /project/modeling/mpas-results_huf7dc2de23686106c1182ca27dd753964_501905_c60b4740e4290229f0f7a2e6790933bd.webp 400w,
                /project/modeling/mpas-results_huf7dc2de23686106c1182ca27dd753964_501905_37cf35d7018e5da1dfff008255ae9c09.webp 760w,
                /project/modeling/mpas-results_huf7dc2de23686106c1182ca27dd753964_501905_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/modeling/mpas-results_huf7dc2de23686106c1182ca27dd753964_501905_c60b4740e4290229f0f7a2e6790933bd.webp&#34;
+               src=&#34;https://benhills.github.io/project/modeling/mpas-results_huf7dc2de23686106c1182ca27dd753964_501905_c60b4740e4290229f0f7a2e6790933bd.webp&#34;
                width=&#34;760&#34;
                height=&#34;285&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1331,9 +1331,9 @@ $$
     
     <item>
       <title>Geophysical Tools</title>
-      <link>https://example.com/project/geophysical-tools/</link>
+      <link>https://benhills.github.io/project/geophysical-tools/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/geophysical-tools/</guid>
+      <guid>https://benhills.github.io/project/geophysical-tools/</guid>
       <description>&lt;h2 id=&#34;impdar&#34;&gt;ImpDAR&lt;/h2&gt;
 &lt;p&gt;ImpDAR (Impulse raDAR) is a suite of processing and interpretation tools for impulse radar sounding, led by Dr. David Lilien. The software (&lt;a href=&#34;https://github.com/dlilien/ImpDAR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hosted on github&lt;/a&gt;) is targeted for ice-penetrating radar applications but usable for ground-penetrating radar and associated surveying applications as well. The core processing steps and general terminology come from a set of Matlab scripts developed at St. Olaf College under Dr. Robert Jacobel. Here, everything has been re-written in python and significant improvements to speed, readability, documentation, and interface have been made across the board. Additionally, ImpDAR is intended to be more flexible than other available options. Support is gradually being added for a variety of file formats. Currently, GSSI, PulseEKKO, GPRMax, SEGY, and several custom file formats are supported. Available processing steps include various filtering operations, trivial modifications such as restacking, cropping, or reversing data, geolocation-related operations like interpolating to constant trace spacing, and various migration routines.&lt;/p&gt;
 &lt;p&gt;In addition to processing, ImpDAR can also be used for interpreting radargrams (i.e. picking layers). Picking is generally an interactive process, so there is a GUI for carrying out the semi-automated picking procedure. Each picked layer is saved with variables for both the depth and picked power (i.e. the root-mean-square amplitude). The GUI also allows for basic processing steps, with the updates happening to the plot in real time to aid the picking process. We are also developing an automated picking algorithm that will ideally pick both internal layers and the bed reflector.&lt;/p&gt;
@@ -1359,7 +1359,7 @@ $$
                /project/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_35481a88845e3d15a3f736c9c58b3a8c.webp 400w,
                /project/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_d10d4dc68ef138846c8f52375b9f1a97.webp 760w,
                /project/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_35481a88845e3d15a3f736c9c58b3a8c.webp&#34;
+               src=&#34;https://benhills.github.io/project/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_35481a88845e3d15a3f736c9c58b3a8c.webp&#34;
                width=&#34;750&#34;
                height=&#34;750&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1388,7 +1388,7 @@ $$
                /project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_5ca1cae0709d5aa41c41dbaf70d33a25.webp 400w,
                /project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_a9789dea67f75c3931103264078511bd.webp 760w,
                /project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_5ca1cae0709d5aa41c41dbaf70d33a25.webp&#34;
+               src=&#34;https://benhills.github.io/project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_5ca1cae0709d5aa41c41dbaf70d33a25.webp&#34;
                width=&#34;640&#34;
                height=&#34;480&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1418,7 +1418,7 @@ $$
                /project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_0fb2735174228d3741b93be029d99bc7.webp 400w,
                /project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_21845feb0c7c74ae8364d4b510c9add4.webp 760w,
                /project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_0fb2735174228d3741b93be029d99bc7.webp&#34;
+               src=&#34;https://benhills.github.io/project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_0fb2735174228d3741b93be029d99bc7.webp&#34;
                width=&#34;760&#34;
                height=&#34;380&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1446,7 +1446,7 @@ $$
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;https://example.com/project/geophysical-tools/Ex.gif&#34;
+           src=&#34;https://benhills.github.io/project/geophysical-tools/Ex.gif&#34;
            loading=&#34;lazy&#34; data-zoomable width=&#34;50%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 </description>
@@ -1454,12 +1454,12 @@ $$
     
     <item>
       <title>Alpine Glaciology</title>
-      <link>https://example.com/project/alpine-glaciology/</link>
+      <link>https://benhills.github.io/project/alpine-glaciology/</link>
       <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/alpine-glaciology/</guid>
+      <guid>https://benhills.github.io/project/alpine-glaciology/</guid>
       <description>&lt;p&gt;Much of the original theory in glaciology came from work on alpine glaciers, mostly in Europe. This is partially because of their relative proximity to human civilizations, but also becuase until recently we thought that the polar ice sheets operated on millenial timescales, too long to be of immenent concern. It was only around the turn of the century that the glaciological community started to recognize key instabilities within the ice sheets that can be triggered much faster, on the order of decades to centuries. While alpine glaciers have since gotten less attention in terms of sea-level focused research publications and grant funding, they are still critical for water supply, temperature, and chemistry, especially in alpine environments.&lt;/p&gt;
 &lt;h2 id=&#34;ice-dynamics&#34;&gt;Ice Dynamics&lt;/h2&gt;
-&lt;p&gt;We study alpine glacier dynamics using various tools and techniques. As an example, we use a ground-based radar interferometer at the north face of Mt. Baker. We repeatedly scan the mountain face every 2 minutes for several days and by comparing the phase return between scans can tell how objects in the field of view are moving. This is much like the ApRES measurement described in &lt;a href=&#34;https://example.com/project/geophysical-tools/&#34;&gt;Geophysical Tools&lt;/a&gt; but many different reflections from across a range of azimuths.&lt;/p&gt;
+&lt;p&gt;We study alpine glacier dynamics using various tools and techniques. As an example, we use a ground-based radar interferometer at the north face of Mt. Baker. We repeatedly scan the mountain face every 2 minutes for several days and by comparing the phase return between scans can tell how objects in the field of view are moving. This is much like the ApRES measurement described in &lt;a href=&#34;https://benhills.github.io/project/geophysical-tools/&#34;&gt;Geophysical Tools&lt;/a&gt; but many different reflections from across a range of azimuths.&lt;/p&gt;
 
 
 
@@ -1482,7 +1482,7 @@ $$
                /project/alpine-glaciology/baker_hu284d939a3cc125d20c5fd77c3e290803_456965_827fc8f41bf89976f4976ed5e44643c0.webp 400w,
                /project/alpine-glaciology/baker_hu284d939a3cc125d20c5fd77c3e290803_456965_a47e3ade094309f58f304ad911e78f18.webp 760w,
                /project/alpine-glaciology/baker_hu284d939a3cc125d20c5fd77c3e290803_456965_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/alpine-glaciology/baker_hu284d939a3cc125d20c5fd77c3e290803_456965_827fc8f41bf89976f4976ed5e44643c0.webp&#34;
+               src=&#34;https://benhills.github.io/project/alpine-glaciology/baker_hu284d939a3cc125d20c5fd77c3e290803_456965_827fc8f41bf89976f4976ed5e44643c0.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1510,7 +1510,7 @@ $$
                /project/alpine-glaciology/waddington_surveying_hue0bab21f1beaed078012c0d9ee9e2341_6008249_f715a590510380780e8de29af359a301.webp 400w,
                /project/alpine-glaciology/waddington_surveying_hue0bab21f1beaed078012c0d9ee9e2341_6008249_8535491999195f0719e48c6861779ccd.webp 760w,
                /project/alpine-glaciology/waddington_surveying_hue0bab21f1beaed078012c0d9ee9e2341_6008249_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/alpine-glaciology/waddington_surveying_hue0bab21f1beaed078012c0d9ee9e2341_6008249_f715a590510380780e8de29af359a301.webp&#34;
+               src=&#34;https://benhills.github.io/project/alpine-glaciology/waddington_surveying_hue0bab21f1beaed078012c0d9ee9e2341_6008249_f715a590510380780e8de29af359a301.webp&#34;
                width=&#34;760&#34;
                height=&#34;346&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1540,7 +1540,7 @@ $$
                /project/alpine-glaciology/snow-pit_hufbb8dc8af21203b24f648026c9457cdf_108650_6b0ea882f61214c227913e302f30bdbd.webp 400w,
                /project/alpine-glaciology/snow-pit_hufbb8dc8af21203b24f648026c9457cdf_108650_5c47e78f58e87dac9c35ebe8f03508e7.webp 760w,
                /project/alpine-glaciology/snow-pit_hufbb8dc8af21203b24f648026c9457cdf_108650_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/alpine-glaciology/snow-pit_hufbb8dc8af21203b24f648026c9457cdf_108650_6b0ea882f61214c227913e302f30bdbd.webp&#34;
+               src=&#34;https://benhills.github.io/project/alpine-glaciology/snow-pit_hufbb8dc8af21203b24f648026c9457cdf_108650_6b0ea882f61214c227913e302f30bdbd.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1567,7 +1567,7 @@ $$
                /project/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_ca42cb50c7145ad115977f5be3c47949.webp 400w,
                /project/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_2e41a6b6315ece17bfac126de900ce03.webp 760w,
                /project/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_ca42cb50c7145ad115977f5be3c47949.webp&#34;
+               src=&#34;https://benhills.github.io/project/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_ca42cb50c7145ad115977f5be3c47949.webp&#34;
                width=&#34;760&#34;
                height=&#34;574&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1595,7 +1595,7 @@ $$
                /project/alpine-glaciology/SCG_Panel_Map_hu1c16bbbe2e5dc55abb81abf305f056cd_1802779_0042bc5172d2e3a3539b00c912b00ade.webp 400w,
                /project/alpine-glaciology/SCG_Panel_Map_hu1c16bbbe2e5dc55abb81abf305f056cd_1802779_64d5a90e73a7ea91598fea08aedb8a53.webp 760w,
                /project/alpine-glaciology/SCG_Panel_Map_hu1c16bbbe2e5dc55abb81abf305f056cd_1802779_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/alpine-glaciology/SCG_Panel_Map_hu1c16bbbe2e5dc55abb81abf305f056cd_1802779_0042bc5172d2e3a3539b00c912b00ade.webp&#34;
+               src=&#34;https://benhills.github.io/project/alpine-glaciology/SCG_Panel_Map_hu1c16bbbe2e5dc55abb81abf305f056cd_1802779_0042bc5172d2e3a3539b00c912b00ade.webp&#34;
                width=&#34;730&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1605,9 +1605,9 @@ $$
     
     <item>
       <title>Drilling in Ice</title>
-      <link>https://example.com/project/drilling/</link>
+      <link>https://benhills.github.io/project/drilling/</link>
       <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/drilling/</guid>
+      <guid>https://benhills.github.io/project/drilling/</guid>
       <description>&lt;h2 id=&#34;ice-core-drilling&#34;&gt;Ice-Core Drilling&lt;/h2&gt;
 &lt;p&gt;Much of our work aids in site selection for ice cores. We use geophysical tools to survey the ice geometry and stratigraphy. We can estimate ice age, ice temperature, past flow patterns, etc. With this information, paleoclimatologists are able to make an informed desicion on specifically where to drill an ice core in order to retrieve ice that will answer their pending quesitons about the ancient atmosphere and climate. Hercules Dome is currently our primary project. The site is close enough to West Antarctica that it should record a climate signal in the case of West Antarctic Ice Sheet collapse, but far enough that ice would not have melted during that time.&lt;/p&gt;
 
@@ -1632,7 +1632,7 @@ $$
                /project/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_640226aebd920645c55f1aeb9346228e.webp 400w,
                /project/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_b728b0248b0ee1e1314e0f64d79e302e.webp 760w,
                /project/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_640226aebd920645c55f1aeb9346228e.webp&#34;
+               src=&#34;https://benhills.github.io/project/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_640226aebd920645c55f1aeb9346228e.webp&#34;
                width=&#34;100%&#34;
                height=&#34;649&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1661,7 +1661,7 @@ $$
                /project/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_9b14a2a2e64cbbf4be7df05c0acd9c0c.webp 400w,
                /project/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_332b82a3bf72958c7c347e5851af4ec9.webp 760w,
                /project/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_9b14a2a2e64cbbf4be7df05c0acd9c0c.webp&#34;
+               src=&#34;https://benhills.github.io/project/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_9b14a2a2e64cbbf4be7df05c0acd9c0c.webp&#34;
                width=&#34;100%&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1690,7 +1690,7 @@ $$
                /project/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_ab400531032e7ad3e223443745b5255b.webp 400w,
                /project/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_c08be67297c1126089ec8cdef45a4920.webp 760w,
                /project/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_ab400531032e7ad3e223443745b5255b.webp&#34;
+               src=&#34;https://benhills.github.io/project/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_ab400531032e7ad3e223443745b5255b.webp&#34;
                width=&#34;100%&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1721,7 +1721,7 @@ $$
                /project/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_267847a81154252d6e58c84876bf99e8.webp 400w,
                /project/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_652b6a1d09add1d3f13b12dfa4f9a24b.webp 760w,
                /project/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_267847a81154252d6e58c84876bf99e8.webp&#34;
+               src=&#34;https://benhills.github.io/project/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_267847a81154252d6e58c84876bf99e8.webp&#34;
                width=&#34;428&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1731,17 +1731,17 @@ $$
     
     <item>
       <title>ImpDAR Tutorials</title>
-      <link>https://example.com/teaching/impdar/</link>
+      <link>https://benhills.github.io/teaching/impdar/</link>
       <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/impdar/</guid>
+      <guid>https://benhills.github.io/teaching/impdar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>&#39;Working remotely&#39; as a polar field scientist</title>
-      <link>https://example.com/blog/remote-fieldwork/</link>
+      <link>https://benhills.github.io/blog/remote-fieldwork/</link>
       <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/remote-fieldwork/</guid>
+      <guid>https://benhills.github.io/blog/remote-fieldwork/</guid>
       <description>&lt;p&gt;We are wrapping up our fourth* season at Hercules Dome, Antarctica. I use an asterisk because it hasn’t really been the fourth at all. For the first season, in ‘18-’19, we had a 4-person team who was meant to deploy a full field camp for a full month of work on the ground; instead, we spent ~6 weeks at South Pole Station for a handful of day trips commuting back and forth to Hercules Dome. The second season was as expected, ‘19-’20 brought a 7-person team to the field where we did most of the surveying seen in the figure below. The third “season” was not a season at all, Covid halted nearly 100% of Antarctic field work in ‘20-’21. Finally, this current season that is wrapping up now was a small and lightweight team, with only a single scientist on the ground, meant to get in for only a few repeat acquisitions and nothing else. Hercules Dome was originally proposed as a 2-year surveying project and has now been extended to a total of 5 seasons, such is the nature of Antarctic fieldwork during a global pandemic.&lt;/p&gt;
 
 
@@ -1765,7 +1765,7 @@ $$
                /blog/remote-fieldwork/HD_map_2122_hu1d4487603f979735dcc191e2140be7c6_1788984_ac925f73060b24f9a63e46b7cb24c29d.webp 400w,
                /blog/remote-fieldwork/HD_map_2122_hu1d4487603f979735dcc191e2140be7c6_1788984_e7a18f8e9ffdb530d5a88f3d1626180f.webp 760w,
                /blog/remote-fieldwork/HD_map_2122_hu1d4487603f979735dcc191e2140be7c6_1788984_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/remote-fieldwork/HD_map_2122_hu1d4487603f979735dcc191e2140be7c6_1788984_ac925f73060b24f9a63e46b7cb24c29d.webp&#34;
+               src=&#34;https://benhills.github.io/blog/remote-fieldwork/HD_map_2122_hu1d4487603f979735dcc191e2140be7c6_1788984_ac925f73060b24f9a63e46b7cb24c29d.webp&#34;
                width=&#34;760&#34;
                height=&#34;571&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1795,7 +1795,7 @@ $$
                /blog/remote-fieldwork/tree_hue89a0aa046b09da89068440f8a9c75be_126460_28266a1c1bc72b1dfd2ef3c930812567.webp 400w,
                /blog/remote-fieldwork/tree_hue89a0aa046b09da89068440f8a9c75be_126460_ebf917d9d79ecfc110fb209b8ca701dd.webp 760w,
                /blog/remote-fieldwork/tree_hue89a0aa046b09da89068440f8a9c75be_126460_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/remote-fieldwork/tree_hue89a0aa046b09da89068440f8a9c75be_126460_28266a1c1bc72b1dfd2ef3c930812567.webp&#34;
+               src=&#34;https://benhills.github.io/blog/remote-fieldwork/tree_hue89a0aa046b09da89068440f8a9c75be_126460_28266a1c1bc72b1dfd2ef3c930812567.webp&#34;
                width=&#34;472&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1829,7 +1829,7 @@ $$
                /blog/remote-fieldwork/blog_pres_hu29b6964728c3af8ef7372565a95e8991_300189_0f82244d7eea5f05bc65cad67b9a2eb4.webp 400w,
                /blog/remote-fieldwork/blog_pres_hu29b6964728c3af8ef7372565a95e8991_300189_be6231dd76636685ef311e9e3b9c53c0.webp 760w,
                /blog/remote-fieldwork/blog_pres_hu29b6964728c3af8ef7372565a95e8991_300189_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/remote-fieldwork/blog_pres_hu29b6964728c3af8ef7372565a95e8991_300189_0f82244d7eea5f05bc65cad67b9a2eb4.webp&#34;
+               src=&#34;https://benhills.github.io/blog/remote-fieldwork/blog_pres_hu29b6964728c3af8ef7372565a95e8991_300189_0f82244d7eea5f05bc65cad67b9a2eb4.webp&#34;
                width=&#34;633&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1843,9 +1843,9 @@ $$
     
     <item>
       <title>Tokenized Thought</title>
-      <link>https://example.com/blog/open-science/</link>
+      <link>https://benhills.github.io/blog/open-science/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/open-science/</guid>
+      <guid>https://benhills.github.io/blog/open-science/</guid>
       <description>&lt;p&gt;&lt;em&gt;Thank you to Jocelynn Pearl for reviewing a preliminary version of this article and to Dani Bergey for figure design.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Utility of the NFT expands far beyond fine art and collectibles. Today’s mania does not reflect the more holistic vision and ubiquitous tokenization that is about to take hold. This includes physical assets like the deed to a house and the title to a car, capital assets like stocks and bonds, and as I will argue here, intellectual assets like patents and publications. Intellectual property as a digital object written to the blockchain will change the way we think about publishing science, opening the process to be more transparent and realigning incentives within academic communities.&lt;/p&gt;
 &lt;h2 id=&#34;the-past-and-future-of-scientific-publication&#34;&gt;The Past and Future of Scientific Publication&lt;/h2&gt;
@@ -1935,17 +1935,17 @@ $$
     
     <item>
       <title>Avoiding slush for hot-point drilling of glacier boreholes</title>
-      <link>https://example.com/publication/hills2021/</link>
+      <link>https://benhills.github.io/publication/hills2021/</link>
       <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hills2021/</guid>
+      <guid>https://benhills.github.io/publication/hills2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Radar Stratigraphy</title>
-      <link>https://example.com/photo/radar/</link>
+      <link>https://benhills.github.io/photo/radar/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/photo/radar/</guid>
+      <guid>https://benhills.github.io/photo/radar/</guid>
       <description>
 
 
@@ -1967,8 +1967,8 @@ $$
     
     
     
-    &lt;a data-fancybox=&#34;gallery-radar&#34; href=&#34;https://example.com/media/albums/radar/hd_mcords.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/radar/hd_mcords_hue9649e47bef86d7f3505baafe3e6f9da_8706783_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;hd_mcords.jpeg&#34; width=&#34;274&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-radar&#34; href=&#34;https://benhills.github.io/media/albums/radar/hd_mcords.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/radar/hd_mcords_hue9649e47bef86d7f3505baafe3e6f9da_8706783_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;hd_mcords.jpeg&#34; width=&#34;274&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -1976,8 +1976,8 @@ $$
     
     
     
-    &lt;a data-fancybox=&#34;gallery-radar&#34; href=&#34;https://example.com/media/albums/radar/hd_x45loop.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/radar/hd_x45loop_hu5d9649754fe17c6a2298f2d419c32151_17015163_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;hd_x45loop.jpeg&#34; width=&#34;274&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-radar&#34; href=&#34;https://benhills.github.io/media/albums/radar/hd_x45loop.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/radar/hd_x45loop_hu5d9649754fe17c6a2298f2d419c32151_17015163_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;hd_x45loop.jpeg&#34; width=&#34;274&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -1985,8 +1985,8 @@ $$
     
     
     
-    &lt;a data-fancybox=&#34;gallery-radar&#34; href=&#34;https://example.com/media/albums/radar/hd_x53.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/radar/hd_x53_hu120f39e4cc541dd5c6994e4fac8e8abd_14333123_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;hd_x53.jpeg&#34; width=&#34;274&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-radar&#34; href=&#34;https://benhills.github.io/media/albums/radar/hd_x53.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/radar/hd_x53_hu120f39e4cc541dd5c6994e4fac8e8abd_14333123_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;hd_x53.jpeg&#34; width=&#34;274&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -1994,8 +1994,8 @@ $$
     
     
     
-    &lt;a data-fancybox=&#34;gallery-radar&#34; href=&#34;https://example.com/media/albums/radar/kamb.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/radar/kamb_hu120f39e4cc541dd5c6994e4fac8e8abd_17621084_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;kamb.jpeg&#34; width=&#34;274&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-radar&#34; href=&#34;https://benhills.github.io/media/albums/radar/kamb.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/radar/kamb_hu120f39e4cc541dd5c6994e4fac8e8abd_17621084_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;kamb.jpeg&#34; width=&#34;274&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -2003,8 +2003,8 @@ $$
     
     
     
-    &lt;a data-fancybox=&#34;gallery-radar&#34; href=&#34;https://example.com/media/albums/radar/quadpol.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/radar/quadpol_hu5a24dcec77158565d9e6a393e8399813_8905349_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;quadpol.jpeg&#34; width=&#34;274&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-radar&#34; href=&#34;https://benhills.github.io/media/albums/radar/quadpol.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/radar/quadpol_hu5a24dcec77158565d9e6a393e8399813_8905349_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;quadpol.jpeg&#34; width=&#34;274&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -2012,8 +2012,8 @@ $$
     
     
     
-    &lt;a data-fancybox=&#34;gallery-radar&#34; href=&#34;https://example.com/media/albums/radar/spl.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/radar/spl_huabe10ef0bbe0a6a80f40c9a46fbae55a_15353506_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;spl.jpeg&#34; width=&#34;274&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-radar&#34; href=&#34;https://benhills.github.io/media/albums/radar/spl.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/radar/spl_huabe10ef0bbe0a6a80f40c9a46fbae55a_15353506_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;spl.jpeg&#34; width=&#34;274&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -2021,8 +2021,8 @@ $$
     
     
     
-    &lt;a data-fancybox=&#34;gallery-radar&#34; href=&#34;https://example.com/media/albums/radar/thwaites_1.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/radar/thwaites_1_hu98c4132014a44fede2241dae56395275_187705_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;thwaites_1.jpeg&#34; width=&#34;273&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-radar&#34; href=&#34;https://benhills.github.io/media/albums/radar/thwaites_1.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/radar/thwaites_1_hu98c4132014a44fede2241dae56395275_187705_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;thwaites_1.jpeg&#34; width=&#34;273&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -2030,8 +2030,8 @@ $$
     
     
     
-    &lt;a data-fancybox=&#34;gallery-radar&#34; href=&#34;https://example.com/media/albums/radar/thwaites_2.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/radar/thwaites_2_hu3615af93a7df5fd9e95412db25f1ed03_176428_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;thwaites_2.jpeg&#34; width=&#34;274&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-radar&#34; href=&#34;https://benhills.github.io/media/albums/radar/thwaites_2.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/radar/thwaites_2_hu3615af93a7df5fd9e95412db25f1ed03_176428_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;thwaites_2.jpeg&#34; width=&#34;274&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -2039,8 +2039,8 @@ $$
     
     
     
-    &lt;a data-fancybox=&#34;gallery-radar&#34; href=&#34;https://example.com/media/albums/radar/thwaites_3.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/radar/thwaites_3_hub32ae36db18b32f02383de16dba2ace3_183265_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;thwaites_3.jpeg&#34; width=&#34;273&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-radar&#34; href=&#34;https://benhills.github.io/media/albums/radar/thwaites_3.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/radar/thwaites_3_hub32ae36db18b32f02383de16dba2ace3_183265_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;thwaites_3.jpeg&#34; width=&#34;273&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -2048,8 +2048,8 @@ $$
     
     
     
-    &lt;a data-fancybox=&#34;gallery-radar&#34; href=&#34;https://example.com/media/albums/radar/wgz.jpeg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/radar/wgz_hu120f39e4cc541dd5c6994e4fac8e8abd_14635531_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wgz.jpeg&#34; width=&#34;274&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-radar&#34; href=&#34;https://benhills.github.io/media/albums/radar/wgz.jpeg&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/radar/wgz_hu120f39e4cc541dd5c6994e4fac8e8abd_14635531_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wgz.jpeg&#34; width=&#34;274&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
 
@@ -2059,9 +2059,9 @@ $$
     
     <item>
       <title>Radar Polarimetry</title>
-      <link>https://example.com/photo/polarimetry/</link>
+      <link>https://benhills.github.io/photo/polarimetry/</link>
       <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/photo/polarimetry/</guid>
+      <guid>https://benhills.github.io/photo/polarimetry/</guid>
       <description>
 
 
@@ -2083,8 +2083,8 @@ $$
     
     
     
-    &lt;a data-fancybox=&#34;gallery-polarimetry&#34; href=&#34;https://example.com/media/albums/polarimetry/e0s50000_raw.png&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/polarimetry/e0s50000_raw_hudc2f8545474a123891c336b2f8f2c438_774302_0x190_resize_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;e0s50000_raw.png&#34; width=&#34;261&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-polarimetry&#34; href=&#34;https://benhills.github.io/media/albums/polarimetry/e0s50000_raw.png&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/polarimetry/e0s50000_raw_hudc2f8545474a123891c336b2f8f2c438_774302_0x190_resize_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;e0s50000_raw.png&#34; width=&#34;261&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -2092,8 +2092,8 @@ $$
     
     
     
-    &lt;a data-fancybox=&#34;gallery-polarimetry&#34; href=&#34;https://example.com/media/albums/polarimetry/x135n0_raw.png&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/polarimetry/x135n0_raw_hu932954770d1e7797f80cfde25f72d262_893469_0x190_resize_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;x135n0_raw.png&#34; width=&#34;261&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-polarimetry&#34; href=&#34;https://benhills.github.io/media/albums/polarimetry/x135n0_raw.png&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/polarimetry/x135n0_raw_hu932954770d1e7797f80cfde25f72d262_893469_0x190_resize_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;x135n0_raw.png&#34; width=&#34;261&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -2101,8 +2101,8 @@ $$
     
     
     
-    &lt;a data-fancybox=&#34;gallery-polarimetry&#34; href=&#34;https://example.com/media/albums/polarimetry/x55n0_raw.png&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/polarimetry/x55n0_raw_hu9eec95f642e509372529e004ae2074ca_833986_0x190_resize_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;x55n0_raw.png&#34; width=&#34;261&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-polarimetry&#34; href=&#34;https://benhills.github.io/media/albums/polarimetry/x55n0_raw.png&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/polarimetry/x55n0_raw_hu9eec95f642e509372529e004ae2074ca_833986_0x190_resize_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;x55n0_raw.png&#34; width=&#34;261&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -2110,8 +2110,8 @@ $$
     
     
     
-    &lt;a data-fancybox=&#34;gallery-polarimetry&#34; href=&#34;https://example.com/media/albums/polarimetry/x75n0_raw.png&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/polarimetry/x75n0_raw_huac275cde2dc828b33e07365d9968a59a_826860_0x190_resize_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;x75n0_raw.png&#34; width=&#34;261&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-polarimetry&#34; href=&#34;https://benhills.github.io/media/albums/polarimetry/x75n0_raw.png&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/polarimetry/x75n0_raw_huac275cde2dc828b33e07365d9968a59a_826860_0x190_resize_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;x75n0_raw.png&#34; width=&#34;261&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -2119,8 +2119,8 @@ $$
     
     
     
-    &lt;a data-fancybox=&#34;gallery-polarimetry&#34; href=&#34;https://example.com/media/albums/polarimetry/x95s2000_raw.png&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/polarimetry/x95s2000_raw_hu23d3edee485e1e180e78a45304b25d30_837401_0x190_resize_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;x95s2000_raw.png&#34; width=&#34;261&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-polarimetry&#34; href=&#34;https://benhills.github.io/media/albums/polarimetry/x95s2000_raw.png&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/polarimetry/x95s2000_raw_hu23d3edee485e1e180e78a45304b25d30_837401_0x190_resize_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;x95s2000_raw.png&#34; width=&#34;261&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -2128,8 +2128,8 @@ $$
     
     
     
-    &lt;a data-fancybox=&#34;gallery-polarimetry&#34; href=&#34;https://example.com/media/albums/polarimetry/x95s5000_raw.png&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/polarimetry/x95s5000_raw_hu7c474372060f783d24d7c01dd8b6bffb_672551_0x190_resize_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;x95s5000_raw.png&#34; width=&#34;261&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-polarimetry&#34; href=&#34;https://benhills.github.io/media/albums/polarimetry/x95s5000_raw.png&#34; &gt;
+      &lt;img src=&#34;https://benhills.github.io/media/albums/polarimetry/x95s5000_raw_hu7c474372060f783d24d7c01dd8b6bffb_672551_0x190_resize_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;x95s5000_raw.png&#34; width=&#34;261&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
 
@@ -2139,25 +2139,25 @@ $$
     
     <item>
       <title>ImpDAR: an open-source impulse radar processor</title>
-      <link>https://example.com/publication/lilien2020/</link>
+      <link>https://benhills.github.io/publication/lilien2020/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/lilien2020/</guid>
+      <guid>https://benhills.github.io/publication/lilien2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A framework for attenuation method selection evaluated with ice-penetrating radar data at South Pole Lake</title>
-      <link>https://example.com/publication/hills2020/</link>
+      <link>https://benhills.github.io/publication/hills2020/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hills2020/</guid>
+      <guid>https://benhills.github.io/publication/hills2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why Go Back?</title>
-      <link>https://example.com/blog/why-go-back/</link>
+      <link>https://benhills.github.io/blog/why-go-back/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/why-go-back/</guid>
+      <guid>https://benhills.github.io/blog/why-go-back/</guid>
       <description>&lt;p&gt;They say that the first time you go to Antarctica is for the adventure, the second for the science, and the third because you no longer belong anywhere else. I would hope that it is always for the science, but I do understand how people get attached to the community down here. Life on the ice is mission oriented; whether for science or support, the team knows what needs to get done and works together to accomplish the task at hand.&lt;/p&gt;
 &lt;p&gt;If you read my writing last year, you will know that we had some logistical issues with our project at Hercules Dome. In a way, we had to come back to even get a real start. Having said that, it is common for field projects to be spread across multiple seasons, and some of our team will be coming down next year as well. I want to give somewhat of an explanation for why any field-based project would need more than one season on the ice.&lt;/p&gt;
 &lt;h2 id=&#34;logistical-reasons-to-return&#34;&gt;Logistical Reasons to Return&lt;/h2&gt;
@@ -2185,7 +2185,7 @@ $$
                /blog/why-go-back/skiway_hu7d1472b035cfc73c709fc3246cf2351f_610022_0612fcde909166421a5771350a72117b.webp 400w,
                /blog/why-go-back/skiway_hu7d1472b035cfc73c709fc3246cf2351f_610022_ed8b1e68355778645b321d9727586813.webp 760w,
                /blog/why-go-back/skiway_hu7d1472b035cfc73c709fc3246cf2351f_610022_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/why-go-back/skiway_hu7d1472b035cfc73c709fc3246cf2351f_610022_0612fcde909166421a5771350a72117b.webp&#34;
+               src=&#34;https://benhills.github.io/blog/why-go-back/skiway_hu7d1472b035cfc73c709fc3246cf2351f_610022_0612fcde909166421a5771350a72117b.webp&#34;
                width=&#34;760&#34;
                height=&#34;577&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2214,7 +2214,7 @@ $$
 &lt;figure  id=&#34;figure-a-waveform-represented-in-the-complex-plane&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A waveform represented in the complex plane.&#34;
-           src=&#34;https://example.com/blog/why-go-back/phase.gif&#34;
+           src=&#34;https://benhills.github.io/blog/why-go-back/phase.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       A waveform represented in the complex plane.
@@ -2242,7 +2242,7 @@ $$
                /blog/why-go-back/annika-pres_hu13302735ebbf5f45f6b9c1477bda07d6_2075478_4a82c58bd458a6293fd239a127972109.webp 400w,
                /blog/why-go-back/annika-pres_hu13302735ebbf5f45f6b9c1477bda07d6_2075478_5978deff64dbac51f6427972fb3aaf24.webp 760w,
                /blog/why-go-back/annika-pres_hu13302735ebbf5f45f6b9c1477bda07d6_2075478_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/why-go-back/annika-pres_hu13302735ebbf5f45f6b9c1477bda07d6_2075478_4a82c58bd458a6293fd239a127972109.webp&#34;
+               src=&#34;https://benhills.github.io/blog/why-go-back/annika-pres_hu13302735ebbf5f45f6b9c1477bda07d6_2075478_4a82c58bd458a6293fd239a127972109.webp&#34;
                width=&#34;760&#34;
                height=&#34;457&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2269,7 +2269,7 @@ $$
 &lt;figure  id=&#34;figure-a-repeated-apres-measurement-used-to-infer-vertical-ice-motion-the-top-panel-is-the-measured-phase-over-a-sample-window-represented-by-the-moving-line-in-the-bottom-three-panels-the-second-panel-is-the-radar-profile-with-the-strength-of-the-returning-signal-being-diminished-with-depth-until-the-ice-bed-interface-at-2800-m-the-third-panel-is-the-correlation-between-the-year-1-and-year-2-measurements-as-expected-correlation-drops-off-below-1500-m-because-the-signal-is-noisy-for-deep-returns-the-fourth-panel-is-the-inferred-displacement-between-measurements-the-result-is-well-behaved-above-1500-m-where-the-correlation-is-high&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A repeated ApRES measurement used to infer vertical ice motion. The top panel is the measured phase over a sample window represented by the moving line in the bottom three panels. The second panel is the radar profile with the strength of the returning signal being diminished with depth until the ice-bed interface at ~2800 m. The third panel is the correlation between the year 1 and year 2 measurements. As expected, correlation drops off below ~1500 m because the signal is noisy for deep returns. The fourth panel is the inferred displacement between measurements, the result is well behaved above ~1500 m where the correlation is high.&#34;
-           src=&#34;https://example.com/blog/why-go-back/pres.gif&#34;
+           src=&#34;https://benhills.github.io/blog/why-go-back/pres.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       A repeated ApRES measurement used to infer vertical ice motion. The top panel is the measured phase over a sample window represented by the moving line in the bottom three panels. The second panel is the radar profile with the strength of the returning signal being diminished with depth until the ice-bed interface at ~2800 m. The third panel is the correlation between the year 1 and year 2 measurements. As expected, correlation drops off below ~1500 m because the signal is noisy for deep returns. The fourth panel is the inferred displacement between measurements, the result is well behaved above ~1500 m where the correlation is high.
@@ -2298,7 +2298,7 @@ $$
                /blog/why-go-back/critters_hu5173823e27f62e392edd7495b108e579_247288_af83d9718be9723d6ee1872fbc9dee20.webp 400w,
                /blog/why-go-back/critters_hu5173823e27f62e392edd7495b108e579_247288_bc3f6ff56f8f6494826428e969d67056.webp 760w,
                /blog/why-go-back/critters_hu5173823e27f62e392edd7495b108e579_247288_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/why-go-back/critters_hu5173823e27f62e392edd7495b108e579_247288_af83d9718be9723d6ee1872fbc9dee20.webp&#34;
+               src=&#34;https://benhills.github.io/blog/why-go-back/critters_hu5173823e27f62e392edd7495b108e579_247288_af83d9718be9723d6ee1872fbc9dee20.webp&#34;
                width=&#34;598&#34;
                height=&#34;255&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2310,9 +2310,9 @@ $$
     
     <item>
       <title>Glacier Mass Balance at South Cascade</title>
-      <link>https://example.com/blog/mass-balance/</link>
+      <link>https://benhills.github.io/blog/mass-balance/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/mass-balance/</guid>
+      <guid>https://benhills.github.io/blog/mass-balance/</guid>
       <description>&lt;p&gt;Yesterday, I came home from a week-long field trip to South Cascade Glacier in Washington. South Cascade is one of the United States Geological Survey (USGS) benchmark glaciers, along with Gulkana and Wolverine in Alaska as well as Sperry in Glacier National Park, Montana. The benchmark glacier program was set up by the USGS to intensively monitor climate, glacier motion, glacier mass balance, glacier geometry, and stream runoff for these select glaciers which are thought to be representative of their respective region.&lt;/p&gt;
 &lt;p&gt;Why monitor glaciers? Aside from the fact that they are a fascinating aspect of the earth system, one reason is because they act as a low-pass filter on changes in climate. While climatic variables such as the air temperature and precipitation change on time scales as short as hours to days to years, ice flows slowly enough that it absorbs all the high-frequency information and responds at more like decadal (alpine glacier) or centennial (polar ice sheet) time scales. Therefore, glacier growth and decay are typically (c.f. tidewater glacier cycle) expressive of the longer term climate trend whether that be a change in temperature, precipitation, or both.&lt;/p&gt;
 &lt;p&gt;As a community, we have been measuring glacier change for at least several decades now. The easiest and most obvious way to do so is also the most illustrative for the public, a simple photo. Projects like the Extreme Ice Survey use photo time series to display glacier retreat in a way that needs no explanation. Some studies even use anecdotal evidence and drawings to extend the record further back in time (to 1602 for the Rhone Glacier). In our case at South Cascade, photos display that the terminus has retreated by ~3 kilometers over the past century. In the 1950&amp;rsquo;s and 60&amp;rsquo;s, this glacier terminated in a proglacial lake, but around 1970 the glacier pulled up out of the lake and now the terminus rests a full kilometer further uphill.&lt;/p&gt;
@@ -2338,7 +2338,7 @@ $$
                /blog/mass-balance/history_hu6021e390eb012c2a28d2828b2a80ad68_497490_c7a04911d514d956333c96613858b503.webp 400w,
                /blog/mass-balance/history_hu6021e390eb012c2a28d2828b2a80ad68_497490_3f9441f5f04c3aa2d7a035f05f65abc0.webp 760w,
                /blog/mass-balance/history_hu6021e390eb012c2a28d2828b2a80ad68_497490_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/mass-balance/history_hu6021e390eb012c2a28d2828b2a80ad68_497490_c7a04911d514d956333c96613858b503.webp&#34;
+               src=&#34;https://benhills.github.io/blog/mass-balance/history_hu6021e390eb012c2a28d2828b2a80ad68_497490_c7a04911d514d956333c96613858b503.webp&#34;
                width=&#34;690&#34;
                height=&#34;550&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2367,7 +2367,7 @@ $$
                /blog/mass-balance/scg_hu8d171eafad3e5ec247601b00697c4980_4525133_85e6157b1b402b00aa22c1881da13c88.webp 400w,
                /blog/mass-balance/scg_hu8d171eafad3e5ec247601b00697c4980_4525133_52d7938e7319d4ba27b99bd7077066fb.webp 760w,
                /blog/mass-balance/scg_hu8d171eafad3e5ec247601b00697c4980_4525133_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/mass-balance/scg_hu8d171eafad3e5ec247601b00697c4980_4525133_85e6157b1b402b00aa22c1881da13c88.webp&#34;
+               src=&#34;https://benhills.github.io/blog/mass-balance/scg_hu8d171eafad3e5ec247601b00697c4980_4525133_85e6157b1b402b00aa22c1881da13c88.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2399,7 +2399,7 @@ $$
                /blog/mass-balance/schematic_hu055126dfc99cfe5a0e61e19c9cac8081_138294_e5a1e29aff839d99510b33bf3be19737.webp 400w,
                /blog/mass-balance/schematic_hu055126dfc99cfe5a0e61e19c9cac8081_138294_bb235608989cfa893ad34cc9a9882fcb.webp 760w,
                /blog/mass-balance/schematic_hu055126dfc99cfe5a0e61e19c9cac8081_138294_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/mass-balance/schematic_hu055126dfc99cfe5a0e61e19c9cac8081_138294_e5a1e29aff839d99510b33bf3be19737.webp&#34;
+               src=&#34;https://benhills.github.io/blog/mass-balance/schematic_hu055126dfc99cfe5a0e61e19c9cac8081_138294_e5a1e29aff839d99510b33bf3be19737.webp&#34;
                width=&#34;460&#34;
                height=&#34;322&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2429,7 +2429,7 @@ $$
                /blog/mass-balance/pit_hufbb8dc8af21203b24f648026c9457cdf_108650_c1e50f56893692b0708f8b6d8fe88c7f.webp 400w,
                /blog/mass-balance/pit_hufbb8dc8af21203b24f648026c9457cdf_108650_950b77fe2f3a2c75513adfb62b78124a.webp 760w,
                /blog/mass-balance/pit_hufbb8dc8af21203b24f648026c9457cdf_108650_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/mass-balance/pit_hufbb8dc8af21203b24f648026c9457cdf_108650_c1e50f56893692b0708f8b6d8fe88c7f.webp&#34;
+               src=&#34;https://benhills.github.io/blog/mass-balance/pit_hufbb8dc8af21203b24f648026c9457cdf_108650_c1e50f56893692b0708f8b6d8fe88c7f.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2462,7 +2462,7 @@ $$
                /blog/mass-balance/global_map_hub96782b94b601335ab68c556cc3b8482_737040_8b9c82d42c4679ee2463cfacf85692b7.webp 400w,
                /blog/mass-balance/global_map_hub96782b94b601335ab68c556cc3b8482_737040_86781388dcc5604d0c832c5890ad333b.webp 760w,
                /blog/mass-balance/global_map_hub96782b94b601335ab68c556cc3b8482_737040_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/mass-balance/global_map_hub96782b94b601335ab68c556cc3b8482_737040_8b9c82d42c4679ee2463cfacf85692b7.webp&#34;
+               src=&#34;https://benhills.github.io/blog/mass-balance/global_map_hub96782b94b601335ab68c556cc3b8482_737040_8b9c82d42c4679ee2463cfacf85692b7.webp&#34;
                width=&#34;526&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2475,9 +2475,9 @@ $$
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://benhills.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://benhills.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -2599,9 +2599,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Ice-Penetrating Radar</title>
-      <link>https://example.com/blog/ice-penetrating-radar/</link>
+      <link>https://benhills.github.io/blog/ice-penetrating-radar/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/ice-penetrating-radar/</guid>
+      <guid>https://benhills.github.io/blog/ice-penetrating-radar/</guid>
       <description>&lt;p&gt;We study ice dynamics; namely, how the Greenland and Antarctic ice sheets are moving, how they may have been moving in the past, and how they will move into the future. Ice flows downhill under the force of gravity. As it moves to lower elevation, it eventually either melts or calves and floats away, both contributing mass to the oceans. Thus, the principal importance of our research is to put constraints on future projections of sea-level rise.&lt;/p&gt;
 &lt;p&gt;Being a geophysics team, the research tools that we use are a suite of geophysical methods including GPS, remote sensing (satellites), ice-penetrating radar, seismics, and physics-based computer models. With GPS and remote sensing methods we measure the elevation and velocity of the ice surface. We get at least cm precision with our GPS (down to mm when using real-time kinematics from a stationary base station). With radar and seismics, on the other hand, we survey the internal structure and intrinsic properties of the ice sheets. The basics of radar (seismic) methods are to transmit a radio (seismic) wave at the ice surface and to look (listen) for the reflections. The radio waves that we transmit are in the high to very-high frequency range (close to the same frequencies that you would use in your car or on a handheld radio). Seismics in glaciological applications are typically active source, using an explosion triggered at the surface. By measuring the time and amplitude of the returning waves (both radar and seismic), we learn what we need to build intuition about the dynamic nature of the ice-sheet system. Finally, we test our intuition using computer models.&lt;/p&gt;
 
@@ -2626,7 +2626,7 @@ $$&lt;/p&gt;
                /blog/ice-penetrating-radar/ipr_cartoon_hu2dddb388711da89393e7649c08552bc5_475851_6956e7285cc7e35b22f10952a9cdc528.webp 400w,
                /blog/ice-penetrating-radar/ipr_cartoon_hu2dddb388711da89393e7649c08552bc5_475851_7e0a5ab9ef5cdff4c9610c5315a3014b.webp 760w,
                /blog/ice-penetrating-radar/ipr_cartoon_hu2dddb388711da89393e7649c08552bc5_475851_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/ice-penetrating-radar/ipr_cartoon_hu2dddb388711da89393e7649c08552bc5_475851_6956e7285cc7e35b22f10952a9cdc528.webp&#34;
+               src=&#34;https://benhills.github.io/blog/ice-penetrating-radar/ipr_cartoon_hu2dddb388711da89393e7649c08552bc5_475851_6956e7285cc7e35b22f10952a9cdc528.webp&#34;
                width=&#34;760&#34;
                height=&#34;749&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2660,7 +2660,7 @@ $$&lt;/p&gt;
                /blog/ice-penetrating-radar/radar-shelter_hud91ee38fd9ecc041d795446f233bb91a_266073_66676853e8ea18f6769d7024b64192a6.webp 400w,
                /blog/ice-penetrating-radar/radar-shelter_hud91ee38fd9ecc041d795446f233bb91a_266073_3367372f29d6aeb218d763d531d7712d.webp 760w,
                /blog/ice-penetrating-radar/radar-shelter_hud91ee38fd9ecc041d795446f233bb91a_266073_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/ice-penetrating-radar/radar-shelter_hud91ee38fd9ecc041d795446f233bb91a_266073_66676853e8ea18f6769d7024b64192a6.webp&#34;
+               src=&#34;https://benhills.github.io/blog/ice-penetrating-radar/radar-shelter_hud91ee38fd9ecc041d795446f233bb91a_266073_66676853e8ea18f6769d7024b64192a6.webp&#34;
                width=&#34;760&#34;
                height=&#34;571&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2689,7 +2689,7 @@ $$&lt;/p&gt;
                /blog/ice-penetrating-radar/apres_hubb6e1558ebe2ad9a2005af4a458250be_1936637_53b5f59b7fc7b2a226742ec8ac294236.webp 400w,
                /blog/ice-penetrating-radar/apres_hubb6e1558ebe2ad9a2005af4a458250be_1936637_0b1b7098f02f6eff063a1f79d1f0f7dd.webp 760w,
                /blog/ice-penetrating-radar/apres_hubb6e1558ebe2ad9a2005af4a458250be_1936637_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/ice-penetrating-radar/apres_hubb6e1558ebe2ad9a2005af4a458250be_1936637_53b5f59b7fc7b2a226742ec8ac294236.webp&#34;
+               src=&#34;https://benhills.github.io/blog/ice-penetrating-radar/apres_hubb6e1558ebe2ad9a2005af4a458250be_1936637_53b5f59b7fc7b2a226742ec8ac294236.webp&#34;
                width=&#34;760&#34;
                height=&#34;306&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2721,7 +2721,7 @@ $$&lt;/p&gt;
                /blog/ice-penetrating-radar/ben_at_hd_hue4873627a0a19c356457209492e55d2d_1040915_203c068a2b3f02e34ddf4262f35e6bdc.webp 400w,
                /blog/ice-penetrating-radar/ben_at_hd_hue4873627a0a19c356457209492e55d2d_1040915_ab435430a56bfe16bac5525997c6dcd5.webp 760w,
                /blog/ice-penetrating-radar/ben_at_hd_hue4873627a0a19c356457209492e55d2d_1040915_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/ice-penetrating-radar/ben_at_hd_hue4873627a0a19c356457209492e55d2d_1040915_203c068a2b3f02e34ddf4262f35e6bdc.webp&#34;
+               src=&#34;https://benhills.github.io/blog/ice-penetrating-radar/ben_at_hd_hue4873627a0a19c356457209492e55d2d_1040915_203c068a2b3f02e34ddf4262f35e6bdc.webp&#34;
                width=&#34;497&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2733,9 +2733,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>The Pole</title>
-      <link>https://example.com/blog/the-pole/</link>
+      <link>https://benhills.github.io/blog/the-pole/</link>
       <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/the-pole/</guid>
+      <guid>https://benhills.github.io/blog/the-pole/</guid>
       <description>&lt;p&gt;We made it to South Pole Station. It turns out that getting around this continent necessitates a bit of patience. We spent nearly a week in Christchurch, NZ, waiting for the weather to clear so that we could fly to McMurdo (the primary American station). During that week, we had two boomerang flights in which we took off and flew for ~5 hours down over the Southern Ocean only to get turned around back to New Zealand because the pilots did not feel comfortable landing on the McMurdo Ice Shelf. When the weather finally cleared, we landed in McMurdo and I was greeted by the rest of my science team who had been waiting there for three weeks.&lt;/p&gt;
 &lt;p&gt;McMurdo is an interesting place. In many ways it reminds me of Kangerlussuaq, the center for US science operations in Greenland. The town sits on the McMurdo Sound, across which are the Royal Society Range which tower to 13000&amp;rsquo; from sea level. Being on the coast also means that there is marine wildlife. In the short time that I was there, we saw seals and emperor penguins, but when the icebreaker comes in and breaks the sea ice later in the summer whales, penguins, and seals will surely have a stronger presence. The culture in town in somewhat divided between the contractors and the scientists. They call us &amp;lsquo;beakers&amp;rsquo;, which, although somewhat condescending, is more endearing than the myriad nicknames I was given in high school.&lt;/p&gt;
 
@@ -2760,7 +2760,7 @@ $$&lt;/p&gt;
                /blog/the-pole/Delta_hu722106d66d2a50f4000fa5df1234233d_3358740_56b4657c64a4dc423fcd04896ebe8b89.webp 400w,
                /blog/the-pole/Delta_hu722106d66d2a50f4000fa5df1234233d_3358740_d595c8ecf2c5a823ac3cddc20a14d5d5.webp 760w,
                /blog/the-pole/Delta_hu722106d66d2a50f4000fa5df1234233d_3358740_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/the-pole/Delta_hu722106d66d2a50f4000fa5df1234233d_3358740_56b4657c64a4dc423fcd04896ebe8b89.webp&#34;
+               src=&#34;https://benhills.github.io/blog/the-pole/Delta_hu722106d66d2a50f4000fa5df1234233d_3358740_56b4657c64a4dc423fcd04896ebe8b89.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2792,7 +2792,7 @@ $$&lt;/p&gt;
                /blog/the-pole/transantarctics_hu722106d66d2a50f4000fa5df1234233d_2874254_9c67154b36ff9b5806a16ec8010cdac6.webp 400w,
                /blog/the-pole/transantarctics_hu722106d66d2a50f4000fa5df1234233d_2874254_b9ec316632265894b32182f1ce864afd.webp 760w,
                /blog/the-pole/transantarctics_hu722106d66d2a50f4000fa5df1234233d_2874254_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/the-pole/transantarctics_hu722106d66d2a50f4000fa5df1234233d_2874254_9c67154b36ff9b5806a16ec8010cdac6.webp&#34;
+               src=&#34;https://benhills.github.io/blog/the-pole/transantarctics_hu722106d66d2a50f4000fa5df1234233d_2874254_9c67154b36ff9b5806a16ec8010cdac6.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2822,7 +2822,7 @@ $$&lt;/p&gt;
                /blog/the-pole/SPT_hu0a4ff54ba61226b25c17514fab2365d0_348343_dcb2375f70b7c15199dd92cc5d3b0c91.webp 400w,
                /blog/the-pole/SPT_hu0a4ff54ba61226b25c17514fab2365d0_348343_e6dbc22fb3297710d65ec4ee09685cb3.webp 760w,
                /blog/the-pole/SPT_hu0a4ff54ba61226b25c17514fab2365d0_348343_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/the-pole/SPT_hu0a4ff54ba61226b25c17514fab2365d0_348343_dcb2375f70b7c15199dd92cc5d3b0c91.webp&#34;
+               src=&#34;https://benhills.github.io/blog/the-pole/SPT_hu0a4ff54ba61226b25c17514fab2365d0_348343_dcb2375f70b7c15199dd92cc5d3b0c91.webp&#34;
                width=&#34;760&#34;
                height=&#34;506&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2836,9 +2836,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Going South</title>
-      <link>https://example.com/blog/going-south/</link>
+      <link>https://benhills.github.io/blog/going-south/</link>
       <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/going-south/</guid>
+      <guid>https://benhills.github.io/blog/going-south/</guid>
       <description>&lt;p&gt;I am in the process of deploying to Hercules Dome, Antarctica (‘Herc Dome’, named after the airplane above) and will be in the field for at least a month, likely longer. This research trip came as a surprise to me because, in an emergency, an extra field personnel was needed. Two weeks ago, I was putting together a poster for the American Geophysical Union Fall Meeting in Washington D.C. and making Christmas plans with my girlfriend’s family. In the time since I was informed that I would be needed in Antarctica on Tuesday, November 27, I had to renew my passport, pass a rigorous physical examination (including full blood work, a tuberculosis test, a dental examination, etc.), purchase and pack gear for my first trip to the southern continent, write and print my science poster for a friend to hang up at the conference I would be missing, and finish my schoolwork for the quarter.&lt;/p&gt;
 &lt;p&gt;Mental preparation thrust me into a vortex of emotions. Obviously, I am both excited and nervous about the trip itself, but I also sporadically feel sad, isolated, exhausted, proud, hopeful, and even nostalgic as we pass through Christchurch, New Zealand, where I lived as a 20-year-old student. In the days and weeks to come I will have more trainings and preparations to do at both the McMurdo and South Pole stations. Although being dragged through this emotional landscape is somewhat inevitable, I am hoping for a mental shift toward sharpening my focus on our scientific objectives. After all, that is my reason for being here.&lt;/p&gt;
 
@@ -2863,7 +2863,7 @@ $$&lt;/p&gt;
                /blog/going-south/hd-map_hue72b89f81990392c5429058996f26f48_43647_71f23b853006c34e2591dfde485d40f1.webp 400w,
                /blog/going-south/hd-map_hue72b89f81990392c5429058996f26f48_43647_a4546e1554ad45056d28353bcf19bed3.webp 760w,
                /blog/going-south/hd-map_hue72b89f81990392c5429058996f26f48_43647_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/going-south/hd-map_hue72b89f81990392c5429058996f26f48_43647_71f23b853006c34e2591dfde485d40f1.webp&#34;
+               src=&#34;https://benhills.github.io/blog/going-south/hd-map_hue72b89f81990392c5429058996f26f48_43647_71f23b853006c34e2591dfde485d40f1.webp&#34;
                width=&#34;484&#34;
                height=&#34;417&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2894,7 +2894,7 @@ $$&lt;/p&gt;
                /blog/going-south/IceCoreData_hu0803a4af1784c1df74d0ceb908763193_79889_9b44b828102dfe0850a6ae58535edf58.webp 400w,
                /blog/going-south/IceCoreData_hu0803a4af1784c1df74d0ceb908763193_79889_93ee3c3f2fab8bcbd1cf4e8dca55f99f.webp 760w,
                /blog/going-south/IceCoreData_hu0803a4af1784c1df74d0ceb908763193_79889_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/going-south/IceCoreData_hu0803a4af1784c1df74d0ceb908763193_79889_9b44b828102dfe0850a6ae58535edf58.webp&#34;
+               src=&#34;https://benhills.github.io/blog/going-south/IceCoreData_hu0803a4af1784c1df74d0ceb908763193_79889_9b44b828102dfe0850a6ae58535edf58.webp&#34;
                width=&#34;640&#34;
                height=&#34;450&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2925,7 +2925,7 @@ $$&lt;/p&gt;
                /blog/going-south/clothes_hu8ece794870e2fd8521c3b43a5cefa654_498152_1b186ac16a8b48d494d904b147185bde.webp 400w,
                /blog/going-south/clothes_hu8ece794870e2fd8521c3b43a5cefa654_498152_f3fe9be054356959a3f8db76b709758e.webp 760w,
                /blog/going-south/clothes_hu8ece794870e2fd8521c3b43a5cefa654_498152_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/going-south/clothes_hu8ece794870e2fd8521c3b43a5cefa654_498152_1b186ac16a8b48d494d904b147185bde.webp&#34;
+               src=&#34;https://benhills.github.io/blog/going-south/clothes_hu8ece794870e2fd8521c3b43a5cefa654_498152_1b186ac16a8b48d494d904b147185bde.webp&#34;
                width=&#34;697&#34;
                height=&#34;695&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2939,17 +2939,17 @@ $$&lt;/p&gt;
     
     <item>
       <title>Processes influencing heat transfer in the near-surface ice of Greenland&#39;s ablation zone</title>
-      <link>https://example.com/publication/hills2018/</link>
+      <link>https://benhills.github.io/publication/hills2018/</link>
       <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hills2018/</guid>
+      <guid>https://benhills.github.io/publication/hills2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sea-Level Fingerprinting</title>
-      <link>https://example.com/blog/sea-level-fingerprinting/</link>
+      <link>https://benhills.github.io/blog/sea-level-fingerprinting/</link>
       <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/sea-level-fingerprinting/</guid>
+      <guid>https://benhills.github.io/blog/sea-level-fingerprinting/</guid>
       <description>&lt;p&gt;Projections of sea-level rise from the International Panel on Climate Change (IPCC) 5th Assessment Report are daunting to say the least. Policy makers are most concerned about the changes coming in the next century, over which we could see up to a full meter of sea-level rise. Even under the best-case scenario, dramatically curbing emissions today, the oceans will rise considerably by year 2100 (see the figure below). Looking beyond that 100-year mark though, the rates of sea-level rise become much more uncertain. The largest uncertainty in future sea-level projections is that associated with dynamic losses from the West Antarctic Ice Sheet (WAIS). Dynamic losses are those from speedup of the ice sheet, resulting in drawdown of interior ice and more calving into the ocean. Unlike ice melting, which pretty much scales linearly with the global air temperature, these dynamic losses could entirely eliminate an unstable ice sheet on the timescale of decades to centuries rather than millennia.&lt;/p&gt;
 
 
@@ -2973,7 +2973,7 @@ $$&lt;/p&gt;
                /blog/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_5856d5a353079dbfde643b99970a308e.webp 400w,
                /blog/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_55bdff5ffb534d7a431336680ec5769d.webp 760w,
                /blog/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_5856d5a353079dbfde643b99970a308e.webp&#34;
+               src=&#34;https://benhills.github.io/blog/sea-level-fingerprinting/ipcc_ar5_13-27_hue4a9bb055a15b72671004250451c24ae_35173_5856d5a353079dbfde643b99970a308e.webp&#34;
                width=&#34;589&#34;
                height=&#34;556&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3006,7 +3006,7 @@ $$&lt;/p&gt;
                /blog/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_8b3d2f6100097ef6614a53c3ba5ac1ed.webp 400w,
                /blog/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_42dbaa00d3d92449c7d082e358921ceb.webp 760w,
                /blog/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_8b3d2f6100097ef6614a53c3ba5ac1ed.webp&#34;
+               src=&#34;https://benhills.github.io/blog/sea-level-fingerprinting/selfgravitation-e1521560665946_hu59304f0243382091d904558f1d9bf9c5_102749_8b3d2f6100097ef6614a53c3ba5ac1ed.webp&#34;
                width=&#34;592&#34;
                height=&#34;451&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3038,7 +3038,7 @@ $$&lt;/p&gt;
                /blog/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_1eaebf29742993e6bb4fc2da22936160.webp 400w,
                /blog/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_f9d1c6596df1b83ec3d23aee16d10312.webp 760w,
                /blog/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_1eaebf29742993e6bb4fc2da22936160.webp&#34;
+               src=&#34;https://benhills.github.io/blog/sea-level-fingerprinting/fingerprints_hu78f147769a67a20b7fc9070ce9fb86f8_1463218_1eaebf29742993e6bb4fc2da22936160.webp&#34;
                width=&#34;760&#34;
                height=&#34;256&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3051,9 +3051,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Crystalline Ice</title>
-      <link>https://example.com/blog/crystalline-ice/</link>
+      <link>https://benhills.github.io/blog/crystalline-ice/</link>
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/crystalline-ice/</guid>
+      <guid>https://benhills.github.io/blog/crystalline-ice/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&amp;lsquo;Now suppose,&amp;rsquo; chortled Dr. Breed, enjoying himself, &amp;rsquo;that there were many possible ways in which water could crystallize, could freeze. Suppose that the sort of ice we skate upon and put into highballs&amp;ndash;what we might call ice-one&amp;ndash; is only one of several types of ice. Suppose water always froze as ice-one on Earth because it had never had a seed to teach it how to form ice-two, ice-three, ice-four&amp;hellip;? And suppose,&amp;rsquo; he rapped on his desk with his old hand again, &amp;rsquo;that there were one form, which we will call ice-nine&amp;ndash;a crystal as hard as this desk&amp;ndash;with a melting point of, let us say, one-hundred degrees Fahrenheit, or, better still, a melting point of one-hundred-and-thirty degrees.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -3085,7 +3085,7 @@ $$&lt;/p&gt;
                /blog/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_93af586cc6f61a2bba9e330a413eacb2.webp 400w,
                /blog/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_cc4a37d413d576881933731fd587d3b8.webp 760w,
                /blog/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_93af586cc6f61a2bba9e330a413eacb2.webp&#34;
+               src=&#34;https://benhills.github.io/blog/crystalline-ice/watermolecule_hube666d9788fb7101f5181fd87be78acf_998764_93af586cc6f61a2bba9e330a413eacb2.webp&#34;
                width=&#34;760&#34;
                height=&#34;578&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3120,7 +3120,7 @@ $$&lt;/p&gt;
                /blog/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_c56671314f618958244f0c7ca94ba0c6.webp 400w,
                /blog/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_354d8e3074dafe7b6f00ddc555ca4445.webp 760w,
                /blog/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_c56671314f618958244f0c7ca94ba0c6.webp&#34;
+               src=&#34;https://benhills.github.io/blog/crystalline-ice/phase-diagram_hu36918e10f8af4dbaf69be9e919579f3c_235863_c56671314f618958244f0c7ca94ba0c6.webp&#34;
                width=&#34;760&#34;
                height=&#34;510&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3134,9 +3134,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Greenland Ice Sheet Ablation Zone</title>
-      <link>https://example.com/blog/ablation-zone/</link>
+      <link>https://benhills.github.io/blog/ablation-zone/</link>
       <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/ablation-zone/</guid>
+      <guid>https://benhills.github.io/blog/ablation-zone/</guid>
       <description>&lt;p&gt;From 2015 to 2017 I was a graduate student at the University of Montana. While there, my research focused on heat transfer in Greenland&amp;rsquo;s ablation zone. I was fortunate in getting to experience this place, which up to now has been the most awe inspiring and the most intellectually fascinating place I have ever been. Spending approximately a month of time on the ice (over two separate summers) I learned how to work in such an environment, and specifically how to extract information from one of the most influential natural systems on our planet.&lt;/p&gt;
 &lt;h2 id=&#34;ice-sheet-basics&#34;&gt;Ice Sheet Basics&lt;/h2&gt;
 &lt;p&gt;Ice forms on the Earth&amp;rsquo;s surface in places where more snow falls in the winter than melts in the summer. Typically, this means at either high elevation or high latitude, both of which are landscapes generally void of dense human populations. While it is easy for most of us to think of these as abstract places having no impact on our daily lives, as early as the 1960s scientists were warning of the potential for global influence by the Earth&amp;rsquo;s ice sheets.&lt;/p&gt;
@@ -3164,7 +3164,7 @@ $$&lt;/p&gt;
                /blog/ablation-zone/accabl_hua021b37d7b32ea2a52939f9d359e088c_26655654_38277dd4e9fae0d15b54a8b4d033e791.webp 400w,
                /blog/ablation-zone/accabl_hua021b37d7b32ea2a52939f9d359e088c_26655654_a6a06fe01ee718d50ea14dc27d65dff7.webp 760w,
                /blog/ablation-zone/accabl_hua021b37d7b32ea2a52939f9d359e088c_26655654_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/ablation-zone/accabl_hua021b37d7b32ea2a52939f9d359e088c_26655654_38277dd4e9fae0d15b54a8b4d033e791.webp&#34;
+               src=&#34;https://benhills.github.io/blog/ablation-zone/accabl_hua021b37d7b32ea2a52939f9d359e088c_26655654_38277dd4e9fae0d15b54a8b4d033e791.webp&#34;
                width=&#34;760&#34;
                height=&#34;253&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3195,7 +3195,7 @@ $$&lt;/p&gt;
                /blog/ablation-zone/isunninset_hu7494ad9600d4a9895c52f1b8717378bc_752443_afa3cb44f4c4f908cbb825e90c092a06.webp 400w,
                /blog/ablation-zone/isunninset_hu7494ad9600d4a9895c52f1b8717378bc_752443_5c1008b66f404d21b9edf919b4b5bdd5.webp 760w,
                /blog/ablation-zone/isunninset_hu7494ad9600d4a9895c52f1b8717378bc_752443_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/blog/ablation-zone/isunninset_hu7494ad9600d4a9895c52f1b8717378bc_752443_afa3cb44f4c4f908cbb825e90c092a06.webp&#34;
+               src=&#34;https://benhills.github.io/blog/ablation-zone/isunninset_hu7494ad9600d4a9895c52f1b8717378bc_752443_afa3cb44f4c4f908cbb825e90c092a06.webp&#34;
                width=&#34;537&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3227,7 +3227,7 @@ $$&lt;/p&gt;
                /blog/ablation-zone/hot-water_hud56757ca3a027ba70972e9f698a2c263_207670_c997d1f069c56f21f27885347a87d914.webp 400w,
                /blog/ablation-zone/hot-water_hud56757ca3a027ba70972e9f698a2c263_207670_c0f26f802120b22e054689e4d069d56a.webp 760w,
                /blog/ablation-zone/hot-water_hud56757ca3a027ba70972e9f698a2c263_207670_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/ablation-zone/hot-water_hud56757ca3a027ba70972e9f698a2c263_207670_c997d1f069c56f21f27885347a87d914.webp&#34;
+               src=&#34;https://benhills.github.io/blog/ablation-zone/hot-water_hud56757ca3a027ba70972e9f698a2c263_207670_c997d1f069c56f21f27885347a87d914.webp&#34;
                width=&#34;712&#34;
                height=&#34;474&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3257,7 +3257,7 @@ $$&lt;/p&gt;
                /blog/ablation-zone/hole_hu5ca122fbc12e048477b3e4e646571db0_126123_785a87c751b34a323d9b826a7587b75a.webp 400w,
                /blog/ablation-zone/hole_hu5ca122fbc12e048477b3e4e646571db0_126123_f161110c9794a3eb44143a32d56b43e3.webp 760w,
                /blog/ablation-zone/hole_hu5ca122fbc12e048477b3e4e646571db0_126123_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/blog/ablation-zone/hole_hu5ca122fbc12e048477b3e4e646571db0_126123_785a87c751b34a323d9b826a7587b75a.webp&#34;
+               src=&#34;https://benhills.github.io/blog/ablation-zone/hole_hu5ca122fbc12e048477b3e4e646571db0_126123_785a87c751b34a323d9b826a7587b75a.webp&#34;
                width=&#34;708&#34;
                height=&#34;471&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3274,17 +3274,17 @@ $$&lt;/p&gt;
     
     <item>
       <title>Measured horizontal temperature gradients constrain heat transfer mechanisms in Greenland ice</title>
-      <link>https://example.com/publication/hills2017/</link>
+      <link>https://benhills.github.io/publication/hills2017/</link>
       <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hills2017/</guid>
+      <guid>https://benhills.github.io/publication/hills2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://benhills.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://benhills.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

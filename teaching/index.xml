@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teachings | Benjamin Hills</title>
-    <link>https://example.com/teaching/</link>
-      <atom:link href="https://example.com/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://benhills.github.io/teaching/</link>
+      <atom:link href="https://benhills.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teachings</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://benhills.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Teachings</title>
-      <link>https://example.com/teaching/</link>
+      <link>https://benhills.github.io/teaching/</link>
     </image>
     
     <item>
       <title>Jupyter Boot Camp</title>
-      <link>https://example.com/teaching/coding-boot-camp/</link>
+      <link>https://benhills.github.io/teaching/coding-boot-camp/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/coding-boot-camp/</guid>
+      <guid>https://benhills.github.io/teaching/coding-boot-camp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Climate Modeling</title>
-      <link>https://example.com/teaching/climate/</link>
+      <link>https://benhills.github.io/teaching/climate/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/climate/</guid>
+      <guid>https://benhills.github.io/teaching/climate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Glacier Thermodynamics</title>
-      <link>https://example.com/teaching/thermo/</link>
+      <link>https://benhills.github.io/teaching/thermo/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/thermo/</guid>
+      <guid>https://benhills.github.io/teaching/thermo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ImpDAR Tutorials</title>
-      <link>https://example.com/teaching/impdar/</link>
+      <link>https://benhills.github.io/teaching/impdar/</link>
       <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/impdar/</guid>
+      <guid>https://benhills.github.io/teaching/impdar/</guid>
       <description></description>
     </item>
     
