@@ -229,17 +229,14 @@ $$
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_0c3363e589866221ac1a378345a36e65.webp 400w,
-               /project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_1a2689c21f8e690fb2f7c86850a2710a.webp 760w,
-               /project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_0c3363e589866221ac1a378345a36e65.webp&#34;
+               /project/cof/Isotropic_hu4c9062721c1f76a735e9cffd3be65213_889627_6eb8cfeb30d53b10291f555e8dfe8b4e.webp 400w,
+               /project/cof/Isotropic_hu4c9062721c1f76a735e9cffd3be65213_889627_e6a113d7a12ccaa24db70b963ad9fdb6.webp 760w,
+               /project/cof/Isotropic_hu4c9062721c1f76a735e9cffd3be65213_889627_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://benhills.github.io/project/cof/Isotropic_hu4c9062721c1f76a735e9cffd3be65213_889627_6eb8cfeb30d53b10291f555e8dfe8b4e.webp&#34;
                width=&#34;75%&#34;
-               height=&#34;617&#34;
+               height=&#34;380&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;p&gt;Deformation of ice is a result of primarily defect propagation along the crystal&amp;rsquo;s basal plane. This process is directional, defects do not propagate as easily in the direction of the crystal c-axis; therefore, ice viscosity is orientation dependent with the softest ice aligned with the basal plane. When a strong crystal fabric develops, the bulk ice viscosity can change by ~2 orders of magnitude. This can lead to a feedback where a consistent strain pattern leads to development of a crystal fabric which softens the ice and leads to additional strain.&lt;/p&gt;
-&lt;h2 id=&#34;radar-polarimetry&#34;&gt;Radar Polarimetry&lt;/h2&gt;
-&lt;p&gt;The electrical properties of ice are also orientation dependent. Radio waves move faster (smaller permittivity, $\epsilon$) when polarized parallel to the c-axis than perpendicular. This makes ice what we call a &amp;lsquo;birefringent&amp;rsquo; material.&lt;/p&gt;
 
 
 
@@ -259,15 +256,45 @@ $$
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/cof/birefringence_hu6e33e20b3b03aa3d48feedb4a0dcce8d_193920_9241644c06a616b83aae48fd51e1bbe4.webp 400w,
-               /project/cof/birefringence_hu6e33e20b3b03aa3d48feedb4a0dcce8d_193920_3d234796d5cc70d8c60c5430d68ef384.webp 760w,
-               /project/cof/birefringence_hu6e33e20b3b03aa3d48feedb4a0dcce8d_193920_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/cof/birefringence_hu6e33e20b3b03aa3d48feedb4a0dcce8d_193920_9241644c06a616b83aae48fd51e1bbe4.webp&#34;
-               width=&#34;50%&#34;
-               height=&#34;653&#34;
+               /project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_0c3363e589866221ac1a378345a36e65.webp 400w,
+               /project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_1a2689c21f8e690fb2f7c86850a2710a.webp 760w,
+               /project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://benhills.github.io/project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_0c3363e589866221ac1a378345a36e65.webp&#34;
+               width=&#34;75%&#34;
+               height=&#34;617&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;p&gt;We can take this material property and use it in a strategy to measure the ice fabric remotely (without sampling the ice directly) using radar polarimetry. Repeating radar acquisitions in the same location but with a rotated polarization leads to a measured phase shift associated with the varying wave speed. The fabric strength is directly related to the gradient in measured phase difference between the two polarizations.&lt;/p&gt;
+&lt;p&gt;Deformation of ice is a result of primarily defect propagation along the crystal&amp;rsquo;s basal plane. This process is directional, defects do not propagate as easily in the direction of the crystal c-axis; therefore, ice viscosity is orientation dependent with the softest ice aligned with the basal plane. When a strong crystal fabric develops, the bulk ice viscosity can change by ~2 orders of magnitude. This can lead to a feedback where a consistent strain pattern leads to development of a crystal fabric which softens the ice and leads to additional strain.&lt;/p&gt;
+&lt;h2 id=&#34;radar-polarimetry&#34;&gt;Radar Polarimetry&lt;/h2&gt;
+&lt;p&gt;The electrical properties of ice are also orientation dependent. Radio waves move faster (smaller permittivity, $\epsilon$) when polarized perpendicular to the c-axis than parallel. This makes ice what we call a &amp;lsquo;birefringent&amp;rsquo; material.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/cof/birefringence_hu94561f6dc1dc8bae5944e4dbd07761e5_212590_4386b5fd5861eda014cbe2d66850f597.webp 400w,
+               /project/cof/birefringence_hu94561f6dc1dc8bae5944e4dbd07761e5_212590_44e755f961e6a9b8026846f255c7c73a.webp 760w,
+               /project/cof/birefringence_hu94561f6dc1dc8bae5944e4dbd07761e5_212590_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://benhills.github.io/project/cof/birefringence_hu94561f6dc1dc8bae5944e4dbd07761e5_212590_4386b5fd5861eda014cbe2d66850f597.webp&#34;
+               width=&#34;50%&#34;
+               height=&#34;668&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;We can take this material property and use it in a technique to measure the ice fabric remotely (without sampling the ice directly) using radar polarimetry. Repeating radar acquisitions in the same location but with a rotated polarization leads to a measured phase shift associated with the varying wave speed. The fabric strength is directly related to the gradient in measured phase difference between the two polarizations.&lt;/p&gt;
 
 
 
