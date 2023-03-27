@@ -870,7 +870,7 @@
 
     <div class="article-style">
       <h2 id="impdar">ImpDAR</h2>
-<p>ImpDAR (Impulse raDAR) is a suite of processing and interpretation tools for impulse radar sounding, led by Dr. David Lilien. The software (<a href="https://github.com/dlilien/ImpDAR" target="_blank" rel="noopener">hosted on github</a>) is targeted for ice-penetrating radar applications but usable for ground-penetrating radar and associated surveying applications as well. The core processing steps and general terminology come from a set of Matlab scripts developed at St. Olaf College under Dr. Robert Jacobel. Here, everything has been re-written in python and significant improvements to speed, readability, documentation, and interface have been made across the board. Additionally, ImpDAR is intended to be more flexible than other available options. Support is gradually being added for a variety of file formats. Currently, GSSI, PulseEKKO, GPRMax, SEGY, and several custom file formats are supported. Available processing steps include various filtering operations, trivial modifications such as restacking, cropping, or reversing data, geolocation-related operations like interpolating to constant trace spacing, and various migration routines.</p>
+<p>ImpDAR (Impulse raDAR) is a suite of processing and interpretation tools for impulse radar sounding, led by Dr. David Lilien. The software (<a href="https://github.com/dlilien/ImpDAR" target="_blank" rel="noopener">hosted on github</a>) is targeted for ice-penetrating radar applications but usable for ground-penetrating radar and associated surveying applications as well. The core processing steps and general terminology come from a set of Matlab scripts developed at St. Olaf College under Dr. Robert Jacobel. Here, everything has been re-written in Python and significant improvements to speed, readability, documentation, and interface have been made across the board. Additionally, ImpDAR is intended to be more flexible than other available options. Support is gradually being added for a variety of file formats. Currently, GSSI, PulseEKKO, GPRMax, SEGY, and several custom file formats are supported. Available processing steps include various filtering operations, trivial modifications such as restacking, cropping, or reversing data, geolocation-related operations like interpolating to constant trace spacing, and various migration routines.</p>
 <p>In addition to processing, ImpDAR can also be used for interpreting radargrams (i.e. picking layers). Picking is generally an interactive process, so there is a GUI for carrying out the semi-automated picking procedure. Each picked layer is saved with variables for both the depth and picked power (i.e. the root-mean-square amplitude). The GUI also allows for basic processing steps, with the updates happening to the plot in real time to aid the picking process. We are also developing an automated picking algorithm that will ideally pick both internal layers and the bed reflector.</p>
 
 
@@ -900,7 +900,7 @@
                loading="lazy" data-zoomable /></div>
   </div></figure>
 <h2 id="apdar">ApDAR</h2>
-<p>The ApRES (Autonomous phase-sensitive Radio Echo Sounder) is a new and popular tool within the glaciology community. It transmits a phase-coherent waveform, so repeat acquisitions can be used for interference in order to measure small changes in returned phase. Phase changes are associated either with a difference in the total distance that the wave travels or differences in the wave speed through the medium. We are actively developing an ImpDAR extension for ApRES processing, called &lsquo;ApDAR&rsquo;. We preserve a similar data structure to the impulse data, so users will have some familiarity across the two.</p>
+<p>The ApRES (Autonomous phase-sensitive Radio Echo Sounder) is a new and popular tool within the glaciology community. It is a pulse-compression radar that transmits a phase-coherent waveform, so repeat acquisitions can be used for interference in order to measure small changes in returned phase. Phase changes are associated either with a difference in the total distance that the wave travels or differences in the wave speed through the medium. We are actively developing an ImpDAR extension for ApRES processing, called &lsquo;ApDAR&rsquo;. We preserve a similar data structure to the impulse data, so users will have some familiarity across the two.</p>
 
 
 
@@ -950,18 +950,18 @@
 <figure  id="figure-impdar-prosessing-flow-for-apres-polarimetry">
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="ImpDAR prosessing flow for ApRES polarimetry." srcset="
-               /project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_0fb2735174228d3741b93be029d99bc7.webp 400w,
-               /project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_21845feb0c7c74ae8364d4b510c9add4.webp 760w,
-               /project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-               src="/project/geophysical-tools/polarimetry_hu57a017769490a2a284c809eece7e56b2_547828_0fb2735174228d3741b93be029d99bc7.webp"
-               width="760"
-               height="380"
+               /project/geophysical-tools/polarimetry_huc43a113e76097ded1a07dee3e34e9245_48774_b4faae27278354b8daeb88ca13ccdd62.webp 400w,
+               /project/geophysical-tools/polarimetry_huc43a113e76097ded1a07dee3e34e9245_48774_bd7eb24173a734664ac613bb56e0f23d.webp 760w,
+               /project/geophysical-tools/polarimetry_huc43a113e76097ded1a07dee3e34e9245_48774_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/project/geophysical-tools/polarimetry_huc43a113e76097ded1a07dee3e34e9245_48774_b4faae27278354b8daeb88ca13ccdd62.webp"
+               width="720"
+               height="288"
                loading="lazy" data-zoomable /></div>
   </div><figcaption>
       ImpDAR prosessing flow for ApRES polarimetry.
     </figcaption></figure>
 <h2 id="seidart">SeiDarT</h2>
-<p>SeiDarT (Seismic-Radar Toolbox) is a full-waveform geophysical modeling package meant for both seismic and radar applications (available on <a href="https://github.com/UMainedynamics/SeidarT" target="_blank" rel="noopener">github</a>). Again, the majority of the development is with ice in mind as the primary media, but the tool could be used for other materials as well. This package was primarily developed by Steven Bernsen and Christopher Gerbi at the University of Maine.</p>
+<p>SeiDarT (Seismic-Radar Toolbox) is a full-waveform geophysical modeling package meant for both seismic and radar applications (<a href="https://github.com/UMainedynamics/SeidarT" target="_blank" rel="noopener">hosted on github</a>). Again, the majority of the development is with ice in mind as the primary media, but the tool could be used for other materials as well. This package was primarily developed by Steven Bernsen and Christopher Gerbi at the University of Maine.</p>
 
 
 
