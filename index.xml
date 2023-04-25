@@ -1404,7 +1404,7 @@ $$
       <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://benhills.github.io/project/modeling/</guid>
       <description>&lt;p&gt;I use mathematical models to contextualize and interpret our geophysical measurements. Most of my modeling work has focused on developing theory for a specific physical process
-rather than for future forecasting, for example. Here, I try to provide some context for how I think about the physical of earth systems, but see the associated publications for specifics.&lt;/p&gt;
+rather than in forecasting. Here, I try to provide some context for how I think about the physics of earth systems, but see the associated publications for a more detailed background.&lt;/p&gt;
 &lt;h2 id=&#34;nondimensional-numbers&#34;&gt;Nondimensional Numbers&lt;/h2&gt;
 &lt;p&gt;Physics problems are commonly &amp;rsquo;nondimensionalized&amp;rsquo; in order to compare the scale of two processes. As an example, take the &lt;em&gt;Peclet&lt;/em&gt; number which compares thermal advection (convection) to thermal diffusion (conduction) in a moving fluid,&lt;/p&gt;
 
