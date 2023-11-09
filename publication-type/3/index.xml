@@ -5,7 +5,7 @@
     <link>https://benhills.github.io/publication-type/3/</link>
       <atom:link href="https://benhills.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://benhills.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>Scars of tectonic extension promote ice-sheet nucleation from Hercules Dome, West Antarctica</title>
-      <link>https://benhills.github.io/publication/hoffman2022/</link>
-      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://benhills.github.io/publication/hoffman2022/</guid>
+      <title>Radar-derived crystal orientation fabric suggests dynamic stability at the summit of Hercules Dome during the last ice-sheet deglaciation</title>
+      <link>https://benhills.github.io/publication/hills2024/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://benhills.github.io/publication/hills2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective diffusivity of sulfuric acid in Antarctic ice cores</title>
+      <link>https://benhills.github.io/publication/fudge2023/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://benhills.github.io/publication/fudge2023/</guid>
       <description></description>
     </item>
     
