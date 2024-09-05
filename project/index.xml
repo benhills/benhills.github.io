@@ -172,35 +172,6 @@ $$
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;Empirical results for radar attenuation are generally dependent on the radar system and the empirical method used. Here, I show a result that we found in a single ground-based radar transect that traverses 200 km down the Kamb Ice Stream and up onto Siple Dome. We interpret the reflected power of the wave reflected off the ice-bed interface and calculate attenuation rate as the change in measured bed power with ice thickness. Essentially, if the wave travels through more ice we should measure a weaker return and the rate at which that measured power attenuates is temperature dependent.&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-a-strong-contrast-in-measured-radar-attenuation-across-the-shear-margin-between-kamb-ice-stream-and-siple-dome&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A strong contrast in measured radar attenuation across the shear margin between Kamb Ice Stream and Siple Dome.&#34; srcset=&#34;
-               /project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_ad4c817c170e470f0fc2217f8a3cb659.webp 400w,
-               /project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_49df8d0cae8791edbc7c138941f2bb6b.webp 760w,
-               /project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/ice-temperature/attenuation_hu9e5f44fd6589430cf6a22faa73d011a0_6654106_ad4c817c170e470f0fc2217f8a3cb659.webp&#34;
-               width=&#34;100%&#34;
-               height=&#34;380&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      A strong contrast in measured radar attenuation across the shear margin between Kamb Ice Stream and Siple Dome.
-    &lt;/figcaption&gt;&lt;/figure&gt;
 </description>
     </item>
     
@@ -295,7 +266,7 @@ $$
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;We can take this material property and use it in a technique to measure the ice fabric remotely (without sampling the ice directly) using radar polarimetry. Repeating radar acquisitions in the same location but with a rotated polarization leads to a measured phase shift associated with the varying wave speed. The fabric strength is directly related to the gradient in measured phase difference between the two polarizations.&lt;/p&gt;
-
+&lt;p&gt;#
 
 
 
@@ -318,9 +289,9 @@ $$
            loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Four different polarizations from one location plotted as radargrams over a range of azimuthal orientations.
-    &lt;/figcaption&gt;&lt;/figure&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;We carried out a radar polarimetry experiment at Hercules Dome in order to constrain past and present ice flow there. The strength and orientation of inferred crystal orientation fabric tells us about the flow paterns in the recent past (~10-20 ka) which we compare to the present day ice dynamics that we can measure directly.&lt;/p&gt;
-
+&lt;p&gt;#
 
 
 
@@ -346,7 +317,7 @@ $$
                width=&#34;760&#34;
                height=&#34;594&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -477,8 +448,8 @@ $$
   &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;An example where both thermal and solute diffusion are at play is in sea-ice formation where ice freezes at the boundary between a cold atmosphere and a salty ocean. We applied this theory in cylindrical coordinates for refreezing of glacier boreholes when filled with an antifreeze solution.&lt;/p&gt;
 &lt;h2 id=&#34;ice-sheet-modeling&#34;&gt;Ice-Sheet Modeling&lt;/h2&gt;
-&lt;p&gt;Most of my modeling work has been to isolate and explain physical processes, as above. However, a large component of the modeling community works to directly simulate the real-world behavior at the scale of an ice sheet.&lt;/p&gt;
-
+&lt;p&gt;Most of my modeling work has been to isolate and explain physical processes, as above. However, a large component of the modeling community works to directly simulate the real-world behavior at the scale of an ice sheet. As a collaboration with Dr. Matthew Hoffman of Los Alamos National Laboratory, I used the Model for Precision Across Scales (MPAS) to couple fluid flow beneath an ice sheet to the dynamics of the ice sheet itself. In essense, high pressure within the subglacial hydrologic system lifts the ice sheet off its substrate, allowing it to move faster. I have also done some work with Dr. Daniel Shapero on his finite-element ice-sheet model icepack. We are interested in simulating how ice dynamics effect the development of ice temperature and crystal orientation fabric.&lt;/p&gt;
+&lt;p&gt;#
 
 
 
@@ -506,9 +477,8 @@ $$
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Example finite-element mesh of Greenland from &lt;a href=&#34;http://mpas-dev.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MPAS&lt;/a&gt;.
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;p&gt;As a collaboration with Dr. Matthew Hoffman of Los Alamos National Laboratory, I used the Model for Precision Across Scales (MPAS) to couple fluid flow beneath an ice sheet to the dynamics of the ice sheet itself. In essense, high pressure within the subglacial hydrologic system lifts the ice sheet off its substrate, allowing it to move faster. I have also done some work with Dr. Daniel Shapero on his finite-element ice-sheet model icepack. We are interested in simulating how ice dynamics effect the development of ice temperature and crystal orientation fabric.&lt;/p&gt;
-
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;#
 
 
 
@@ -536,7 +506,7 @@ $$
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Example results from idealized experiments using MPAS.
-    &lt;/figcaption&gt;&lt;/figure&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -607,7 +577,7 @@ $$
       Repeat ApRES acquisition, showing motion (phase offset) of measured reflectors.
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;ApDAR is built to be modular so that various ApRES acquisition techniques can be loaded and processed. One such technique is radar polarimetry, where the antennas are intentionally polarized in one direction or another to pick out differences in the material properties of the ice, namely the ice-crystal orientation fabric.&lt;/p&gt;
-
+&lt;p&gt;#
 
 
 
@@ -635,7 +605,7 @@ $$
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       ImpDAR prosessing flow for ApRES polarimetry.
-    &lt;/figcaption&gt;&lt;/figure&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h2 id=&#34;seidart&#34;&gt;SeiDarT&lt;/h2&gt;
 &lt;p&gt;SeiDarT (Seismic-Radar Toolbox) is a full-waveform geophysical modeling package meant for both seismic and radar applications (&lt;a href=&#34;https://github.com/UMainedynamics/SeidarT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hosted on github&lt;/a&gt;). Again, the majority of the development is with ice in mind as the primary media, but the tool could be used for other materials as well. This package was primarily developed by Steven Bernsen and Christopher Gerbi at the University of Maine.&lt;/p&gt;
 
