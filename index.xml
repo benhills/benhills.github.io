@@ -5,12 +5,20 @@
     <link>https://benhills.github.io/</link>
       <atom:link href="https://benhills.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin Hills</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://benhills.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Benjamin Hills</title>
       <link>https://benhills.github.io/</link>
     </image>
+    
+    <item>
+      <title>Radar Polarimetry in Glaciology: Theory, Measurement Techniques, and Scientific Applications for Investigating the Anisotropy of Ice Masses Greenland and Canadian Arctic ice temperature profiles database</title>
+      <link>https://benhills.github.io/publication/hills2025/</link>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://benhills.github.io/publication/hills2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Radar-derived crystal orientation fabric suggests dynamic stability at the summit of Hercules Dome during the last ice-sheet deglaciation</title>
@@ -1354,58 +1362,7 @@ $$
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;We can take this material property and use it in a technique to measure the ice fabric remotely (without sampling the ice directly) using radar polarimetry. Repeating radar acquisitions in the same location but with a rotated polarization leads to a measured phase shift associated with the varying wave speed. The fabric strength is directly related to the gradient in measured phase difference between the two polarizations.&lt;/p&gt;
-&lt;p&gt;#
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-four-different-polarizations-from-one-location-plotted-as-radargrams-over-a-range-of-azimuthal-orientations&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Four different polarizations from one location plotted as radargrams over a range of azimuthal orientations.&#34;
-           src=&#34;https://benhills.github.io/project/cof/Rotational_Offset.gif&#34;
-           loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      Four different polarizations from one location plotted as radargrams over a range of azimuthal orientations.
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;We carried out a radar polarimetry experiment at Hercules Dome in order to constrain past and present ice flow there. The strength and orientation of inferred crystal orientation fabric tells us about the flow paterns in the recent past (~10-20 ka) which we compare to the present day ice dynamics that we can measure directly.&lt;/p&gt;
-&lt;p&gt;#
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/cof/hd-polarimetry_hu9b54af14dbdf0167da5f6a8bdcc332f4_301166_aa0c4c18d0213f6cb3d5b4bdd85b57e4.webp 400w,
-               /project/cof/hd-polarimetry_hu9b54af14dbdf0167da5f6a8bdcc332f4_301166_a58119a63d34a86b15bca136386ca4b2.webp 760w,
-               /project/cof/hd-polarimetry_hu9b54af14dbdf0167da5f6a8bdcc332f4_301166_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/cof/hd-polarimetry_hu9b54af14dbdf0167da5f6a8bdcc332f4_301166_aa0c4c18d0213f6cb3d5b4bdd85b57e4.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;594&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1537,64 +1494,6 @@ $$
 &lt;p&gt;An example where both thermal and solute diffusion are at play is in sea-ice formation where ice freezes at the boundary between a cold atmosphere and a salty ocean. We applied this theory in cylindrical coordinates for refreezing of glacier boreholes when filled with an antifreeze solution.&lt;/p&gt;
 &lt;h2 id=&#34;ice-sheet-modeling&#34;&gt;Ice-Sheet Modeling&lt;/h2&gt;
 &lt;p&gt;Most of my modeling work has been to isolate and explain physical processes, as above. However, a large component of the modeling community works to directly simulate the real-world behavior at the scale of an ice sheet. As a collaboration with Dr. Matthew Hoffman of Los Alamos National Laboratory, I used the Model for Precision Across Scales (MPAS) to couple fluid flow beneath an ice sheet to the dynamics of the ice sheet itself. In essense, high pressure within the subglacial hydrologic system lifts the ice sheet off its substrate, allowing it to move faster. I have also done some work with Dr. Daniel Shapero on his finite-element ice-sheet model icepack. We are interested in simulating how ice dynamics effect the development of ice temperature and crystal orientation fabric.&lt;/p&gt;
-&lt;p&gt;#
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-example-finite-element-mesh-of-greenland-from-mpashttpmpas-devgithubio&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example finite-element mesh of Greenland from [MPAS](http://mpas-dev.github.io/).&#34; srcset=&#34;
-               /project/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_2810eb026ca58d30c937634047eb80cb.webp 400w,
-               /project/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_a1a255fe7efab1723ef8f44b8735cb0a.webp 760w,
-               /project/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/modeling/MPAS-mesh_hu1a567f29a788c90c11765e9e528b1db1_802371_2810eb026ca58d30c937634047eb80cb.webp&#34;
-               width=&#34;30%&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      Example finite-element mesh of Greenland from &lt;a href=&#34;http://mpas-dev.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MPAS&lt;/a&gt;.
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;#
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-example-results-from-idealized-experiments-using-mpas&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example results from idealized experiments using MPAS.&#34; srcset=&#34;
-               /project/modeling/mpas-results_huf7dc2de23686106c1182ca27dd753964_501905_c60b4740e4290229f0f7a2e6790933bd.webp 400w,
-               /project/modeling/mpas-results_huf7dc2de23686106c1182ca27dd753964_501905_37cf35d7018e5da1dfff008255ae9c09.webp 760w,
-               /project/modeling/mpas-results_huf7dc2de23686106c1182ca27dd753964_501905_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/modeling/mpas-results_huf7dc2de23686106c1182ca27dd753964_501905_c60b4740e4290229f0f7a2e6790933bd.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;285&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      Example results from idealized experiments using MPAS.
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1665,35 +1564,6 @@ $$
       Repeat ApRES acquisition, showing motion (phase offset) of measured reflectors.
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;ApDAR is built to be modular so that various ApRES acquisition techniques can be loaded and processed. One such technique is radar polarimetry, where the antennas are intentionally polarized in one direction or another to pick out differences in the material properties of the ice, namely the ice-crystal orientation fabric.&lt;/p&gt;
-&lt;p&gt;#
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-impdar-prosessing-flow-for-apres-polarimetry&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;ImpDAR prosessing flow for ApRES polarimetry.&#34; srcset=&#34;
-               /project/geophysical-tools/polarimetry_hu3524ae9c1a4a588e4711e69e38a58621_300258_c46e53735e63de7a793860e92491fc3c.webp 400w,
-               /project/geophysical-tools/polarimetry_hu3524ae9c1a4a588e4711e69e38a58621_300258_2e118f5385faa3c422596e1e393f02d4.webp 760w,
-               /project/geophysical-tools/polarimetry_hu3524ae9c1a4a588e4711e69e38a58621_300258_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/geophysical-tools/polarimetry_hu3524ae9c1a4a588e4711e69e38a58621_300258_c46e53735e63de7a793860e92491fc3c.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;304&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      ImpDAR prosessing flow for ApRES polarimetry.
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h2 id=&#34;seidart&#34;&gt;SeiDarT&lt;/h2&gt;
 &lt;p&gt;SeiDarT (Seismic-Radar Toolbox) is a full-waveform geophysical modeling package meant for both seismic and radar applications (&lt;a href=&#34;https://github.com/UMainedynamics/SeidarT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hosted on github&lt;/a&gt;). Again, the majority of the development is with ice in mind as the primary media, but the tool could be used for other materials as well. This package was primarily developed by Steven Bernsen and Christopher Gerbi at the University of Maine.&lt;/p&gt;
 
