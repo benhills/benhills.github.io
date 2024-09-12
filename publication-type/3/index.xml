@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Benjamin Hills</title>
-    <link>https://benhills.github.io/publication-type/3/</link>
-      <atom:link href="https://benhills.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <title>3 | Academic</title>
+    <link>https://example.com/publication-type/3/</link>
+      <atom:link href="https://example.com/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://benhills.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
-      <link>https://benhills.github.io/publication-type/3/</link>
+      <link>https://example.com/publication-type/3/</link>
     </image>
     
     <item>
       <title>Radar-derived crystal orientation fabric suggests dynamic stability at the summit of Hercules Dome during the last ice-sheet deglaciation</title>
-      <link>https://benhills.github.io/publication/hills2024a/</link>
+      <link>https://example.com/publication/hills2024a/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://benhills.github.io/publication/hills2024a/</guid>
+      <guid>https://example.com/publication/hills2024a/</guid>
       <description></description>
     </item>
     

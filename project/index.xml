@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Benjamin Hills</title>
-    <link>https://benhills.github.io/project/</link>
-      <atom:link href="https://benhills.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | Academic</title>
+    <link>https://example.com/project/</link>
+      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://benhills.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://benhills.github.io/project/</link>
+      <link>https://example.com/project/</link>
     </image>
     
     <item>
       <title>Ice Temperature</title>
-      <link>https://benhills.github.io/project/ice-temperature/</link>
+      <link>https://example.com/project/ice-temperature/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://benhills.github.io/project/ice-temperature/</guid>
+      <guid>https://example.com/project/ice-temperature/</guid>
       <description>&lt;p&gt;Temperatures of glacier ice range from ~ -60-0°C, which corresponds to a viscosity range over three orders of magnitude. Ice is generally warmest at the glacier bed, being heated by the energy flux from the solid Earth, and coldest near the glacier surface where ice is in equilibrium with the mean air temperature. Heat moves between those two boundaries through the processes of diffusion (spreading out) and advection (transport by flow of the ice itself). Because the length scale for thermal diffusion in ice is long, deviations in ice temperature can be preserved for thousands of years.&lt;/p&gt;
-
-
 
 
 
@@ -40,7 +38,7 @@
                /project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_beac3cb7e04314905bfd229bb30c6295.webp 400w,
                /project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_c204d6e1207e3840b8d602147ce60bdd.webp 760w,
                /project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_beac3cb7e04314905bfd229bb30c6295.webp&#34;
+               src=&#34;https://example.com/project/ice-temperature/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_beac3cb7e04314905bfd229bb30c6295.webp&#34;
                width=&#34;50%&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -62,15 +60,13 @@
 
 
 
-
-
 &lt;figure  id=&#34;figure-ice-temperature-deviations-measured-in-a-cube-of-greenland-ice&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Ice temperature deviations measured in a cube of Greenland ice.&#34; srcset=&#34;
                /project/ice-temperature/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_26b6469ab0c4684537525001fa150720.webp 400w,
                /project/ice-temperature/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_7750f8614013696d646369f2266b5f8e.webp 760w,
                /project/ice-temperature/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/ice-temperature/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_26b6469ab0c4684537525001fa150720.webp&#34;
+               src=&#34;https://example.com/project/ice-temperature/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_26b6469ab0c4684537525001fa150720.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -92,15 +88,13 @@
 
 
 
-
-
 &lt;figure  id=&#34;figure-whillans-ice-stream-drainage-area-downstream-gradients-in-the-parameters-that-effect-ice-temperature&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Whillans Ice Stream drainage area. Downstream gradients in the parameters that effect ice temperature.&#34; srcset=&#34;
                /project/ice-temperature/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_6aa2b60f4c45dd69d3eca84dc021aa2b.webp 400w,
                /project/ice-temperature/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_864c74954cf23094136a41a43a2534b8.webp 760w,
                /project/ice-temperature/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/ice-temperature/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_6aa2b60f4c45dd69d3eca84dc021aa2b.webp&#34;
+               src=&#34;https://example.com/project/ice-temperature/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_6aa2b60f4c45dd69d3eca84dc021aa2b.webp&#34;
                width=&#34;760&#34;
                height=&#34;228&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -121,15 +115,13 @@
 
 
 
-
-
 &lt;figure  id=&#34;figure-modeled-ice-temperatures-using-gradients-like-those-above&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Modeled ice temperatures using gradients like those above.&#34; srcset=&#34;
                /project/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_6b9e0b305d76b6655608848ad5185d75.webp 400w,
                /project/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_1cd70c154c5ac692a548edfe5199b10a.webp 760w,
                /project/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_6b9e0b305d76b6655608848ad5185d75.webp&#34;
+               src=&#34;https://example.com/project/ice-temperature/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_6b9e0b305d76b6655608848ad5185d75.webp&#34;
                width=&#34;760&#34;
                height=&#34;338&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -138,14 +130,6 @@
     &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h2 id=&#34;radar-attenuation&#34;&gt;Radar Attenuation&lt;/h2&gt;
 &lt;p&gt;Ice temperature can theoretically be measured remotely using radar attenuation. Attenuation is the result of energy absorption through electrical conduction which is temperature dependent. The function is in the form of an Arrhenius relation,&lt;/p&gt;
-
-$$ 
-N \propto \sigma \propto e^{\frac{-Q}{RT}}
-$$
-
-&lt;p&gt;where the attenuation rate, $N$, is proportional to the electrical conductivity, $\sigma$.&lt;/p&gt;
-
-
 
 
 
@@ -166,7 +150,7 @@ $$
                /project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_b816286980811cb7f00d3d12057bf08e.webp 400w,
                /project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_71be4f756686cf692167855bcadead6e.webp 760w,
                /project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_b816286980811cb7f00d3d12057bf08e.webp&#34;
+               src=&#34;https://example.com/project/ice-temperature/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_b816286980811cb7f00d3d12057bf08e.webp&#34;
                width=&#34;50%&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -177,12 +161,10 @@ $$
     
     <item>
       <title>Crystal Fabric</title>
-      <link>https://benhills.github.io/project/cof/</link>
+      <link>https://example.com/project/cof/</link>
       <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://benhills.github.io/project/cof/</guid>
+      <guid>https://example.com/project/cof/</guid>
       <description>&lt;p&gt;Snow crystals are deposited at random orientation on the glacier surface. In other words, the &amp;lsquo;crystal orientation fabric&amp;rsquo; is initially isotropic (non-directional). As ice flows, crystal c-axes rotate away from the primary extensional axis and toward compression. In places where ice flow is consistent for hundreds or thousands of years, the bulk fabric becomes anisotropic. Single-pole fabrics with upward-pointing c-axes develop at an ice divide where flow is uniform vertical compression and outward extension (new snow continually added at the surface). In this case, the ice hardens in the vertical and preserves old ice near the bed. Horizontal girdle fabrics develop in an ice-stream shear margin where transverse shear dominates.&lt;/p&gt;
-
-
 
 
 
@@ -203,13 +185,11 @@ $$
                /project/cof/Isotropic_hu4c9062721c1f76a735e9cffd3be65213_889627_6eb8cfeb30d53b10291f555e8dfe8b4e.webp 400w,
                /project/cof/Isotropic_hu4c9062721c1f76a735e9cffd3be65213_889627_e6a113d7a12ccaa24db70b963ad9fdb6.webp 760w,
                /project/cof/Isotropic_hu4c9062721c1f76a735e9cffd3be65213_889627_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/cof/Isotropic_hu4c9062721c1f76a735e9cffd3be65213_889627_6eb8cfeb30d53b10291f555e8dfe8b4e.webp&#34;
+               src=&#34;https://example.com/project/cof/Isotropic_hu4c9062721c1f76a735e9cffd3be65213_889627_6eb8cfeb30d53b10291f555e8dfe8b4e.webp&#34;
                width=&#34;75%&#34;
                height=&#34;380&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-
-
 
 
 
@@ -230,7 +210,7 @@ $$
                /project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_0c3363e589866221ac1a378345a36e65.webp 400w,
                /project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_1a2689c21f8e690fb2f7c86850a2710a.webp 760w,
                /project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_0c3363e589866221ac1a378345a36e65.webp&#34;
+               src=&#34;https://example.com/project/cof/cof-time-scales_hu42309d25c01196f27b1ea2f003cb9707_253879_0c3363e589866221ac1a378345a36e65.webp&#34;
                width=&#34;75%&#34;
                height=&#34;617&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -252,15 +232,13 @@ $$
 
 
 
-
-
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
                /project/cof/birefringence_hu94561f6dc1dc8bae5944e4dbd07761e5_212590_4386b5fd5861eda014cbe2d66850f597.webp 400w,
                /project/cof/birefringence_hu94561f6dc1dc8bae5944e4dbd07761e5_212590_44e755f961e6a9b8026846f255c7c73a.webp 760w,
                /project/cof/birefringence_hu94561f6dc1dc8bae5944e4dbd07761e5_212590_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/cof/birefringence_hu94561f6dc1dc8bae5944e4dbd07761e5_212590_4386b5fd5861eda014cbe2d66850f597.webp&#34;
+               src=&#34;https://example.com/project/cof/birefringence_hu94561f6dc1dc8bae5944e4dbd07761e5_212590_4386b5fd5861eda014cbe2d66850f597.webp&#34;
                width=&#34;50%&#34;
                height=&#34;668&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -271,146 +249,24 @@ $$
     </item>
     
     <item>
-      <title>Modeling</title>
-      <link>https://benhills.github.io/project/modeling/</link>
+      <title>Planetary</title>
+      <link>https://example.com/project/planetary/</link>
       <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://benhills.github.io/project/modeling/</guid>
-      <description>&lt;p&gt;I use mathematical models to contextualize and interpret our geophysical measurements. Most of my modeling work has focused on developing theory for a specific physical process
-rather than in forecasting. Here, I try to provide some context for how I think about the physics of earth systems, but see the associated publications for a more detailed background.&lt;/p&gt;
-&lt;h2 id=&#34;nondimensional-numbers&#34;&gt;Nondimensional Numbers&lt;/h2&gt;
-&lt;p&gt;Physics problems are commonly &amp;rsquo;nondimensionalized&amp;rsquo; in order to compare the scale of two processes. As an example, take the &lt;em&gt;Peclet&lt;/em&gt; number which compares thermal advection (convection) to thermal diffusion (conduction) in a moving fluid,&lt;/p&gt;
-
-$$ 
-Pe = \frac{vL}{\alpha}
-$$
-
-&lt;p&gt;where  $ v $  is the fluid velocity,  $ L $  is the characteristic length scale, and  $ \alpha $  is the thermal diffusivity (a material constant). In a diffusion-dominated system, the thermal diffusivity is larger than the velocity time length scale, so  $ Pe &lt; 1 $ , as is the case in microfluidics with a slow-moving non-turbulent fluid moving through a small channel. Fluid systems are more commonly advection dominated, especially in Earth science applications, think river, ocean current, or even ice stream, with  $ Pe \gg 1 $ .&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_9b11f4ad80ca5f50f1b3f764d2856009.webp 400w,
-               /project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_b795a6cf6c9752c39a6b3e9588234a63.webp 760w,
-               /project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/modeling/Peclet_huad24564a8ab9728e0cfc8096a0b5e475_160555_9b11f4ad80ca5f50f1b3f764d2856009.webp&#34;
-               width=&#34;60%&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;p&gt;Ice sheets are generally advection dominated, but the scale varies depending on the setting. Take an ice divide, where flow is downward at ~0.1 m/yr and ice is ~2 km thick, then in the vertical  $ Pe $  ~ 1-10, only slightly favoring advection. Thinking instead in the horizontal, across the spatial scales of an ice sheet, diffusion is entirely ineffective. Ice streams flow at ~100-1000 m/yr across effective length scales of many ice thicknesses, say 10-50 km, then in the horizontal  $ Pe $  ~ 10&lt;sup&gt;4&lt;/sup&gt;-10&lt;sup&gt;6&lt;/sup&gt;. In cases like this, where the nondimensional number is very far from 1, processes can be ignored entirely often simplifying modeling or engineering applications.&lt;/p&gt;
-&lt;p&gt;In an ice-stream shear margin, there are four critical processes which control ice temperature: diffusion, vertical advection associated with new snow deposited at the surface, heat generation from the friction in plane shear, and downstream or cross-margin advection sourcing cold ice from outside the shear margin. The first two processes are compared using the standard  $ Pe $  number which in this case (as above) is larger than 1 but only slightly. With the third process we introduce a new dimensionless number, the &lt;em&gt;Brinkmann&lt;/em&gt; number which compares heat generation to diffusion,&lt;/p&gt;
-
-$$ 
-Br = \frac{QH^2}{k\Delta T}
-$$
-
-&lt;p&gt;These are generally large in an ice-stream shear margin, so much that without considering any other processes the shear margin would be mostly temperate ice. However, we know that cold ice is constantly moving through the system. We nondimensionalize this through a horizontal &lt;em&gt;Peclet&lt;/em&gt;-like number&lt;/p&gt;
-
-$$ 
-\Lambda = \frac{H}{\alpha \Delta T} \int_0^H u \frac{\partial T}{\partial x} dz
-$$
-
-&lt;p&gt;We found that in a shear margin at Antarctica&amp;rsquo;s Siple Coast  $ Br $  is only slightly larger than  $ \Lambda $ , so ice temperatures should be warmer than the surrounding ice but not necessarily temperate.&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_d83ae8434dd6b869f8487e28e1451f7a.webp 400w,
-               /project/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_790f7400d3c9615a1dd277f877ca5041.webp 760w,
-               /project/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/modeling/brinkmann-meyer_hu8c299c9cf1764b9a1644e1820b085d8a_254105_d83ae8434dd6b869f8487e28e1451f7a.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;543&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;phase-boundary-problems&#34;&gt;Phase-Boundary Problems&lt;/h2&gt;
-&lt;p&gt;One of the reasons the water molecule is so interesting is that both the melting point and the boiling point are within our range of experienced temperatures. Studying the transition between phases, in particular the ice-water transition, leads us to track how the boundary moves in time. Mathematical models which simulate these conditions solve the so-called &lt;em&gt;Stefan&lt;/em&gt; problem which has another nondimensional number, the &lt;em&gt;Stefan&lt;/em&gt; number,&lt;/p&gt;
-
-$$ 
-St = \frac{c\Delta T}{L}
-$$
-
-&lt;p&gt;where sensible heat (heat capacity, $c$, times the temperature gradient, $\Delta T$), is compared to latent heat ($L$). When  $St\gg1$  heat is rapidly supplied to the phase boundary, so it moves quickly. When $ St\ll1$ the phase boundary is not supplied with sufficient energy to transition, so it moves slowly.&lt;/p&gt;
-&lt;p&gt;In a slightly more complicated scenario solute is introduced to the liquid, suppressing the melting point at the phase boundary. We call this an &amp;rsquo;extended&amp;rsquo; &lt;em&gt;Stefan&lt;/em&gt; problem. Here, not only does heat need to be evacuated from the phase boundary for the freezing front to step forward, but solute also needs to be rejected from the fluid. Generally, rates of solute diffusion are &lt;em&gt;much&lt;/em&gt; slower than thermal diffusion, so it becomes a dominant process. The two diffusion rates are compared with the &lt;em&gt;Lewis&lt;/em&gt; number,&lt;/p&gt;
-
-$$ 
-Le = \frac{\alpha}{D}
-$$
-
-&lt;p&gt;where representative length scales for diffusion are $\sqrt{\alpha t}$ for thermal and $\sqrt{D t}$ for molecular diffusion of the solute.&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_27ccbea9029f20bcb25906fe0561e879.webp 400w,
-               /project/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_11c4dc78b44ff12257c6eb868fefc44c.webp 760w,
-               /project/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/modeling/constitutional-supercooling_hu086bde7d749e968c515658d8b0c8e626_122168_27ccbea9029f20bcb25906fe0561e879.webp&#34;
-               width=&#34;50%&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;p&gt;An example where both thermal and solute diffusion are at play is in sea-ice formation where ice freezes at the boundary between a cold atmosphere and a salty ocean. We applied this theory in cylindrical coordinates for refreezing of glacier boreholes when filled with an antifreeze solution.&lt;/p&gt;
-&lt;h2 id=&#34;ice-sheet-modeling&#34;&gt;Ice-Sheet Modeling&lt;/h2&gt;
-&lt;p&gt;Most of my modeling work has been to isolate and explain physical processes, as above. However, a large component of the modeling community works to directly simulate the real-world behavior at the scale of an ice sheet. As a collaboration with Dr. Matthew Hoffman of Los Alamos National Laboratory, I used the Model for Precision Across Scales (MPAS) to couple fluid flow beneath an ice sheet to the dynamics of the ice sheet itself. In essense, high pressure within the subglacial hydrologic system lifts the ice sheet off its substrate, allowing it to move faster. I have also done some work with Dr. Daniel Shapero on his finite-element ice-sheet model icepack. We are interested in simulating how ice dynamics effect the development of ice temperature and crystal orientation fabric.&lt;/p&gt;
+      <guid>https://example.com/project/planetary/</guid>
+      <description>&lt;p&gt;I have growing interests in planetary ice.&lt;/p&gt;
+&lt;h2 id=&#34;pingos-and-permafrost&#34;&gt;Pingos and Permafrost&lt;/h2&gt;
+&lt;h2 id=&#34;martian-radar-sounding&#34;&gt;Martian Radar Sounding&lt;/h2&gt;
 </description>
     </item>
     
     <item>
       <title>Geophysical Tools</title>
-      <link>https://benhills.github.io/project/geophysical-tools/</link>
+      <link>https://example.com/project/geophysical-tools/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://benhills.github.io/project/geophysical-tools/</guid>
+      <guid>https://example.com/project/geophysical-tools/</guid>
       <description>&lt;h2 id=&#34;impdar&#34;&gt;ImpDAR&lt;/h2&gt;
 &lt;p&gt;ImpDAR (Impulse raDAR) is a suite of processing and interpretation tools for impulse radar sounding, led by Dr. David Lilien. The software (&lt;a href=&#34;https://github.com/dlilien/ImpDAR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hosted on github&lt;/a&gt;) is targeted for ice-penetrating radar applications but usable for ground-penetrating radar and associated surveying applications as well. The core processing steps and general terminology come from a set of Matlab scripts developed at St. Olaf College under Dr. Robert Jacobel. Here, everything has been re-written in Python and significant improvements to speed, readability, documentation, and interface have been made across the board. Additionally, ImpDAR is intended to be more flexible than other available options. Support is gradually being added for a variety of file formats. Currently, GSSI, PulseEKKO, GPRMax, SEGY, and several custom file formats are supported. Available processing steps include various filtering operations, trivial modifications such as restacking, cropping, or reversing data, geolocation-related operations like interpolating to constant trace spacing, and various migration routines.&lt;/p&gt;
 &lt;p&gt;In addition to processing, ImpDAR can also be used for interpreting radargrams (i.e. picking layers). Picking is generally an interactive process, so there is a GUI for carrying out the semi-automated picking procedure. Each picked layer is saved with variables for both the depth and picked power (i.e. the root-mean-square amplitude). The GUI also allows for basic processing steps, with the updates happening to the plot in real time to aid the picking process. We are also developing an automated picking algorithm that will ideally pick both internal layers and the bed reflector.&lt;/p&gt;
-
-
 
 
 
@@ -431,7 +287,7 @@ $$
                /project/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_35481a88845e3d15a3f736c9c58b3a8c.webp 400w,
                /project/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_d10d4dc68ef138846c8f52375b9f1a97.webp 760w,
                /project/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_35481a88845e3d15a3f736c9c58b3a8c.webp&#34;
+               src=&#34;https://example.com/project/geophysical-tools/layer-interpretation_hube5f12825a8c46f8fd63167a1dbd1ae4_349398_35481a88845e3d15a3f736c9c58b3a8c.webp&#34;
                width=&#34;750&#34;
                height=&#34;750&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -452,15 +308,13 @@ $$
 
 
 
-
-
 &lt;figure  id=&#34;figure-repeat-apres-acquisition-showing-motion-phase-offset-of-measured-reflectors&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Repeat ApRES acquisition, showing motion (phase offset) of measured reflectors.&#34; srcset=&#34;
                /project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_5ca1cae0709d5aa41c41dbaf70d33a25.webp 400w,
                /project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_a9789dea67f75c3931103264078511bd.webp 760w,
                /project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_5ca1cae0709d5aa41c41dbaf70d33a25.webp&#34;
+               src=&#34;https://example.com/project/geophysical-tools/pres_hu847edfb215e0444d8ce3ecd2fe00402b_56497_5ca1cae0709d5aa41c41dbaf70d33a25.webp&#34;
                width=&#34;640&#34;
                height=&#34;480&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -484,12 +338,10 @@ $$
 
 
 
-
-
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;https://benhills.github.io/project/geophysical-tools/Ex.gif&#34;
+           src=&#34;https://example.com/project/geophysical-tools/Ex.gif&#34;
            loading=&#34;lazy&#34; data-zoomable width=&#34;50%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 </description>
@@ -497,14 +349,12 @@ $$
     
     <item>
       <title>Alpine Glaciology</title>
-      <link>https://benhills.github.io/project/alpine-glaciology/</link>
+      <link>https://example.com/project/alpine-glaciology/</link>
       <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://benhills.github.io/project/alpine-glaciology/</guid>
+      <guid>https://example.com/project/alpine-glaciology/</guid>
       <description>&lt;p&gt;Much of the original theory in glaciology came from work on alpine glaciers, mostly in Europe. This is partially because of their relative proximity to human civilizations, but also becuase until recently we thought that the polar ice sheets operated on millenial timescales, too long to be of immenent concern. It was only around the turn of the century that the glaciological community started to recognize key instabilities within the ice sheets that can be triggered much faster, on the order of decades to centuries. While alpine glaciers have since gotten less attention in terms of sea-level focused research publications and grant funding, they are still critical for water supply, temperature, and chemistry, especially in alpine environments.&lt;/p&gt;
 &lt;h2 id=&#34;ice-dynamics&#34;&gt;Ice Dynamics&lt;/h2&gt;
-&lt;p&gt;We study alpine glacier dynamics using various tools and techniques. As an example, we use a ground-based radar interferometer at the north face of Mt. Baker. We repeatedly scan the mountain face every 2 minutes for several days and by comparing the phase return between scans can tell how objects in the field of view are moving. This is much like the ApRES measurement described in &lt;a href=&#34;https://benhills.github.io/project/geophysical-tools/&#34;&gt;Geophysical Tools&lt;/a&gt; but many different reflections from across a range of azimuths.&lt;/p&gt;
-
-
+&lt;p&gt;We study alpine glacier dynamics using various tools and techniques. As an example, we use a ground-based radar interferometer at the north face of Mt. Baker. We repeatedly scan the mountain face every 2 minutes for several days and by comparing the phase return between scans can tell how objects in the field of view are moving. This is much like the ApRES measurement described in &lt;a href=&#34;https://example.com/project/geophysical-tools/&#34;&gt;Geophysical Tools&lt;/a&gt; but many different reflections from across a range of azimuths.&lt;/p&gt;
 
 
 
@@ -525,14 +375,12 @@ $$
                /project/alpine-glaciology/baker_hu284d939a3cc125d20c5fd77c3e290803_456965_827fc8f41bf89976f4976ed5e44643c0.webp 400w,
                /project/alpine-glaciology/baker_hu284d939a3cc125d20c5fd77c3e290803_456965_a47e3ade094309f58f304ad911e78f18.webp 760w,
                /project/alpine-glaciology/baker_hu284d939a3cc125d20c5fd77c3e290803_456965_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/alpine-glaciology/baker_hu284d939a3cc125d20c5fd77c3e290803_456965_827fc8f41bf89976f4976ed5e44643c0.webp&#34;
+               src=&#34;https://example.com/project/alpine-glaciology/baker_hu284d939a3cc125d20c5fd77c3e290803_456965_827fc8f41bf89976f4976ed5e44643c0.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;In collaboration with Dr. Peter Neff of the University of Minnesota, we are surveying Combatant Col in preparation for an ice core to be drilled there in summer 2023. This is a radar survey which includes not only measurements of the ice geometry, but also repeat measurements to investigate a perennial firn aquifer and to understand how the ice is flowing.&lt;/p&gt;
-
-
 
 
 
@@ -553,7 +401,7 @@ $$
                /project/alpine-glaciology/waddington_surveying_hue0bab21f1beaed078012c0d9ee9e2341_6008249_f715a590510380780e8de29af359a301.webp 400w,
                /project/alpine-glaciology/waddington_surveying_hue0bab21f1beaed078012c0d9ee9e2341_6008249_8535491999195f0719e48c6861779ccd.webp 760w,
                /project/alpine-glaciology/waddington_surveying_hue0bab21f1beaed078012c0d9ee9e2341_6008249_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/alpine-glaciology/waddington_surveying_hue0bab21f1beaed078012c0d9ee9e2341_6008249_f715a590510380780e8de29af359a301.webp&#34;
+               src=&#34;https://example.com/project/alpine-glaciology/waddington_surveying_hue0bab21f1beaed078012c0d9ee9e2341_6008249_f715a590510380780e8de29af359a301.webp&#34;
                width=&#34;760&#34;
                height=&#34;346&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -575,21 +423,17 @@ $$
 
 
 
-
-
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
                /project/alpine-glaciology/snow-pit_hufbb8dc8af21203b24f648026c9457cdf_108650_6b0ea882f61214c227913e302f30bdbd.webp 400w,
                /project/alpine-glaciology/snow-pit_hufbb8dc8af21203b24f648026c9457cdf_108650_5c47e78f58e87dac9c35ebe8f03508e7.webp 760w,
                /project/alpine-glaciology/snow-pit_hufbb8dc8af21203b24f648026c9457cdf_108650_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/alpine-glaciology/snow-pit_hufbb8dc8af21203b24f648026c9457cdf_108650_6b0ea882f61214c227913e302f30bdbd.webp&#34;
+               src=&#34;https://example.com/project/alpine-glaciology/snow-pit_hufbb8dc8af21203b24f648026c9457cdf_108650_6b0ea882f61214c227913e302f30bdbd.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-
-
 
 
 
@@ -610,14 +454,12 @@ $$
                /project/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_ca42cb50c7145ad115977f5be3c47949.webp 400w,
                /project/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_2e41a6b6315ece17bfac126de900ce03.webp 760w,
                /project/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_ca42cb50c7145ad115977f5be3c47949.webp&#34;
+               src=&#34;https://example.com/project/alpine-glaciology/density_hu3f7236b7fdca2276b75c71ce23cc382b_207829_ca42cb50c7145ad115977f5be3c47949.webp&#34;
                width=&#34;760&#34;
                height=&#34;574&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;The conventional mass balance methods described above are still in use for many glaciers today, including a continuing record for South Cascade Glacier. Being glacier geophysicists though, we are interested in developing more innovative ways to measure the inputs and outputs for the system. In particular, we are using ice-penetrating radar to get a distributed snow depth measurement at the end of the winter season. The hope is not to abandon the snow coring completely, but to use the two in parallel to build a more robust, and glacier wide, observation for snow inputs to the glacier system. With radar, we can easily see a reflection of the previous summer’s surface (giving the total snow depth accumulated over the winter season), but in some areas we can also see deeper reflections from multi-year snow (firn) layers. Firn observations could provide insight into the mechanisms for accumulation in this alpine setting including avalanching and wind-blown snow.&lt;/p&gt;
-
-
 
 
 
@@ -638,7 +480,7 @@ $$
                /project/alpine-glaciology/SCG_Panel_Map_hu1c16bbbe2e5dc55abb81abf305f056cd_1802779_0042bc5172d2e3a3539b00c912b00ade.webp 400w,
                /project/alpine-glaciology/SCG_Panel_Map_hu1c16bbbe2e5dc55abb81abf305f056cd_1802779_64d5a90e73a7ea91598fea08aedb8a53.webp 760w,
                /project/alpine-glaciology/SCG_Panel_Map_hu1c16bbbe2e5dc55abb81abf305f056cd_1802779_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/alpine-glaciology/SCG_Panel_Map_hu1c16bbbe2e5dc55abb81abf305f056cd_1802779_0042bc5172d2e3a3539b00c912b00ade.webp&#34;
+               src=&#34;https://example.com/project/alpine-glaciology/SCG_Panel_Map_hu1c16bbbe2e5dc55abb81abf305f056cd_1802779_0042bc5172d2e3a3539b00c912b00ade.webp&#34;
                width=&#34;730&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -648,13 +490,11 @@ $$
     
     <item>
       <title>Drilling in Ice</title>
-      <link>https://benhills.github.io/project/drilling/</link>
+      <link>https://example.com/project/drilling/</link>
       <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://benhills.github.io/project/drilling/</guid>
+      <guid>https://example.com/project/drilling/</guid>
       <description>&lt;h2 id=&#34;ice-core-drilling&#34;&gt;Ice-Core Drilling&lt;/h2&gt;
 &lt;p&gt;Much of our work aids in site selection for ice cores. We use geophysical tools to survey the ice geometry and stratigraphy. We can estimate ice age, ice temperature, past flow patterns, etc. With this information, paleoclimatologists are able to make an informed desicion on specifically where to drill an ice core in order to retrieve ice that will answer their pending quesitons about the ancient atmosphere and climate. Hercules Dome is currently our primary project. The site is close enough to West Antarctica that it should record a climate signal in the case of West Antarctic Ice Sheet collapse, but far enough that ice would not have melted during that time.&lt;/p&gt;
-
-
 
 
 
@@ -675,7 +515,7 @@ $$
                /project/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_640226aebd920645c55f1aeb9346228e.webp 400w,
                /project/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_b728b0248b0ee1e1314e0f64d79e302e.webp 760w,
                /project/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_640226aebd920645c55f1aeb9346228e.webp&#34;
+               src=&#34;https://example.com/project/drilling/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_640226aebd920645c55f1aeb9346228e.webp&#34;
                width=&#34;100%&#34;
                height=&#34;649&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -696,15 +536,13 @@ $$
 
 
 
-
-
 &lt;figure  id=&#34;figure-organizing-instrumentation-and-cabling-in-preparation-to-deploy-it-down-the-hole&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Organizing instrumentation and cabling in preparation to deploy it down the hole.&#34; srcset=&#34;
                /project/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_9b14a2a2e64cbbf4be7df05c0acd9c0c.webp 400w,
                /project/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_332b82a3bf72958c7c347e5851af4ec9.webp 760w,
                /project/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_9b14a2a2e64cbbf4be7df05c0acd9c0c.webp&#34;
+               src=&#34;https://example.com/project/drilling/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_9b14a2a2e64cbbf4be7df05c0acd9c0c.webp&#34;
                width=&#34;100%&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -725,15 +563,13 @@ $$
 
 
 
-
-
 &lt;figure  id=&#34;figure-looking-down-an-instrumented-hole&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Looking down an instrumented hole.&#34; srcset=&#34;
                /project/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_ab400531032e7ad3e223443745b5255b.webp 400w,
                /project/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_c08be67297c1126089ec8cdef45a4920.webp 760w,
                /project/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_ab400531032e7ad3e223443745b5255b.webp&#34;
+               src=&#34;https://example.com/project/drilling/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_ab400531032e7ad3e223443745b5255b.webp&#34;
                width=&#34;100%&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -756,15 +592,13 @@ $$
 
 
 
-
-
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
                /project/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_267847a81154252d6e58c84876bf99e8.webp 400w,
                /project/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_652b6a1d09add1d3f13b12dfa4f9a24b.webp 760w,
                /project/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://benhills.github.io/project/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_267847a81154252d6e58c84876bf99e8.webp&#34;
+               src=&#34;https://example.com/project/drilling/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_267847a81154252d6e58c84876bf99e8.webp&#34;
                width=&#34;428&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
