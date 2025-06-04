@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Benjamin Hills</title>
+    <link>https://example.com/publication-type/1/</link>
+      <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://example.com/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>A birefringence correction for multi-frequency radar sounding</title>
+      <link>https://example.com/publication/hills2025b/</link>
+      <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hills2025b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From pingos to planets: Geophysical constraints on the interior structure of Ibyuk Pingo with applications to planetary hydrology</title>
+      <link>https://example.com/publication/kubas2025/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kubas2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A GPR Survey of Arctic Pingos</title>
+      <link>https://example.com/publication/bradford2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bradford2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ground-Penetrating Radar Investigations of Terrestrial Analogs for Mars: Eskers at Breiðamerkurjökull, Iceland</title>
+      <link>https://example.com/publication/li2024/</link>
+      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/li2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

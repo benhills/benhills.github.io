@@ -5,7 +5,7 @@
     <link>https://example.com/publication/</link>
       <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Peer-Reviewed Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Peer-Reviewed Publications</title>
@@ -14,32 +14,80 @@
     
     <item>
       <title>Radar Polarimetry in Glaciology: Theory, Measurement Techniques, and Scientific Applications for Investigating the Anisotropy of Ice Masses Greenland and Canadian Arctic ice temperature profiles database</title>
-      <link>https://example.com/publication/hills2025/</link>
-      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hills2025/</guid>
+      <link>https://example.com/publication/hills2025c/</link>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hills2025c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review Article: Antarctica’s internal architecture: Towards a radiostratigraphically-informed age–depth model of the Antarctic ice sheets</title>
+      <link>https://example.com/publication/bingham2025/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bingham2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A birefringence correction for multi-frequency radar sounding</title>
+      <link>https://example.com/publication/hills2025b/</link>
+      <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hills2025b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From pingos to planets: Geophysical constraints on the interior structure of Ibyuk Pingo with applications to planetary hydrology</title>
+      <link>https://example.com/publication/kubas2025/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kubas2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bedmap3 updated ice bed, surface and thickness gridded datasets for Antarctica</title>
+      <link>https://example.com/publication/pritchard2025/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pritchard2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Radar-derived crystal orientation fabric suggests dynamic stability at the summit of Hercules Dome during the last ice-sheet deglaciation</title>
-      <link>https://example.com/publication/hills2024a/</link>
-      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hills2024a/</guid>
+      <link>https://example.com/publication/hills2025/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hills2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A GPR Survey of Arctic Pingos</title>
+      <link>https://example.com/publication/bradford2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bradford2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ground-Penetrating Radar Investigations of Terrestrial Analogs for Mars: Eskers at Breiðamerkurjökull, Iceland</title>
+      <link>https://example.com/publication/li2024/</link>
+      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/li2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entrained Water in Basal Ice Suppresses Radar Bed‐Echo Power at Active Subglacial Lakes</title>
-      <link>https://example.com/publication/hills2024b/</link>
+      <link>https://example.com/publication/hills2024/</link>
       <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hills2024b/</guid>
+      <guid>https://example.com/publication/hills2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effective diffusivity of sulfuric acid in Antarctic ice cores</title>
       <link>https://example.com/publication/fudge2023/</link>
-      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/fudge2023/</guid>
       <description></description>
     </item>
@@ -61,6 +109,14 @@
     </item>
     
     <item>
+      <title>Radar attenuation demonstrates advective cooling in the Siple Coast ice streams</title>
+      <link>https://example.com/publication/hills2023/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hills2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Antarctic Bedmap data: Findable, Accessible, Interoperable, and Reusable (FAIR) sharing of 60 years of ice bed, surface, and thickness data</title>
       <link>https://example.com/publication/fremand2023/</link>
       <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
@@ -73,14 +129,6 @@
       <link>https://example.com/publication/walcott2022/</link>
       <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/walcott2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Radar attenuation demonstrates advective cooling in the Siple Coast ice streams</title>
-      <link>https://example.com/publication/hills2022b/</link>
-      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hills2022b/</guid>
       <description></description>
     </item>
     
