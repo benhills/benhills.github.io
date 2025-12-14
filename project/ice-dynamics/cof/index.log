@@ -1,0 +1,55 @@
+This is METAFONT, Version 2.71828182 (preloaded base=mf 2021.7.19)  11 DEC 2025 21:11
+**index.md index.md.bak
+(index.md
+! A statement can't begin with `..'.
+<to be read again> 
+                   ..
+---->..
+       tension.infinity..
+l.1 ---
+       
+? 
+! Extra tokens will be flushed.
+<to be read again> 
+                   ..
+---->..
+       tension.infinity..
+l.1 ---
+       
+? 
+! Interruption.
+---->..
+       tension.infinity..
+l.1 ---
+       
+? 
+>> therefore
+! Isolated expression.
+<to be read again> 
+                   ,
+l.40 ...irection of the crystal c-axis; therefore,
+                                                   ice viscosity is orientat...
+
+? 
+! Extra tokens will be flushed.
+<to be read again> 
+                   ,
+l.40 ...irection of the crystal c-axis; therefore,
+                                                   ice viscosity is orientat...
+
+? 
+)
+! File ended while scanning to the end of the statement.
+<inserted text> 
+                ;
+<*> index.md
+             index.md.bak
+? 
+! Emergency stop.
+<inserted text> 
+                ;
+<*> index.md
+             index.md.bak
+End of file on the terminal!
+
+

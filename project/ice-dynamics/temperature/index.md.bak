@@ -1,0 +1,54 @@
+---
+title: Ice Dynamics \& Properties
+summary: Temperature and crystal fabric.
+tags:
+date: "2022-01-10T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+  preview_only: true
+
+#links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+#slides: example
+---
+
+Temperatures of glacier ice range from ~ -60-0°C, which corresponds to a viscosity range over three orders of magnitude. Ice is generally warmest at the glacier bed, being heated by the energy flux from the solid Earth, and coldest near the glacier surface where ice is in equilibrium with the mean air temperature. Heat moves between those two boundaries through the processes of diffusion (spreading out) and advection (transport by flow of the ice itself). Because the length scale for thermal diffusion in ice is long, deviations in ice temperature can be preserved for thousands of years.
+
+{{< figure src="length-scale.png" title="" width="50%" caption="Characteristic length scale of thermal diffusion in ice. Temperature variations can be persistent for hundreds of years in alpine glaciers and for thousands to even tens of thousands of years in the Greenland and Antarctic Ice Sheets.">}}
+
+We measure ice temperature directly by drilling into it, installing in-situ instrumentation, and letting the hole freeze in on the instruments. The heat from drilling dissipates on the order of ~months and thereafter instruments measure the representative temperature. Ice-temperature measurements made at slow-moving, accumulation-dominated, ice divide locations (e.g. Greenland Ice Core Project, WAIS Divide) can be used to infer past air temperatures. The past climate is preserved within the ice because the frequency of those climate changes is within the time scale for thermal diffusion. We also measure temperature deviations within the faster moving ice-stream shear margins (more below) and the melt-dominated ablation zone. In the ablation zone, surface meltwater is plentifully available and transports latent heat when it penetrates into a crevasse or through a moulin to the ice-sheet bed. 
+
+{{< figure src="ice-block.jpg" title="" caption="Ice temperature deviations measured in a cube of Greenland ice.">}}
+
+In highly dynamic areas, heat is generated within the ice column through friction as the ice defoms. Warmer ice means a lower viscosity, more deformation, and thus more heat production, creating a positive feedback loop. Some studies even argue that much of the ice in an ice-stream shear margin is at the pressure-melting point. We found that this feedback is suppressed by cold ice moving through the system, ice that was source from higher and colder regions.
+
+{{< figure src="whillans_drainage.jpg" title="Whillans Ice Stream drainage area. Downstream gradients in the parameters that effect ice temperature." >}}
+{{< figure src="siple_temps.jpg" title="Modeled ice temperatures using gradients like those above." >}}
+
+Radar Attenuation 
+---
+
+Ice temperature can theoretically be measured remotely using radar attenuation. Attenuation is the result of energy absorption through electrical conduction which is temperature dependent. The function is in the form of an Arrhenius relation,
+
+
+{{< figure src="proton-conduction.jpg" title="" width="50%">}}
+
+Empirical results for radar attenuation are generally dependent on the radar system and the empirical method used. Here, I show a result that we found in a single ground-based radar transect that traverses 200 km down the Kamb Ice Stream and up onto Siple Dome. We interpret the reflected power of the wave reflected off the ice-bed interface and calculate attenuation rate as the change in measured bed power with ice thickness. Essentially, if the wave travels through more ice we should measure a weaker return and the rate at which that measured power attenuates is temperature dependent.

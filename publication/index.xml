@@ -5,7 +5,7 @@
     <link>https://example.com/publication/</link>
       <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Peer-Reviewed Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Peer-Reviewed Publications</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Resolving radiostratigraphy with squinted synthetic aperture radar focusing</title>
+      <link>https://example.com/publication/hills2026/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hills2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Radar Polarimetry in Glaciology: Theory, Measurement Techniques, and Scientific Applications for Investigating the Anisotropy of Ice Masses Greenland and Canadian Arctic ice temperature profiles database</title>
       <link>https://example.com/publication/hills2025c/</link>
-      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/hills2025c/</guid>
       <description></description>
     </item>
@@ -23,7 +31,7 @@
     <item>
       <title>Review Article: Antarctica’s internal architecture: Towards a radiostratigraphically-informed age–depth model of the Antarctic ice sheets</title>
       <link>https://example.com/publication/bingham2025/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/bingham2025/</guid>
       <description></description>
     </item>

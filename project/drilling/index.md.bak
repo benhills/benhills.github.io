@@ -1,0 +1,53 @@
+---
+title: Drilling in Ice
+summary: Thermal drilling in theory and in practice.
+tags:
+date: "2022-01-05T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+  preview_only: true
+
+#links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+#slides: example
+---
+
+Ice-Core Drilling
+---
+
+Much of our work aids in site selection for ice cores. We use geophysical tools to survey the ice geometry and stratigraphy. We can estimate ice age, ice temperature, past flow patterns, etc. With this information, paleoclimatologists are able to make an informed desicion on specifically where to drill an ice core in order to retrieve ice that will answer their pending quesitons about the ancient atmosphere and climate. Hercules Dome is currently our primary project. The site is close enough to West Antarctica that it should record a climate signal in the case of West Antarctic Ice Sheet collapse, but far enough that ice would not have melted during that time.  
+
+{{< figure src="HD_icesheetgeometry.png" title=""  width="100%">}}
+
+Hot-Water Drilling
+---
+
+Unlike ice-core drilling, thermal drilling methods such as with hot water are destructive, so the goal is not to retrieve any ice. Instead, hot-water holes are used to install instruments which measure in-situ properties like ice temeprature, stress/strain, subglacial water pressure, etc. 
+
+{{< figure src="surface-cables.jpeg" title=""  width="100%" caption="Organizing instrumentation and cabling in preparation to deploy it down the hole.">}}
+{{< figure src="hole-cables.jpeg" title="" width="100%" caption="Looking down an instrumented hole.">}}
+
+Hot-Point Drilling
+---
+
+This is another thermal drilling method which uses conduction at the tip of a melt probe rather than hot water. These drills are simpler in design, so were used earlier, and lighter weight so can be deployed more quickly than hot-water drills. In collaboration with Dr. Dale Winebrenner and Dr. Tim Elam at the Applied Physics Laboratory, I wrote a thermal model and ran an ensemble of model experiments to aid in the engineering design of their hot-point drill, [Ice Diver](https://apl.uw.edu/project/project.php?id=ice_diver). 
+
+{{< figure src="drill-series.png" title="" >}}

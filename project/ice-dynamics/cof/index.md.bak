@@ -1,0 +1,51 @@
+---
+title: Crystal Fabric
+summary: Ice crystal anisotropy and radar polarimetry.
+tags:
+date: "2022-01-09T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+  preview_only: true
+
+#links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+#slides: example
+---
+
+Snow crystals are deposited at random orientation on the glacier surface. In other words, the 'crystal orientation fabric' is initially isotropic (non-directional). As ice flows, crystal c-axes rotate away from the primary extensional axis and toward compression. In places where ice flow is consistent for hundreds or thousands of years, the bulk fabric becomes anisotropic. Single-pole fabrics with upward-pointing c-axes develop at an ice divide where flow is uniform vertical compression and outward extension (new snow continually added at the surface). In this case, the ice hardens in the vertical and preserves old ice near the bed. Horizontal girdle fabrics develop in an ice-stream shear margin where transverse shear dominates. 
+
+{{< figure src="Isotropic.png" title="" width="75%">}}
+
+
+{{< figure src="cof-time-scales.png" title="" width="75%">}}
+
+Deformation of ice is a result of primarily defect propagation along the crystal's basal plane. This process is directional, defects do not propagate as easily in the direction of the crystal c-axis; therefore, ice viscosity is orientation dependent with the softest ice aligned with the basal plane. When a strong crystal fabric develops, the bulk ice viscosity can change by ~2 orders of magnitude. This can lead to a feedback where a consistent strain pattern leads to development of a crystal fabric which softens the ice and leads to additional strain.
+
+Radar Polarimetry
+---
+
+The electrical properties of ice are also orientation dependent. Radio waves move faster (smaller permittivity, $\epsilon$) when polarized perpendicular to the c-axis than parallel. This makes ice what we call a 'birefringent' material.
+
+{{< figure src="birefringence.jpg" title="" width="50%">}}
+
+We can take this material property and use it in a technique to measure the ice fabric remotely (without sampling the ice directly) using radar polarimetry. Repeating radar acquisitions in the same location but with a rotated polarization leads to a measured phase shift associated with the varying wave speed. The fabric strength is directly related to the gradient in measured phase difference between the two polarizations. 
+
+We carried out a radar polarimetry experiment at Hercules Dome in order to constrain past and present ice flow there. The strength and orientation of inferred crystal orientation fabric tells us about the flow paterns in the recent past (~10-20 ka) which we compare to the present day ice dynamics that we can measure directly.

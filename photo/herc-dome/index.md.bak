@@ -1,0 +1,31 @@
+---
+title: Hercules Dome
+summary: 
+tags:
+date: "2022-01-10T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: center
+  preview_only: true
+
+banner:
+  image: "header.jpeg"
+  caption: "Our groomed skiway and field camp at Hercules Dome (photo credit: Rodney Fishbrook)"
+
+#links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+---
+
+{{< gallery album="herc-dome" >}}
