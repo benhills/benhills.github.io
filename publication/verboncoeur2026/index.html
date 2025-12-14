@@ -1,0 +1,1208 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.4.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Benjamin Hills" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Methods that can uniquely constrain subglacial properties are essential for understanding the role of basal processes in modern glacier evolution. Here, we demonstrate a new framework to characterize ice-sheet basal conditions using a basin-scale ($&gt;$10,000 line-km) airborne radio-echo sounding (RES) survey collected in the 2013–14 austral summer over Whillans Ice Plain, Crary Ice Rise, and Ross Ice Shelf. We train a batched, unsupervised K-Means clustering algorithm to group radar bed echoes within the study region, targeting similarities in the shape (as opposed to amplitude) of 1-D scattering profiles at the bed (here, referred to as bed-echo waveforms). We additionally explore the effects of the transmitted beam and survey design on cluster outcomes. We interpret the meaning behind clustered bed-echo waveforms and their spatial distributions in the study region to assess the capabilities of our framework for characterizing the subglacial environment over a basin-scale RES survey. Our findings indicate that clustering the basal ice portion of the bed-echo waveforms yields distinctly shaped clusters and glaciologically meaningful spatial distributions. Estimates of basal environment characteristics from the clustered RES survey used in this study reveal regional contrasts in basal properties across the ice plain and indications of localized processes that influence ice dynamics (e.g., material entrainment). Our bed-echo clustering workflow offers a radar attenuation-independent approach for identifying basal processes under ice sheets––where uncertainty in path effects makes interpreting scattering phenomena challenging––and holds broad potential for application in multi-mission, repeat-track, orbital, and multi-decadal RES surveys." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://example.com/publication/verboncoeur2026/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.67183ad5d9fc42133bc8f9e8a14742f9.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu9514fa0e347f2b799933f532dc1945ad_152873_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu9514fa0e347f2b799933f532dc1945ad_152873_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://example.com/publication/verboncoeur2026/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+  <meta property="og:site_name" content="Benjamin Hills" />
+  <meta property="og:url" content="https://example.com/publication/verboncoeur2026/" />
+  <meta property="og:title" content="Subglacial Conditions Estimated From Unsupervised Clustering Analysis of Radar Bed-Echo Shape | Benjamin Hills" />
+  <meta property="og:description" content="Methods that can uniquely constrain subglacial properties are essential for understanding the role of basal processes in modern glacier evolution. Here, we demonstrate a new framework to characterize ice-sheet basal conditions using a basin-scale ($&gt;$10,000 line-km) airborne radio-echo sounding (RES) survey collected in the 2013–14 austral summer over Whillans Ice Plain, Crary Ice Rise, and Ross Ice Shelf. We train a batched, unsupervised K-Means clustering algorithm to group radar bed echoes within the study region, targeting similarities in the shape (as opposed to amplitude) of 1-D scattering profiles at the bed (here, referred to as bed-echo waveforms). We additionally explore the effects of the transmitted beam and survey design on cluster outcomes. We interpret the meaning behind clustered bed-echo waveforms and their spatial distributions in the study region to assess the capabilities of our framework for characterizing the subglacial environment over a basin-scale RES survey. Our findings indicate that clustering the basal ice portion of the bed-echo waveforms yields distinctly shaped clusters and glaciologically meaningful spatial distributions. Estimates of basal environment characteristics from the clustered RES survey used in this study reveal regional contrasts in basal properties across the ice plain and indications of localized processes that influence ice dynamics (e.g., material entrainment). Our bed-echo clustering workflow offers a radar attenuation-independent approach for identifying basal processes under ice sheets––where uncertainty in path effects makes interpreting scattering phenomena challenging––and holds broad potential for application in multi-mission, repeat-track, orbital, and multi-decadal RES surveys." /><meta property="og:image" content="https://example.com/publication/verboncoeur2026/featured.png" />
+    <meta property="twitter:image" content="https://example.com/publication/verboncoeur2026/featured.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2017-01-01T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2026-01-02T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://example.com/publication/verboncoeur2026/"
+  },
+  "headline": "Subglacial Conditions Estimated From Unsupervised Clustering Analysis of Radar Bed-Echo Shape",
+  
+  "image": [
+    "https://example.com/publication/verboncoeur2026/featured.png"
+  ],
+  
+  "datePublished": "2017-01-01T00:00:00Z",
+  "dateModified": "2026-01-02T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Hannah Verboncoeur"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Benjamin Hills",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://example.com/media/icon_hu9514fa0e347f2b799933f532dc1945ad_152873_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Methods that can uniquely constrain subglacial properties are essential for understanding the role of basal processes in modern glacier evolution. Here, we demonstrate a new framework to characterize ice-sheet basal conditions using a basin-scale ($\u003e$10,000 line-km) airborne radio-echo sounding (RES) survey collected in the 2013–14 austral summer over Whillans Ice Plain, Crary Ice Rise, and Ross Ice Shelf. We train a batched, unsupervised K-Means clustering algorithm to group radar bed echoes within the study region, targeting similarities in the shape (as opposed to amplitude) of 1-D scattering profiles at the bed (here, referred to as bed-echo waveforms). We additionally explore the effects of the transmitted beam and survey design on cluster outcomes. We interpret the meaning behind clustered bed-echo waveforms and their spatial distributions in the study region to assess the capabilities of our framework for characterizing the subglacial environment over a basin-scale RES survey. Our findings indicate that clustering the basal ice portion of the bed-echo waveforms yields distinctly shaped clusters and glaciologically meaningful spatial distributions. Estimates of basal environment characteristics from the clustered RES survey used in this study reveal regional contrasts in basal properties across the ice plain and indications of localized processes that influence ice dynamics (e.g., material entrainment). Our bed-echo clustering workflow offers a radar attenuation-independent approach for identifying basal processes under ice sheets––where uncertainty in path effects makes interpreting scattering phenomena challenging––and holds broad potential for application in multi-mission, repeat-track, orbital, and multi-decadal RES surveys."
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Subglacial Conditions Estimated From Unsupervised Clustering Analysis of Radar Bed-Echo Shape | Benjamin Hills</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="b039ce3e1dc591334132c22e484c7af9" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.8d94c24f7f2845bf1dd16584caebe8cc.js"></script>
+
+  
+
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Benjamin Hills</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Benjamin Hills</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about"><span>About</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#research"><span>Research</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#photos"><span>Photos</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#publications"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+
+
+
+
+
+
+
+
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>Subglacial Conditions Estimated From Unsupervised Clustering Analysis of Radar Bed-Echo Shape</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      Hannah Verboncoeur</span>, <span >
+      Benjamin Hills</span>, <span >
+      Ellianna Abrahams</span>, <span >
+      Matthew Siegfried</span>, <span >
+      Nicholas Holschuh</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    January, 2026
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header" href="/project/cryo-geophysics/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header" href="/project/hydro-geophysics/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 504px;">
+  <div style="position: relative">
+    <img src="/publication/verboncoeur2026/featured_hu07fdf7dd467ce5753488c54ebfc6fb6a_305383_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="504" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Methods that can uniquely constrain subglacial properties are essential for understanding the role of basal processes in modern glacier evolution. Here, we demonstrate a new framework to characterize ice-sheet basal conditions using a basin-scale ($&gt;$10,000 line-km) airborne radio-echo sounding (RES) survey collected in the 2013–14 austral summer over Whillans Ice Plain, Crary Ice Rise, and Ross Ice Shelf. We train a batched, unsupervised K-Means clustering algorithm to group radar bed echoes within the study region, targeting similarities in the shape (as opposed to amplitude) of 1-D scattering profiles at the bed (here, referred to as bed-echo waveforms). We additionally explore the effects of the transmitted beam and survey design on cluster outcomes. We interpret the meaning behind clustered bed-echo waveforms and their spatial distributions in the study region to assess the capabilities of our framework for characterizing the subglacial environment over a basin-scale RES survey. Our findings indicate that clustering the basal ice portion of the bed-echo waveforms yields distinctly shaped clusters and glaciologically meaningful spatial distributions. Estimates of basal environment characteristics from the clustered RES survey used in this study reveal regional contrasts in basal properties across the ice plain and indications of localized processes that influence ice dynamics (e.g., material entrainment). Our bed-echo clustering workflow offers a radar attenuation-independent approach for identifying basal processes under ice sheets––where uncertainty in path effects makes interpreting scattering phenomena challenging––and holds broad potential for application in multi-mission, repeat-track, orbital, and multi-decadal RES surveys.</p>
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#2">
+              Journal article
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In <em>Review</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
+      <h5 class="card-title">Hannah Verboncoeur</h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://example.com/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu6b01dd656067fd15616103589ae6b91f_794753_270x270_fill_q75_lanczos_center.jpg" alt="Benjamin Hills"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://example.com/">Benjamin Hills</a></h5>
+      <h6 class="card-subtitle">Cryo and Hydro Geophysicist</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:benjaminhhills@gmail.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=VjPBuycAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/__benhills__" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/benhills" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0003-4490-7416" target="_blank" rel="noopener">
+        <i class="fab fa-orcid"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
+      <h5 class="card-title">Ellianna Abrahams</h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
+      <h5 class="card-title">Matthew Siegfried</h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
+      <h5 class="card-title">Nicholas Holschuh</h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</div>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <font size="-1">
+<center>
+
+©<script>document.write(/\d{4}/.exec(Date())[0])</script>
+licensed under
+<a href="https://creativecommons.org/licenses/by-nc-nd/4.0" target="_blank">CC BY NC ND 4.0</a>
+
+<br>
+
+Designed and published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank">Wowchemy</a>
+
+</center>
+</font>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.3d946de2e8784a477845261d87025092.js"></script>
+
+    
+    
+    
+      
+      
+        <script src="https://cdn.jsdelivr.net/gh/desandro/imagesloaded@v4.1.4/imagesloaded.pkgd.min.js" integrity="sha512-S5PZ9GxJZO16tT9r3WJp/Safn31eu8uWrzglMahDT4dsmgqWonRY9grk3j+3tfuPr9WJNsfooOR7Gi7HL5W2jw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/metafizzy/isotope@v3.0.6/dist/isotope.pkgd.min.js" integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+
+    
+
+    
+    
+    
+    <script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+    
+    
+      <script src="/js/wowchemy-headroom.208bf5db800f4a4e5a38cf3b67a99a51.js" type="module"></script>
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/en/js/wowchemy.min.3f2a09cf3597f64a958c7d317f4de151.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

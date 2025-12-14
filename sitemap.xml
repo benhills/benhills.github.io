@@ -8,7 +8,19 @@
   <url>
     <loc>https://example.com/publication-type/2/</loc><lastmod>2026-01-02T00:00:00+00:00</lastmod></url>
   <url>
+    <loc>https://example.com/publication/cheng2026/</loc><lastmod>2026-01-02T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2026-01-02T00:00:00+00:00</lastmod></url>
+  <url>
     <loc>https://example.com/</loc><lastmod>2026-01-02T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2026-01-02T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2026-01-02T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://example.com/publication/seltzer2026/</loc><lastmod>2026-01-02T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2026-01-02T00:00:00+00:00</lastmod></url>
   <url>
     <loc></loc><lastmod>2026-01-02T00:00:00+00:00</lastmod></url>
   <url>
@@ -25,6 +37,10 @@
     <loc>https://example.com/publication_types/</loc><lastmod>2026-01-02T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://example.com/publication/hills2026/</loc><lastmod>2026-01-02T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2026-01-02T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://example.com/publication/verboncoeur2026/</loc><lastmod>2026-01-02T00:00:00+00:00</lastmod></url>
   <url>
     <loc></loc><lastmod>2025-11-02T00:00:00+00:00</lastmod></url>
   <url>
@@ -63,8 +79,6 @@
     <loc>https://example.com/publication/pritchard2025/</loc><lastmod>2025-04-29T00:00:00+00:00</lastmod></url>
   <url>
     <loc></loc><lastmod>2025-04-29T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://example.com/publication-type/3/</loc><lastmod>2025-01-21T00:00:00+00:00</lastmod></url>
   <url>
     <loc></loc><lastmod>2025-01-21T00:00:00+00:00</lastmod></url>
   <url>
@@ -190,7 +204,7 @@
   <url>
     <loc>https://example.com/teaching/thermo/</loc><lastmod>2022-01-10T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://example.com/project/hydro/</loc><lastmod>2022-01-10T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/project/hydro-geophysics/</loc><lastmod>2022-01-10T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://example.com/project/planetary/</loc><lastmod>2022-01-09T00:00:00+00:00</lastmod></url>
   <url>

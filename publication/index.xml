@@ -7,16 +7,40 @@
     <description>Peer-Reviewed Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu9514fa0e347f2b799933f532dc1945ad_152873_512x512_fill_lanczos_center_3.png</url>
       <title>Peer-Reviewed Publications</title>
       <link>https://example.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Anisotropic melt inclusions as a confounding signal for ice-penetrating radar observations</title>
+      <link>https://example.com/publication/cheng2026/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/cheng2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combined effects of meltwater and crystallographic orientations control radar reflections in temperate ice</title>
+      <link>https://example.com/publication/seltzer2026/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/seltzer2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Resolving radiostratigraphy with squinted synthetic aperture radar focusing</title>
       <link>https://example.com/publication/hills2026/</link>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/hills2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subglacial Conditions Estimated From Unsupervised Clustering Analysis of Radar Bed-Echo Shape</title>
+      <link>https://example.com/publication/verboncoeur2026/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/verboncoeur2026/</guid>
       <description></description>
     </item>
     

@@ -7,16 +7,40 @@
     <description>Benjamin Hills</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu9514fa0e347f2b799933f532dc1945ad_152873_512x512_fill_lanczos_center_3.png</url>
       <title>Benjamin Hills</title>
       <link>https://example.com/</link>
     </image>
+    
+    <item>
+      <title>Anisotropic melt inclusions as a confounding signal for ice-penetrating radar observations</title>
+      <link>https://example.com/publication/cheng2026/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/cheng2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combined effects of meltwater and crystallographic orientations control radar reflections in temperate ice</title>
+      <link>https://example.com/publication/seltzer2026/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/seltzer2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Resolving radiostratigraphy with squinted synthetic aperture radar focusing</title>
       <link>https://example.com/publication/hills2026/</link>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/hills2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subglacial Conditions Estimated From Unsupervised Clustering Analysis of Radar Bed-Echo Shape</title>
+      <link>https://example.com/publication/verboncoeur2026/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/verboncoeur2026/</guid>
       <description></description>
     </item>
     
@@ -1057,9 +1081,9 @@ Peter was up in an instant trying to chase it, but there was no chance, our tent
     
     <item>
       <title>Hydro Geophysics</title>
-      <link>https://example.com/project/hydro/</link>
+      <link>https://example.com/project/hydro-geophysics/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/hydro/</guid>
+      <guid>https://example.com/project/hydro-geophysics/</guid>
       <description>&lt;h2 id=&#34;ice-core-drilling&#34;&gt;Ice-Core Drilling&lt;/h2&gt;
 &lt;p&gt;Much of our work aids in site selection for ice cores. We use geophysical tools to survey the ice geometry and stratigraphy. We can estimate ice age, ice temperature, past flow patterns, etc. With this information, paleoclimatologists are able to make an informed desicion on specifically where to drill an ice core in order to retrieve ice that will answer their pending quesitons about the ancient atmosphere and climate. Hercules Dome is currently our primary project. The site is close enough to West Antarctica that it should record a climate signal in the case of West Antarctic Ice Sheet collapse, but far enough that ice would not have melted during that time.&lt;/p&gt;
 
@@ -1079,10 +1103,10 @@ Peter was up in an instant trying to chase it, but there was no chance, our tent
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/hydro/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_640226aebd920645c55f1aeb9346228e.webp 400w,
-               /project/hydro/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_b728b0248b0ee1e1314e0f64d79e302e.webp 760w,
-               /project/hydro/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/hydro/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_640226aebd920645c55f1aeb9346228e.webp&#34;
+               /project/hydro-geophysics/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_640226aebd920645c55f1aeb9346228e.webp 400w,
+               /project/hydro-geophysics/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_b728b0248b0ee1e1314e0f64d79e302e.webp 760w,
+               /project/hydro-geophysics/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/hydro-geophysics/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_640226aebd920645c55f1aeb9346228e.webp&#34;
                width=&#34;100%&#34;
                height=&#34;649&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1106,10 +1130,10 @@ Peter was up in an instant trying to chase it, but there was no chance, our tent
 &lt;figure  id=&#34;figure-organizing-instrumentation-and-cabling-in-preparation-to-deploy-it-down-the-hole&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Organizing instrumentation and cabling in preparation to deploy it down the hole.&#34; srcset=&#34;
-               /project/hydro/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_9b14a2a2e64cbbf4be7df05c0acd9c0c.webp 400w,
-               /project/hydro/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_332b82a3bf72958c7c347e5851af4ec9.webp 760w,
-               /project/hydro/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/hydro/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_9b14a2a2e64cbbf4be7df05c0acd9c0c.webp&#34;
+               /project/hydro-geophysics/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_9b14a2a2e64cbbf4be7df05c0acd9c0c.webp 400w,
+               /project/hydro-geophysics/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_332b82a3bf72958c7c347e5851af4ec9.webp 760w,
+               /project/hydro-geophysics/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/hydro-geophysics/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_9b14a2a2e64cbbf4be7df05c0acd9c0c.webp&#34;
                width=&#34;100%&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1133,10 +1157,10 @@ Peter was up in an instant trying to chase it, but there was no chance, our tent
 &lt;figure  id=&#34;figure-looking-down-an-instrumented-hole&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Looking down an instrumented hole.&#34; srcset=&#34;
-               /project/hydro/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_ab400531032e7ad3e223443745b5255b.webp 400w,
-               /project/hydro/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_c08be67297c1126089ec8cdef45a4920.webp 760w,
-               /project/hydro/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/hydro/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_ab400531032e7ad3e223443745b5255b.webp&#34;
+               /project/hydro-geophysics/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_ab400531032e7ad3e223443745b5255b.webp 400w,
+               /project/hydro-geophysics/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_c08be67297c1126089ec8cdef45a4920.webp 760w,
+               /project/hydro-geophysics/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/hydro-geophysics/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_ab400531032e7ad3e223443745b5255b.webp&#34;
                width=&#34;100%&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1162,10 +1186,10 @@ Peter was up in an instant trying to chase it, but there was no chance, our tent
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/hydro/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_267847a81154252d6e58c84876bf99e8.webp 400w,
-               /project/hydro/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_652b6a1d09add1d3f13b12dfa4f9a24b.webp 760w,
-               /project/hydro/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/hydro/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_267847a81154252d6e58c84876bf99e8.webp&#34;
+               /project/hydro-geophysics/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_267847a81154252d6e58c84876bf99e8.webp 400w,
+               /project/hydro-geophysics/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_652b6a1d09add1d3f13b12dfa4f9a24b.webp 760w,
+               /project/hydro-geophysics/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/hydro-geophysics/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_267847a81154252d6e58c84876bf99e8.webp&#34;
                width=&#34;428&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1174,7 +1198,7 @@ Peter was up in an instant trying to chase it, but there was no chance, our tent
     </item>
     
     <item>
-      <title>Planetary Geophysics</title>
+      <title>Planetary</title>
       <link>https://example.com/project/planetary/</link>
       <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/planetary/</guid>
