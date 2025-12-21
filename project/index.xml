@@ -122,7 +122,14 @@
 
 &lt;figure  id=&#34;figure-characteristic-length-scale-of-thermal-diffusion-in-ice-temperature-variations-can-be-persistent-for-hundreds-of-years-in-alpine-glaciers-and-for-thousands-to-even-tens-of-thousands-of-years-in-the-greenland-and-antarctic-ice-sheets&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;length-scale.png&#34; alt=&#34;Characteristic length scale of thermal diffusion in ice. Temperature variations can be persistent for hundreds of years in alpine glaciers and for thousands to even tens of thousands of years in the Greenland and Antarctic Ice Sheets.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;50%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Characteristic length scale of thermal diffusion in ice. Temperature variations can be persistent for hundreds of years in alpine glaciers and for thousands to even tens of thousands of years in the Greenland and Antarctic Ice Sheets.&#34; srcset=&#34;
+               /project/ice-dynamics/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_beac3cb7e04314905bfd229bb30c6295.webp 400w,
+               /project/ice-dynamics/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_c204d6e1207e3840b8d602147ce60bdd.webp 760w,
+               /project/ice-dynamics/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/ice-dynamics/length-scale_hue1f45e5cc90b3a8e94fc86f455d4a964_22870_beac3cb7e04314905bfd229bb30c6295.webp&#34;
+               width=&#34;50%&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Characteristic length scale of thermal diffusion in ice. Temperature variations can be persistent for hundreds of years in alpine glaciers and for thousands to even tens of thousands of years in the Greenland and Antarctic Ice Sheets.
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -143,7 +150,14 @@
 
 &lt;figure  id=&#34;figure-ice-temperature-deviations-measured-in-a-cube-of-greenland-ice&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;ice-block.jpg&#34; alt=&#34;Ice temperature deviations measured in a cube of Greenland ice.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Ice temperature deviations measured in a cube of Greenland ice.&#34; srcset=&#34;
+               /project/ice-dynamics/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_26b6469ab0c4684537525001fa150720.webp 400w,
+               /project/ice-dynamics/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_7750f8614013696d646369f2266b5f8e.webp 760w,
+               /project/ice-dynamics/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/ice-dynamics/ice-block_hu88810bf04c8ced369e3c62ff4c9f9c8c_2995205_26b6469ab0c4684537525001fa150720.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Ice temperature deviations measured in a cube of Greenland ice.
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -164,7 +178,14 @@
 
 &lt;figure  id=&#34;figure-whillans-ice-stream-drainage-area-downstream-gradients-in-the-parameters-that-effect-ice-temperature&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;whillans_drainage.jpg&#34; alt=&#34;Whillans Ice Stream drainage area. Downstream gradients in the parameters that effect ice temperature.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Whillans Ice Stream drainage area. Downstream gradients in the parameters that effect ice temperature.&#34; srcset=&#34;
+               /project/ice-dynamics/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_6aa2b60f4c45dd69d3eca84dc021aa2b.webp 400w,
+               /project/ice-dynamics/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_864c74954cf23094136a41a43a2534b8.webp 760w,
+               /project/ice-dynamics/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/ice-dynamics/whillans_drainage_hu5bb213718131f03a3ed25d13a029632c_667865_6aa2b60f4c45dd69d3eca84dc021aa2b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;228&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Whillans Ice Stream drainage area. Downstream gradients in the parameters that effect ice temperature.
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -184,7 +205,14 @@
 
 &lt;figure  id=&#34;figure-modeled-ice-temperatures-using-gradients-like-those-above&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;siple_temps.jpg&#34; alt=&#34;Modeled ice temperatures using gradients like those above.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Modeled ice temperatures using gradients like those above.&#34; srcset=&#34;
+               /project/ice-dynamics/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_6b9e0b305d76b6655608848ad5185d75.webp 400w,
+               /project/ice-dynamics/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_1cd70c154c5ac692a548edfe5199b10a.webp 760w,
+               /project/ice-dynamics/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/ice-dynamics/siple_temps_hu36bf039a3ad77098d34b3fcd6c8adaaa_637575_6b9e0b305d76b6655608848ad5185d75.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;338&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Modeled ice temperatures using gradients like those above.
     &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
@@ -206,7 +234,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;proton-conduction.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;50%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/ice-dynamics/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_b816286980811cb7f00d3d12057bf08e.webp 400w,
+               /project/ice-dynamics/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_71be4f756686cf692167855bcadead6e.webp 760w,
+               /project/ice-dynamics/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/ice-dynamics/proton-conduction_huc8f271ddbbce851b3f8210b343fac367_195467_b816286980811cb7f00d3d12057bf08e.webp&#34;
+               width=&#34;50%&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;Empirical results for radar attenuation are generally dependent on the radar system and the empirical method used. Here, I show a result that we found in a single ground-based radar transect that traverses 200 km down the Kamb Ice Stream and up onto Siple Dome. We interpret the reflected power of the wave reflected off the ice-bed interface and calculate attenuation rate as the change in measured bed power with ice thickness. Essentially, if the wave travels through more ice we should measure a weaker return and the rate at which that measured power attenuates is temperature dependent.&lt;/p&gt;
 </description>
@@ -512,8 +547,7 @@
       <link>https://example.com/project/subglacial-hydrology/</link>
       <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/subglacial-hydrology/</guid>
-      <description>&lt;p&gt;I have growing interests in planetary ice.&lt;/p&gt;
-&lt;h2 id=&#34;pingos-and-permafrost&#34;&gt;Pingos and Permafrost&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;subglacial-hydrology-modeling&#34;&gt;Subglacial Hydrology Modeling&lt;/h2&gt;
 
 
 
@@ -530,9 +564,40 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;ibyuk_photo.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/subglacial-hydrology/ConceptualModel_hu8376abf29fdbc3abf8f5685b31e65826_315923_407a1a2a071cfc2121dff15554ae0164.webp 400w,
+               /project/subglacial-hydrology/ConceptualModel_hu8376abf29fdbc3abf8f5685b31e65826_315923_30465ef60248613b2618a3525b8800bb.webp 760w,
+               /project/subglacial-hydrology/ConceptualModel_hu8376abf29fdbc3abf8f5685b31e65826_315923_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/subglacial-hydrology/ConceptualModel_hu8376abf29fdbc3abf8f5685b31e65826_315923_407a1a2a071cfc2121dff15554ae0164.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;333&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;martian-radar-sounding&#34;&gt;Martian Radar Sounding&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/subglacial-hydrology/MapView_StableVariables_hub27f6db6d612edf8a967883a506b83c0_653509_20923285040937a4b0d9cdf188673255.webp 400w,
+               /project/subglacial-hydrology/MapView_StableVariables_hub27f6db6d612edf8a967883a506b83c0_653509_218a272fe506df24383e4a344ea4de4c.webp 760w,
+               /project/subglacial-hydrology/MapView_StableVariables_hub27f6db6d612edf8a967883a506b83c0_653509_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/subglacial-hydrology/MapView_StableVariables_hub27f6db6d612edf8a967883a506b83c0_653509_20923285040937a4b0d9cdf188673255.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;380&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
 </description>
     </item>
     
