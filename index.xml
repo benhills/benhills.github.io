@@ -691,7 +691,7 @@ Peter was up in an instant trying to chase it, but there was no chance, our tent
       <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/cryo-geophysics/</guid>
       <description>&lt;h2 id=&#34;impdar&#34;&gt;ImpDAR&lt;/h2&gt;
-&lt;p&gt;ImpDAR (Impulse raDAR) is a suite of processing and interpretation tools for impulse radar sounding, led by Dr. David Lilien. The software (&lt;a href=&#34;https://github.com/dlilien/ImpDAR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hosted on github&lt;/a&gt;) is targeted for ice-penetrating radar applications but usable for ground-penetrating radar and associated surveying applications as well. The core processing steps and general terminology come from a set of Matlab scripts developed at St. Olaf College under Dr. Robert Jacobel. Here, everything has been re-written in Python and significant improvements to speed, readability, documentation, and interface have been made across the board. Additionally, ImpDAR is intended to be more flexible than other available options. Support is gradually being added for a variety of file formats. Currently, GSSI, PulseEKKO, GPRMax, SEGY, and several custom file formats are supported. Available processing steps include various filtering operations, trivial modifications such as restacking, cropping, or reversing data, geolocation-related operations like interpolating to constant trace spacing, and various migration routines.&lt;/p&gt;
+&lt;p&gt;ImpDAR (Impulse raDAR) is a suite of processing and interpretation tools for impulse radar sounding. The software (&lt;a href=&#34;https://github.com/dlilien/ImpDAR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hosted on github&lt;/a&gt;) is targeted for ice-penetrating radar applications but usable for ground-penetrating radar and associated surveying applications as well. The core processing steps and general terminology come from a set of Matlab scripts developed at St. Olaf College under Dr. Robert Jacobel. Here, everything has been re-written in Python and significant improvements to speed, readability, documentation, and interface have been made across the board. Additionally, ImpDAR is intended to be more flexible than other available options. Support is gradually being added for a variety of file formats. Currently, GSSI, PulseEKKO, GPRMax, SEGY, and several custom file formats are supported. Available processing steps include various filtering operations, trivial modifications such as restacking, cropping, or reversing data, geolocation-related operations like interpolating to constant trace spacing, and various migration routines.&lt;/p&gt;
 &lt;p&gt;In addition to processing, ImpDAR can also be used for interpreting radargrams (i.e. picking layers). Picking is generally an interactive process, so there is a GUI for carrying out the semi-automated picking procedure. Each picked layer is saved with variables for both the depth and picked power (i.e. the root-mean-square amplitude). The GUI also allows for basic processing steps, with the updates happening to the plot in real time to aid the picking process. We are also developing an automated picking algorithm that will ideally pick both internal layers and the bed reflector.&lt;/p&gt;
 
 
@@ -718,7 +718,6 @@ Peter was up in an instant trying to chase it, but there was no chance, our tent
                height=&#34;750&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;apdar&#34;&gt;ApDAR&lt;/h2&gt;
 &lt;p&gt;The ApRES (Autonomous phase-sensitive Radio Echo Sounder) is a new and popular tool within the glaciology community. It is a pulse-compression radar that transmits a phase-coherent waveform, so repeat acquisitions can be used for interference in order to measure small changes in returned phase. Phase changes are associated either with a difference in the total distance that the wave travels or differences in the wave speed through the medium. We are actively developing an ImpDAR extension for ApRES processing, called &amp;lsquo;ApDAR&amp;rsquo;. We preserve a similar data structure to the impulse data, so users will have some familiarity across the two.&lt;/p&gt;
 
 
@@ -1119,8 +1118,9 @@ Peter was up in an instant trying to chase it, but there was no chance, our tent
       <link>https://example.com/project/hydro-geophysics/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/hydro-geophysics/</guid>
-      <description>&lt;h2 id=&#34;ice-core-drilling&#34;&gt;Ice-Core Drilling&lt;/h2&gt;
-&lt;p&gt;Much of our work aids in site selection for ice cores. We use geophysical tools to survey the ice geometry and stratigraphy. We can estimate ice age, ice temperature, past flow patterns, etc. With this information, paleoclimatologists are able to make an informed desicion on specifically where to drill an ice core in order to retrieve ice that will answer their pending quesitons about the ancient atmosphere and climate. Hercules Dome is currently our primary project. The site is close enough to West Antarctica that it should record a climate signal in the case of West Antarctic Ice Sheet collapse, but far enough that ice would not have melted during that time.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;nuclear-magnetic-resonance&#34;&gt;Nuclear Magnetic Resonance&lt;/h2&gt;
+&lt;p&gt;Geophysical nuclear magnetic resonance (NMR) uses the same technology as a medical MRI. It is the only geophysical method that directly detects water rather than inferring its presence from other properties like electrical conductivity. The technique can either be done non-invasively, by deploying a loop of wire at the ground surface, or through logging of existing wells.&lt;/p&gt;
+&lt;p&gt;The method works by exploiting the magnetic properties of hydrogen nuclei in water molecules. Those nuclei are polarized in a magnetic field (sometimes using the Earth&amp;rsquo;s natural magnetic field), then forced to resonate with a transmitted pulse at a specific radio frequency (the Larmor frequency). The measured NMR signal, decay of that resonance over time, gives information about the in situ water content, pore-size distribution, and other hydrogeological properties such as hydraulic conductivity.&lt;/p&gt;
 
 
 
@@ -1138,72 +1138,16 @@ Peter was up in an instant trying to chase it, but there was no chance, our tent
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/hydro-geophysics/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_640226aebd920645c55f1aeb9346228e.webp 400w,
-               /project/hydro-geophysics/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_b728b0248b0ee1e1314e0f64d79e302e.webp 760w,
-               /project/hydro-geophysics/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/hydro-geophysics/HD_icesheetgeometry_hu5b6464a03c04b7dde544f0b21efeae90_1201275_640226aebd920645c55f1aeb9346228e.webp&#34;
+               /project/hydro-geophysics/WSP_ben_gmr_hu313361485b1d7b6a9a58ffc4f9dc468d_315374_a2ba80ef640f6a05fc69c851eb9db2ff.webp 400w,
+               /project/hydro-geophysics/WSP_ben_gmr_hu313361485b1d7b6a9a58ffc4f9dc468d_315374_05301423cddb4c39a73716f8210e6e30.webp 760w,
+               /project/hydro-geophysics/WSP_ben_gmr_hu313361485b1d7b6a9a58ffc4f9dc468d_315374_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/hydro-geophysics/WSP_ben_gmr_hu313361485b1d7b6a9a58ffc4f9dc468d_315374_a2ba80ef640f6a05fc69c851eb9db2ff.webp&#34;
                width=&#34;100%&#34;
-               height=&#34;649&#34;
+               height=&#34;596&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;hot-water-drilling&#34;&gt;Hot-Water Drilling&lt;/h2&gt;
-&lt;p&gt;Unlike ice-core drilling, thermal drilling methods such as with hot water are destructive, so the goal is not to retrieve any ice. Instead, hot-water holes are used to install instruments which measure in-situ properties like ice temeprature, stress/strain, subglacial water pressure, etc.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-organizing-instrumentation-and-cabling-in-preparation-to-deploy-it-down-the-hole&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Organizing instrumentation and cabling in preparation to deploy it down the hole.&#34; srcset=&#34;
-               /project/hydro-geophysics/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_9b14a2a2e64cbbf4be7df05c0acd9c0c.webp 400w,
-               /project/hydro-geophysics/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_332b82a3bf72958c7c347e5851af4ec9.webp 760w,
-               /project/hydro-geophysics/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/hydro-geophysics/surface-cables_hu284d939a3cc125d20c5fd77c3e290803_657819_9b14a2a2e64cbbf4be7df05c0acd9c0c.webp&#34;
-               width=&#34;100%&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      Organizing instrumentation and cabling in preparation to deploy it down the hole.
-    &lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-looking-down-an-instrumented-hole&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Looking down an instrumented hole.&#34; srcset=&#34;
-               /project/hydro-geophysics/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_ab400531032e7ad3e223443745b5255b.webp 400w,
-               /project/hydro-geophysics/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_c08be67297c1126089ec8cdef45a4920.webp 760w,
-               /project/hydro-geophysics/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/hydro-geophysics/hole-cables_hu284d939a3cc125d20c5fd77c3e290803_170451_ab400531032e7ad3e223443745b5255b.webp&#34;
-               width=&#34;100%&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      Looking down an instrumented hole.
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;h2 id=&#34;hot-point-drilling&#34;&gt;Hot-Point Drilling&lt;/h2&gt;
-&lt;p&gt;This is another thermal drilling method which uses conduction at the tip of a melt probe rather than hot water. These drills are simpler in design, so were used earlier, and lighter weight so can be deployed more quickly than hot-water drills. In collaboration with Dr. Dale Winebrenner and Dr. Tim Elam at the Applied Physics Laboratory, I wrote a thermal model and ran an ensemble of model experiments to aid in the engineering design of their hot-point drill, &lt;a href=&#34;https://apl.uw.edu/project/project.php?id=ice_diver&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ice Diver&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;electromagnetic-methods&#34;&gt;Electromagnetic Methods&lt;/h2&gt;
+&lt;p&gt;Time-domain electromagnetic (TEM) sounding, also called transient electromagnetic method, is a widely used geophysical technique for mapping subsurface electrical conductivity, which makes it particularly valuable for hydrogeological investigations. The method works by inducing electromagnetic fields in the subsurface and measuring the decay of those fields over time. A transmitter loop laid on the ground surface sends a pulse of electrical current, creating a primary magnetic field. When the current is abruptly shut off, this collapsing magnetic field induces eddy currents in conductive subsurface materials. These eddy currents generate their own secondary magnetic fields that gradually decay. A receiver coil measures this decay signal, and because deeper currents take longer to diffuse and decay, the time-varying response provides information about conductivity at different depths.&lt;/p&gt;
 
 
 
@@ -1221,12 +1165,12 @@ Peter was up in an instant trying to chase it, but there was no chance, our tent
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/hydro-geophysics/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_267847a81154252d6e58c84876bf99e8.webp 400w,
-               /project/hydro-geophysics/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_652b6a1d09add1d3f13b12dfa4f9a24b.webp 760w,
-               /project/hydro-geophysics/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/hydro-geophysics/drill-series_hu1d58162c7fc8bccdcf98ffd91112108a_304824_267847a81154252d6e58c84876bf99e8.webp&#34;
-               width=&#34;428&#34;
-               height=&#34;760&#34;
+               /project/hydro-geophysics/Ky_TEM_hu01c48f652d9f16a64b129975a391b562_633273_04002f3ebc0d7ec5ba2b56c3f1da60c3.webp 400w,
+               /project/hydro-geophysics/Ky_TEM_hu01c48f652d9f16a64b129975a391b562_633273_2cd43a9f048d73cd7e06c66a225eff22.webp 760w,
+               /project/hydro-geophysics/Ky_TEM_hu01c48f652d9f16a64b129975a391b562_633273_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/project/hydro-geophysics/Ky_TEM_hu01c48f652d9f16a64b129975a391b562_633273_04002f3ebc0d7ec5ba2b56c3f1da60c3.webp&#34;
+               width=&#34;100%&#34;
+               height=&#34;572&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 </description>
@@ -1237,8 +1181,10 @@ Peter was up in an instant trying to chase it, but there was no chance, our tent
       <link>https://example.com/project/planetary/</link>
       <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/planetary/</guid>
-      <description>&lt;p&gt;I have growing interests in planetary ice.&lt;/p&gt;
-&lt;h2 id=&#34;pingos-and-permafrost&#34;&gt;Pingos and Permafrost&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;pingos-and-permafrost&#34;&gt;Pingos and Permafrost&lt;/h2&gt;
+&lt;p&gt;A pingo is a large ice-cored hill or mound that forms in permafrost regions, creating distinctive dome-shaped landforms that can reach heights of 3 to 70 meters and diameters of up to several hundred meters.&lt;/p&gt;
+&lt;p&gt;There are two main types of pingos based on how they form. Hydrostatic (closed-system) pingos, also called Mackenzie-type pingos after their abundance in Canada&amp;rsquo;s Mackenzie Delta, form when lakes drain or shallow water bodies fill in. The ground beneath the former lake refreezes, but a pocket of unfrozen saturated sediment (talik) remains trapped beneath. As permafrost encroaches from all sides, it compresses this trapped water, increasing pore pressure and forcing water upward. This water then freezes, creating an expanding ice core that heaves the surface.&lt;/p&gt;
+&lt;p&gt;Hydraulic (open-system) pingos, or East Greenland-type, form where groundwater under artesian pressure moves through taliks beneath or within permafrost. When this pressurized water reaches the surface or near-surface, it freezes and accumulates as an ice core. These often form on slopes or valley bottoms where groundwater can flow from higher elevations.&lt;/p&gt;
 
 
 
@@ -1264,7 +1210,6 @@ Peter was up in an instant trying to chase it, but there was no chance, our tent
                height=&#34;573&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;martian-radar-sounding&#34;&gt;Martian Radar Sounding&lt;/h2&gt;
 </description>
     </item>
     
@@ -1910,11 +1855,39 @@ Peter was up in an instant trying to chase it, but there was no chance, our tent
     </item>
     
     <item>
-      <title>Subglacial hydrology</title>
+      <title>Subglacial Hydrology</title>
       <link>https://example.com/project/subglacial-hydrology/</link>
       <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/subglacial-hydrology/</guid>
-      <description>&lt;h2 id=&#34;subglacial-hydrology-modeling&#34;&gt;Subglacial Hydrology Modeling&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;subglacial-hydrology-observation&#34;&gt;Subglacial Hydrology Observation&lt;/h2&gt;
+&lt;p&gt;Radar sounding is one of the predominant geophysical tools used for investigating subglacial lakes. However, lake locations identified with radar have not coincided with lakes identified at the surface with spaceborne lidar methods. We found that volume scattering on small water inclusions in temperate ice directly above the lake lid are suppressing the radar echo from the lake and therefore obscuring the lake from the radar image.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/subglacial-hydrology/SLW_scattering_hu5afa65e98885c05a57a876273a0bfd6f_2026270_706d6da559a65e21ada74f4779e23302.webp 400w,
+               /project/subglacial-hydrology/SLW_scattering_hu5afa65e98885c05a57a876273a0bfd6f_2026270_6fa3f05574019a012ae4a6de2f02ef22.webp 760w,
+               /project/subglacial-hydrology/SLW_scattering_hu5afa65e98885c05a57a876273a0bfd6f_2026270_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/subglacial-hydrology/SLW_scattering_hu5afa65e98885c05a57a876273a0bfd6f_2026270_706d6da559a65e21ada74f4779e23302.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;378&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;subglacial-hydrology-modeling&#34;&gt;Subglacial Hydrology Modeling&lt;/h2&gt;
+&lt;p&gt;Numerical models of subglacial hydrologic systems typically distinguish between two end-member drainage systems. Distributed systems include slow drainage through thin water films at the ice-bed interface, flow through porous sediment layers, or linked cavity networks where water occupies cavities on the lee side of bedrock bumps. Channelized systems consist of efficient conduits, often modeled as Röthlisberger channels (R-channels) carved into basal ice or Nye channels incised into bedrock. Real subglacial systems often contain elements of both, and capturing the transition between these states is a key modeling challenge.&lt;/p&gt;
 
 
 
@@ -1957,10 +1930,10 @@ Peter was up in an instant trying to chase it, but there was no chance, our tent
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/subglacial-hydrology/MapView_StableVariables_hub27f6db6d612edf8a967883a506b83c0_653509_20923285040937a4b0d9cdf188673255.webp 400w,
+               /project/subglacial-hydrology/MapView_StableVariables_hub27f6db6d612edf8a967883a506b83c0_653509_88781dfc0461a4bdcb05bf83ed8bc1f8.webp 400w,
                /project/subglacial-hydrology/MapView_StableVariables_hub27f6db6d612edf8a967883a506b83c0_653509_218a272fe506df24383e4a344ea4de4c.webp 760w,
                /project/subglacial-hydrology/MapView_StableVariables_hub27f6db6d612edf8a967883a506b83c0_653509_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/subglacial-hydrology/MapView_StableVariables_hub27f6db6d612edf8a967883a506b83c0_653509_20923285040937a4b0d9cdf188673255.webp&#34;
+               src=&#34;https://example.com/project/subglacial-hydrology/MapView_StableVariables_hub27f6db6d612edf8a967883a506b83c0_653509_88781dfc0461a4bdcb05bf83ed8bc1f8.webp&#34;
                width=&#34;760&#34;
                height=&#34;380&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

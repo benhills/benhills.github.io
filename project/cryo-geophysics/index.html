@@ -52,7 +52,7 @@
   
     
   
-  <meta name="description" content="Instrument design and software for radar processing." />
+  <meta name="description" content="Instrument design and software for radar sounding" />
 
   
   <link rel="alternate" hreflang="en-us" href="https://example.com/project/cryo-geophysics/" />
@@ -280,7 +280,7 @@
   <meta property="og:site_name" content="Benjamin Hills" />
   <meta property="og:url" content="https://example.com/project/cryo-geophysics/" />
   <meta property="og:title" content="Cryo Geophysics | Benjamin Hills" />
-  <meta property="og:description" content="Instrument design and software for radar processing." /><meta property="og:image" content="https://example.com/project/cryo-geophysics/featured.png" />
+  <meta property="og:description" content="Instrument design and software for radar sounding" /><meta property="og:image" content="https://example.com/project/cryo-geophysics/featured.png" />
     <meta property="twitter:image" content="https://example.com/project/cryo-geophysics/featured.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -335,7 +335,7 @@
       "url": "https://example.com/media/icon_hu9514fa0e347f2b799933f532dc1945ad_152873_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Instrument design and software for radar processing."
+  "description": "Instrument design and software for radar sounding"
 }
 </script>
 
@@ -710,7 +710,7 @@
 
     <div class="article-style">
       <h2 id="impdar">ImpDAR</h2>
-<p>ImpDAR (Impulse raDAR) is a suite of processing and interpretation tools for impulse radar sounding, led by Dr. David Lilien. The software (<a href="https://github.com/dlilien/ImpDAR" target="_blank" rel="noopener">hosted on github</a>) is targeted for ice-penetrating radar applications but usable for ground-penetrating radar and associated surveying applications as well. The core processing steps and general terminology come from a set of Matlab scripts developed at St. Olaf College under Dr. Robert Jacobel. Here, everything has been re-written in Python and significant improvements to speed, readability, documentation, and interface have been made across the board. Additionally, ImpDAR is intended to be more flexible than other available options. Support is gradually being added for a variety of file formats. Currently, GSSI, PulseEKKO, GPRMax, SEGY, and several custom file formats are supported. Available processing steps include various filtering operations, trivial modifications such as restacking, cropping, or reversing data, geolocation-related operations like interpolating to constant trace spacing, and various migration routines.</p>
+<p>ImpDAR (Impulse raDAR) is a suite of processing and interpretation tools for impulse radar sounding. The software (<a href="https://github.com/dlilien/ImpDAR" target="_blank" rel="noopener">hosted on github</a>) is targeted for ice-penetrating radar applications but usable for ground-penetrating radar and associated surveying applications as well. The core processing steps and general terminology come from a set of Matlab scripts developed at St. Olaf College under Dr. Robert Jacobel. Here, everything has been re-written in Python and significant improvements to speed, readability, documentation, and interface have been made across the board. Additionally, ImpDAR is intended to be more flexible than other available options. Support is gradually being added for a variety of file formats. Currently, GSSI, PulseEKKO, GPRMax, SEGY, and several custom file formats are supported. Available processing steps include various filtering operations, trivial modifications such as restacking, cropping, or reversing data, geolocation-related operations like interpolating to constant trace spacing, and various migration routines.</p>
 <p>In addition to processing, ImpDAR can also be used for interpreting radargrams (i.e. picking layers). Picking is generally an interactive process, so there is a GUI for carrying out the semi-automated picking procedure. Each picked layer is saved with variables for both the depth and picked power (i.e. the root-mean-square amplitude). The GUI also allows for basic processing steps, with the updates happening to the plot in real time to aid the picking process. We are also developing an automated picking algorithm that will ideally pick both internal layers and the bed reflector.</p>
 
 
@@ -737,7 +737,6 @@
                height="750"
                loading="lazy" data-zoomable /></div>
   </div></figure>
-<h2 id="apdar">ApDAR</h2>
 <p>The ApRES (Autonomous phase-sensitive Radio Echo Sounder) is a new and popular tool within the glaciology community. It is a pulse-compression radar that transmits a phase-coherent waveform, so repeat acquisitions can be used for interference in order to measure small changes in returned phase. Phase changes are associated either with a difference in the total distance that the wave travels or differences in the wave speed through the medium. We are actively developing an ImpDAR extension for ApRES processing, called &lsquo;ApDAR&rsquo;. We preserve a similar data structure to the impulse data, so users will have some familiarity across the two.</p>
 
 
