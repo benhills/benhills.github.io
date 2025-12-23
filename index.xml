@@ -1210,6 +1210,31 @@ Peter was up in an instant trying to chase it, but there was no chance, our tent
                height=&#34;573&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/planetary/ibyuk_visualization_hua5ed7f2867268934702243f405a6ae2b_1825603_78d5d79089a2fdbe0e27188b4f7e2c33.webp 400w,
+               /project/planetary/ibyuk_visualization_hua5ed7f2867268934702243f405a6ae2b_1825603_f5464f506385abba931488332a7c3c19.webp 760w,
+               /project/planetary/ibyuk_visualization_hua5ed7f2867268934702243f405a6ae2b_1825603_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/planetary/ibyuk_visualization_hua5ed7f2867268934702243f405a6ae2b_1825603_78d5d79089a2fdbe0e27188b4f7e2c33.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;678&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
 </description>
     </item>
     
