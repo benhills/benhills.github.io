@@ -168,14 +168,14 @@
   }
   .filters button.active { background: var(--accent); border-color: var(--accent); color: #fff; }
   .grid { display: flex; flex-wrap: wrap; gap: 6px; }
-  .grid a { flex-grow: 1; height: 150px; }
+  .grid a { flex: 0 0 auto; height: 150px; max-width: 100%; }
   .grid img {
-    width: 100%; height: 100%;
+    width: auto; height: 100%;
+    max-width: 100%;
     object-fit: cover;
     border-radius: 4px;
     display: block;
   }
-  .grid a:last-child { flex-grow: 0; }
   dialog.lightbox {
     border: none; border-radius: 6px; padding: 0;
     background: transparent;
@@ -183,6 +183,33 @@
   }
   dialog.lightbox::backdrop { background: rgba(0, 0, 0, .85); }
   dialog.lightbox img { max-width: 92vw; max-height: 92vh; display: block; border-radius: 6px; }
+
+  /* curation mode (page opened with #curate) */
+  .curate .grid a { position: relative; }
+  .curate .grid a.cut { outline: 3px solid #d84343; outline-offset: -3px; }
+  .curate .grid a.cut img { opacity: .3; }
+  .curate .grid a.cut::after {
+    content: "✕";
+    position: absolute; inset: 0;
+    display: flex; align-items: center; justify-content: center;
+    color: #d84343; font-size: 2rem; font-weight: 700;
+  }
+  .curate-bar {
+    position: fixed; bottom: 1rem; left: 50%; transform: translateX(-50%);
+    z-index: 20;
+    background: var(--bg); border: 1px solid var(--border); border-radius: 999px;
+    box-shadow: var(--shadow);
+    padding: .5rem 1rem;
+    display: flex; gap: .75rem; align-items: center;
+    font-size: .9rem;
+  }
+  .curate-bar button {
+    font: inherit; font-size: .85rem;
+    padding: .2rem .7rem;
+    border: 1px solid var(--accent); border-radius: 999px;
+    background: var(--bg); color: var(--accent); cursor: pointer;
+  }
+  .curate-bar button:hover { background: var(--accent-soft); }
 
   footer {
     border-top: 1px solid var(--border);
@@ -225,7 +252,7 @@
   <section id="about" class="about">
     <h2>About</h2>
     <p>
-      I am a geophysicist and data scientist interested in processes at the interface between climate and geologic systems.
+      I am a geophysicist and data scientist interested in Earth processes that shape, and are shaped by, the climate system.
       I currently work at KoBold Metals, where we pair geoscience data with machine learning
       to explore for the critical minerals needed for the energy transition.
     </p>
@@ -271,6 +298,7 @@
       <div class="title">Resolving radiostratigraphy with squinted synthetic aperture radar focusing</div>
       <div class="meta"><b>Benjamin Hills</b>, Matthew Siegfried, Nicholas Holschuh, Hannah Verboncoeur, Dustin Schroeder · <i>Journal of Glaciology, 2026</i></div>
       <div class="btns">
+        <a href="uploads/Hills2026_JGlac.pdf" target="_blank">PDF</a>
         <a href="https://doi.org/10.1017/jog.2025.10122" target="_blank" rel="noopener">DOI</a>
       </div>
     </div>
@@ -515,7 +543,6 @@
       <button data-album="antarctica">Antarctica</button>
       <button data-album="greenland">Greenland</button>
       <button data-album="alpine">Alpine Glaciers</button>
-      <button data-album="herc-dome">Hercules Dome</button>
       <button data-album="periglacial">Periglacial</button>
       <button data-album="hydro">Hydrogeology</button>
       <button data-album="radar">Radar Stratigraphy</button>
@@ -525,8 +552,6 @@
       <a data-album="antarctica" href="media/albums/antarctica/19700103_042818.jpeg"><img src="media/albums/antarctica/19700103_042818_hu3c9b56034fbbcaba96b73160f93e17d8_436340_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
       <a data-album="antarctica" href="media/albums/antarctica/90296730_10158365520016180_3877880986070941696_n.jpeg"><img src="media/albums/antarctica/90296730_10158365520016180_3877880986070941696_n_hue776a334b902d7828bf5c7a8aa11ccb3_478774_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
       <a data-album="antarctica" href="media/albums/antarctica/90966299_10158365519386180_6265774758449643520_n.jpeg"><img src="media/albums/antarctica/90966299_10158365519386180_6265774758449643520_n_hu27f7dc34c9db8fd2b063f3fba6be9864_333834_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
-      <a data-album="antarctica" href="media/albums/antarctica/DSC_0023.jpeg"><img src="media/albums/antarctica/DSC_0023_hu855bbe0a9c47ac557e5b09db74fa3b06_959978_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
-      <a data-album="antarctica" href="media/albums/antarctica/DSC_0031.jpeg"><img src="media/albums/antarctica/DSC_0031_hu284d939a3cc125d20c5fd77c3e290803_1397558_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
       <a data-album="antarctica" href="media/albums/antarctica/DSC_0050.jpeg"><img src="media/albums/antarctica/DSC_0050_hu284d939a3cc125d20c5fd77c3e290803_766531_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
       <a data-album="antarctica" href="media/albums/antarctica/DSC_0066.jpeg"><img src="media/albums/antarctica/DSC_0066_hu284d939a3cc125d20c5fd77c3e290803_526101_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
       <a data-album="antarctica" href="media/albums/antarctica/DSC_0079.jpeg"><img src="media/albums/antarctica/DSC_0079_hu284d939a3cc125d20c5fd77c3e290803_314480_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
@@ -535,7 +560,6 @@
       <a data-album="antarctica" href="media/albums/antarctica/DSC_0215.jpeg"><img src="media/albums/antarctica/DSC_0215_hu284d939a3cc125d20c5fd77c3e290803_579305_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
       <a data-album="antarctica" href="media/albums/antarctica/DSC_0232.jpeg"><img src="media/albums/antarctica/DSC_0232_hu284d939a3cc125d20c5fd77c3e290803_198027_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
       <a data-album="antarctica" href="media/albums/antarctica/DSC_0246.jpeg"><img src="media/albums/antarctica/DSC_0246_hu284d939a3cc125d20c5fd77c3e290803_475090_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
-      <a data-album="antarctica" href="media/albums/antarctica/DSC_0274.jpeg"><img src="media/albums/antarctica/DSC_0274_hu284d939a3cc125d20c5fd77c3e290803_299003_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
       <a data-album="antarctica" href="media/albums/antarctica/DSC_0297.jpeg"><img src="media/albums/antarctica/DSC_0297_hu284d939a3cc125d20c5fd77c3e290803_351573_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
       <a data-album="antarctica" href="media/albums/antarctica/DSC_0309.jpeg"><img src="media/albums/antarctica/DSC_0309_hu284d939a3cc125d20c5fd77c3e290803_288494_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
       <a data-album="antarctica" href="media/albums/antarctica/DSC_0489.jpeg"><img src="media/albums/antarctica/DSC_0489_hu284d939a3cc125d20c5fd77c3e290803_225033_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
@@ -544,10 +568,8 @@
       <a data-album="antarctica" href="media/albums/antarctica/DSC_0564.jpeg"><img src="media/albums/antarctica/DSC_0564_hu284d939a3cc125d20c5fd77c3e290803_156514_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
       <a data-album="antarctica" href="media/albums/antarctica/DSC_0598.jpeg"><img src="media/albums/antarctica/DSC_0598_hu284d939a3cc125d20c5fd77c3e290803_519079_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
       <a data-album="antarctica" href="media/albums/antarctica/Pole.jpeg"><img src="media/albums/antarctica/Pole_hu284d939a3cc125d20c5fd77c3e290803_561402_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
-      <a data-album="antarctica" href="media/albums/antarctica/Xmas_pole.jpeg"><img src="media/albums/antarctica/Xmas_pole_hu284d939a3cc125d20c5fd77c3e290803_753548_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
       <a data-album="antarctica" href="media/albums/antarctica/beardmore.jpeg"><img src="media/albums/antarctica/beardmore_hu284d939a3cc125d20c5fd77c3e290803_320147_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
       <a data-album="antarctica" href="media/albums/antarctica/delta.jpeg"><img src="media/albums/antarctica/delta_hu284d939a3cc125d20c5fd77c3e290803_407054_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
-      <a data-album="antarctica" href="media/albums/antarctica/dorm.jpeg"><img src="media/albums/antarctica/dorm_hu284d939a3cc125d20c5fd77c3e290803_444127_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
       <a data-album="antarctica" href="media/albums/antarctica/erebus-2.jpeg"><img src="media/albums/antarctica/erebus-2_hu284d939a3cc125d20c5fd77c3e290803_416354_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
       <a data-album="antarctica" href="media/albums/antarctica/erebus.jpeg"><img src="media/albums/antarctica/erebus_hu284d939a3cc125d20c5fd77c3e290803_395611_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
       <a data-album="antarctica" href="media/albums/antarctica/radar-shelter.jpeg"><img src="media/albums/antarctica/radar-shelter_hu284d939a3cc125d20c5fd77c3e290803_434786_0x190_resize_q75_h2_lanczos.webp" alt="Antarctica field photo" loading="lazy"></a>
@@ -570,7 +592,6 @@
       <a data-album="greenland" href="media/albums/greenland/surface-hoar.jpeg"><img src="media/albums/greenland/surface-hoar_hu284d939a3cc125d20c5fd77c3e290803_702703_0x190_resize_q75_h2_lanczos.webp" alt="Greenland field photo" loading="lazy"></a>
       <a data-album="greenland" href="media/albums/greenland/surface-stream.jpeg"><img src="media/albums/greenland/surface-stream_hu284d939a3cc125d20c5fd77c3e290803_263510_0x190_resize_q75_h2_lanczos.webp" alt="Greenland field photo" loading="lazy"></a>
       <a data-album="greenland" href="media/albums/greenland/tent.jpeg"><img src="media/albums/greenland/tent_hu284d939a3cc125d20c5fd77c3e290803_418605_0x190_resize_q75_h2_lanczos.webp" alt="Greenland field photo" loading="lazy"></a>
-      <a data-album="alpine" href="media/albums/alpine/20220723_104128.jpeg"><img src="media/albums/alpine/20220723_104128_huaac9aaf0c5524ba4ca071d6774725e90_4385340_0x190_resize_q75_h2_lanczos.webp" alt="Alpine glaciers field photo" loading="lazy"></a>
       <a data-album="alpine" href="media/albums/alpine/DSC_0032.jpeg"><img src="media/albums/alpine/DSC_0032_hu284d939a3cc125d20c5fd77c3e290803_930204_0x190_resize_q75_h2_lanczos.webp" alt="Alpine glaciers field photo" loading="lazy"></a>
       <a data-album="alpine" href="media/albums/alpine/DSC_0243.jpeg"><img src="media/albums/alpine/DSC_0243_hu284d939a3cc125d20c5fd77c3e290803_431588_0x190_resize_q75_h2_lanczos.webp" alt="Alpine glaciers field photo" loading="lazy"></a>
       <a data-album="alpine" href="media/albums/alpine/DSC_0337.jpeg"><img src="media/albums/alpine/DSC_0337_hu284d939a3cc125d20c5fd77c3e290803_422634_0x190_resize_q75_h2_lanczos.webp" alt="Alpine glaciers field photo" loading="lazy"></a>
@@ -589,16 +610,6 @@
       <a data-album="alpine" href="media/albums/alpine/mendenhall.jpeg"><img src="media/albums/alpine/mendenhall_hu284d939a3cc125d20c5fd77c3e290803_592890_0x190_resize_q75_h2_lanczos.webp" alt="Alpine glaciers field photo" loading="lazy"></a>
       <a data-album="alpine" href="media/albums/alpine/ogives-2.jpeg"><img src="media/albums/alpine/ogives-2_hu284d939a3cc125d20c5fd77c3e290803_788553_0x190_resize_q75_h2_lanczos.webp" alt="Alpine glaciers field photo" loading="lazy"></a>
       <a data-album="alpine" href="media/albums/alpine/ogives.jpeg"><img src="media/albums/alpine/ogives_hu284d939a3cc125d20c5fd77c3e290803_476285_0x190_resize_q75_h2_lanczos.webp" alt="Alpine glaciers field photo" loading="lazy"></a>
-      <a data-album="herc-dome" href="media/albums/herc-dome/19700103_042818.jpeg"><img src="media/albums/herc-dome/19700103_042818_hu3c9b56034fbbcaba96b73160f93e17d8_436340_0x190_resize_q75_h2_lanczos.webp" alt="Hercules Dome field photo" loading="lazy"></a>
-      <a data-album="herc-dome" href="media/albums/herc-dome/90296730_10158365520016180_3877880986070941696_n.jpeg"><img src="media/albums/herc-dome/90296730_10158365520016180_3877880986070941696_n_hue776a334b902d7828bf5c7a8aa11ccb3_478774_0x190_resize_q75_h2_lanczos.webp" alt="Hercules Dome field photo" loading="lazy"></a>
-      <a data-album="herc-dome" href="media/albums/herc-dome/90966299_10158365519386180_6265774758449643520_n.jpeg"><img src="media/albums/herc-dome/90966299_10158365519386180_6265774758449643520_n_hu27f7dc34c9db8fd2b063f3fba6be9864_333834_0x190_resize_q75_h2_lanczos.webp" alt="Hercules Dome field photo" loading="lazy"></a>
-      <a data-album="herc-dome" href="media/albums/herc-dome/DSC_0232.jpeg"><img src="media/albums/herc-dome/DSC_0232_hu284d939a3cc125d20c5fd77c3e290803_198027_0x190_resize_q75_h2_lanczos.webp" alt="Hercules Dome field photo" loading="lazy"></a>
-      <a data-album="herc-dome" href="media/albums/herc-dome/DSC_0246.jpeg"><img src="media/albums/herc-dome/DSC_0246_hu284d939a3cc125d20c5fd77c3e290803_475090_0x190_resize_q75_h2_lanczos.webp" alt="Hercules Dome field photo" loading="lazy"></a>
-      <a data-album="herc-dome" href="media/albums/herc-dome/DSC_0309.jpeg"><img src="media/albums/herc-dome/DSC_0309_hu284d939a3cc125d20c5fd77c3e290803_288494_0x190_resize_q75_h2_lanczos.webp" alt="Hercules Dome field photo" loading="lazy"></a>
-      <a data-album="herc-dome" href="media/albums/herc-dome/DSC_0489.jpeg"><img src="media/albums/herc-dome/DSC_0489_hu284d939a3cc125d20c5fd77c3e290803_225033_0x190_resize_q75_h2_lanczos.webp" alt="Hercules Dome field photo" loading="lazy"></a>
-      <a data-album="herc-dome" href="media/albums/herc-dome/DSC_0498.jpeg"><img src="media/albums/herc-dome/DSC_0498_hu284d939a3cc125d20c5fd77c3e290803_232141_0x190_resize_q75_h2_lanczos.webp" alt="Hercules Dome field photo" loading="lazy"></a>
-      <a data-album="herc-dome" href="media/albums/herc-dome/radar-shelter.jpeg"><img src="media/albums/herc-dome/radar-shelter_hu284d939a3cc125d20c5fd77c3e290803_434786_0x190_resize_q75_h2_lanczos.webp" alt="Hercules Dome field photo" loading="lazy"></a>
-      <a data-album="herc-dome" href="media/albums/herc-dome/tiny-driver.jpeg"><img src="media/albums/herc-dome/tiny-driver_hu7af45c05e7eaab656aeab8d5fe153c59_136084_0x190_resize_q75_h2_lanczos.webp" alt="Hercules Dome field photo" loading="lazy"></a>
       <a data-album="periglacial" href="media/albums/periglacial/PXL_20240324_191157051%20(1).jpg"><img src="media/albums/periglacial/PXL_20240324_191157051%20(1)_huff484b46316dbbf0ff5b4ea932cd3378_3678507_0x190_resize_q75_h2_lanczos.webp" alt="Periglacial field photo" loading="lazy"></a>
       <a data-album="periglacial" href="media/albums/periglacial/PXL_20240325_210025211.jpg"><img src="media/albums/periglacial/PXL_20240325_210025211_hu38092f13d755740be568708f864742e5_2626722_0x190_resize_q75_h2_lanczos.webp" alt="Periglacial field photo" loading="lazy"></a>
       <a data-album="periglacial" href="media/albums/periglacial/PXL_20240326_232518032.jpg"><img src="media/albums/periglacial/PXL_20240326_232518032_hu01c48f652d9f16a64b129975a391b562_633273_0x190_resize_q75_h2_lanczos.webp" alt="Periglacial field photo" loading="lazy"></a>
@@ -617,30 +628,13 @@
       <a data-album="radar" href="media/albums/radar/hd_x45loop.jpeg"><img src="media/albums/radar/hd_x45loop_hu5d9649754fe17c6a2298f2d419c32151_17015163_0x190_resize_q75_h2_lanczos.webp" alt="Radar stratigraphy field photo" loading="lazy"></a>
       <a data-album="radar" href="media/albums/radar/hd_x53.jpeg"><img src="media/albums/radar/hd_x53_hu120f39e4cc541dd5c6994e4fac8e8abd_14333123_0x190_resize_q75_h2_lanczos.webp" alt="Radar stratigraphy field photo" loading="lazy"></a>
       <a data-album="radar" href="media/albums/radar/kamb.jpeg"><img src="media/albums/radar/kamb_hu120f39e4cc541dd5c6994e4fac8e8abd_17621084_0x190_resize_q75_h2_lanczos.webp" alt="Radar stratigraphy field photo" loading="lazy"></a>
-      <a data-album="radar" href="media/albums/radar/quadpol.jpeg"><img src="media/albums/radar/quadpol_hu5a24dcec77158565d9e6a393e8399813_8905349_0x190_resize_q75_h2_lanczos.webp" alt="Radar stratigraphy field photo" loading="lazy"></a>
       <a data-album="radar" href="media/albums/radar/spl.jpeg"><img src="media/albums/radar/spl_huabe10ef0bbe0a6a80f40c9a46fbae55a_15353506_0x190_resize_q75_h2_lanczos.webp" alt="Radar stratigraphy field photo" loading="lazy"></a>
-      <a data-album="radar" href="media/albums/radar/thwaites_1.jpeg"><img src="media/albums/radar/thwaites_1_hu98c4132014a44fede2241dae56395275_187705_0x190_resize_q75_h2_lanczos.webp" alt="Radar stratigraphy field photo" loading="lazy"></a>
-      <a data-album="radar" href="media/albums/radar/thwaites_2.jpeg"><img src="media/albums/radar/thwaites_2_hu3615af93a7df5fd9e95412db25f1ed03_176428_0x190_resize_q75_h2_lanczos.webp" alt="Radar stratigraphy field photo" loading="lazy"></a>
-      <a data-album="radar" href="media/albums/radar/thwaites_3.jpeg"><img src="media/albums/radar/thwaites_3_hub32ae36db18b32f02383de16dba2ace3_183265_0x190_resize_q75_h2_lanczos.webp" alt="Radar stratigraphy field photo" loading="lazy"></a>
       <a data-album="radar" href="media/albums/radar/wgz.jpeg"><img src="media/albums/radar/wgz_hu120f39e4cc541dd5c6994e4fac8e8abd_14635531_0x190_resize_q75_h2_lanczos.webp" alt="Radar stratigraphy field photo" loading="lazy"></a>
       <a data-album="polarimetry" href="media/albums/polarimetry/a0r5.png"><img src="media/albums/polarimetry/a0r5_hued5a7f3760577101dfe67d78743cf977_282366_0x190_resize_q75_h2_lanczos_3.webp" alt="Polarimetry field photo" loading="lazy"></a>
       <a data-album="polarimetry" href="media/albums/polarimetry/e0s40000.png"><img src="media/albums/polarimetry/e0s40000_hu782053e962a469b0362ba04d96d7ad41_275351_0x190_resize_q75_h2_lanczos_3.webp" alt="Polarimetry field photo" loading="lazy"></a>
       <a data-album="polarimetry" href="media/albums/polarimetry/e0s50000.png"><img src="media/albums/polarimetry/e0s50000_hu33eb5f49f409f93e86873a168f82ac9d_214703_0x190_resize_q75_h2_lanczos_3.webp" alt="Polarimetry field photo" loading="lazy"></a>
-      <a data-album="polarimetry" href="media/albums/polarimetry/e0s50000_raw.png"><img src="media/albums/polarimetry/e0s50000_raw_hudc2f8545474a123891c336b2f8f2c438_774302_0x190_resize_q75_h2_lanczos_3.webp" alt="Polarimetry field photo" loading="lazy"></a>
-      <a data-album="polarimetry" href="media/albums/polarimetry/x135n0_raw.png"><img src="media/albums/polarimetry/x135n0_raw_hu149aba08001ad8b0c5bcfa5a78a4e11f_866881_0x190_resize_q75_h2_lanczos_3.webp" alt="Polarimetry field photo" loading="lazy"></a>
       <a data-album="polarimetry" href="media/albums/polarimetry/x135n2000.png"><img src="media/albums/polarimetry/x135n2000_hud1cd5047a6291957f9c2f3350b4a3087_240520_0x190_resize_q75_h2_lanczos_3.webp" alt="Polarimetry field photo" loading="lazy"></a>
-      <a data-album="polarimetry" href="media/albums/polarimetry/x135n5000.png"><img src="media/albums/polarimetry/x135n5000_hua9eb2feb5e1c748aa9eefb4c98b5f94e_197412_0x190_resize_q75_h2_lanczos_3.webp" alt="Polarimetry field photo" loading="lazy"></a>
-      <a data-album="polarimetry" href="media/albums/polarimetry/x135s5000.png"><img src="media/albums/polarimetry/x135s5000_hufd1875550d8d4681533f1390a770b605_239220_0x190_resize_q75_h2_lanczos_3.webp" alt="Polarimetry field photo" loading="lazy"></a>
       <a data-album="polarimetry" href="media/albums/polarimetry/x55n0.png"><img src="media/albums/polarimetry/x55n0_hu609a9867890ddda98a76e7d3dc1145e7_252889_0x190_resize_q75_h2_lanczos_3.webp" alt="Polarimetry field photo" loading="lazy"></a>
-      <a data-album="polarimetry" href="media/albums/polarimetry/x55n0_raw.png"><img src="media/albums/polarimetry/x55n0_raw_hu9eec95f642e509372529e004ae2074ca_833986_0x190_resize_q75_h2_lanczos_3.webp" alt="Polarimetry field photo" loading="lazy"></a>
-      <a data-album="polarimetry" href="media/albums/polarimetry/x75n0_raw.png"><img src="media/albums/polarimetry/x75n0_raw_huac275cde2dc828b33e07365d9968a59a_826860_0x190_resize_q75_h2_lanczos_3.webp" alt="Polarimetry field photo" loading="lazy"></a>
-      <a data-album="polarimetry" href="media/albums/polarimetry/x95n0.png"><img src="media/albums/polarimetry/x95n0_hu510f6303bd4eb4df6e790451f90b3930_231731_0x190_resize_q75_h2_lanczos_3.webp" alt="Polarimetry field photo" loading="lazy"></a>
-      <a data-album="polarimetry" href="media/albums/polarimetry/x95n2000.png"><img src="media/albums/polarimetry/x95n2000_hu38a9fdcaac7c5e8a628b75ec23c4a2db_229637_0x190_resize_q75_h2_lanczos_3.webp" alt="Polarimetry field photo" loading="lazy"></a>
-      <a data-album="polarimetry" href="media/albums/polarimetry/x95s1000.png"><img src="media/albums/polarimetry/x95s1000_hue893927b4bf3654ad006a4ebd7f1ed09_272477_0x190_resize_q75_h2_lanczos_3.webp" alt="Polarimetry field photo" loading="lazy"></a>
-      <a data-album="polarimetry" href="media/albums/polarimetry/x95s2000.png"><img src="media/albums/polarimetry/x95s2000_hu29cdd7655d2e61270c697a5befd65300_259406_0x190_resize_q75_h2_lanczos_3.webp" alt="Polarimetry field photo" loading="lazy"></a>
-      <a data-album="polarimetry" href="media/albums/polarimetry/x95s2000_raw.png"><img src="media/albums/polarimetry/x95s2000_raw_huf740c69c8dbf3d5a2aa9f36e43656024_870711_0x190_resize_q75_h2_lanczos_3.webp" alt="Polarimetry field photo" loading="lazy"></a>
-      <a data-album="polarimetry" href="media/albums/polarimetry/x95s5000.png"><img src="media/albums/polarimetry/x95s5000_hua018d0abf65e0ff9c9627452c9dd28eb_323602_0x190_resize_q75_h2_lanczos_3.webp" alt="Polarimetry field photo" loading="lazy"></a>
-      <a data-album="polarimetry" href="media/albums/polarimetry/x95s5000_raw.png"><img src="media/albums/polarimetry/x95s5000_raw_hu7c474372060f783d24d7c01dd8b6bffb_672551_0x190_resize_q75_h2_lanczos_3.webp" alt="Polarimetry field photo" loading="lazy"></a>
     </div>
   </div>
 </section>
@@ -674,10 +668,46 @@
   const lightboxImg = document.getElementById('lightbox-img');
   items.forEach(it => it.addEventListener('click', e => {
     e.preventDefault();
+    if (curate) { toggleCut(it); return; }
     lightboxImg.src = it.href;
     lightbox.showModal();
   }));
   lightbox.addEventListener('click', () => lightbox.close());
+
+  // curation mode: open the page with #curate, click photos to mark them
+  // for removal, then use the Copy button to grab the marked filenames
+  const curate = location.hash === '#curate';
+  if (curate) {
+    document.body.classList.add('curate');
+    const bar = document.createElement('div');
+    bar.className = 'curate-bar';
+    bar.innerHTML = '<span id="cut-count"></span> <button id="cut-copy">Copy list</button> <button id="cut-clear">Clear</button>';
+    document.body.appendChild(bar);
+    const saved = new Set(JSON.parse(localStorage.getItem('cut-photos') || '[]'));
+    items.forEach(it => { if (saved.has(it.getAttribute('href'))) it.classList.add('cut'); });
+    updateCount();
+    document.getElementById('cut-copy').addEventListener('click', () => {
+      const list = [...document.querySelectorAll('#grid a.cut')].map(a => a.getAttribute('href')).join('\n');
+      navigator.clipboard.writeText(list).catch(() => prompt('Copy this list:', list));
+    });
+    document.getElementById('cut-clear').addEventListener('click', () => {
+      items.forEach(it => it.classList.remove('cut'));
+      save();
+    });
+  }
+  function toggleCut(it) {
+    it.classList.toggle('cut');
+    save();
+  }
+  function save() {
+    const marked = [...document.querySelectorAll('#grid a.cut')].map(a => a.getAttribute('href'));
+    localStorage.setItem('cut-photos', JSON.stringify(marked));
+    updateCount();
+  }
+  function updateCount() {
+    const n = document.querySelectorAll('#grid a.cut').length;
+    document.getElementById('cut-count').textContent = n + ' marked for removal';
+  }
 </script>
 
 </body>
